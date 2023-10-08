@@ -1,4 +1,7 @@
 [params]
   ShowCopyRight = true
   ShowMore = true
-  ShowRSS = true
+  ShowRSS = false
+  docs = true
+  # shop = true
+  # algolia = "enable"

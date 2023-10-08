@@ -8,9 +8,16 @@
             <div class="email">Email: <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></div>
           </div>
 
-          <div class="item community">
+          <!--<div class="item community">
             <div class="item-title">{{ i18n "socialMedia" }}</div>
             {{ range site.Params.socialMedia }}
+              <a href="{{ .url }}" target="_blank">{{ .name}}</a>
+            {{ end }}
+          </div>-->
+
+          <div class="item about">
+            <div class="item-title">{{ i18n "about" }}</div>
+            {{ range site.Params.about }}
               <a href="{{ .url }}" target="_blank">{{ .name}}</a>
             {{ end }}
           </div>

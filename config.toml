@@ -1,18 +1,21 @@
 baseURL = '/'
-languageCode = 'en'
-defaultContentLanguage = "en"
+languageCode = 'zh-tw'
+defaultContentLanguage = "zh-tw"
 hasCJKLanguage = true
 enableEmoji = true
-title = 'iTheme'
+title = 'ExitTaiwan'
 copyright = 'Floyd Li'
 theme = 'hugo-theme-itheme'
 paginate = 5
 [params]
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
-  email = 'floyd.li@outlook.com'
+  email = 'contact@exittaiwan.com'
   [[params.socialMedia]]
     name = 'Github'
     url = 'https://github.com/floyd-li'
+  [[params.about]]
+    name = 'ExitTaiwan 出台灣'
+    url = 'about'
   [[params.blogroll]]
     name = '驭风笔记'
     url = 'https://yufengbiji.com/'

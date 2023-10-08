@@ -1,0 +1,34 @@
+[home]
+    other = "首頁"
+[posts]
+    other = "文章"
+[about]
+    other = "關於"
+[latestArticles]
+    other = "最新文章"
+[moreArticles]
+    other = "更多文章"
+[viewArchive]
+    other ="所有文章"
+[socialMedia]
+    other = "社群"
+[related]
+    other = "相關連結"
+[pagination]
+    other = "分頁"
+[of]
+    other = " / "
+[allTags]
+    other = "所有標籤"
+[author]
+    other = "作者"
+[postDate]
+    other = "發佈於"
+[copyright]
+    other = "Copyright"
+[licenses]
+    other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
+[search]
+    other = "搜尋"
+[searchPlaceholder]
+    other = "輸入關鍵字..."
