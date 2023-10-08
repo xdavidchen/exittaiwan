@@ -13,6 +13,8 @@ theme: "light"
 
 ## Introduction
 
+![test](a.jpg)
+
 [中文说明](/posts/hello-world-cn/)
 
 An Apple style theme for [Hugo](https://gohugo.io/), inspired by [astro-air-blog](https://github.com/austin2035/astro-air-blog)
