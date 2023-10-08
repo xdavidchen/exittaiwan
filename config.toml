@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'http://exittaiwan.com'
 languageCode = 'zh-tw'
 defaultContentLanguage = "zh-tw"
 hasCJKLanguage = true
@@ -15,7 +15,7 @@ paginate = 5
     url = 'https://github.com/floyd-li'
   [[params.about]]
     name = 'ExitTaiwan 出台灣'
-    url = 'about'
+    url = '/about'
   [[params.blogroll]]
     name = '驭风笔记'
     url = 'https://yufengbiji.com/'
