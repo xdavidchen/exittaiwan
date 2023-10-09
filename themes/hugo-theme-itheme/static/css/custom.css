@@ -121,13 +121,13 @@ code {
   line-height: 1.47059;
   font-weight: 400;
   letter-spacing: -.022em;
-  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: -apple-system, "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   text-align: center;
   flex: 1 0 1px
 }
 
 .pagination-ctrl__info:lang(zh-CN) {
-  font-family: "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+  font-family: -apple-system, "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
 }
 
 .pagination-ctrl__info__text {
@@ -196,12 +196,12 @@ code {
   line-height: 1.14286;
   font-weight: 700;
   letter-spacing: .007em;
-  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: -apple-system, "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   margin-top: 52px
 }
 
 .result__title:lang(zh-CN) {
-  font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+  font-family: -apple-system, "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
 }
 
 @media only screen and (max-width: 1068px) {
@@ -210,11 +210,11 @@ code {
     line-height: 1.16667;
     font-weight: 700;
     letter-spacing: .009em;
-    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 
   .result__title:lang(zh-CN) {
-    font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 }
 
@@ -224,11 +224,11 @@ code {
     line-height: 1.19048;
     font-weight: 700;
     letter-spacing: .011em;
-    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 
   .result__title:lang(zh-CN) {
-    font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 }
 
@@ -251,13 +251,13 @@ code {
   line-height: 1.33337;
   font-weight: 600;
   letter-spacing: -.01em;
-  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: -apple-system, "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   margin-top: 40px;
   margin-bottom: 32px
 }
 
 .result__summary:lang(zh-CN) {
-  font-family: "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+  font-family: -apple-system, "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
 }
 
 @media only screen and (max-width: 1068px) {
@@ -354,12 +354,12 @@ code {
   line-height: 1.33337;
   font-weight: 700;
   letter-spacing: -.01em;
-  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: -apple-system, "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   text-transform: uppercase
 }
 
 .item__category:lang(zh-CN) {
-  font-family: "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+  font-family: -apple-system, "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
 }
 
 .item__headline {
@@ -367,12 +367,12 @@ code {
   line-height: 1.16667;
   font-weight: 700;
   letter-spacing: .009em;
-  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: -apple-system, "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   margin-top: 8px
 }
 
 .item__headline:lang(zh-CN) {
-  font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+  font-family: -apple-system, "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
 }
 
 @media only screen and (max-width: 1068px) {
@@ -381,11 +381,11 @@ code {
     line-height: 1.19048;
     font-weight: 700;
     letter-spacing: .011em;
-    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 
   .item__headline:lang(zh-CN) {
-    font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 }
 
@@ -395,11 +395,11 @@ code {
     line-height: 1.23536;
     font-weight: 700;
     letter-spacing: -.022em;
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 
   .item__headline:lang(zh-CN) {
-    font-family: "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 }
 
@@ -415,12 +415,12 @@ code {
   line-height: 1.42859;
   font-weight: 600;
   letter-spacing: -.016em;
-  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: -apple-system, "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   margin-top: 12px
 }
 
 .item__date:lang(zh-CN) {
-  font-family: "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+  font-family: -apple-system, "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
 }
 
 @media only screen and (max-width: 734px) {
@@ -429,11 +429,11 @@ code {
     line-height: 1.28577;
     font-weight: 600;
     letter-spacing: -.016em;
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 
   .item__date:lang(zh-CN) {
-    font-family: "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
+    font-family: -apple-system, "SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif
   }
 }
 
