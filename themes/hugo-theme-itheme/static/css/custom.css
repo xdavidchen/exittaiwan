@@ -83,7 +83,7 @@ code {
 
 .pagination-ctrl__btn {
   display: block;
-  background-color: #06c;
+  background-color: #38c748;
   border-radius: 100%;
   font-size: 36px;
   height: 1em;
@@ -452,4 +452,30 @@ code {
   margin-bottom: 1rem;
   display: inline-block;
   margin-right: 1rem;
+}
+
+
+.nav-item-wrapper a:hover {
+  color: #38c748;
+}
+
+.tag {
+  background: #38c748;
+}
+
+.tag:hover {
+  background: #38c748;
+}
+
+.component {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+ul>li, ol>li {
+  margin: 0.5em 0;
+}
+
+a, .link {
+  color: #38c748;
 }
