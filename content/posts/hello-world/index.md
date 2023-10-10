@@ -2,7 +2,7 @@
 title: "iTheme for Hugo"
 date: 2023-03-25T15:04:53+08:00
 description: "an introduce for iTheme"
-draft: false
+draft: true
 author: "Floyd Li"
 cover: "https://images.pexels.com/photos/11035544/pexels-photo-11035544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 tags: ["Introduce","Demo"]
