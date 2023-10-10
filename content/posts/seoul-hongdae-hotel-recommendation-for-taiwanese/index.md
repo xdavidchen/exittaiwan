@@ -198,7 +198,7 @@ $$$$ = > 10000
 - 是否含早餐：有
 - 平均每晚雙人房價格：約台幣 3,600 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/seoul-mansion-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2)
-- 
+
 ### 首爾弘大、梨大、新村飯店推薦 9 - 梨大首爾大旅館
 
 ![梨大首爾大旅館飯店外觀｜*照片取自 Naver Map](grand-hostel.jpeg)
