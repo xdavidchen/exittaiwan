@@ -24,18 +24,18 @@ theme: "light"
 
 想要在首爾的這三大商圈有最完整的體驗，少不了一間**適合的住宿**！這篇文章，我整理了十間我最推薦且包含各個價格區間、位在首爾的弘大、梨大、新村商圈飯店推薦給前往韓國旅遊的你們，包括：
 
-1. [**弘大風格旅館**](#首爾弘大梨大新村飯店推薦-1---弘大風格旅館)
-2. [**Mercure Ambassador Seoul Hongdae**](#首爾弘大梨大新村飯店推薦-2---mercure-ambassador-seoul-hongdae)
-3. [**Localstitch Seogyo Town**](#首爾弘大梨大新村飯店推薦-3---localstitch-seogyo-town)
-4. [**鄭家旅館**](#首爾弘大梨大新村飯店推薦-4---鄭家旅館)
-5. [**首爾弘大智選假日飯店**](#首爾弘大梨大新村飯店推薦-5---首爾弘大智選假日飯店)
-6. [**弘大愛博 2 號旅館**](#首爾弘大梨大新村飯店推薦-6---弘大愛博-2-號旅館)
-7. [**Hi there guesthouse**](#首爾弘大梨大新村飯店推薦-7---hi-there-guesthouse)
-8. [**首爾大廈旅館**](#首爾弘大梨大新村飯店推薦-8---首爾大廈旅館)
-9. [**梨大首爾大旅館**](#首爾弘大梨大新村飯店推薦-9---梨大首爾大旅館)
-10. [**K'STAY Sinchon**](#首爾弘大梨大新村飯店推薦-10---kstay-sinchon)
+1. [弘大風格旅館](#首爾弘大梨大新村飯店推薦-1---弘大風格旅館)
+2. [Mercure Ambassador Seoul Hongdae](#首爾弘大梨大新村飯店推薦-2---mercure-ambassador-seoul-hongdae)
+3. [Localstitch Seogyo Town](#首爾弘大梨大新村飯店推薦-3---localstitch-seogyo-town)
+4. [鄭家旅館](#首爾弘大梨大新村飯店推薦-4---鄭家旅館)
+5. [首爾弘大智選假日飯店](#首爾弘大梨大新村飯店推薦-5---首爾弘大智選假日飯店)
+6. [弘大愛博 2 號旅館](#首爾弘大梨大新村飯店推薦-6---弘大愛博-2-號旅館)
+7. [Hi there guesthouse](#首爾弘大梨大新村飯店推薦-7---hi-there-guesthouse)
+8. [首爾大廈旅館](#首爾弘大梨大新村飯店推薦-8---首爾大廈旅館)
+9. [梨大首爾大旅館](#首爾弘大梨大新村飯店推薦-9---梨大首爾大旅館)
+10. [K'STAY Sinchon](#首爾弘大梨大新村飯店推薦-10---kstay-sinchon)
 
-因為[**在韓國 Google Maps 不太能用**](https://docs.xdavidchen.com/blog/%E7%82%BA%E4%BB%80%E9%BA%BC-Google-Maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
+因為[在韓國 Google Maps 不太能用](https://exittaiwan.com/posts/%E7%82%BA%E4%BB%80%E9%BA%BC-google-maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8%E6%9C%89%E4%BB%80%E9%BA%BC%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
 
 <!--
 $ = < 1000,

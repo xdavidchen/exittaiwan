@@ -19,7 +19,7 @@ theme: "light"
 針對在奧地利租屋，要特別注意的有幾點：
 1. 是否可以入籍（Anmeldung），中文有人會說**可 an / 不可 an**
 2. 租金是冷租或暖租（暖租租金包含附加費 Nebenkosten）
-3. 房租通常都是透過 SEPA （歐洲的約定轉帳帳戶）每月扣款，了解如何[**快速開一個 Wise 歐洲帳戶**](https://docs.xdavidchen.com/docs/%E5%A5%A7%E5%9C%B0%E5%88%A9/%E5%A5%A7%E5%9C%B0%E5%88%A9%E6%89%93%E5%B7%A5%E5%BA%A6%E5%81%87/%E9%96%8B%E7%AB%8B%E5%A5%A7%E5%9C%B0%E5%88%A9%E9%8A%80%E8%A1%8C%E6%88%B6%E9%A0%AD/%E7%B6%B2%E8%B7%AF%E9%8A%80%E8%A1%8C/Wise)
+3. 房租通常都是透過 SEPA （歐洲的約定轉帳帳戶）每月扣款，了解如何[**快速開一個 Wise 歐洲帳戶**](https://exittaiwan.com/posts/%E7%B5%A6%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84wise%E7%B6%B2%E9%8A%80%E5%85%A8%E6%94%BB%E7%95%A5/)
 4. 租屋類型（Wohnung、Studio、還是 WG？）
 5. 額外費用（平台服務費、仲介費等）
 
