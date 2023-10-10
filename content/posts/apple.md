@@ -6,6 +6,7 @@ author: 'Apple Newsroom'
 cover: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
 tags: ["Apple", "特写", "环保",  "印度", "红树林", "保育", "新闻稿"]
 theme: 'dark'
+draft: true
 ---
 
 ![在印度马哈拉施特拉邦，Apple 与 Applied Environmental Research Foundation 展开合作，对红树林进行保护与培育。这一海岸森林生态系统可以吸收和存储大气中的二氧化碳。|wide](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg)

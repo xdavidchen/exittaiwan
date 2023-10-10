@@ -6,6 +6,7 @@ author: 'Apple Newsroom'
 cover: 'https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg'
 tags: ["新闻稿", "Apple", "iPhone 14", "摄影"] 
 theme: 'dark'
+draft: true
 ---
 
 

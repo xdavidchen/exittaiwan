@@ -7,6 +7,7 @@ cover: 'https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Fre
 tags: ["新闻稿", "Apple", "无边记"]
 theme: 'light'
 featured: false
+draft: true
 ---
 ![无边记为 iPhone、iPad 和 Mac 提供了灵活多用的画布，在同一个地方汇聚对话主题、内容及灵感创意。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg)
 

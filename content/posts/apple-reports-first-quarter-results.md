@@ -6,6 +6,7 @@ author: 'Apple Newsroom'
 cover: 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
 tags: ["新闻稿", "Apple", "财报"]
 theme: 'light'
+draft: true
 ---
 
 加利福尼亚州，库比提诺 Apple 今日发布了截至 2022 年 12 月 31 日的 2023 财年第一季度财务业绩。公司公布本季度营收达到 1172 亿美元，同比下降 5%。本季度稀释后每股收益为 1.88 美元。
