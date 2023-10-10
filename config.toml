@@ -4,9 +4,9 @@ defaultContentLanguage = "zh-tw"
 hasCJKLanguage = true
 enableEmoji = true
 title = 'ExitTaiwan'
-copyright = 'Floyd Li'
+copyright = 'David Chen'
 theme = 'hugo-theme-itheme'
-paginate = 5
+paginate = 10
 [params]
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
   email = 'contact@exittaiwan.com'
@@ -17,5 +17,5 @@ paginate = 5
     name = 'ExitTaiwan 出台灣'
     url = '/about'
   [[params.blogroll]]
-    name = '驭风笔记'
-    url = 'https://yufengbiji.com/'
+    name = '好用資源'
+    url = 'https://docs.exittaiwan.com/%E5%A5%BD%E7%94%A8%E8%B3%87%E6%BA%90'

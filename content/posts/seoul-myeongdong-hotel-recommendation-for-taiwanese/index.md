@@ -5,14 +5,14 @@ date: 2023-09-12
 description: "想要在首爾明洞商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化，你就需要考慮住宿！這篇文章中我整理了十間最適合台灣遊客的的飯店，快來看看"
 draft: false
 author: "Tim Kuo"
-cover: "myeongdong-hotel.jpg"
+cover: "myeongdong-hotel.webp"
 tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---
 
 # 首爾明洞飯店住宿推薦｜十間適合台灣遊客的明洞商圈飯店
 
-![首爾明洞飯店住宿推薦封面圖](myeongdong-hotel.jpg)
+![首爾明洞飯店住宿推薦封面圖](myeongdong-hotel.webp)
 
 ## 首爾明洞飯店
 

@@ -5,12 +5,12 @@ date: 2023-08-29
 description: "如果你現在正在規劃前往韓國的旅行、正在使用 Google Maps 的街景服務想像自己在雲端旅遊，你應該都會發現，Google Maps 到了韓國區域幾乎不能使用，原因是什麼呢？答案就藏在 Google 和南韓政府之間的愛恨糾葛。"
 draft: false
 author: "David Chen"
-cover: "featured.jpg"
+cover: "featured.webp"
 tags: [韓國, 韓國旅遊, 韓國自由行]
 theme: "light"
 ---
 
-![](featured.jpg)
+![](featured.webp)
 
 如果你現在正在規劃前往韓國的旅行、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用，
 

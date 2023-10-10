@@ -5,12 +5,12 @@ date: 2023-08-31
 description: "這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。"
 draft: false
 author: "David Chen"
-cover: "nyc-airport-transportation.jpg"
+cover: "nyc-airport-transportation.webp"
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 theme: "light"
 ---
 
-![](nyc-airport-transportation.jpg)
+![](nyc-airport-transportation.webp)
 
 當你搭飛機來到紐約，有很大的機率你會降落在紐約的三個機場之一：**甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場**，其中又以甘迺迪國際機場（JFK）和紐瓦克國際機場（EWR）最為常見，相對地理位置可以參考下面地圖。
 
