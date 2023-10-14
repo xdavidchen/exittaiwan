@@ -16,6 +16,12 @@ paginate = 10
   [[params.about]]
     name = 'ExitTaiwan 出台灣'
     url = '/about'
+  [[params.about]]
+    name = '加入團隊 (coming soon...)'
+    url = '/about'
+  [[params.about]]
+    name = '免責聲明與使用條款'
+    url = '/terms'
   [[params.blogroll]]
     name = '好用資源'
     url = 'https://docs.exittaiwan.com/%E5%A5%BD%E7%94%A8%E8%B3%87%E6%BA%90'

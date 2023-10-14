@@ -479,3 +479,14 @@ ul>li, ol>li {
 a, .link {
   color: #38c748;
 }
+.footer-main .item div, .footer-main .item a {
+  padding: 3px 5px;
+}
+
+.footer-main .copyright  {
+  font-size: .6em;
+}
+
+.footer-main .item a {
+  font-size: 1em;
+}
