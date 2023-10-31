@@ -483,10 +483,6 @@ a, .link {
   padding: 3px 5px;
 }
 
-.footer-main .copyright  {
-  font-size: .6em;
-}
-
-.footer-main .item a {
+.footer-main a .copyright {
   font-size: 1em;
 }
