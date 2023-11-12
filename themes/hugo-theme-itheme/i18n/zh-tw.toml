@@ -19,7 +19,7 @@
 [of]
     other = " / "
 [allTags]
-    other = "所有標籤"
+    other = "選擇國家" # actually 所有標籤
 [author]
     other = "作者"
 [postDate]
