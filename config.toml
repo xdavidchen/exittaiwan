@@ -28,3 +28,6 @@ paginate = 10
   [[params.blogroll]]
     name = '好用資源'
     url = 'https://docs.exittaiwan.com/%E5%A5%BD%E7%94%A8%E8%B3%87%E6%BA%90'
+  [[params.blogroll]]
+    name = '小額贊助'
+    url = 'https://ko-fi.com/exittaiwan'
