@@ -6,8 +6,3 @@
 
 [build.environment]
   HUGO_VERSION = "0.101.0"
-
-[[redirects]]
-  from = "https://docs.xdavidchen.com/*"
-  to = "https://docs.exittaiwan.com/:splat"
-  status = 301
