@@ -3,7 +3,7 @@
   ShowMore = true
   ShowRSS = false
   docs = true
-  # shop = true
+  shop = true
   # algolia = "enable"
 
 [assets]
