@@ -5,7 +5,7 @@ date: 2023-10-07
 description: "想要在弘大商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化，你就需要考慮住宿！這篇文章中我整理了十間最適合台灣遊客的的飯店，快來看看！"
 draft: false
 author: "Tim Kuo"
-cover: "feature.webp"
+cover: "hi-there.jpeg"
 tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---
