@@ -10,7 +10,7 @@ tags: [捷克, 捷克旅遊, 捷克自由行, 布拉格, 布拉格旅遊, 布拉
 theme: "light"
 ---
 
-只要安排在捷克布拉格旅遊，每個人都不會錯過的景點就是在十五世紀初（西元 1406 年）完工的查理大橋（Karlův most），以這裡為中心，旅客可以輕鬆的前往老城區的天文鐘、城堡區的教堂、或是高堡區的猶太景點。
+只要安排在捷克布拉格旅遊，每個人都不會錯過的景點就是在十五世紀初（西元 1406 年）完工的查理大橋（捷克語：Karlův most），以這裡為中心，旅客可以輕鬆的前往老城區的天文鐘、城堡區的教堂、或是高堡區的猶太景點。
 
 今天要介紹的這間 [**Smetanovo nábřeží 26 - Riverview Old Town Apartment 公寓式飯店**](https://www.booking.com/hotel/cz/riverview-old-town-apartment.xt.html?aid=7956794&no_rooms=1&group_adults=2)（以下簡稱老城河景公寓），正好就位在查理大橋旁，擁有絕佳的地點和景色，且公寓空間非常大又氣派，不管是家族旅行、或是一群朋友自由行，只要是團體一起行動，這就是一個方便又划算的布拉格住宿選擇。
 
@@ -19,10 +19,10 @@ theme: "light"
 ![](1.jpeg)
 
 - 地址：Smetanovo nábřeží 26, Prague, 110 00（[Google Maps](https://www.google.com/maps/place/Smetanovo+n%C3%A1b%C5%99.+197%2F26,+110+00+Star%C3%A9+M%C4%9Bsto,+%E6%8D%B7%E5%85%8B/@50.0855374,14.4115792,17z/data=!3m1!4b1!4m6!3m5!1s0x470b94e58c0f2bef:0x80101d266595b34d!8m2!3d50.0855374!4d14.4141541!16s%2Fg%2F11jv73x1_y?entry=ttu)）
-- 接待處地址：Masná 686/20, 110 00 Staré Město（[Google Maps](https://www.google.com/maps/place/Masn%C3%A1+686%2F20,+110+00+Star%C3%A9+M%C4%9Bsto,+%E6%8D%B7%E5%85%8B/@50.0896109,14.4232176,17z/data=!3m1!4b1!4m6!3m5!1s0x470b94ea150d48ed:0xb0a7b4d3c6817320!8m2!3d50.0896109!4d14.4257925!16s%2Fg%2F11csjhm6m7?authuser=1&entry=ttu) ）*地鐵 Náměstí Republiky（共和廣場）站步行約五分鐘
+- 接待處地址：Masná 686/20, 110 00 Staré Město（[Google Maps](https://www.google.com/maps/place/Masn%C3%A1+686%2F20,+110+00+Star%C3%A9+M%C4%9Bsto,+%E6%8D%B7%E5%85%8B/@50.0896109,14.4232176,17z/data=!3m1!4b1!4m6!3m5!1s0x470b94ea150d48ed:0xb0a7b4d3c6817320!8m2!3d50.0896109!4d14.4257925!16s%2Fg%2F11csjhm6m7?authuser=1&entry=ttu)）*地鐵 Náměstí Republiky（共和廣場）站步行約五分鐘
 - 交通：路面電車 Karlovy lázně 站步行一分鐘
 - 是否含早餐：無
-- 平均每晚價格：台幣 5,000 \~ 13,000 ($$)
+- 平均每晚價格：台幣 5,000 ~ 13,000 ($$)
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/cz/riverview-old-town-apartment.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
 ## 老城河景公寓實際入住體驗
@@ -81,7 +81,7 @@ theme: "light"
 
 ## 老城河景公寓整體評價
 
-這次和家人朋友總共五個人入住布拉格的 Smetanovo nábřeží 26 - Riverview Old Town Apartment 老城河景公寓式飯店。住了四天三個晚上，整個體驗還算不錯，用親身經驗分享幾個優缺點。
+這次和家人朋友總共五個人入住布拉格的 [**Smetanovo nábřeží 26 - Riverview Old Town Apartment**](https://www.booking.com/hotel/cz/riverview-old-town-apartment.xt.html?aid=7956794&no_rooms=1&group_adults=2) 老城河景公寓式飯店。住了四天三個晚上，整個體驗還算不錯，用親身經驗分享幾個優缺點。
 
 ### 老城河景公寓優點
 
