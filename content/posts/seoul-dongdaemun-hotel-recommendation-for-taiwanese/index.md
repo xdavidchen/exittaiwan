@@ -5,12 +5,12 @@ date: 2023-09-04
 description: "想要在首爾東大門商圈玩得開心、購物滿足、享受美食，首先要找到適合的住宿！這篇文章，我整理了十間我最推薦且包含各個價格區間、位在首爾東大門的飯店給前往韓國旅遊的台灣旅客。"
 draft: false
 author: "Tim Kuo"
-cover: "feature.webp"
+cover: "seoul-dongdaemun-hotel-recommendations.jpg"
 tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---
 
-![](seoul-dongdaemun-hotel-recommendations.webp)
+![](seoul-dongdaemun-hotel-recommendations.jpg)
 
 ## 首爾東大門商圈
 
@@ -51,9 +51,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/dm-seoul.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 Hotel DM 東大門飯店房間的照片喔！
 
 **Hotel DM 東大門飯店基本資訊**
-- 地址：73 Nangye-ro 29-gil, Jongno-gu, Seoul | 韓文：서울특별시 종로구 난계로29길 73(숭인동 )
-    - [Naver Map](https://naver.me/G0f05W8l) 
-    - [Kakao Map](https://kko.to/LYse_1xLKl)
+- 地址：73 Nangye-ro 29-gil, Jongno-gu, Seoul｜韓文：서울특별시 종로구 난계로 29 길 73（숭인동）（[Naver Map](https://naver.me/G0f05W8l) ｜ [Kakao Map](https://kko.to/LYse_1xLKl)）
 - 地鐵：地鐵東廟站三號出口步行約 3 分鐘
 - 商圈：距離東大門商圈約 1 公里
 - 最近機場：距離金浦國際機場約 22 公里
@@ -70,9 +68,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/ibc.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多東大門 IBC 酒店房間的照片喔！
 
 **東大門 IBC 酒店基本資訊**
-- 地址：241 Nangye-ro, Jongno-gu, Seoul | 韓文：울특별시 종로구 난계로 241 (숭인동)
-    - [Naver Map](https://naver.me/GY2YzPAj)
-    - [Kakao Map](https://kko.to/jgoLlJ84qR)
+- 地址：241 Nangye-ro, Jongno-gu, Seoul｜韓文：울특별시 종로구 난계로 241 (숭인동)（[Naver Map](https://naver.me/GY2YzPAj)｜[Kakao Map](https://kko.to/jgoLlJ84qR)）
 - 地鐵：地鐵東廟前站 1、6 號出口以及地鐵新設洞站 1、2號出口步行約 5 分鐘
 - 商圈：距離東大門商圈約 1.6 公里
 - 最近機場：距離金浦國際機場約 20 公里
@@ -89,9 +85,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/rakojiseutei.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 LACOZi STAY 房間的照片喔！
 
 **LACOZi STAY 基本資訊**
-- 地址：232, Mangu-ro, Jungnang-Gu, Seoul | 韓文：서울특별시 중랑구 망우로 232 (상봉동)
-    - [Naver Map](https://naver.me/5KZt56rN)
-    - [Kakao Map](https://kko.to/S4Pp1_yniz)
+- 地址：232, Mangu-ro, Jungnang-Gu, Seoul｜韓文：서울특별시 중랑구 망우로 232 (상봉동)（[Naver Map](https://naver.me/5KZt56rN)｜[Kakao Map](https://kko.to/S4Pp1_yniz)）
 - 地鐵：地鐵中浪站 3 號出口步行約 2 分鐘
 - 商圈：距離東大門商圈約 7.6 公里
 - 最近機場：距離金浦國際機場約 28 公里
@@ -108,9 +102,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/k-guesthouse-dongdaemun-3.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多東大門 K 大旅館房間的照片喔！
 
 **東大門 K 大旅館基本資訊**
-- 地址：339-1 Wangsimni-ro, Seongdong-gu, Seoul | 韓文：서울특별시 성동구 왕십리로 339-1 (하왕십리동)
-    - [Naver Map](https://naver.me/FEJds8jM)
-    - [Kakao Map](https://kko.to/KewGMaD98S)
+- 地址：339-1 Wangsimni-ro, Seongdong-gu, Seoul｜韓文：서울특별시 성동구 왕십리로 339-1（하왕십리동）（[Naver Map](https://naver.me/FEJds8jM)｜[Kakao Map](https://kko.to/KewGMaD98S)）
 - 地鐵：地鐵上往十里站 4 號出口步行約 1 分鐘
 - 商圈：距離東大門商圈約 2.6 公里
 - 最近機場：距離金浦國際機場約 28 公里
@@ -127,9 +119,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/ky-heritage-dongdaemun.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多喜普樂吉酒店外觀房間的照片喔！
 
 **喜普樂吉酒店外觀基本資訊**
-- 地址：226, Jangchungdan-ro, Jung-gu, Seoul | 韓文：서울특별시 중구 장충단로 226 (광희동 2 가)
-    - [Naver Map](https://naver.me/5HSiZC3F)
-    - [Kakao Map](https://kko.to/R9xMRFa_02)
+- 地址：226, Jangchungdan-ro, Jung-gu, Seoul｜韓文：서울특별시 중구 장충단로 226（광희동 2 가）（[Naver Map](https://naver.me/5HSiZC3F)｜[Kakao Map](https://kko.to/R9xMRFa_02)）
 - 地鐵：東大門歷史文化公園站 9 號出口步行 1 分鐘
 - 商圈：位在東大門商圈內
 - 最近機場：距離金浦國際機場約 17 公里
@@ -146,9 +136,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/best-western-a-hill-dongdaemun.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多東大門阿里郎山飯店房間的照片喔！
 
 **東大門阿里郎山飯店基本資訊**
-- 地址：8 Arirang-ro, Seongbuk-gu, Seoul | 韓文：서울특별시 성북구 아리랑로 8( 동선동4가)
-    - [Naver Map](https://naver.me/FMAd0oZw)
-    - [Kakao Map](https://kko.to/wMO2JydHjF)
+- 地址：8 Arirang-ro, Seongbuk-gu, Seoul｜韓文：서울특별시 성북구 아리랑로 8（동선동 4 가）（[Naver Map](https://naver.me/FMAd0oZw)｜[Kakao Map](https://kko.to/wMO2JydHjF)）
 - 地鐵：地鐵誠信女子大學站 6 號出口步行約 1 分鐘
 - 商圈：距離東大門商圈約 1.8 公里
 - 最近機場：距離金浦國際機場約 29 公里
@@ -165,9 +153,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/skypark-kingstown-dongdaemun.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多空中花園東大門金斯敦酒店房間的照片喔！
 
 **空中花園東大門金斯敦酒店基本資訊**
-- 地址：20 Jangchungdan-ro 13-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 장충단로13길 20 (을지로6가)
-    - [Naver Map](https://naver.me/5NdMj994)
-    - [Kakao Map](https://kko.to/yupjFokx8q)
+- 地址：20 Jangchungdan-ro 13-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 장충단로 13 길 20（을지로6가）（[Naver Map](https://naver.me/5NdMj994)｜[Kakao Map](https://kko.to/yupjFokx8q)）
 - 地鐵：地鐵東大門站 1、4 號出口步行約 1 分鐘
 - 商圈：距離東大門商圈約 0.3 公里
 - 最近機場：距離金浦國際機場約 28 公里
@@ -184,9 +170,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/glue-hotel.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 Glue Hotel 房間的照片喔！
 
 **Glue Hotel 基本資訊**
-- 地址：228 Yulgok-ro, Jongno-gu, Seoul | 韓文：서울특별시 종로구 율곡로 228 (이화동)
-    - [Naver Map](https://naver.me/5Gy5wCzf)
-    - [Kakao Map](https://kko.to/Z6AD0cNwse)
+- 地址：228 Yulgok-ro, Jongno-gu, Seoul | 韓文：서울특별시 종로구 율곡로 228（이화동）（[Naver Map](https://naver.me/5Gy5wCzf)｜[Kakao Map](https://kko.to/Z6AD0cNwse)）
 - 地鐵：地鐵鐘路 5 街站 3、4 號出口步行約 5 分鐘
 - 商圈：距離東大門商圈約 0.5 公里
 - 最近機場：距離金浦國際機場約 17 公里
@@ -203,9 +187,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/myeongdong-guesthouse-como.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多科莫明洞旅館房間的照片喔！
 
 **科莫明洞旅館基本資訊**
-- 地址：12 Toegye-ro 24-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 퇴계로24길 12 (남산동3가)
-    - [Naver Map](https://naver.me/xtWaEIzA)
-    - [Kakao Map](https://kko.to/zr2RxxzTs1)
+- 地址：12 Toegye-ro 24-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 퇴계로 24 길 12（남산동 3 가）（[Naver Map](https://naver.me/xtWaEIzA)｜[Kakao Map](https://kko.to/zr2RxxzTs1)）
 - 地鐵：地鐵明洞站 1 號出口步行約 1 分鐘
 - 商圈：距離東大門商圈約 1.1 公里
 - 最近機場：距離金浦國際機場約 15 公里
@@ -222,13 +204,11 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/the-shilla.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多首爾新羅酒店房間的照片喔！
 
 **首爾新羅酒店基本資訊**
-- 地址：249 Dongho-ro, Jung-gu, Seoul | 韓文：서울특별시 중구 동호로 249 (장충동2가)
-    - [Naver Map](https://naver.me/5SWSRkDq)
-    - [Kakao Map](https://kko.to/p31Pps_ink)
+- 地址：249 Dongho-ro, Jung-gu, Seoul｜韓文：서울특별시 중구 동호로 249 （장충동 2 가）（[Naver Map](https://naver.me/5SWSRkDq)｜[Kakao Map](https://kko.to/p31Pps_ink)）
 - 地鐵：地鐵東國大學入口站 5 號出口步行約 5 分鐘
 - 商圈：距離東大門商圈約 1.2 公里
 - 最近機場：距離金浦國際機場約 17 公里
-- 平均每晚雙人房價格：約台幣 11,000 元 ($$$$)
+- 平均每晚雙人房價格：約台幣 11,000 元（$$$$）
 - 是否含早餐：有
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/the-shilla.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2)
 
