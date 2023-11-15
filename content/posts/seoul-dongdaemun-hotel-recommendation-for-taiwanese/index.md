@@ -5,12 +5,12 @@ date: 2023-09-04
 description: "想要在首爾東大門商圈玩得開心、購物滿足、享受美食，首先要找到適合的住宿！這篇文章，我整理了十間我最推薦且包含各個價格區間、位在首爾東大門的飯店給前往韓國旅遊的台灣旅客。"
 draft: false
 author: "Tim Kuo"
-cover: cover.webp"
+cover: "feature.jpeg"
 tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---
 
-![](seoul-dongdaemun-hotel-recommendations.jpg)
+![](feature.jpeg)
 
 ## 首爾東大門商圈
 
