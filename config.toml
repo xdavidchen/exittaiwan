@@ -6,11 +6,10 @@ enableEmoji = true
 title = 'ExitTaiwan'
 copyright = 'David Chen'
 theme = 'hugo-theme-itheme'
-description = "「ExitTaiwan 出台灣」幫助台灣人走出台灣，探索世界。不管出國是為了旅遊、交換學生、留學、打工度假、工作、甚至移民等，你都能在這個網站上找到相關的資訊。"
-images = ['site-feature-image.jpg']
 paginate = 10
 [params]
-  title = "ExitTaiwan 出台灣"
+  description = "「ExitTaiwan 出台灣」幫助台灣人走出台灣，探索世界。不管出國是為了旅遊、交換學生、留學、打工度假、工作、甚至移民等，你都能在這個網站上找到相關的資訊。"
+  images = ['site-feature-image.jpg']
   email = 'contact@exittaiwan.com'
   [[params.socialMedia]]
     name = 'Github'
@@ -33,3 +32,7 @@ paginate = 10
   [[params.blogroll]]
     name = '小額贊助'
     url = 'https://ko-fi.com/exittaiwan'
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
