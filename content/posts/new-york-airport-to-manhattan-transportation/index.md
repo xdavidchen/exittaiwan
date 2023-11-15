@@ -5,7 +5,7 @@ date: 2023-08-31
 description: "這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。"
 draft: false
 author: "David Chen"
-cover: "nyc-airport-transportation.webp"
+cover: "feature.webp"
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 theme: "light"
 ---

@@ -5,7 +5,7 @@ date: 2023-08-27
 description: "你即將前往奧地利留學、打工度假、學德文、或是工作？不論你是什麼原因即將前往奧地利，找到一個舒服的住處絕對是最重要的事情之一。這篇文章蒐集整理了國內外網路上的資訊，幫助你在奧地利找到安頓之處！"
 draft: false
 author: "David Chen"
-cover: "housing-websites-austria.webp"
+cover: "feature.webp"
 tags: [奧地利, 租屋]
 theme: "light"
 ---
