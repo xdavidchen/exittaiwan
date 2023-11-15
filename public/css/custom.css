@@ -486,3 +486,10 @@ a, .link {
 .footer-main a .copyright {
   font-size: 1em;
 }
+
+
+@media only screen and (max-width: 734px) {
+  .nav-title {
+    font-size: 16px;
+  }
+}
