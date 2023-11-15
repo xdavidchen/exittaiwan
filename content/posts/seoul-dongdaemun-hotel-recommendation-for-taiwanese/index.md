@@ -6,8 +6,6 @@ description: "想要在首爾東大門商圈玩得開心、購物滿足、享受
 draft: false
 author: "Tim Kuo"
 cover: "seoul-dongdaemun-hotel-recommendations.webp"
-images:
-- seoul-dongdaemun-hotel-recommendations.webp
 tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---
