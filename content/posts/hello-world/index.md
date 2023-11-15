@@ -2,7 +2,7 @@
 title: "iTheme for Hugo"
 date: 2023-03-25T15:04:53+08:00
 description: "an introduce for iTheme"
-draft: true
+draft: false
 author: "Floyd Li"
 cover: "https://images.pexels.com/photos/11035544/pexels-photo-11035544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 tags: ["Introduce","Demo"]
@@ -14,6 +14,8 @@ theme: "light"
 ## Introduction
 
 ![test](a.jpg)
+
+![](https://images.unsplash.com/photo-1699006599430-4ba35169ff8b?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 [中文说明](/posts/hello-world-cn/)
 
