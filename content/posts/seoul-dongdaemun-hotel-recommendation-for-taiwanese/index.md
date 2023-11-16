@@ -51,7 +51,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/dm-seoul.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 Hotel DM 東大門飯店房間的照片喔！
 
 **Hotel DM 東大門飯店基本資訊**
-- 地址：73 Nangye-ro 29-gil, Jongno-gu, Seoul｜韓文：서울특별시 종로구 난계로 29 길 73（숭인동）（[Naver Map](https://naver.me/G0f05W8l) ｜ [Kakao Map](https://kko.to/LYse_1xLKl)）
+- 地址：73 Nangye-ro 29-gil, Jongno-gu, Seoul｜韓文：서울특별시 종로구 난계로 29 길 73（숭인동）（[Naver Map](https://naver.me/G0f05W8l)｜[Kakao Map](https://kko.to/LYse_1xLKl)）
 - 地鐵：地鐵東廟站三號出口步行約 3 分鐘
 - 商圈：距離東大門商圈約 1 公里
 - 最近機場：距離金浦國際機場約 22 公里
@@ -68,7 +68,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/ibc.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多東大門 IBC 酒店房間的照片喔！
 
 **東大門 IBC 酒店基本資訊**
-- 地址：241 Nangye-ro, Jongno-gu, Seoul｜韓文：울특별시 종로구 난계로 241 (숭인동)（[Naver Map](https://naver.me/GY2YzPAj)｜[Kakao Map](https://kko.to/jgoLlJ84qR)）
+- 地址：241 Nangye-ro, Jongno-gu, Seoul｜韓文：울특별시 종로구 난계로 241（숭인동）（[Naver Map](https://naver.me/GY2YzPAj)｜[Kakao Map](https://kko.to/jgoLlJ84qR)）
 - 地鐵：地鐵東廟前站 1、6 號出口以及地鐵新設洞站 1、2號出口步行約 5 分鐘
 - 商圈：距離東大門商圈約 1.6 公里
 - 最近機場：距離金浦國際機場約 20 公里
@@ -85,7 +85,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/rakojiseutei.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 LACOZi STAY 房間的照片喔！
 
 **LACOZi STAY 基本資訊**
-- 地址：232, Mangu-ro, Jungnang-Gu, Seoul｜韓文：서울특별시 중랑구 망우로 232 (상봉동)（[Naver Map](https://naver.me/5KZt56rN)｜[Kakao Map](https://kko.to/S4Pp1_yniz)）
+- 地址：232, Mangu-ro, Jungnang-Gu, Seoul｜韓文：서울특별시 중랑구 망우로 232（상봉동）（[Naver Map](https://naver.me/5KZt56rN)｜[Kakao Map](https://kko.to/S4Pp1_yniz)）
 - 地鐵：地鐵中浪站 3 號出口步行約 2 分鐘
 - 商圈：距離東大門商圈約 7.6 公里
 - 最近機場：距離金浦國際機場約 28 公里
@@ -170,7 +170,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/glue-hotel.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 Glue Hotel 房間的照片喔！
 
 **Glue Hotel 基本資訊**
-- 地址：228 Yulgok-ro, Jongno-gu, Seoul | 韓文：서울특별시 종로구 율곡로 228（이화동）（[Naver Map](https://naver.me/5Gy5wCzf)｜[Kakao Map](https://kko.to/Z6AD0cNwse)）
+- 地址：228 Yulgok-ro, Jongno-gu, Seoul｜韓文：서울특별시 종로구 율곡로 228（이화동）（[Naver Map](https://naver.me/5Gy5wCzf)｜[Kakao Map](https://kko.to/Z6AD0cNwse)）
 - 地鐵：地鐵鐘路 5 街站 3、4 號出口步行約 5 分鐘
 - 商圈：距離東大門商圈約 0.5 公里
 - 最近機場：距離金浦國際機場約 17 公里

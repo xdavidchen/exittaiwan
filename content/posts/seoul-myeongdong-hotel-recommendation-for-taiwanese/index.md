@@ -37,7 +37,7 @@ theme: "light"
 9. [好加旅館](#首爾明洞飯店推薦-9---好加旅館)
 10. [夢賓館](#首爾明洞飯店推薦-10---夢賓館)
 
-因為[在韓國 Google Maps 不太能用](https://exittaiwan.com/posts/%E7%82%BA%E4%BB%80%E9%BA%BC-google-maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8%E6%9C%89%E4%BB%80%E9%BA%BC%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
+因為[**在韓國 Google Maps 不太能用**](https://exittaiwan.com/posts/%E7%82%BA%E4%BB%80%E9%BA%BC-google-maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8%E6%9C%89%E4%BB%80%E9%BA%BC%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
 
 <!--
 $ = < 1,000
@@ -55,9 +55,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/solaria-nishitetsu-seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多索拉利亞西鐵酒店飯店房間的照片喔！
 
 **索拉利亞西鐵酒店飯店基本資訊**
-- 地址：27 Myeongdong 8-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 명동8길 27 (명동2가)
-    - [Naver Map](https://naver.me/57wVlxLD) 
-    - [Kakao Map](https://kko.to/Hws1lFgdB3)
+- 地址：27 Myeongdong 8-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 명동8길 27（명동2가）（[Naver Map](https://naver.me/57wVlxLD)｜[Kakao Map](https://kko.to/Hws1lFgdB3)）
 - 地鐵：地鐵明洞站三 8 號出口步行約 2 分鐘
 - 商圈：位在明洞商圈內
 - 最近機場：距離金浦國際機場約 15 公里
@@ -74,9 +72,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/thomas-myeongdong.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多明洞托馬斯酒店房間的照片喔！
 
 **明洞托馬斯酒店基本資訊**
-- 地址：26 Sejong-daero 16-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 세종대로16길 26 (북창동)
-    - [Naver Map](https://naver.me/GmFzoetT)
-    - [Kakao Map](https://kko.to/FXzfctHDRc)
+- 地址：26 Sejong-daero 16-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 세종대로16길 26（북창동）（[Naver Map](https://naver.me/GmFzoetT)｜[Kakao Map](https://kko.to/FXzfctHDRc)）
 - 地鐵：地鐵市廳站 7、8 號出口步行約 3 分鐘
 - 商圈：距離明洞商圈約 0.5 公里
 - 最近機場：距離金浦國際機場約 14 公里
@@ -93,9 +89,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/philstay-myeongdong-station-seoul1.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多明洞 57 號旅館房間的照片喔！
 
 **明洞 57 號旅館基本資訊**
-- 地址：57 Myeongdong 2-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 명동2길 57 (충무로1가)
-    - [Naver Map](https://naver.me/x50mvme9)
-    - [Kakao Map](https://kko.to/gKgWrNEcWV)
+- 地址：57 Myeongdong 2-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 명동2길 57（충무로 1 가）（[Naver Map](https://naver.me/x50mvme9)｜[Kakao Map](https://kko.to/gKgWrNEcWV)）
 - 地鐵：地鐵明洞站 5 號出口步行約 1 分鐘
 - 商圈：位在明洞商圈內
 - 最近機場：距離金浦國際機場約 15 公里
@@ -112,9 +106,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/skydeck-myeongdong-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 OYO 屋頂旅館房間的照片喔！
 
 **OYO 屋頂旅館基本資訊**
-- 地址：47 Toegye-ro 20-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 퇴계로20길 47 (남산동2가)
-    - [Naver Map](https://naver.me/GDc5fDSh)
-    - [Kakao Map](https://kko.to/lkkcQF6ghc)
+- 地址：47 Toegye-ro 20-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 퇴계로20길 47（남산동 2 가）（[Naver Map](https://naver.me/GDc5fDSh)｜[Kakao Map](https://kko.to/lkkcQF6ghc)）
 - 地鐵：地鐵明洞站站 3 號出口步行約 4 分鐘
 - 商圈：距離明洞商圈約 0.6 公里
 - 最近機場：距離金浦國際機場約 15 公里
@@ -131,9 +123,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/318-stay-seoulteugbyeolsi.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 318 Stay 外觀房間的照片喔！
 
 **318 Stay 基本資訊**
-- 地址：26 Toegye-ro 20ga-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 퇴계로20가길 26 (남산동2가)
-    - [Naver Map](https://naver.me/5jjgnEsf)
-    - [Kakao Map](https://kko.to/CLwyMvOIvq)
+- 地址：26 Toegye-ro 20ga-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 퇴계로20가길 26（남산동 2 가）（[Naver Map](https://naver.me/5jjgnEsf)｜[Kakao Map](https://kko.to/CLwyMvOIvq)）
 - 地鐵：地鐵明洞站 3 號出口步行 3 分鐘
 - 商圈：位在明洞商圈內
 - 最近機場：距離金浦國際機場約 15 公里
@@ -150,9 +140,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/8-hours.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 8 小時酒店房間的照片喔！
 
 **8 小時酒店基本資訊**
-- 地址：26-10 Namdaemun-ro 1-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 남대문로1길 26-10 (북창동)
-    - [Naver Map](https://naver.me/xyUTlwxC)
-    - [Kakao Map](https://kko.to/DotnHiUxG_)
+- 地址：26-10 Namdaemun-ro 1-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 남대문로1길 26-10（북창동）（[Naver Map](https://naver.me/xyUTlwxC)｜[Kakao Map](https://kko.to/DotnHiUxG_)）
 - 地鐵：地鐵市廳站 7 號出口步行約 5 分鐘
 - 商圈：距離明洞商圈約 0.5 公里
 - 最近機場：距離金浦國際機場約 14 公里
@@ -169,9 +157,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/namsan-hill.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多南山酒店房間的照片喔！
 
 **南山酒店基本資訊**
-- 地址：35 Sogong-ro 3-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 소공로3길 35 (회현동1가)
-    - [Naver Map](https://naver.me/F0KgqlXy)
-    - [Kakao Map](https://kko.to/JXnpM5A3OD)
+- 地址：35 Sogong-ro 3-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 소공로3길 35（회현동 1 가）（[Naver Map](https://naver.me/F0KgqlXy)｜[Kakao Map](https://kko.to/JXnpM5A3OD)）
 - 地鐵：地鐵會賢站 1 號出口步行約 8 分鐘
 - 商圈：距離明洞商圈約 1 公里
 - 最近機場：距離金浦國際機場約 15 公里
@@ -188,9 +174,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/westin-chosun-seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多首爾威斯汀朝鮮飯店房間的照片喔！
 
 **首爾威斯汀朝鮮飯店基本資訊**
-- 地址：106 Sogong-ro, Jung-gu, Seoul | 韓文：서울특별시 중구 소공로 106 (소공동)
-    - [Naver Map](https://naver.me/FOvM0bKc)
-    - [Kakao Map](https://kko.to/wnk87syrdc)
+- 地址：106 Sogong-ro, Jung-gu, Seoul｜韓文：서울특별시 중구 소공로 106（소공동）（[Naver Map](https://naver.me/FOvM0bKc)｜[Kakao Map](https://kko.to/wnk87syrdc)）
 - 地鐵：地鐵市廳站 5 號出口步行約 1 分鐘
 - 商圈：位在明洞商圈內
 - 最近機場：距離金浦國際機場約 15 公里
@@ -207,9 +191,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/jun-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多好加旅館房間的照片喔！
 
 **好加旅館基本資訊**
-- 地址：15 Toegye-ro 20na-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 퇴계로20나길 15 (남산동2가)
-    - [Naver Map](https://naver.me/FM6AxvF5)
-    - [Kakao Map](https://kko.to/wxTjwFJwJj)
+- 地址：15 Toegye-ro 20na-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 퇴계로20나길 15（남산동 2 가）（[Naver Map](https://naver.me/FM6AxvF5)｜[Kakao Map](https://kko.to/wxTjwFJwJj)）
 - 地鐵：地鐵明洞站 3 號出口步行約 4 分鐘
 - 商圈：距離明洞商圈約 0.5 公里
 - 最近機場：距離金浦國際機場約 15 公里
@@ -226,9 +208,7 @@ $$$$ = > 1,0000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/dream-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多夢賓館房間的照片喔！
 
 **夢賓館基本資訊**
-- 地址：22-5 Toegye-ro 6-gil, Jung-gu, Seoul | 韓文：서울특별시 중구 퇴계로6길 22-5 (남창동)
-    - [Naver Map](https://naver.me/GyeMFuFn)
-    - [Kakao Map](https://kko.to/BlcafDwq9T)
+- 地址：22-5 Toegye-ro 6-gil, Jung-gu, Seoul｜韓文：서울특별시 중구 퇴계로6길 22-5（남창동）（[Naver Map](https://naver.me/GyeMFuFn)｜[Kakao Map](https://kko.to/BlcafDwq9T)）
 - 地鐵：地鐵會賢站 3 號出口步行約 1 分鐘
 - 商圈：距離明洞商圈約 1 公里
 - 最近機場：距離金浦國際機場約 14 公里
