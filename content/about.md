@@ -4,6 +4,8 @@ plain: true
 theme: 'light'
 ---
 
+![|inline](/banner.jpg)
+
 ## 品牌理念
 
 **出台灣（英文：ExitTaiwan）**，是由 David Chen（[@xdavidchen](https://xdavidchen.com/zh-tw)）創立的生活品牌，旨在**幫助台灣人走出台灣，探索世界**。
