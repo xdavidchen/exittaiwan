@@ -5,7 +5,7 @@ date: 2023-11-15
 description: "Smetanovo nábřeží 26 - Riverview Old Town Apartment 是一間位在布拉格查理大橋旁的公寓式住宿，非常適合小團體行動的旅客入住。"
 draft: false
 author: "David Chen"
-cover: "feature.jpeg"
+cover: "feature.webp"
 tags: [捷克, 捷克旅遊, 捷克自由行, 布拉格, 布拉格旅遊, 布拉格自由行]
 theme: "light"
 ---
