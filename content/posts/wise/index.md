@@ -16,7 +16,7 @@ theme: "light"
 
 [**Wise**](https://wise.prf.hn/l/8xE13Bp)（前身為 TransferWise）是一間提供國際匯款服務的數位科技公司，兩位前 Skype 的員工為了減少國際間匯款的手續費和過高的匯差，在 2011 年一同創立了 Wise，目前全球已有超過千萬名用戶。
 
-![Wise 橫幅](Hero-Logo-Wise.webp)
+![](Hero-Logo-Wise.webp)
 
 ## Wise 不是一間銀行？
 
@@ -110,3 +110,12 @@ Wise 並非傳統銀行，因此不需要透過繁雜的開戶流程即可創辦
 <!--## Wise 開戶步驟-->
 
 > **免責聲明**：此文章內容僅作為教學及分享用途，而非專業的投資建議。依照你的情況及需求不同，你可以咨詢理財專員取得專業的建議。本篇文章大部分內容譯自 Wise 官方網站，如有出入請以官方網站為主。
+
+<!--
+<a href="https://www.google.com" target="_blank">
+    <img src="wise.webp"/>
+</a>
+
+[![](wise.webp)](https://www.google.com)
+
+-->
