@@ -4,7 +4,7 @@ plain: true
 theme: 'light'
 ---
 
-![|inline](/banner.webp)
+![|inline](/banner.jpg)
 
 ## 品牌理念
 
