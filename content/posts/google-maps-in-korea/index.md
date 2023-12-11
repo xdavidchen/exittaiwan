@@ -10,7 +10,7 @@ tags: [韓國, 韓國旅遊, 韓國自由行]
 theme: "light"
 ---
 
-![](featured.webp)
+![|wide](featured.webp)
 
 如果你現在正在規劃前往韓國的旅行、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用，
 
