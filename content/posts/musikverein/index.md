@@ -38,7 +38,7 @@ theme: "light"
 
 完全就是要 hashtag #德文邏輯。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/hotel?utm_source=exittaiwan&utm_medium=banner&utm_campaign=musikverein)
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 ## 維也納金色大廳（音樂協會）基本資訊
 
@@ -78,8 +78,7 @@ theme: "light"
 
 <!--{{<form>}}-->
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/hotel?utm_source=exittaiwan&utm_medium=banner&utm_campaign=musikverein)
-
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 ## 金色大廳座位分佈
 
@@ -169,7 +168,7 @@ banner = 訂票服務
 
 三場音樂會的票價範圍都不同。十二月三十日的「新年音樂會預演」票價約在 €20 到 €495；三十一日的「新年夜音樂會」票價約在 €25 到 €860；而一月一日的「新年音樂會」票價則是在 €35 到 €1,200 之間。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/hotel?utm_source=exittaiwan&utm_medium=banner&utm_campaign=musikverein)
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 [^1]: [10 of the world’s best concert halls](https://www.theguardian.com/travel/2015/mar/05/10-worlds-best-concert-halls-berlin-boston-tokyo)
 [^2]: [The Golden Sound of the Musikverein Wien](https://www.wienersymphoniker.at/en/orchestra/residencies/musikverein-wien-tickets-schedule)
