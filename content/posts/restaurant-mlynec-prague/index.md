@@ -2,7 +2,7 @@
 title: "精緻高雅 Restaurant Mlýnec 布拉格餐廳｜依著伏爾塔瓦河畔的頂級料理"
 slug: "布拉格餐廳-restaurant-mlynec"
 date: 2023-11-26
-description: "Restaurant Mlýnec 是一間依在伏爾塔瓦河、查理大橋旁的精緻餐廳，提供高檔服務和料理。"
+description: "Restaurant Mlýnec 是一間依在伏爾塔瓦河畔、查理大橋旁的精緻餐廳，提供高檔服務和料理。"
 draft: false
 author: "David Chen"
 cover: "feature.webp"
@@ -12,7 +12,7 @@ theme: "light"
 
 ![|wide](open-kitchen.jpg)
 
-Restaurant Mlýnec 依著河畔伏爾塔瓦（捷克語：Vltava）河畔，從整片的落地窗看出去就是查理大橋，擁有絕佳的景色。
+Restaurant Mlýnec 依著伏爾塔瓦（捷克語：Vltava）河畔，從整片的落地窗看出去就是查理大橋，擁有絕佳的景色。
 
 餐廳內的裝潢典雅、室內設計看得出別有用心，搭配開放式的廚房，如果你是剛看完《大熊餐廳》（The Bear）第二季的人，來到這間餐廳一定心中一陣澎湃。
 
