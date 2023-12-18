@@ -10,13 +10,15 @@ tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 theme: "light"
 ---
 
-![](nyc-airport-transportation.webp)
+![|wide](nyc-airport-transportation.webp)
 
 當你搭飛機來到紐約，有很大的機率你會降落在紐約的三個機場之一：**甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場**，其中又以甘迺迪國際機場（JFK）和紐瓦克國際機場（EWR）最為常見，相對地理位置可以參考下面地圖。
 
-![紐約市地圖](new-york-city-map.webp)
+![](new-york-city-map.webp)
 
 這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。
+
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 ## 甘迺迪國際機場（John F. Kennedy International Airport, JFK）
 
@@ -50,6 +52,8 @@ theme: "light"
 - **優點**：價格低
 - **缺點**：只能使用地鐵卡付費、需搬運行李、非點到點移動、較不安全、有可能誤點
 
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+
 > **機場巴士**：AirTrain 從機場到 Jamica 地鐵站的這段路也可以用機場巴士替代，不過光是這一段搭[機場巴士 Q3 路線](https://new.mta.info/document/6271)就要一個小時，應該不會有人想這樣搭，我就不詳細說明了。
 
 ### 計程車
@@ -79,6 +83,8 @@ theme: "light"
 ### 飯店機場接送服務
 
 對於願意花大錢、喜歡奢華旅行、舒服旅行的人來說，直接到訂有機場接送服務的飯店或是最佳選擇，你可以透過飯店的官方網站找尋有沒有提供這項服務，也可以在各大訂房網站像是 [**Booking.com**](https://www.booking.com/index.html?aid=7956794) 上直接用篩選的方式尋找提供機場接送服務的飯店。
+
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 一般來說，總訂單要超過約三到五萬元台幣才比較有機會訂到曼哈頓有提供免費機場接送服務的飯店喔！
 
@@ -115,6 +121,8 @@ theme: "light"
 
 > 更多詳細資料及最新消息，請參考甘迺迪機場[官方網站](https://www.jfkairport.com/to-from-airport/public-transportation)。
 
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+
 ## 紐瓦克國際機場（Newark Liberty International Airport, EWR）
 
 ![紐瓦克國際機場](ewr.jpeg)
@@ -141,7 +149,9 @@ theme: "light"
 ) 或 [**Lyft**](https://www.lyft.com/i/CHEN61210?utm_medium=p2pi_iacc
 )  可以搭乘前往曼哈頓。根據你選擇的交通方式，票價從免費到 $50 美元左右都有可能。
 
-如果你是降落在這個機場的人，我會假設你的英文程度應該不錯，比較有機率在美國飛國內線，詳細的交通資訊可以直接到機場的[這個頁面](https://laguardiaairport.com/to-from-airport/public-transportation)做參考。
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+
+如果你是降落在這個機場的人，我會假設你的英文程度應該不錯，比較有機率在美國飛國內線，詳細的交通資訊可以直接到機場的[**這個頁面**](https://laguardiaairport.com/to-from-airport/public-transportation)做參考。
 
 ## 這篇文章對你有幫助嗎？
 
