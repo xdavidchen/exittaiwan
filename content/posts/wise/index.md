@@ -10,7 +10,7 @@ tags: [Wise 網銀, 網路銀行推薦]
 theme: "light"
 ---
 
-![](wise.webp)
+![|wide](wise.webp)
 
 > 本文持續更新中，如有新變動會盡量放進文章中，但最即時的消息請依照 [**Wise**](https://wise.prf.hn/l/8xE13Bp) 官網為主。最後更新日期：2023 年 9 月 8 日。
 

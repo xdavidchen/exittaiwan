@@ -12,9 +12,17 @@ theme: "light"
 
 ![|wide](featured.webp)
 
-如果你現在正在規劃前往韓國的旅行、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用，
+如果你現在正在規劃前往韓國的旅行、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
+
+> **韓國住宿推薦清單：**\
+> \
+> [**首爾東大門飯店住宿推薦｜十間在東大門商圈的飯店**](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E6%9D%B1%E5%A4%A7%E9%96%80%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)\
+> \
+> [**首爾明洞飯店住宿推薦｜十間適合台灣遊客的明洞商圈飯店**](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E6%98%8E%E6%B4%9E%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)\
+> \
+> [**弘大、梨大、新村商圈飯店住宿推薦｜十間適合台灣旅客的飯店**](https://exittaiwan.com/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)
 
 其實南韓政府對於精確的地圖與衛星影像選擇不對外開放的原因，很大一部份是因為**南韓與北韓的軍事關係**。
 
@@ -30,7 +38,7 @@ theme: "light"
 
 一直到 Google 在 2021 年直接在韓國境內營運數據中心，才解決了「精密地圖不可傳輸至海外」這項規定，不過因為這幾年 Google 地圖進度在韓國的更新速度落後、且使用者習慣早已定調不使用 Google Maps，所以 Google Maps 在韓國到現在還是非常不好用（~~幾乎不能用~~）。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 目前在韓國最多人使用的地圖是 [Naver Map](https://map.naver.com/p?c=15.00,0,0,0,dh) 和 [Kakao Map](https://map.kakao.com/)，不過對於外國人來說，使用上要上手會需要花一點時間，因為使用者介面還是有很多只有韓文、沒有多國語言翻譯的地方。
 
