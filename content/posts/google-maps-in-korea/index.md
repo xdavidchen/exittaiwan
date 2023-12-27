@@ -51,4 +51,4 @@ theme: "light"
 ](https://www.csmonitor.com/Technology/2016/1118/Why-South-Korea-refuses-to-share-mapping-data-with-Google) on The Christian Science Monitor
 - [So, you want to go to South Korea?](https://www.theslateonline.com/article/2023/04/so-you-want-to-go-to-south-korea) on The Slate Online
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
