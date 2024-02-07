@@ -75,6 +75,16 @@
           {{- end -}}
         </article>
       </section>
+      {{ $pages := where .Site.RegularPages "Params.plain" "ne" true }}
+  </section>
+      <section class="more-from-newsroom">
+        <div class="section-content">
+          <!--<h2 class="section-head">{{ i18n "moreArticles" }}</h2>-->
+          <div class="view-archive-wrapper">
+            <a href="{{ "posts" | relURL }} " class="cta-primary-light" data-analytics-region="router" data-analytics-title="view archive">{{ i18n "viewArchive"}}</a>
+          </div>
+        </div>
+      </section>
   </main>
 
   <script>
