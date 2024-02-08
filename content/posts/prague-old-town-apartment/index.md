@@ -16,7 +16,7 @@ theme: "light"
 
 ## Smetanovo nábřeží 26 - Riverview Old Town Apartment 捷克布拉格老城河景公寓基本資訊
 
-![](1.jpeg)
+![|inline](1.jpeg)
 
 - 地址：Smetanovo nábřeží 26, Prague, 110 00（[Google Maps](https://www.google.com/maps/place/Smetanovo+n%C3%A1b%C5%99.+197%2F26,+110+00+Star%C3%A9+M%C4%9Bsto,+%E6%8D%B7%E5%85%8B/@50.0855374,14.4115792,17z/data=!3m1!4b1!4m6!3m5!1s0x470b94e58c0f2bef:0x80101d266595b34d!8m2!3d50.0855374!4d14.4141541!16s%2Fg%2F11jv73x1_y?entry=ttu)）
 - 接待處地址：Masná 686/20, 110 00 Staré Město（[Google Maps](https://www.google.com/maps/place/Masn%C3%A1+686%2F20,+110+00+Star%C3%A9+M%C4%9Bsto,+%E6%8D%B7%E5%85%8B/@50.0896109,14.4232176,17z/data=!3m1!4b1!4m6!3m5!1s0x470b94ea150d48ed:0xb0a7b4d3c6817320!8m2!3d50.0896109!4d14.4257925!16s%2Fg%2F11csjhm6m7?authuser=1&entry=ttu)）*地鐵 Náměstí Republiky（共和廣場）站步行約五分鐘
