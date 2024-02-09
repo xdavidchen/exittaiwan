@@ -10,11 +10,11 @@ tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 theme: "light"
 ---
 
-![|wide](nyc-airport-transportation.webp)
+![|inline](nyc-airport-transportation.webp)
 
 當你搭飛機來到紐約，有很大的機率你會降落在紐約的三個機場之一：**甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場**，其中又以甘迺迪國際機場（JFK）和紐瓦克國際機場（EWR）最為常見，相對地理位置可以參考下面地圖。
 
-![](new-york-city-map.webp)
+![|inline](new-york-city-map.webp)
 
 這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。
 
@@ -22,7 +22,7 @@ theme: "light"
 
 ## 甘迺迪國際機場（John F. Kennedy International Airport, JFK）
 
-![甘迺迪國際機場](jfk.jpeg)
+![甘迺迪國際機場|inline](jfk.jpeg)
 
 絕大部分的台灣旅客來到紐約會降落在甘迺迪機場，從這裡來回曼哈頓市中心有五種方式：
 
@@ -125,7 +125,7 @@ theme: "light"
 
 ## 紐瓦克國際機場（Newark Liberty International Airport, EWR）
 
-![紐瓦克國際機場](ewr.jpeg)
+![紐瓦克國際機場|inline](ewr.jpeg)
 
 紐瓦克機場的班機主要服務美國國內和歐洲國際線，這個機場位在離曼哈頓較遠的紐澤西州，因此沒有地鐵進紐約市區。
 
@@ -141,7 +141,7 @@ theme: "light"
 
 ## 拉瓜迪亞機場（LaGuardia Airport, LGA）
 
-![拉瓜迪亞機場](lga.jpeg)
+![拉瓜迪亞機場|inline](lga.jpeg)
 
 從機場的[官方網站](https://laguardiaairport.com/)來看，拉瓜迪亞機場的航線目前都是美國國內線，如果有經過美國國內線轉機的旅客比較有可能降落在這個機場。
 

@@ -9,6 +9,12 @@ theme = 'hugo-theme-itheme'
 paginate = 10
 [params]
   email = 'contact@exittaiwan.com'
+  #[[params.shop]]
+    #name = ''
+    #url = ''
+  [[params.hotel]]
+    name = '專人諮詢'
+    url = 'https://l.exittaiwan.com/nav-hotel'
   [[params.socialMedia]]
     name = 'Github'
     url = 'https://github.com/floyd-li'

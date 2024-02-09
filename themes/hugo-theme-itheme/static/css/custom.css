@@ -497,3 +497,15 @@ a, .link {
 form {
   margin: 0 auto;
 }
+
+hr {
+  display: none;
+  unicode-bidi: isolate;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  overflow: hidden;
+  border-style: dashed;
+  border-width: 1px;
+}

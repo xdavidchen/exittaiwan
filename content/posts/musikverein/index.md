@@ -10,7 +10,7 @@ tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行]
 theme: "light"
 ---
 
-![|wide](feature.webp)
+![|inline](feature.webp)
 
 來自蘇格蘭格拉斯哥的衛報（The Guardian）作家湯姆（Tom Service），曾評論這個[演奏廳的聲音是「純金的」](https://www.theguardian.com/music/tomserviceblog/2008/sep/29/classical.music.musikverein)（pure gold）。
 
@@ -42,7 +42,7 @@ theme: "light"
 
 ## 維也納金色大廳（音樂協會）基本資訊
 
-![](musikverein.jpg)
+![|inline](musikverein.jpg)
 
 - 地址：Musikvereinsplatz 1, 1010 Vienna（[Google Maps](https://www.google.com/maps/place/%E9%87%91%E8%89%B2%E5%A4%A7%E5%BB%B3/@48.2007972,16.3647574,15z/data=!4m6!3m5!1s0x476d079d51daeac7:0x82c12bc03731834f!8m2!3d48.200544!4d16.372359!16zL20vMDFwbDZx?entry=ttu)）
 - 交通：地鐵 U1 或 U4 線搭到卡爾廣場（Karlsplatz）站，步行約五分鐘；路面電車 71 號搭到 Schwarzenbergplatz 站；公車 59A 搭到歌劇院，卡爾廣場（Oper, Karlsplatz）站或是 4A 搭到卡爾廣場（Karlsplatz）站
@@ -50,7 +50,7 @@ theme: "light"
 
 ## 維也納音樂協會各音樂廳種類
 
-![](IMG_3646.webp)
+![|inline](IMG_3646.webp)
 
 在丹麥裔奧地利建築師特奧費爾・翰森（Baron Theophil von Hansen）的帶領之下，維也納音樂協會於 1870 年完工啟用，精美的裝修加上良好的音響效果，金色大廳很快就聲明遠播。
 
@@ -90,7 +90,7 @@ theme: "light"
 2. 如果選位時看到「restricted view」或類似的字樣，代表該座位有視野死角，可能會影響觀演體驗。
 3. 「Reihe」指的是「排」；「Platz」指的是「座位」。
 
-![金色大廳座位示意圖](seat-plan-muskverein.jpg)
+![金色大廳座位示意圖|inline](seat-plan-muskverein.jpg)
 
 ### 一樓前小部分（Cercle）
 
@@ -108,7 +108,7 @@ Loge 的英文是 Box，也就是包廂的意思。Paterre-Loge 等於 Paterre +
 
 Balkon 的英文是 Balcony，中文直翻是「陽台」，不過在劇場、表演的語境中，Balkon 是指「樓座」的意思，在金色大廳是指位於二樓的位子。
 
-![](IMG_3746.webp)
+![|inline](IMG_3746.webp)
 
 ### 二樓包廂（Balkon-Loge）
 
@@ -132,7 +132,7 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 
 ## 金色大廳購票教學
 
-![](musikverein-book-tickets.png)
+![|inline](musikverein-book-tickets.png)
 
 1. 在金色大廳的官網上查看[**當月節目表**](https://app.heptabase.com/d4547ce0-944a-4ec4-bd3e-f7045e863e76/card/af53a38a-52e2-4f24-aa7f-ada423503c7e)，選擇日期時間場次。
 2. 根據自身喜好和預算選擇座位。
@@ -146,7 +146,7 @@ banner = 訂票服務
 
 ## 觀賞金色大廳演出注意事項
 
-![金色大廳音樂會門票範本](IMG_4878.webp)
+![金色大廳音樂會門票範本|inline](IMG_4878.webp)
 
 1. 雖然沒有硬性規定，不過聽音樂會是一項優雅、端莊的活動，所以最好避免穿著拖鞋、短褲短裙、運動衫等等太過休閒的服裝。那要穿什麼？就把去音樂會當作是去一場約會吧！
 2. 因安全考量，大衣、大型包包、雨傘等需寄放於衣物間，每件收費 1 歐元（現金支付）。
@@ -156,7 +156,7 @@ banner = 訂票服務
 
 ## 加碼內容：怎麼親自朝聖維也納新年音樂會？
 
-![](wiener-philharmoniker.png)
+![|inline](wiener-philharmoniker.png)
 
 維也納新年音樂會的歷史可以追朔到 1941 年，在二戰期間的這場演唱會，所有收入都會捐獻給史特勞斯音樂家族，很多人認為這是一場維也納在戰爭中表示獨立性的方式。
 

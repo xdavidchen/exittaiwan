@@ -10,7 +10,7 @@ tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行]
 theme: "light"
 ---
 
-![|wide](feature.webp)
+![|inline](feature.webp)
 
 奧地利的首都維也納位於歐洲大陸的中心點，對於從亞洲飛過來的台灣旅客來說，不管是要在奧地利深度旅遊、或是短暫停留後前往下一個旅遊地點，維也納都是一個很棒的中繼點。
 
@@ -27,7 +27,7 @@ theme: "light"
 
 ## 機場快線 City Airport Train，CAT
 
-![](cat2.jpg)
+![|inline](cat2.jpg)
 
 維也納的機場快線（City Airport Train，CAT）是來回維也納市區和機場最快速的選擇。
 
@@ -46,9 +46,9 @@ theme: "light"
 
 如果你是在市中心要前往機場的話，CAT 的購票地點在 Wien Mitte The Mall（維也納中心購物商場）裡面。
 
-![維也納中心購物商場裡的 CAT 櫃檯](cat1.jpg)
+![維也納中心購物商場裡的 CAT 櫃檯|inline](cat1.jpg)
 
-![](cat3.jpg)
+![|inline](cat3.jpg)
 
 *CAT 的單程和回程車票必須在購票後的六個月內使用完畢。
 
@@ -58,7 +58,7 @@ theme: "light"
 
 ## 一般火車 S-Bahn、REX
 
-![](hbf.jpg)
+![|inline](hbf.jpg)
 
 一般火車指的是 S-Bahn（市區快車）和區域快線列車（像是路線由 ÖBB 奧地利國鐵營運的 Regionalexpress，REX）。
 
@@ -92,7 +92,7 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 
 ## Uber
 
-![](uber.jpg)
+![|inline](uber.jpg)
 
 根據時段、當下有叫車需求的用戶數量、以及實際前往的確切地點，**[Uber](https://referrals.uber.com/refer?id=uf3rqv9dyawj)** 系統顯示的車資大約會落在 €25 ~ €40。
 
@@ -105,9 +105,9 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 
 ## FlixBus 跨國巴士
 
-![](flixbus.jpg)
+![|inline](flixbus.jpg)
 
-[](https://www.flixbus.com/)是歐美一種非常熱門、價格低廉的交通方式。
+[FlixBus](https://www.flixbus.com/)是歐美一種非常熱門、價格低廉的交通方式。
 
 如果要搭乘 FlixBus 跨國巴士在維也納機場和市中心之間移動，你需要買的票是**從斯洛伐克首都布拉提斯拉瓦（Bratislava）發車，前往維也納的班次**（如果是往機場的話，就是維也納發車，前往 Bratislava 的班次）。這個路線的中間會停靠維也納機場，所以旅客可以透過這樣的方式來回維也納機場和市區。
 
@@ -128,11 +128,3 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 | 一般火車 S-Bahn & REX | 20 ~ 30 分鐘 | 維也納機場、Wien Mitte、Wien Hbf、Wien Westbahnhof | €4                     |
 | Uber                  | 20 ~ 30 分鐘 | 維也納機場、市中心任意點                           | €25 ~ €40             |
 | FlixBus 跨國巴士      | 20 ~ 30 分鐘 | 維也納機場、Erdberg                                | €6 ~ €16              |
-
-
-
-## 這篇文章對你有幫助嗎？
-
-你可以透過以下方式支持我們：
-- 小額贊助，支持我們持續更新此網站：[**前往贊助**](https://ko-fi.com/exittaiwan)
-- 分享這個網站給身邊任何有出國需求的人
