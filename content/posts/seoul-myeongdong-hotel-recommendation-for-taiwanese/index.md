@@ -10,7 +10,7 @@ tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---
 
-![|wide](myeongdong-hotel.webp)
+![|inline](myeongdong-hotel.webp)
 
 ## 首爾明洞飯店
 

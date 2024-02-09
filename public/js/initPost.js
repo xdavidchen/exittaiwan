@@ -12,7 +12,7 @@
   };
   function initLazyLoad() {
     var script = document.createElement("script");
-    script.src = `${params_default.baseURL}js/animation.js`;
+    script.src = `${params_default.baseURL}//js/animation.js`;
     document.head.appendChild(script);
     script.onload = function() {
       animationElementName = ".image-load";
