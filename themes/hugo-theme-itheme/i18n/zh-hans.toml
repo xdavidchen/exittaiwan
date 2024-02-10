@@ -1,29 +1,29 @@
 [home]
     other = "首页"
 [posts]
-    other = "目录"
+    other = "目錄"
 [about]
-    other = "关于"
+    other = "關於"
 [latestArticles]
     other = "最新文章"
 [moreArticles]
     other = "更多文章"
 [viewArchive]
-    other ="阅读历史文章"
+    other ="所有文章"
 [socialMedia]
     other = "社交媒体"
 [related]
-    other = "友链"
+    other = "相關連結"
 [pagination]
     other = "分页"
 [of]
     other = "页"
 [allTags]
-    other = "所有标签"
+    other = "所有標籤"
 [author]
     other = "作者"
 [postDate]
-    other = "发表日期"
+    other = "發布於"
 [copyright]
     other = "版权声明"
 [licenses]
