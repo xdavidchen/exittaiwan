@@ -509,3 +509,7 @@ hr {
   border-style: dashed;
   border-width: 1px;
 }
+
+.tile__price {
+  color: #ff2400;
+}

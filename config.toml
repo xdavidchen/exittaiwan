@@ -19,7 +19,7 @@ paginate = 10
     name = 'Github'
     url = 'https://github.com/floyd-li'
   [[params.about]]
-    name = 'ExitTaiwan 出台灣'
+    name = '關於 ExitTaiwan 出台灣'
     url = '/about'
   [[params.about]]
     name = '選擇目的地國家'

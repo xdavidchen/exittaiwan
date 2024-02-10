@@ -32,4 +32,14 @@
     
     <script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="b347b00d-9393-4bb3-8cb9-7daaf1a18057" async></script>
 
+    <script>
+        // Get the external URL from Hugo's front matter
+        var externalURL = "{{ .Params.external_url }}";
+        
+        // Check if the slug matches the external URL
+        if (externalURL && externalURL !== "") {
+            // Redirect to the external URL
+            window.location.replace(externalURL);
+        }
+        </script>
 </head>

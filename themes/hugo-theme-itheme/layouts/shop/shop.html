@@ -1,27 +1,28 @@
 {{ define "main" }}
-{{ $pages := where .Site.RegularPages "Section" "posts" }}
+{{ $pages := where .Site.RegularPages "Section" "shop" }}
     <section class="everydayfeed">
     <div class="section-content">
-      <h2 class="section-head">{{ i18n "latestArticles" }}</h2>
+      <!--<h2 class="section-head">{{ i18n "latestArticles" }}</h2>-->
+      <h2 class="section-head">商城</h2>
       <ul role="list" class="section-tiles">
         {{ range first 1 $pages }}
           {{ $level := 1 }}
-          {{ partial "tile.html" (dict "context" . "level" $level) }}
+          {{ partial "product-tile.html" (dict "context" . "level" $level) }}
         {{ end }}
 
-        {{ range first 4 ( after 1 $pages) }}
+        <!--{{ range first 4 ( after 1 $pages) }}
           {{ $level := 2 }}
           {{ partial "tile.html" (dict "context" . "level" $level) }}
-        {{ end }}
+        {{ end }}-->
 
-        {{ range first 6 ( after 5 $pages) }}
+        {{ range first 12 ( after 1 $pages) }}
           {{ $level := 3 }}
-          {{ partial "tile.html" (dict "context" . "level" $level) }}
+          {{ partial "product-tile.html" (dict "context" . "level" $level) }}
         {{ end }}
       </ul>
     </div>
   </section>
-{{- if site.Params.ShowMore -}}
+<!--{{- if site.Params.ShowMore -}}
   <section class="more-from-newsroom">
     <div class="section-content">
       <h2 class="section-head">{{ i18n "moreArticles" }}</h2>
@@ -36,7 +37,7 @@
       </div>
     </div>
   </section>
-{{- end -}}
+{{- end -}}-->
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         var script = document.createElement("script");
