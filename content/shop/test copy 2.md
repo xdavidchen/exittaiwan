@@ -1,10 +1,11 @@
 ---
-title: 'From farm to sea: Conserving mangroves to protect local livelihoods and the planet'
-date: '2023-03-01T13:06:38+08:00'
+title: '旅行回憶小冊｜日本'
+date: '2023-03-02T13:06:38+08:00'
 description: 'Apple 与 Applied Environmental Research Foundation 合作，将促进印度马哈拉施特拉邦红树林的保育工作'
+tags: [【電子檔】【快速 DIY】]
 author: 'Apple Newsroom'
-cover: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
-external_url: 'https://google.com'
+cover: 'https://public-files.gumroad.com/muju9n1mveidjitq5jwgd1lwwrao'
+external_url: 'https://exittaiwan.gumroad.com/l/travel-brochure-japan'
 layout: 'shop'
 ---
 

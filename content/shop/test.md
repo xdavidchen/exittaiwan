@@ -1,5 +1,5 @@
 ---
-title: '客製化旅行手冊｜東京'
+title: '客製化旅行手冊｜日本'
 date: '2023-03-01T13:06:38+08:00'
 description: 'Apple 与 Applied Environmental Research Foundation 合作，将促进印度马哈拉施特拉邦红树林的保育工作'
 author: 'Apple Newsroom'
