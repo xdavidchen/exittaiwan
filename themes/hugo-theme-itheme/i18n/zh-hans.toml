@@ -1,7 +1,7 @@
 [home]
-    other = "首页"
+    other = "首頁"
 [posts]
-    other = "目錄"
+    other = "文章"
 [about]
     other = "關於"
 [latestArticles]
@@ -15,9 +15,9 @@
 [related]
     other = "相關連結"
 [pagination]
-    other = "分页"
+    other = "分頁"
 [of]
-    other = "页"
+    other = "頁"
 [allTags]
     other = "所有標籤"
 [author]
