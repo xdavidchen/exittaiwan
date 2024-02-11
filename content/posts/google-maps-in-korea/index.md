@@ -2,7 +2,7 @@
 title: "為什麼 Google Maps 在韓國不行用？有什麼替代方案？"
 slug: "為什麼-Google-Maps-在韓國不行用？有什麼替代方案？"
 date: 2023-08-29
-description: "如果你現在正在規劃前往韓國的旅行、正在使用 Google Maps 的街景服務想像自己在雲端旅遊，你應該都會發現，Google Maps 到了韓國區域幾乎不能使用，原因是什麼呢？答案就藏在 Google 和南韓政府之間的愛恨糾葛。"
+description: "Google Maps 到了韓國區域幾乎不能使用，原因是什麼呢？答案就藏在 Google 和南韓政府之間的愛恨糾葛。"
 draft: false
 author: "David Chen"
 cover: "featured.webp"
@@ -16,13 +16,13 @@ theme: "light"
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
-> **韓國住宿推薦清單：**\
+> 🏠 **韓國住宿精選推薦清單：**\
 > \
-> [**首爾東大門飯店住宿推薦｜十間在東大門商圈的飯店**](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E6%9D%B1%E5%A4%A7%E9%96%80%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)\
+> ✔️ [**首爾東大門飯店住宿推薦｜十間在東大門商圈的飯店**](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E6%9D%B1%E5%A4%A7%E9%96%80%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)\
 > \
-> [**首爾明洞飯店住宿推薦｜十間適合台灣遊客的明洞商圈飯店**](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E6%98%8E%E6%B4%9E%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)\
+> ✔️ [**首爾明洞飯店住宿推薦｜十間適合台灣遊客的明洞商圈飯店**](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E6%98%8E%E6%B4%9E%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)\
 > \
-> [**弘大、梨大、新村商圈飯店住宿推薦｜十間適合台灣旅客的飯店**](https://exittaiwan.com/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)
+> ✔️ [**弘大、梨大、新村商圈飯店住宿推薦｜十間適合台灣旅客的飯店**](https://exittaiwan.com/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)
 
 其實南韓政府對於精確的地圖與衛星影像選擇不對外開放的原因，很大一部份是因為**南韓與北韓的軍事關係**。
 
