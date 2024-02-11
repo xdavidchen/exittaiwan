@@ -14,7 +14,7 @@ theme: "light"
 
 如果你現在正在規劃前往韓國的旅行、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
 
-<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 > **韓國住宿推薦清單：**\
 > \
@@ -38,7 +38,7 @@ theme: "light"
 
 一直到 Google 在 2021 年直接在韓國境內營運數據中心，才解決了「精密地圖不可傳輸至海外」這項規定，不過因為這幾年 Google 地圖進度在韓國的更新速度落後、且使用者習慣早已定調不使用 Google Maps，所以 Google Maps 在韓國到現在還是非常不好用（~~幾乎不能用~~）。
 
-<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 目前在韓國最多人使用的地圖是 [Naver Map](https://map.naver.com/p?c=15.00,0,0,0,dh) 和 [Kakao Map](https://map.kakao.com/)，不過對於外國人來說，使用上要上手會需要花一點時間，因為使用者介面還是有很多只有韓文、沒有多國語言翻譯的地方。
 
@@ -49,5 +49,7 @@ theme: "light"
 資料來源：
 - [Why South Korea refuses to share mapping data with Google](https://www.csmonitor.com/Technology/2016/1118/Why-South-Korea-refuses-to-share-mapping-data-with-Google) on The Christian Science Monitor
 - [So, you want to go to South Korea?](https://www.theslateonline.com/article/2023/04/so-you-want-to-go-to-south-korea) on The Slate Online
+
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 <!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
