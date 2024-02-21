@@ -35,7 +35,7 @@ paginate = 10
     url = 'https://ko-fi.com/exittaiwan'
   [[params.blogroll]]
     name = '內容投稿（招募中）'
-    url = 'https://l.exittaiwan.com/join-waitlist'
+    url = 'https://app.formbricks.com/s/clqcjo3iy6xjr124doxqj3pji'
 [sitemap]
   changeFreq = ''
   filename = 'sitemap.xml'
