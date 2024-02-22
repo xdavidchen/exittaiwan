@@ -72,3 +72,22 @@
     }
   }
 </script>
+
+<script>
+  // Wait for the DOM to be ready
+  document.addEventListener("DOMContentLoaded", function() {
+      // Get all anchor tags in the page
+      var links = document.querySelectorAll("a");
+
+      // Loop through each anchor tag
+      links.forEach(function(link) {
+          // Check if the link is external
+          if (link.hostname !== window.location.hostname) {
+              // Add the 'target' attribute to open in a new tab
+              link.setAttribute("target", "_blank");
+              // Optionally, you can also add 'rel="noopener noreferrer"' for security reasons
+              link.setAttribute("rel", "noopener noreferrer");
+          }
+      });
+  });
+</script>
