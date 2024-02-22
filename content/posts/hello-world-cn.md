@@ -102,4 +102,6 @@ theme: "dark" // 设置文章的明暗主题(light/dark)
 ![alt 这是一个特大杯|wide](a.png)
 ```
 
+![test](/images/a.png)
+
 分隔符是英文字符`|`，如果未设置则默认显示大杯`big`。
