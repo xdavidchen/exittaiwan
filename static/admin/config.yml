@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
-media_folder: "content/posts" # Media files will be stored in the repo under content/posts
+media_folder: "/static/images" # Media files will be stored in the repo under content/posts
 public_folder: "/images" # The src attribute for uploaded media will begin with "/images"
 
 publish_mode: editorial_workflow
