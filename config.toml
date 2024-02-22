@@ -1,6 +1,6 @@
 baseURL = '/'
-languageCode = 'zh'
-defaultContentLanguage = "zh"
+languageCode = 'zh-tw'
+defaultContentLanguage = "zh-tw"
 hasCJKLanguage = true
 enableEmoji = true
 title = 'ExitTaiwan'
