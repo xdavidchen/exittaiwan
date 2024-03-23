@@ -40,6 +40,8 @@ theme: "light"
 
 進入多層的公寓，一樓空間不大，主要就是讓旅客可以拖鞋、掛外套的玄關，
 
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+
 ### 廚房
 
 Haus Salzberg 的兩個出租單位裡面都有提供廚房以及完善的設備。對於想要自己購買食材烹煮的旅客來說非常方便。
@@ -68,6 +70,8 @@ Haus Salzberg 的兩個出租單位裡面都有提供廚房以及完善的設備
 
 入住 Haus Salzberg，感受到這間住宿最大的優點之一就是空間有夠大！不管是客廳、廚房、臥室、廁浴，都有寬敞舒適的空間活動。其中廚房的設備器具齊全、整潔乾淨，以及廁所是和浴室完全分開的獨立廁所是特別加分的地方。
 
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+
 ### 哈修塔特住宿 Haus Salzberg 缺點
 
 Haus Salzberg 最明顯的缺點應該就是熱水的問題了。因為房子歷史久遠，控制水溫的加熱設備需要一段時間才能完成加熱熱水，且儲存量也不是太大，入住時一定要記得在洗澡時盡量節約用水，讓每個同行旅伴都有熱水可以洗澡喔。
@@ -89,3 +93,5 @@ Haus Salzberg 最明顯的缺點應該就是熱水的問題了。因為房子歷
 沒意外的話，入住 Haus Salzberg 時應該是自助 check-in。在入住日期接近時，房子的主人會透過 Booking.com 傳送入住相關訊息，裡面包含了當天可以開啟門口鑰匙密碼箱的密碼，把密碼轉正確了之後，應該就可以打開密碼箱，拿取鑰匙囉。
 
 另外在 check-out 之後這邊沒有提供室內寄放行李的服務，不過房子主人告訴我們，可以直接把大件行李放在後門有遮棚的室外區域，也沒有人會來偷，只要記得貴重物品還是隨身帶著就行！
+
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
