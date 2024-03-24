@@ -11,7 +11,7 @@ tags: [奧地利, 奧地利旅遊, 哈修塔特, 哈修塔特旅遊, 哈修塔�
 theme: "light"
 ---
 
-![](DSC09408.jpg)
+![|wide](DSC09408.jpg)
 
 如果要說歐洲哪些旅遊景點「風景如畫」，答案肯定少不了哈修塔特了！
 
@@ -54,7 +54,7 @@ theme: "light"
 
 ![](hallstatt-and-eu-cities.jpg)
 
-想要把圖片存下來嗎？**[免費下載哈修塔特地圖＋路線圖](https://exittaiwan.gumroad.com/l/hallstatt)**
+> 想要把圖片存下來嗎？**[免費下載哈修塔特地圖＋路線圖](https://exittaiwan.gumroad.com/l/hallstatt)**
 
 ### 火車
 
@@ -100,9 +100,9 @@ theme: "light"
 
 車程約十分鐘後，你就會抵達哈修塔特的交通總站（Hallstatt Lahn）了！
 
-**[免費下載 150、542、543 號巴士時間路線表（德文）](https://exittaiwan.gumroad.com/l/hallstatt)**
+> **[點我免費下載 150、542、543 號巴士時間路線表](https://exittaiwan.gumroad.com/l/hallstatt)**
 
-如果你是走這個路線的話，可以在薩爾斯堡火車站 / 公車站直接跟司機購買車票，單程車票是 15€，現金支付，來回的話就是 30€，不過隨著歐洲經濟變動，票價也有可能上漲、或是偶爾有優惠票可以購買，旅客在這方面要保持一些彈性。
+如果你是走這個路線的話，可以在薩爾斯堡火車站 / 公車站直接跟司機購買車票，**單程車票是 15€，現金支付，來回的話就是 30€**，不過隨著歐洲經濟變動，票價也有可能上漲、或是偶爾有優惠票可以購買，旅客在這方面要保持一些彈性。
 
 更詳細的資訊可以參考這個英文網站：[BigBoyTravel](https://www.bigboytravel.com/europe/austria/hallstatt/gettingtohallstatt/)。
 
@@ -122,7 +122,7 @@ theme: "light"
 
 ![](hallstatt-am-see.jpg)
 
-想要把圖片存下來嗎？**[免費下載哈修塔特地圖＋路線圖](https://exittaiwan.gumroad.com/l/hallstatt)**
+> 想要把圖片存下來嗎？**[免費下載哈修塔特地圖＋路線圖](https://exittaiwan.gumroad.com/l/hallstatt)**
 
 從地圖中可以看到，如果是**坐火車到哈修塔特火車站（Hallstatt Bahnhof），一定要搭船才會抵達小鎮**。
 
@@ -131,6 +131,8 @@ theme: "light"
 從哈修塔特鎮上要到達克斯坦山的話，可以在 Hallstatt Lahn（哈修塔特交通總站）搭 543 號公車；從上特勞恩過去達克斯坦山也是搭 543 號公車可以抵達。
 
 而從上特勞恩要到哈修塔特鎮上的話，可以在 Obertraun Bahnhof（上特勞恩火車站）搭乘 544 號公車，十分鐘內就會到達哈修塔特交通總站。
+
+543 和 544 號公車都可以上車和司機買票，成人的一日票是 5€，現金付款。
 
 ### 教堂瞭望點
 
@@ -180,7 +182,13 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 這裡有分不同的纜車票、和不同的景點票。
 
-達克斯坦山共有三段纜車，從出發點搭乘一段纜車、或是搭到第二站結束五指山的行程後，從第二站往下搭乘一段纜車到第一站，可以從第一站纜車走路約 20 ~ 30 分鐘抵達冰洞或是長毛象洞（Mammut 猛瑪象，又稱長毛象）。
+達克斯坦山共有三段纜車，**上山的第一個纜車站是冰洞或是長毛象洞（Mammut 猛瑪象，又稱長毛象）的所在地**。
+
+你可以...
+1. 從出發點搭乘一段纜車
+2. 或是搭到第二站結束五指山的行程後，從第二站往下搭乘一段纜車到第一站
+
+從第一站纜車走路約 20 ~ 30 分鐘抵達冰洞或是長毛象洞（Mammut 猛瑪象，又稱長毛象）。
 
 搭兩段纜車到第二站纜車站，可以健行約半小時到達 [5 Fingers](https://www.google.com/maps/place/5+Fingers/@47.528612,13.6920417,14z/data=!4m6!3m5!1s0x477137130be183b5:0xde697ea5a3c25143!8m2!3d47.528612!4d13.6920417!16s%2Fm%2F06zjqsc?entry=ttu)，也就是五指山觀景台。
 
@@ -294,6 +302,8 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 設施：廚房、陽台、基本備品
 - 獨立公寓平均**兩晚**價格：約台幣 17,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
+
+想看 Haus Salzberg 更詳細的介紹，可以[**點我查看遊記 →**](https://exittaiwan.com/posts/%E5%93%88%E4%BF%AE%E5%A1%94%E7%89%B9%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6-haus-salzberg/)
 
 <!-- <https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
