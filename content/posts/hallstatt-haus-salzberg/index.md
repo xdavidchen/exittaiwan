@@ -19,7 +19,7 @@ theme: "light"
 
 ![](IMG_3982.jpeg)
 
-- 地址：Lahnstraße 105, 4830 Hallstatt（[Google Maps](https://exittaiwan.com/posts/%E5%93%88%E4%BF%AE%E5%A1%94%E7%89%B9%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/Lahnstra%C3%9Fe%20105,%204830%20Hallstatt)）
+- 地址：Lahnstraße 105, 4830 Hallstatt（[Google Maps](https://maps.app.goo.gl/Kjx9VZepwX9ujWnb9)）
 - 交通：從交通總站（Hallstatt Lahn）走路五分鐘可以抵達
 - 是否含早餐：無
 - 設施：廚房、陽台、基本備品
