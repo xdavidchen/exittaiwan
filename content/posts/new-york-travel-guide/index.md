@@ -3,7 +3,7 @@ title: "紐約自由行旅遊全攻略｜紐約旅遊景點、交通、住宿懶
 slug: "紐約自由行旅遊"
 date: 2024-04-03
 description: "紐約旅遊須知、交通、景點、住宿、優惠票卷，所有你前往紐約旅遊前需要的資訊都在這！"
-draft: false
+draft: true
 author: "David Chen"
 cover: "statue-of-liberty-horizontal.webp"
 featured: true
