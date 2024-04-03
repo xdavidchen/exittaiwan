@@ -12,7 +12,7 @@ theme: "light"
 
 ![|inline](nyc-airport-transportation.webp)
 
-當你搭飛機來到紐約，有很大的機率你會降落在紐約的三個機場之一：**甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場**，其中又以甘迺迪國際機場（JFK）和紐瓦克國際機場（EWR）最為常見，相對地理位置可以參考下面地圖。
+即將前往[紐約旅遊](https://exittaiwan.com/posts/紐約自由行旅遊/)嗎？當你搭飛機來到紐約，有很大的機率你會降落在紐約的三個機場之一：**甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場**，其中又以甘迺迪國際機場（JFK）和紐瓦克國際機場（EWR）最為常見，相對地理位置可以參考下面地圖。
 
 ![|inline](new-york-city-map.webp)
 
@@ -133,7 +133,7 @@ theme: "light"
 ) 或 [**Lyft**](https://www.lyft.com/i/CHEN61210?utm_medium=p2pi_iacc
 )  、還有機場捷運 AirTrain。
 
-我第一次飛到東岸就是降落在紐瓦克機場，**個人非常不推薦搭乘機場巴士**，不但班次少，環境差、搭車地點標示不明、票價還很貴。
+**我們非常不推薦搭乘機場巴士**，不但班次少，環境差、搭車地點標示不明、票價還很貴。
 
 計程車、Uber 或 Lyft 直接在機場接送區叫車，除了價格偏高以外應該不會有太大的問題。如果下一次我降落在這個機場，我應該會選擇搭搭看機場捷運 AirTrain。
 
@@ -151,10 +151,4 @@ theme: "light"
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
-如果你是降落在這個機場的人，我會假設你的英文程度應該不錯，比較有機率在美國飛國內線，詳細的交通資訊可以直接到機場的[**這個頁面**](https://laguardiaairport.com/to-from-airport/public-transportation)做參考。
-
-## 這篇文章對你有幫助嗎？
-
-你可以透過以下方式支持我們：
-- 小額贊助，支持我們持續更新此網站：[**前往贊助**](https://ko-fi.com/exittaiwan)
-- 分享這個網站給身邊任何有出國需求的人
+如果你是降落在這個機場的人，我們預設你的英文程度應該不錯，比較有機率在美國飛國內線，詳細的交通資訊可以直接到機場的[**這個頁面**](https://laguardiaairport.com/to-from-airport/public-transportation)做參考。
