@@ -144,7 +144,7 @@ theme: "light"
 - **加入書籤**：
   有打算要逛景點但不想現在做功課的人，可以把這篇文章加到網頁書籤，供旅程途中參考。
 - **紐約景點優惠套票**：
-  根據經驗，推薦第一次到紐約旅遊的人[購買紐約市景點套票 New York City Pass](https://affiliate.klook.coredirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)，和分別購買景點的門票相比，價格打了六折左右。
+  根據經驗，推薦第一次到紐約旅遊的人[購買紐約市景點套票 New York City Pass](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)，和分別購買景點的門票相比，價格打了六折左右。
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
@@ -239,7 +239,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 - 地址：45 Rockefeller Plaza, New York
 - 觀景台開放時間：早上 9:00 ~ 晚上 11:00
-- 門票：40 美金｜孩童 34 美金｜敬老 38 美金，推薦使用[紐約旅遊套票](https://affiliate.klook.coredirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
+- 門票：40 美金｜孩童 34 美金｜敬老 38 美金，推薦使用[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
 #### 時代廣場 Times Square — 45th St.
 
@@ -298,7 +298,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 - 地址：20 W 34th St., New York
 - 營業時間：週一到週四 10:00 ~ 22:00；週五到週日 9:00 ~ 22:00。
-- 門票：44 美金｜孩童 38 美金｜敬老 42 美金，推薦使用[紐約旅遊套票](https://affiliate.klook.coredirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
+- 門票：44 美金｜孩童 38 美金｜敬老 42 美金，推薦使用[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
 #### 松果 The Vessel — 34th St.
 
@@ -390,7 +390,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 - 地址：180 Greenwich St, New York
 - 911 紀念博物館營業時間：週二公休，10:00 ~ 17:00
-- 門票：29 美金｜孩童（7 ~ 12歲） 17 美金｜青年（13 ~ 17 歲）23 美金｜敬老（65歲以上）23 美金｜6歲以下免，推薦使用[紐約旅遊套票](https://affiliate.klook.coredirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
+- 門票：29 美金｜孩童（7 ~ 12歲） 17 美金｜青年（13 ~ 17 歲）23 美金｜敬老（65歲以上）23 美金｜6歲以下免，推薦使用[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
 #### 華爾街 Wall Street
 
@@ -476,7 +476,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <!-- 2023 年：129 美金｜孩童（17歲以下） 109 美金。-->
 
 > **用六折價格暢玩紐約**\
-購買連結：[紐約旅遊套票](https://zh.citypass.conew-york)。
+購買連結：[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
 **景點包含：**
 - 帝國大廈
@@ -486,7 +486,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 911 紀念館和博物館 **或** "無畏"號海洋航空航天博物館
 
 **如何使用：**
-1. 透過[紐約旅遊套票](https://zh.citypass.conew-york)連結購買後，票卷會寄到訂購時提供的電子郵件信箱。
+1. 透過[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)連結購買後，票卷會寄到訂購時提供的電子郵件信箱。
 2. 截圖 QR Code 或 下載票卷至手機。
 3. 於景點出示 QR Code 即可兌換門票。
 
@@ -498,6 +498,6 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 大部分景點需預約入場時段以減少等候時間
 
 > **購買紐約旅遊套票**\
-購買連結：[紐約旅遊套票](https://zh.citypass.conew-york)。
+購買連結：[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
