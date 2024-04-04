@@ -6,6 +6,7 @@ description: "台灣人適合用 Wise 嗎？Wise 要怎麼開戶？ 它是網銀
 draft: false
 author: "David Chen"
 cover: "feature.webp"
+image: "feature.webp"
 tags: [Wise 網銀, 網路銀行推薦]
 theme: "light"
 ---

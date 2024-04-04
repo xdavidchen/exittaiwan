@@ -6,6 +6,7 @@ description: "紐約旅遊須知、交通、景點、住宿、優惠票卷，所
 draft: false
 author: "David Chen"
 cover: "statue-of-liberty-horizontal.webp"
+image: "statue-of-liberty-horizontal.webp"
 featured: true
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 keywords: [國外旅行, 出國, 自由行, 美東旅遊, 美國, 紐約, 曼哈頓, 攻略, 景點]

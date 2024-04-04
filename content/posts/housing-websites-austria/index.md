@@ -6,6 +6,7 @@ description: "你即將前往奧地利留學、打工度假、學德文、或是
 draft: false
 author: "David Chen"
 cover: "feature.webp"
+image: "feature.webp"
 tags: [奧地利, 租屋]
 theme: "light"
 ---

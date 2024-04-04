@@ -6,6 +6,7 @@ description: "想要在弘大商圈探索當地的購物街、品嚐道地的韓
 draft: false
 author: "Tim Kuo"
 cover: "feature.webp"
+image: "feature.webp"
 tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---

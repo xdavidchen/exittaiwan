@@ -6,6 +6,7 @@ description: "紐約市區交通方式的實用資訊，包含價格、購票方
 draft: false
 author: "David Chen"
 cover: "feature.jpg"
+image: "feature.jpg"
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 theme: "light"
 ---

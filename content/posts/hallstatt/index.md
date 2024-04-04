@@ -7,6 +7,7 @@ draft: false
 featured: true
 author: "David Chen"
 cover: "DSC09408.jpg"
+image: "DSC09408.jpg"
 tags: [奧地利, 奧地利旅遊, 哈修塔特, 哈修塔特旅遊, 哈修塔特自由行]
 theme: "light"
 ---

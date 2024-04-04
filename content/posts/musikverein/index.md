@@ -6,6 +6,7 @@ description: "想要到維也納金色大廳欣賞一場音樂會嗎？金色大
 draft: false
 author: "David Chen"
 cover: "feature.webp"
+image: "feature.webp"
 tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行]
 theme: "light"
 ---

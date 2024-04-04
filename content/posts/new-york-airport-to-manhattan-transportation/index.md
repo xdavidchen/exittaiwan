@@ -6,6 +6,7 @@ description: "這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區
 draft: false
 author: "David Chen"
 cover: "feature.webp"
+image: "feature.webp"
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 theme: "light"
 ---

@@ -6,6 +6,7 @@ description: "這篇文章詳細介紹從維也納機場到維也納市中心的
 draft: false
 author: "David Chen"
 cover: "feature.webp"
+image: "feature.webp"
 tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行]
 theme: "light"
 ---

@@ -6,6 +6,7 @@ description: "想要在首爾東大門商圈玩得開心、購物滿足、享受
 draft: false
 author: "Tim Kuo"
 cover: "feature.jpeg"
+image: "feature.jpeg"
 tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---

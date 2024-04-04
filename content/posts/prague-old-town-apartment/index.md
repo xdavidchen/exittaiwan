@@ -6,6 +6,7 @@ description: "Smetanovo nábřeží 26 - Riverview Old Town Apartment 是一間�
 draft: false
 author: "David Chen"
 cover: "feature.webp"
+image: "feature.webp"
 tags: [捷克, 捷克旅遊, 捷克自由行, 布拉格, 布拉格旅遊, 布拉格自由行]
 theme: "light"
 ---

@@ -6,6 +6,7 @@ description: "Google Maps 到了韓國區域幾乎不能使用，原因是什麼
 draft: false
 author: "David Chen"
 cover: "featured.webp"
+image: "featured.webp"
 tags: [韓國, 韓國旅遊, 韓國自由行]
 theme: "light"
 ---

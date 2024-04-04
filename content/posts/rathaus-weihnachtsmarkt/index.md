@@ -6,6 +6,7 @@ description: "維也納市政廳聖誕市集吸引全球遊客歡慶聖誕，攤
 draft: false
 author: "David Chen"
 cover: "feature.webp"
+image: "feature.webp"
 tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行, 歐洲聖誕市集]
 theme: "light"
 ---
