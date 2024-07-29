@@ -7,6 +7,7 @@ cover: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-
 external_url: 'https://google.com'
 layout: 'shop'
 price: '79'
+draft: true
 ---
 
 testing

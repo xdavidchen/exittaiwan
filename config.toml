@@ -9,9 +9,9 @@ theme = 'hugo-theme-itheme'
 paginate = 10
 [params]
   email = 'contact@exittaiwan.com'
-  #[[params.shop]]
-    #name = ''
-    #url = ''
+  [[params.shop]] # 開放商城
+    name = '商城'
+    url = '/shop'
   [[params.hotel]]
     name = '專人服務'
     url = 'https://l.exittaiwan.com/nav-hotel'

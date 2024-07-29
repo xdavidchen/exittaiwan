@@ -45,7 +45,9 @@
         <div class="tile__headline">{{ .context.Title }}</div>
       </div>
       <!--<div class="tile__timestamp icon-hide icon icon-before icon-clock">{{ .context.Date | time.Format ":date_long" }}</div>-->
-      <div class="tile__price tile__timestamp icon-hide icon icon-before icon-clock"> NTD {{ .context.Params.price }} 元 →</div>
+      <!--<div class="tile__price tile__timestamp icon-hide icon icon-before icon-clock"> NTD {{ .context.Params.price }} 元 →</div>-->
+      <!--<div class="tile__sale tile__timestamp icon-hide icon icon-before icon-clock"> 現正發售中 </div>-->
+      <div class="tile__price tile__timestamp icon-hide icon icon-before icon-clock"> <b>前往購買 →</b></div>
     </div>
   </a>
 </li>

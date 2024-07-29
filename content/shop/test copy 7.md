@@ -6,6 +6,7 @@ author: 'Apple Newsroom'
 cover: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
 external_url: 'https://google.com'
 layout: 'shop'
+draft: true
 ---
 
 testing

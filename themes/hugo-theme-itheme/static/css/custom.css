@@ -510,6 +510,10 @@ hr {
   border-width: 1px;
 }
 
-.tile__price {
+.tile__sale {
   color: #ff2400;
+}
+
+.tile__price {
+  color: #085397
 }

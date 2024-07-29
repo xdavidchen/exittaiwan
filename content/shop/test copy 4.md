@@ -6,6 +6,7 @@ author: 'Apple Newsroom'
 cover: 'https://public-files.gumroad.com/muju9n1mveidjitq5jwgd1lwwrao'
 external_url: 'https://exittaiwan.gumroad.com/l/travel-brochure-japan'
 layout: 'shop'
+draft: true
 ---
 
 testing
