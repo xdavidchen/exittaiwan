@@ -297,7 +297,7 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 #### Ferienhaus Salzberg 基本資訊
 
-- 地址：Lahnstraße 105, 4830 Hallstatt（[Google Maps](Lahnstraße%20105,%204830%20Hallstatt)）
+- 地址：Lahnstraße 105, 4830 Hallstatt（[Google Maps](https://www.google.com/maps/place/Haus+Salzberg/@47.5536107,13.6448565,17z/data=!3m1!4b1!4m6!3m5!1s0x4771366f763faaab:0x6daca6cecbd49cd1!8m2!3d47.5536107!4d13.6474314!16s%2Fg%2F11c1v1cfld?entry=ttu)）
 - 交通：從交通總站（Hallstatt Lahn）走路五分鐘可以抵達
 - 是否含早餐：無
 - 設施：廚房、陽台、基本備品
