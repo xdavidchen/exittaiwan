@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://exittaiwan.com/'
 languageCode = 'zh-tw'
 defaultContentLanguage = "zh-tw"
 hasCJKLanguage = true
