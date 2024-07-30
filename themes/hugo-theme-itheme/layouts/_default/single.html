@@ -21,6 +21,31 @@
       <meta name="twitter:title" content="{{ .Title }}">
       <meta name="twitter:description" content="{{ .Description }}">
       <meta name="twitter:image" content="{{ .Params.Image }}">
+
+            <!-- Schema.org JSON-LD data -->
+            <script type="application/ld+json">
+              {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                "headline": "{{ .Title }}",
+                "description": "{{ .Params.description }}",
+                "image": "{{ .Params.Image }}",
+                "author": {
+                  "@type": "Person",
+                  "name": "{{ .Params.author }}"
+                },
+                "publisher": {
+                  "@type": "Organization",
+                  "name": "{{ .Site.Title }}",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "{{ .Site.Params.logo }}"
+                  }
+                },
+                "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+                "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}"
+              }
+              </script>
   </head>
   <body>
   <main id="main" class="main">
