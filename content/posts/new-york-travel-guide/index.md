@@ -5,15 +5,15 @@ date: 2024-04-03
 description: "紐約旅遊須知、交通、景點、住宿、優惠票卷，所有你前往紐約旅遊前需要的資訊都在這！"
 draft: false
 author: "David Chen"
-cover: "statue-of-liberty-horizontal.webp"
-image: "statue-of-liberty-horizontal.webp"
+cover: "cover.webp"
+image: "cover.webp"
 featured: true
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 keywords: [國外旅行, 出國, 自由行, 美東旅遊, 美國, 紐約, 曼哈頓, 攻略, 景點]
 theme: "light"
 ---
 
-![|wide](statue-of-liberty-horizontal.webp)
+![|wide](cover.webp)
 
 > **使用說明書**\
 這篇文章分成了五大章節，從對紐約的基本了解、交通、旅遊景點、住宿、和優惠都幫你整理好了！文章比較長，建議配合目錄更快速找到資訊。\
