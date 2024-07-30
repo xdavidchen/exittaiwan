@@ -1,6 +1,28 @@
 {{ define "main" }}
   {{ $featured := .Page.Params.featured }}
   {{ $notPlainPage := ne .Page.Params.plain true }}
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <title>{{ .Title }}</title>
+      <meta name="description" content="{{ .Description }}">
+
+      <!-- Open Graph data -->
+      <meta property="og:title" content="{{ .Title }}">
+      <meta property="og:type" content="article">
+      <meta property="og:url" content="{{ .Permalink }}">
+      <meta property="og:image" content="{{ .Params.Image }}">
+      <meta property="og:description" content="{{ .Description }}">
+      <meta property="og:site_name" content="{{ .Site.Title }}">
+
+      <!-- Twitter Card data -->
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="{{ .Title }}">
+      <meta name="twitter:description" content="{{ .Description }}">
+      <meta name="twitter:image" content="{{ .Params.Image }}">
+  </head>
+  <body>
   <main id="main" class="main">
       <section>
         <article class="article">
@@ -102,5 +124,6 @@
     script.src = {{ $js.Permalink }};
     document.head.appendChild(script);
   </script>
+  </body>
+  </html>
 {{ end }}
-
