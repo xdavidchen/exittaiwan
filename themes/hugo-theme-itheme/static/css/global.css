@@ -5,13 +5,13 @@
   --gray-text: #515154;
   --primary: #8129d9;
   --blue: #0071e3;
-  --footer-background: #f5f5f7;
-  --footer-border-color: #d2d2d7;
-  --footer-text-color: #6e6e73;
-  --footer-link-color: #424245;
-  --footer-pipe-color: #86868b;
-  --footer-directory-title-color: #1d1d1f;
-  --footer-directory-title-color-hover: #000;
+  --footer-background: #3D4240 /* #f5f5f7 */;
+  --footer-border-color: #f5f5f7  /* #d2d2d7 */;
+  --footer-text-color: #f5f5f7 /* #6e6e73 */ ;
+  --footer-link-color: #f5f5f7 /*#424245 */;
+  --footer-pipe-color: #f5f5f7 /* #86868b */;
+  --footer-directory-title-color: #d2d2d7 /*#1d1d1f*/;
+  --footer-directory-title-color-hover: #8DD783 /* #000 */;
 }
 
 
@@ -730,7 +730,7 @@ html.js .tile.large-loaded .image {
   padding-bottom: 80px;
   overflow: hidden;
   background-color: #f5f5f7;
-  margin-top: 0
+  margin-top: 32px;
 }
 
 @media only screen and (max-width: 1068px) {

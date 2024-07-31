@@ -2,7 +2,7 @@
 {{ $pages := where .Site.RegularPages "Section" "posts" }}
     <section class="everydayfeed">
     <div class="section-content">
-      <h2 class="section-head">{{ i18n "latestArticles" }}</h2>
+      <!-- <h2 class="section-head">{{ i18n "latestArticles" }}</h2> -->
       <ul role="list" class="section-tiles">
         {{ range first 1 $pages }}
           {{ $level := 1 }}

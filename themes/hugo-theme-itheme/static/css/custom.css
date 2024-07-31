@@ -83,7 +83,7 @@ code {
 
 .pagination-ctrl__btn {
   display: block;
-  background-color: #38c748;
+  background-color: #399A4B /*#399A4B */;
   border-radius: 100%;
   font-size: 36px;
   height: 1em;
@@ -101,7 +101,7 @@ code {
 
 @media (hover: hover) {
   .pagination-ctrl__btn:hover {
-    background-color:#1d1d1f;
+    background-color:#3D4240;
     text-decoration: none
   }
 }
@@ -454,17 +454,28 @@ code {
   margin-right: 1rem;
 }
 
-
 .nav-item-wrapper a:hover {
-  color: #38c748;
+  color: #8DD783;
+}
+
+.nav-item-content {
+  color: #f5f5f7;
+}
+
+.nav-wrapper {
+  background-color: #3D4240;
+}
+
+.nav-title {
+  color: #f5f5f7;
 }
 
 .tag {
-  background: #38c748;
+  background: #399A4B;
 }
 
 .tag:hover {
-  background: #38c748;
+  background: #399A4B;
 }
 
 .component {
@@ -477,7 +488,7 @@ ul>li, ol>li {
 }
 
 a, .link {
-  color: #38c748;
+  color: #399A4B;
 }
 .footer-main .item div, .footer-main .item a {
   padding: 3px 5px;
@@ -515,5 +526,5 @@ hr {
 }
 
 .tile__price {
-  color: #085397
+  color: #399A4B;
 }
