@@ -46,7 +46,7 @@ theme: "light"
 
 ![](IMG_7335.JPG)
 
-達克斯坦山的門票共有五種，資訊蠻雜亂的，而且又在 2024 做了一些更新，以下詳細為大家介紹一下，介意配合[官方網站的購票系統](https://shop.dachstein-salzkammergut.com/en/#type=day-ticket&date=tomorrow&hasPackages=false&hasTickets=true&keyword=adults)一起參考。
+達克斯坦山的門票共有五種，資訊蠻雜亂的，而且又在 2024 做了一些更新，以下詳細為大家介紹，也可以配合[官方網站的購票系統](https://shop.dachstein-salzkammergut.com/en/#type=day-ticket&date=tomorrow&hasPackages=false&hasTickets=true&keyword=adults)一起參考。
 
 <!-- 
 
