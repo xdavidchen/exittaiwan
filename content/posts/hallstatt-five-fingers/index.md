@@ -127,7 +127,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 ### 冰洞
 
-![照片取自 Dachstein Krippenstein 官網]](ice.webp)
+![照片取自 Dachstein Krippenstein 官網](ice.webp)
 
 冰洞可以說是達克斯坦山除了五指觀景台以外最出名的景點，除了自然形成的奇形怪狀的冰柱外，冰洞中的燈光秀配上音樂也算蠻有趣的。
 
@@ -137,7 +137,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 ### 長毛象洞
 
-![照片取自 Dachstein Krippenstein 官網]](mammut.webp)
+![照片取自 Dachstein Krippenstein 官網](mammut.webp)
 
 很可惜，長毛象洞會叫做長毛象洞的原因並不是這裡曾經挖出長毛象，而是因為這個洞穴巨大的尺寸和多到令人驚豔的地下通道讓人感覺「像長毛象般的令人震驚」。
 
@@ -147,7 +147,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 ### 五指觀景台
 
-![照片取自 Dachstein Krippenstein 官網]](5-fingers.webp)
+![照片取自 Dachstein Krippenstein 官網](5-fingers.webp)
 
 五指觀景台是達克斯坦山上最知名的觀景台，用鐵欄杆建造而成，怕高的人鐵定會腳軟，在這裡你可以將阿爾卑斯山脈和湖區景色盡收眼底。
 
@@ -159,7 +159,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 ### 達克斯坦鯊魚
 
-![照片取自 Dachstein Krippenstein 官網]](dashstein-shark-2.webp)
+![照片取自 Dachstein Krippenstein 官網](dashstein-shark-2.webp)
 
 幾百萬年前，達克斯坦山巒曾經在海平面之下，而一種遠古鯊魚——「冰鯊（德文：Eis-Hai）」（並不是冰沙，謝謝。）曾經生活在這裡。
 
@@ -169,7 +169,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 ### 世界文化遺產螺旋景觀台
 
-![照片取自 Dachstein Krippenstein 官網]](dahstein-observeation.webp)
+![照片取自 Dachstein Krippenstein 官網](dahstein-observeation.webp)
 
 世界文化遺產螺旋景觀台，提供絕佳的全景視野，讓旅客一覽世界文化遺產達克斯坦山的風光。
 
