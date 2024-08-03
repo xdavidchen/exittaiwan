@@ -6,13 +6,13 @@ description: "哈修塔特的五指觀景台讓旅客一眺阿爾卑斯群山之
 draft: false
 featured: false
 author: "David Chen"
-cover: "DSC09516.jpg"
-image: "DSC09516.jpg"
+cover: "DSC09516.webp"
+image: "DSC09516.webp"
 tags: [奧地利, 奧地利旅遊, 哈修塔特, 哈修塔特旅遊, 哈修塔特自由行]
 theme: "light"
 ---
 
-![](DSC09516.jpg)
+![](DSC09516.webp)
 
 在網路上查詢哈修塔特旅遊景點時，「**五指山**」是不時會出現的名詞。其實，**在哈修塔特並沒有五指「山」，而是只有「五指觀景台（英文：Five Fingers）」**。
 
@@ -32,7 +32,7 @@ theme: "light"
 
 ## 五指觀景台開放時間
 
-![](DSC09484.jpg)
+![](DSC09484.webp)
 
 哈修塔特的五指觀景台幾乎全年開放，不過冬天時可能因為氣候不佳而關閉。
 
