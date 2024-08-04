@@ -17,6 +17,9 @@ theme: "light"
 
 維也納只有一個國際機場，也就是[維也納機場](https://www.viennaairport.com/en/passengers)（Vienna Airport，VIE）。不論你是搭乘直飛的中華航空、長榮航空，或是轉機的班機來到維也納，你都會降落在這裡。
 
+![](wien.webp)
+> 想要把圖片存下來嗎？，[免費下載維也納地圖](<https://exittaiwan.gumroad.com/l/wien>)
+
 從維也納機場和市中心的距離其實只有不到 20 公里。除了自行租車之外，你有四種方式可以在機場和市中心來回通勤，包括搭乘機場快線火車（City Airport Train，CAT）、搭乘一般火車、搭乘 Uber、以及搭乘 FlixBus 跨國巴士。
 
 - 機場快線 CAT
@@ -24,7 +27,7 @@ theme: "light"
 - Uber
 - FlixBus 跨國巴士
 
-<!-- insert image 維也納市區地圖：stephansplatz、wien mitte、hbf、westbahnhof-->
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 ## 機場快線 City Airport Train，CAT
 
@@ -73,6 +76,8 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 - **時間**：20 ~ 30 分鐘
 - **優點**：快速、價格便宜、點到點移動、市中心有多個火車站可以作為目的地
 - **缺點**：上下車可能要搬行李
+
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 ### 一般火車 S-Bahn、REX 購票教學
 
@@ -129,3 +134,5 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 | 一般火車 S-Bahn & REX | 20 ~ 30 分鐘 | 維也納機場、Wien Mitte、Wien Hbf、Wien Westbahnhof | €4                     |
 | Uber                  | 20 ~ 30 分鐘 | 維也納機場、市中心任意點                           | €25 ~ €40             |
 | FlixBus 跨國巴士      | 20 ~ 30 分鐘 | 維也納機場、Erdberg                                | €6 ~ €16              |
+
+[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
