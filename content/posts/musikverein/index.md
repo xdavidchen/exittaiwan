@@ -15,7 +15,7 @@ theme: "light"
 
 來自蘇格蘭格拉斯哥的衛報（The Guardian）作家湯姆（Tom Service），曾評論這個[演奏廳的聲音是「純金的」](https://www.theguardian.com/music/tomserviceblog/2008/sep/29/classical.music.musikverein)（pure gold）。
 
-和德國柏林愛樂廳（德文：Konzerthaus）、荷蘭阿姆斯特丹大會堂（荷蘭文：Concertgebouw）、美國波士頓交響樂大廳（英文：Symphony Hall）齊名，這是世界上最佳的音樂廳之一[^1]，晚上常常有「**一群莫札特演奏著莫札特的音樂**」——它是**維也納的「金色大廳」**（德文：Goldener Saal）。
+和德國柏林愛樂廳（德文：Konzerthaus）、荷蘭阿姆斯特丹大會堂（荷蘭文：Concertgebouw）、美國波士頓交響樂大廳（英文：Symphony Hall）齊名，這是世界上最佳的音樂廳之一，晚上常常有「**一群莫札特演奏著莫札特的音樂**」——它是**維也納的「金色大廳」**（德文：Goldener Saal）。
 
 維也納的金色大廳已有超過百年歷史，它最為人知曉的特色莫過於每年新年一月一日，都會透過全球電視直播的「**[維也納新年音樂會](https://www.wienerphilharmoniker.at/en/newyearsconcert)**」了。
 
@@ -61,7 +61,7 @@ theme: "light"
 
 ### 關於金色大廳（Großer Saal、Goldener Saal）
 
-金色大廳內約有 1,700 個座位和 300 個站位[^2]，並標榜聲音效果在廳內的任何一個角落都一樣完美。
+金色大廳內約有 1,700 個座位和 300 個站位，並標榜聲音效果在廳內的任何一個角落都一樣完美。
 
 維也納愛樂（德文：Wiener Philharmoniker）是金色大廳的常駐樂團<!-- link to fun facts about 維也納愛樂）-->，頻繁的在這裡和世界知名音樂家合作演出，
 
@@ -171,5 +171,6 @@ banner = 訂票服務
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
-[^1]: [10 of the world’s best concert halls](https://www.theguardian.com/travel/2015/mar/05/10-worlds-best-concert-halls-berlin-boston-tokyo)
-[^2]: [The Golden Sound of the Musikverein Wien](https://www.wienersymphoniker.at/en/orchestra/residencies/musikverein-wien-tickets-schedule)
+資料來源：
+- [10 of the world’s best concert halls](https://www.theguardian.com/travel/2015/mar/05/10-worlds-best-concert-halls-berlin-boston-tokyo)
+- [The Golden Sound of the Musikverein Wien](https://www.wienersymphoniker.at/en/orchestra/residencies/musikverein-wien-tickets-schedule)

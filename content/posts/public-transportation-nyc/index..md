@@ -37,7 +37,7 @@ theme: "light"
 
 話雖如此，地鐵應該是紐約最惡名昭彰的特色之一了吧？事實證明，所有關於紐約地鐵的傳聞都是真的。
 
-地鐵站昏暗髒亂、參雜點尿騷味、處處可見流浪漢和精神病患、被人推下鐵軌[^2]、在地鐵站被隨機攻擊[^3]、想不開的人跳軌，你能想到和無法想像的事情，都有可能在這裡發生。
+地鐵站昏暗髒亂、參雜點尿騷味、處處可見流浪漢和精神病患、[被人推下鐵軌](https://www.insider.com/family-of-michelle-alyssa-go-speaks-out-after-deadly-attack-2022-1)、[在地鐵站被隨機攻擊](https://abc7ny.com/hammer-attack-subway-brutal-robbery-woman-new-york/11598857/)、想不開的人跳軌，你能想到和無法想像的事情，都有可能在這裡發生。
 
 雖然風險存在，但紐約地鐵卻是每個來到紐約旅遊的人幾乎不可能不使用的交通工具，所以在靠近地鐵站和搭乘地鐵時，請記住**離遊民和精神病患遠一點**、**少滑手機，隨時注意四周環境**、**行走時腳步迅速移動**。
 
@@ -118,6 +118,3 @@ theme: "light"
 | Citibike | $4.49 美元，換算台幣約 140 元 | 方便、彈性高 | 價格不便宜 | 
 | Lyft / Uber / 計程車 | 根據出發及目的地計算 | 舒適、安全 | 貴、常會塞車 | 
 | 雙腿 | 免費 | 免費、體驗紐約曼哈頓最完整的方式、彈性高 | 腿痠 | 
-
-[^2]: [The family of the 40-year-old woman who was pushed in front of NYC subway train says they're 'in a state of shock'](https://www.insider.com/family-of-michelle-alyssa-go-speaks-out-after-deadly-attack-2022-1)
-[^3]: [Woman beaten with hammer in Queens subway robbery](https://abc7ny.com/hammer-attack-subway-brutal-robbery-woman-new-york/11598857/)
