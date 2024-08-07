@@ -20,7 +20,8 @@ theme: "light"
 而在維也納市中心，要去任何景點、飯店更是方便，合理的票價、多種交通工具選擇、都是讓[維也納成為世界最宜居城市](https://www.economist.com/graphic-detail/2024/06/26/the-worlds-most-liveable-cities-in-2024)的原因。
 
 ![](wien.webp)
-> 想要把圖片存下來嗎？[免費下載維也納地圖](<https://exittaiwan.gumroad.com/l/wien>)
+
+> 想要把圖片存下來嗎？[**免費下載維也納地圖**](https://exittaiwan.gumroad.com/l/wien)
 
 ## 核心區 Core Zone
 
@@ -46,7 +47,7 @@ Core zone 包括了維也納市區的所有大眾交通工具，街道電車、�
 
 透過方位、結合 Google Maps 來對應站名，只要你在這張地圖上找得到、**且不是在虛線上**的站，都屬於維也納交通的核心區。
 
-> [免費下載維也納地圖](<https://exittaiwan.gumroad.com/l/wien>)
+> 想要把圖片存下來嗎？[**免費下載維也納地圖**](https://exittaiwan.gumroad.com/l/wien)
 
 *備註：以下幾個是你有可能聽過的、但**不在維也納交通核心區的景點**
 
@@ -58,7 +59,7 @@ Core zone 包括了維也納市區的所有大眾交通工具，街道電車、�
 
 ![](gesamtnetzplan-wiener-linien.webp)
 
-> 想要把圖片存下來嗎？[免費下載維也納地圖](https://exittaiwan.gumroad.com/l/wien)
+> 想要把圖片存下來嗎？[**免費下載維也納地圖**](https://exittaiwan.gumroad.com/l/wien)
 
 維也納市中心交通非常方便且多元，買了一張票，不論是地鐵、街道電車、公車、市區內快速鐵路，只要在交通核心區內都能夠搭乘。
 
