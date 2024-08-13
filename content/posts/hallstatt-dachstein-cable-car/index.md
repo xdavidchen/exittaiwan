@@ -91,7 +91,7 @@ theme: "light"
 
 除非你是專業的登山客，不然會上到纜車第三站的一般遊客不太常見。
 
-這裡有達克斯坦山區**[最壯麗的幾條健行路線](https://freewalkingtoursalzburg.com/dachstein-krippenstein#3-cable-car-station-vintage--hiking)**，不過光單程大概都要兩個小時起跳，有興趣挑戰的登山愛好者再另外多多爬文囉。
+這裡有達克斯坦山區[**最壯麗的幾條健行路線**](https://freewalkingtoursalzburg.com/dachstein-krippenstein#3-cable-car-station-vintage--hiking)，不過光單程大概都要兩個小時起跳，有興趣挑戰的登山愛好者再另外多多爬文囉。
 
 ## 達克斯坦山纜車注意事項
 
