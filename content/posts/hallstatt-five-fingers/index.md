@@ -153,7 +153,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 最左邊的平台，還有彷彿畫框的設計，拍照起來有實實在在「風景如畫」的效果。
 
-![照片取自 Dachstein Krippenstein 官網]](5-fingers-2.webp)
+![照片取自 Dachstein Krippenstein 官網](5-fingers-2.webp)
 
 [![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
