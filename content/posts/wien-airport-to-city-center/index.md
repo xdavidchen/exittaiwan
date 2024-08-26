@@ -38,7 +38,7 @@ theme: "light"
 
 機場快線是維也納機場站和 Wien Mitte（英文：Vienna Center；暫譯：維也納中心）兩站的直達車，行程總時間只要 16 分鐘。
 
-班次則是每天從早上五點半開始一直到晚上十一點，每半小時都有各別從市中心和機場發車，實際發車時間可以[到這個頁面查看](https://www.cityairporttrain.com/en/navigation/018d5ed48dcd7a65931d44fe7c16362c/)。
+班次則是每天從早上五點半開始一直到晚上十一點，每半小時都有各別從市中心和機場發車，實際發車時間可以[到這個頁面查看](https://www.cityairporttrain.com/en/info-service/timetable/)。
 
 - **價格**：單程 €14.90；來回 €24.90，14 歲以下免費
 - **時間**：16 分鐘
