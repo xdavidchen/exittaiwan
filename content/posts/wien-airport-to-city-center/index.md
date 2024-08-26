@@ -47,7 +47,7 @@ theme: "light"
 
 機場快線 CAT 的淺綠色標示非常顯眼，從出境後的行李托盤區就可以看到廣告，到機場大廳跟著火車的指標走，也會很快就看到一區綠色的櫃檯購票區，只要和櫃檯人員或是透過自動售票機買單程或是來回票就可以囉！
 
-當然，你也可以直接在 [CAT 官網購買電子車票](https://www.cityairporttrain.com/en/home)。 <!-- https://www.cityairporttrain.com/en/partner-->
+當然，你也可以直接在 [CAT 官網購買電子車票](https://www.cityairporttrain.com/en/)。 <!-- https://www.cityairporttrain.com/en/partner-->
 
 如果你是在市中心要前往機場的話，CAT 的購票地點在 Wien Mitte The Mall（維也納中心購物商場）裡面。
 
