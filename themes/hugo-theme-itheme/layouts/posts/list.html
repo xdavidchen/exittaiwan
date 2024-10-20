@@ -4,10 +4,11 @@
 
         {{ range (.Paginate (.Pages.GroupByDate "2006-01")).PageGroups }}
         <div class="result" role="group">
+        <h2 class="result__title">所有文章</h2>
 
         <!-- add day manually to parse as date-->
         {{ $month := printf "%s%s" .Key "-01"}}
-            <h2 class="result__title">{{ $month | time.Format "January 2006" }}</h2>
+            <!-- <h2 class="result__title">{{ $month | time.Format "January 2006" }}</h2>-->
             {{ range .Pages }}
 
             {{ partial "archiveItem.html" (dict "context" .) }}

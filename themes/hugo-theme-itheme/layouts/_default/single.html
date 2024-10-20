@@ -28,7 +28,7 @@
           <div class="{{ if $featured }} featured-header {{ else }} article-header {{ end }}">
             <div class="category component">
               <div class="component-content">
-                <div class="category-eyebrow">
+                <!--<div class="category-eyebrow">
                   <span class="category-eyebrow__category category_original">
                     {{ if .Page.Params.tags }}
                       {{ range first 1 .Page.Params.tags }}
@@ -37,7 +37,7 @@
                     {{ end }}
                   </span>
                   <span class="category-eyebrow__date">{{ .Page.Params.Date | time.Format ":date_long"}}</span>
-                </div>
+                </div>-->
               </div>
             </div>
             <div class="pagetitle component">
@@ -93,7 +93,7 @@
                     ✔️ 馬上<a href="https://www.booking.com/index.html?aid=7956794" target="_blank"><strong>預訂下一次旅程的住宿</strong></a>吧！
                   </p>
                 <p class="content"><strong>{{ i18n "author"}}</strong>：{{ .Page.Params.author }}<br>
-                  <strong>{{ i18n "postDate"}}</strong>：{{ .Page.Params.Date | time.Format ":date_long" }}</p>
+                  <!--<strong>{{ i18n "postDate"}}</strong>：{{ .Page.Params.Date | time.Format ":date_long" }}</p>-->
               </div>
             </div>
           </div>
