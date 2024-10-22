@@ -1,7 +1,7 @@
 ---
 title: testing-cms2
 description: testing2
-draft: true
+draft: false
 author: Your Name
 date: 2024-10-21T21:41:00.000Z
 cover: football.jpg
