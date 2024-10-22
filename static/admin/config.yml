@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
   local_backend: true
 
-site_url: https://exittaiwan.com/admin
+site_url: https://exittaiwan.com/
 logo_url: https://docs.exittaiwan.com/img/logo.svg
 
 
