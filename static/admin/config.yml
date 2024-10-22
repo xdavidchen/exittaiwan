@@ -1,24 +1,27 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
+  local_backend: true
 
-media_folder: "/static/images" # Media files will be stored in the repo under content/posts
-public_folder: "/images" # The src attribute for uploaded media will begin with "/images"
+media_folder: "" # Media files will be stored in the repo under content/posts
+public_folder: "" # The src attribute for uploaded media will begin with "/images"
 
 publish_mode: editorial_workflow
+search: true
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Author", name: "author", widget: "string", default: "David Chen"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Cover", name: "cover", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["[國家名]", "[城市名]", "[城市名]旅遊", "[城市名]自由行"]}
+      - {label: "文章標題", name: "title", widget: "string"}
+      - {label: "文章敘述", name: "description", widget: "string"}
+      - {label: "草稿", name: "draft", widget: "boolean", default: true}
+      - {label: "作者", name: "author", widget: "string", default: "Your Name"}
+      - {label: "發布日期", name: "date", widget: "datetime"}
+      - {label: "封面", name: "cover", widget: "image"}
+      - {label: "內文", name: "body", widget: "markdown"}
+      - {label: "標籤", name: "tags", widget: "list", default: ["[國家名]", "[城市名]", "[城市名]旅遊", "[城市名]自由行"]}
