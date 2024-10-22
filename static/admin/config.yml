@@ -11,7 +11,6 @@ media_folder: "" # Media files will be stored in the repo under content/posts
 public_folder: "" # The src attribute for uploaded media will begin with "/images"
 
 publish_mode: editorial_workflow
-search: true
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
