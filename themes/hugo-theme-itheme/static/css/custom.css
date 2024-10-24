@@ -528,3 +528,20 @@ hr {
 .tile__price {
   color: #399A4B;
 }
+
+.nav-logo {
+  width: 30px; /* adjust the width to fit your logo */
+  height: auto;
+  margin-top: 10px;
+}
+
+.nav-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
+.nav-menu {
+  margin-left: auto;
+}
