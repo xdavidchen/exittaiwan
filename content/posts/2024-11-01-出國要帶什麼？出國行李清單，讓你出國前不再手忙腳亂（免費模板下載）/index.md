@@ -8,12 +8,7 @@ cover: packing-list-mockup-1.webp
 tags:
   - 工具
 ---
-# 出國要帶什麼？出國行李清單，讓你出國前不再手忙腳亂（免費模板下載）
 
-insert meta description tes\
-slug: 出國行李打包   
-
-- - -
 
 ![](packing-list-mockup-1.webp)
 
@@ -107,6 +102,6 @@ slug: 出國行李打包
 
 雖然以上表格已經列出打包物品的細項了，不過哪些東西應該要放在行李箱、哪些東西放在隨身包、登機箱？我們製作的出國行李打包清單用簡單明瞭的圖示告訴你了！馬上下載來邊打包邊使用吧！
 
-> 點擊下載[**免費行李打包清單**](https://exittaiwan.gumroad.com/l/packing-list)
+> 點擊下載**[免費行李打包清單](https://exittaiwan.gumroad.com/l/packing-list)**
 
-![packing-list-mockup-2.webp](files/packing-list-mockup-2.webp)    
+![packing-list-mockup-2.webp](files/packing-list-mockup-2.webp)
