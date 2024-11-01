@@ -19,7 +19,7 @@ paginate = 10
     name = 'Github'
     url = 'https://github.com/floyd-li'
   [[params.about]]
-    name = '關於 ExitTaiwan 出台灣'
+    name = '關於 About'
     url = '/about'
   [[params.about]]
     name = '選擇目的地國家'
@@ -29,10 +29,10 @@ paginate = 10
     url = '/terms'
   [[params.blogroll]]
     name = '好用資源'
-    url = 'https://docs.exittaiwan.com/%E5%A5%BD%E7%94%A8%E8%B3%87%E6%BA%90'
+    url = 'https://docs.exittaiwan.com'
   [[params.blogroll]]
     name = '小額贊助'
-    url = 'https://ko-fi.com/exittaiwan'
+    url = 'https://exittaiwan.gumroad.com/l/membership'
   [[params.blogroll]]
     name = '內容投稿（招募中）'
     url = 'https://app.formbricks.com/s/n8q6ubrjuooymhfxv8i684xy'
