@@ -38,7 +38,7 @@ In an online world that values efficiency above all, we choose to slow down, hop
 - We choose *not to manage social media*, as we believe no one’s life should be compared to another’s. Instead, we trust in the power of word-of-mouth.
 - We only collaborate with reputable businesses. Currently, our main revenue comes from affiliate marketing links, recommending services and products that our team members have personally tested and found satisfactory. Through these links, readers incur no additional costs when making purchases.
 
-If you’d like to support our high-quality content, you can make purchases through our links or consider [**donating directly**]((https://exittaiwan.gumroad.com/l/membership)) to help keep our team running and providing valuable information.
+If you’d like to support our high-quality content, you can make purchases through our links or consider [**donating directly**](https://exittaiwan.gumroad.com/l/membership) to help keep our team running and providing valuable information.
 
 ## Work With Us
 
