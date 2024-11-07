@@ -6,8 +6,8 @@ description: "即將到哈修塔特旅遊，正在尋找住宿嗎？這間位在
 draft: false
 featured: false
 author: "David Chen"
-cover: "IMG_3982.jpeg"
-image: "IMG_3982.jpeg"
+cover: "IMG_3982.webp"
+image: "IMG_3982.webp"
 tags: [奧地利, 奧地利旅遊, 哈修塔特, 哈修塔特旅遊, 哈修塔特自由行]
 theme: "light"
 ---
@@ -18,7 +18,7 @@ theme: "light"
 
 ## 哈修塔特住宿 Haus Salzberg（Ferienhaus Salzberg）基本資訊
 
-![](IMG_3982.jpeg)
+![](IMG_3982.webp)
 
 - 地址：Lahnstraße 105, 4830 Hallstatt（[Google Maps](https://maps.app.goo.gl/Kjx9VZepwX9ujWnb9)）
 - 交通：從交通總站（Hallstatt Lahn）走路五分鐘可以抵達
@@ -29,7 +29,7 @@ theme: "light"
 
 ## Haus Salzberg 實際入住體驗
 
-![](IMG_3979.jpeg)
+![](IMG_3979.webp)
 
 ### 客廳
 
@@ -53,13 +53,13 @@ Haus Salzberg 的兩個出租單位裡面都有提供廚房以及完善的設備
 
 多人可入住的這個多層出租單位，裡面有兩間空間都不小的雙人房，兩間房間都位在三樓，窗外的景色很好，住起來相當舒服。
 
-![](IMG_3860.jpeg)
+![](IMG_3860.webp)
 
 ### 廁浴
 
 在多層出租單位的公寓裡，廁浴和客廳、廚房同樣位在二樓，廁浴的空間非常大，裡面也附有洗衣機。另外，廁所和浴室是分開的獨立兩個空間。
 
-![](IMG_3859.jpg)
+![](IMG_3859.webp)
 
 除了二樓分開的廁所和浴室之外，在三樓兩個客房中間也有一間小廁所，半夜的時候就不用爬樓梯下去二樓囉。
 

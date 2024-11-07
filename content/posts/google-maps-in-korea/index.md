@@ -45,9 +45,9 @@ theme: "light"
 
 目前在韓國最多人使用的地圖是 [Naver Map](https://map.naver.com/p?c=15.00,0,0,0,dh) 和 [Kakao Map](https://map.kakao.com/)，不過對於外國人來說，使用上要上手會需要花一點時間，因為使用者介面還是有很多只有韓文、沒有多國語言翻譯的地方。
 
-![Naver Map](naver.png)
+![Naver Map](naver.webp)
 
-![Kakao Map](kakao.jpg)
+![Kakao Map](kakao.webp)
 
 資料來源：
 - [Why South Korea refuses to share mapping data with Google](https://www.csmonitor.com/Technology/2016/1118/Why-South-Korea-refuses-to-share-mapping-data-with-Google) on The Christian Science Monitor

@@ -44,7 +44,7 @@ theme: "light"
 
 ## 2024 最新版達克斯坦山門票價格和種類
 
-![](IMG_7335.JPG)
+![](IMG_7335.webp)
 
 達克斯坦山的門票共有五種，資訊蠻雜亂的，而且又在 2024 做了一些更新，以下詳細為大家介紹，也可以配合[官方網站的購票系統](https://shop.dachstein-salzkammergut.com/en/#type=day-ticket&date=tomorrow&hasPackages=false&hasTickets=true&keyword=adults)一起參考。
 
@@ -177,7 +177,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 ## 達克斯坦山餐廳
 
-![](DSC09483.jpg)
+![](DSC09483.webp)
 
 在達克斯坦山上的餐廳選擇少，雖然在山上的纜車站內有時候會有營業中的咖啡廳或是小吃店，但是建議有充足預算和時間的旅客可以在纜車第二站的 [Bergrestaurant Dachstein Krippenstein](https://www.dachstein-salzkammergut.com/en/gastronomy-stay-booking/mountain-restaurant-dachstein-krippenstein) 和 [Lodge am Krippenstein](https://www.lodge.at/restaurant/) 這兩間餐廳做選擇。
 

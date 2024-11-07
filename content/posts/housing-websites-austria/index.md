@@ -95,7 +95,7 @@ WG 是很多留學生、交換學生的第一選擇，因為價格最便宜，�
 
 ### Akademikerhilfe
 
-![Akademikerhilfe 網站頁面](akademikerhilfe.png)
+![Akademikerhilfe 網站頁面](akademikerhilfe.webp)
 
 Akademikerhilfe 是專門提供學生宿舍房源的慈善組織，平台房源包含奧地利各城市的學生宿舍，介面直覺簡單好用，價格也公開透明。
 
@@ -142,7 +142,7 @@ Dorms.com 是一個提供全球各城市學生宿舍、青年旅館、共享空�
 
 ### Facebook
 
-![Facebook 頁面在手機上](facebook.png)
+![Facebook 頁面在手機上](facebook.webp)
 
 Facebook 有許多社團專門提供租屋方面的訊息，可以透過關鍵字像是 Wohnung、Studio、WG 等等進行搜尋好尋找自己偏好的房型。
 
@@ -150,7 +150,7 @@ Facebook 有許多社團專門提供租屋方面的訊息，可以透過關鍵�
 
 ### home4students
 
-![home4students 網站頁面](home4students.png)
+![home4students 網站頁面](home4students.webp)
 
 home4students 是一個奧地利的非營利組織，旨在提供在奧地利讀書的學生良好的居住環境。不過雖然主要客群是學生，在註冊時似乎也可以使用非學生的身份尋找、申請房源唷～
 
@@ -172,7 +172,7 @@ home4students 是一個奧地利的非營利組織，旨在提供在奧地利讀
 
 ### HousingAnywhere
 
-![housinganywhere 網站頁面](housinganywhere.png)
+![housinganywhere 網站頁面](housinganywhere.webp)
 
 HousingAnywhere 是一個提供全球租屋房源的平台，可以根據租期選擇短租或長租，價格算蠻透明，租屋的資訊也都很完整，且因為房源單純，都是房源出租，沒有青旅、飯店等，比起 Dorms.com，在找中長期的住處時，我會更偏好 HousingAnywhere 這個平台。
 
@@ -193,7 +193,7 @@ HousingAnywhere 是一個提供全球租屋房源的平台，可以根據租期�
 
 ### Immobilien Der Standard
 
-![Immobilien 網站頁面](immobilien.png)
+![Immobilien 網站頁面](immobilien.webp)
 
 Immobilien Der Standard 是德國和奧地利每日報紙 Der Standard 旗下產品之一，提供在德語區生活的人進行租屋、買賣房屋。
 
@@ -240,7 +240,7 @@ note: https://www.immobilienscout24.at/??
 
 ### milestone
 
-![milestone 網站頁面](milestone.png)
+![milestone 網站頁面](milestone.webp)
 
 milestone 是一間提供學生和年輕上班族租屋房源的公司，目前在奧地利的房源僅在[維也納](https://www.milestone.net/location/milestone-vienna-campus/)、[林茨](https://www.milestone.net/location/milestone-linz-brucknerstudios/)、[萊奧本](https://www.milestone.net/location/milestone-leoben-montan/)、和[格拉茨](https://www.milestone.net/location/milestone-graz-lend/)。
 
@@ -261,7 +261,7 @@ milestone 是一間提供學生和年輕上班族租屋房源的公司，目前�
 
 ### OeAD
 
-![oead 網站頁面](oead.png)
+![oead 網站頁面](oead.webp)
 
 OeAD 是提供學生房源的非營利組織，是最熱門的房源網站之一，提供奧地利各城市房源，並可透過多項篩選去選擇出自己理想中的房型，網站有提供 360° 實景互動式相片，讓租客租屋前能夠線上看房。
 
@@ -283,7 +283,7 @@ OeAD 是提供學生房源的非營利組織，是最熱門的房源網站之一
 
 ### ÖJAB
 
-![ojab 網站頁面](ojab.png)
+![ojab 網站頁面](ojab.webp)
 
 ÖJAB 是提供學生房源的非營利組織，是最熱門的房源網站之一，提供奧地利維也納、格拉茨、薩爾斯堡、等大小城市房源，網站有提供 360° 實景互動式相片，讓租客租屋前能夠線上看房。
 
@@ -304,7 +304,7 @@ OeAD 是提供學生房源的非營利組織，是最熱門的房源網站之一
 
 ### Studium.at
 
-![Studium.at 網站頁面](studium.png)
+![Studium.at 網站頁面](studium.webp)
 
 Studium.at 是一個專門提供學術相關的網站，也包含了工作機會、租屋房源、大學新聞等。
 
@@ -325,7 +325,7 @@ Studium.at 是一個專門提供學術相關的網站，也包含了工作機會
 
 ### STUWO
 
-![STUWO 網站頁面](STUWO.png)
+![STUWO 網站頁面](STUWO.webp)
 
 STUWO 是提供學生房源的奧地利公司，是最熱門的房源網站之一，房源常常供不應求，這是我最喜歡的其中一個租房網站。
 
@@ -346,7 +346,7 @@ STUWO 是提供學生房源的奧地利公司，是最熱門的房源網站之�
 
 ### WG-gesucht
 
-![WG-gesucht 網站頁面](wg-gesucht.png)
+![WG-gesucht 網站頁面](wg-gesucht.webp)
 
 WG-gesucht 是一個提供德國、奧地利、和西班牙房源的租屋平台，大多數房源為屋主或仲介出租，有些房源資訊較不完整，整體房源價位偏高。
 
@@ -365,7 +365,7 @@ WG-gesucht 是一個提供德國、奧地利、和西班牙房源的租屋平台
 - 部分房源資訊參差不齊
 
 ### wilhast
-![wilhast 網站頁面](wilhast.png)
+![wilhast 網站頁面](wilhast.webp)
 
 wilhast 是在一次世界大戰後，於 1923 年成立的租屋組織，來幫助學生找到適合的居所，現在在維也納周遭共有 16 個宿舍、提供超過 3200 個床位，非常適合預算較低的學生！
 
@@ -386,7 +386,7 @@ wilhast 是在一次世界大戰後，於 1923 年成立的租屋組織，來幫
 
 ### Willhaben
 
-![Willhaben 網站頁面](willhaben.png)
+![Willhaben 網站頁面](willhaben.webp)
 
 根據部落客[無糖綠](https://vocus.cc/user/@cestlawien)的經驗，Willhaben 是最多奧地利當地人會使用的租屋平台，該平台也提供買賣二手用品（家具、汽車）、找工作等等的服務，是一個會讓你感覺相見恨晚的平台！
 
