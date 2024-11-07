@@ -1,7 +1,7 @@
 ---
 title: 波蘭卡托維治市區交通攻略｜各交通方式、票價、購票方式全解析
 description: 波蘭卡托維治市區交通全解析，輕鬆遊玩西里西亞省大城！
-draft: true
+draft: false
 slug: 卡托維治市區交通攻略
 folder-name: katowice-public-transportation
 author: Mar Chang
