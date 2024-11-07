@@ -120,7 +120,7 @@ Akademikerhilfe 是專門提供學生宿舍房源的慈善組織，平台房源�
 
 ### Dorms.com
 
-![Dorms.com 網站頁面](dorms.png)
+![Dorms.com 網站頁面](dorms.webp)
 
 Dorms.com 是一個提供全球各城市學生宿舍、青年旅館、共享空間租賃的整合平台，不管是短期住宿或是長期居住，都可以到平台上逛逛參考房源和價格。
 

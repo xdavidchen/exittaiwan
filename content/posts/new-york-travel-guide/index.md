@@ -59,7 +59,7 @@ theme: "light"
 
 不過別擔心，我們幫你把複雜的事情簡單化了。大方向來說，你只要把三件事情搞對就不會遇到什麼太大的問題：**方向、區域、和態度。**
 
-![曼哈頓天際線](manhattan.png)
+![曼哈頓天際線](manhattan.webp)
 
 #### 把方向搞對
 
@@ -73,7 +73,7 @@ theme: "light"
 
 另外，第 1 街往南還有一大塊區域不是用序數來命名，像是華爾街就在這個範圍內；以旅遊來說**往北最遠你只需要到 86 街附近，再過去的區域治安堪憂**，不建議前往。
 
-![曼哈頓下城的華爾街](wall-street.jpg)
+![曼哈頓下城的華爾街](wall-street.webp)
 
 在曼哈頓生活的當地人也常用街區來描述公司、住家或自身的所在位置。
 
@@ -117,7 +117,7 @@ theme: "light"
 
 ### 紐約氣候
 
-![下雪時的公園](new-york-winter.jpg)
+![下雪時的公園](new-york-winter.webp)
 
 從網路上的資料來看，如果你是夏天和秋天前往紐約，穿的跟在台灣同時期應該不會差太多；但如果你是在冬天和春天去紐約旅遊，在打包行李的時候，腦中請想像電影《明天過後》（The Day After Tomorrow）紐約冰天凍地的情景，紐約下雪的時候身體感受到的差不多就是那麼冷。
 
@@ -133,7 +133,7 @@ theme: "light"
 
 ## 紐約趴趴走 — 交通篇
 
-![](street-view.jpg)
+![](street-view.webp)
 
 在機場和市區交通方面，你可以參考這篇[**紐約機場到市區交通全攻略**](https://exittaiwan.com/posts/紐約機場到市區交通全攻略/)。
 
@@ -166,7 +166,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 大都會藝術博物館 The Metropolitan Museum of Art — 82nd St.
 
-![大都會博物館門口](the-met.jpg)
+![大都會博物館門口](the-met.webp)
 
 位在中央公園東側，世界上最大、參觀人數最多的博物館之一。
 
@@ -176,7 +176,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 美國自然史博物館 American Museum of Natural History — 79th St.
 
-![美國自然史博物館 photo by Aditya Vyas on Unsplash](museum-natural-history.jpg)
+![美國自然史博物館 photo by Aditya Vyas on Unsplash](museum-natural-history.webp)
 
 電影《博物館驚魂》（Night at the Museum）夜拍攝地，需要到[官網購票、預約](https://tickets.amnh.orselect)入場時間。
 
@@ -186,7 +186,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 中央公園 Central Park — 59th St.
 
-![中央公園](central-park-city-view.jpg)
+![中央公園](central-park-city-view.webp)
 
 紐約最有名的公園，超大腹地、眾多電影取景地，公園內冬天有溜冰場可以溜冰、結冰湖畔景觀、天氣暖和的時候可以野餐、散步、城市天際線一覽無遺、厲害的街頭藝人常駐在這唱歌、還有一個中小型動物園。
 
@@ -205,11 +205,11 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 中央公園內動物園 Central Park Zoo - 64th St.
 
-![活潑的海獅](zoo-1.jpg)
+![活潑的海獅](zoo-1.webp)
 
-![雪豹](zoo-2.jpg)
+![雪豹](zoo-2.webp)
 
-![慵懶的猴子](zoo-3.jpg)
+![慵懶的猴子](zoo-3.webp)
 
 在中央公園東南方的中小型動物園，如果帶小孩時間又充裕可以進去逛逛。
 
@@ -221,7 +221,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 紐約現代藝術美術館 The Museum of Modern Art (MoMA) — 53rd St.
 
-![安迪沃荷的藝術品](andy-warhol.jpg)
+![安迪沃荷的藝術品](andy-warhol.webp)
 
 位在市中心的 MoMA，館藏有梵谷名畫、安迪沃荷作品、還有很好逛很好買但是蠻貴的紀念品店。
 
@@ -231,13 +231,13 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 洛克菲勒中心 Rockefeller Center — 50th St.
 
-![洛克菲勒中心前廣場](rockefeller-center.jpg)
+![洛克菲勒中心前廣場](rockefeller-center.webp)
 
 美國國家歷史地標，峭石之巔觀景台（Top of the Rock）所在，辦公大樓結合購物街，有露天溜冰場。
 
 Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有自由女神像，是視野最好、最超值的必去紐約觀景台。
 
-![Top of the Rock 觀景台](top-of-the-rock.jpg)
+![Top of the Rock 觀景台](top-of-the-rock.webp)
 
 - 地址：45 Rockefeller Plaza, New York
 - 觀景台開放時間：早上 9:00 ~ 晚上 11:00
@@ -245,9 +245,9 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 #### 時代廣場 Times Square — 45th St.
 
-![時代廣場](time-square-1.jpg)
+![時代廣場](time-square-1.webp)
 
-![時代廣場和 NYPD 警車](time-square-2.jpg)
+![時代廣場和 NYPD 警車](time-square-2.webp)
 
 紐約最多觀光客的所在地、各種品牌購物、餐廳料理，打卡地標都在這裡找得到，由於人潮眾多，所以這裡有很多警察駐點，但來到這裡還是請小心專門騙觀光客的布偶人或是可疑人物。
 
@@ -261,7 +261,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 #### 紐約公共圖書館 New York Public Library — 42nd St.
 
-![紐約公共圖書館 Photo by Robert Bye on Unsplash](new-york-library.jpg)
+![紐約公共圖書館 Photo by Robert Bye on Unsplash](new-york-library.webp)
 
 位在布萊恩特公園旁，世界著名的圖書館，眾多電影取景地，館藏有牛頓的《自然哲學的數學原理》（Philosophia Naturalis Principia Mathematica），就是牛頓運動定律的那本書，令人頭痛。
 
@@ -270,7 +270,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 #### 紐約中央車站 Grand Central Terminal — 42nd St.
 
-![夜晚時的紐約中央車站](central-station.jpg)
+![夜晚時的紐約中央車站](central-station.webp)
 
 紐約最繁忙的車站、特色建築。
 
@@ -279,13 +279,13 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 #### 百老匯大道 — 貫穿曼哈頓
 
-![百老匯大道](broadway.jpg)
+![百老匯大道](broadway.webp)
 
 百老匯大道上有許多劇院，每間劇院上演不同的百老匯秀，熱門的秀一天都會演 2 ~ 3 場，很可惜的是歌劇魅影在 2023 年已經宣布停演了。
 
 #### 梅西百貨 Macy's — 34th St.
 
-![梅西百貨](macys.jpg)
+![梅西百貨](macys.webp)
 
 梅西百貨總部，是所有梅西百貨最大間的。
 
@@ -294,7 +294,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 #### 帝國大廈 Empire State Building — 34th St.
 
-![帝國大廈](empire-state-building.jpg)
+![帝國大廈](empire-state-building.webp)
 
 可能是世界上最著名的摩天大樓，眾多電影取景地，觀景台可眺望曼哈頓，每個觀光客必來景點。
 
@@ -304,7 +304,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 #### 松果 The Vessel — 34th St.
 
-![松果](vessel.jpg)
+![松果](vessel.webp)
 
 2019年新落成，特色建築、拍照打卡聖地，旁有購物中心。
 
@@ -314,7 +314,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 #### 麥迪遜廣場花園球場 Madison Square Garden — 31st St.
 
-![麥迪遜廣場花園球場](madison-square-garden.jpg)
+![麥迪遜廣場花園球場](madison-square-garden.webp)
 
 NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱會場地使用。
 
@@ -324,7 +324,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 熨斗大廈 Flatiron Building — 23rd St.
 
-![熨斗大廈](flatiron.jpg)
+![熨斗大廈](flatiron.webp)
 
 電影取景地、特色建築、拍照打卡聖地。
 
@@ -332,9 +332,9 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 漂浮公園 Little Island — 14th St.
 
-![漂浮公園](little-island.jpg)
+![漂浮公園](little-island.webp)
 
-![漂浮公園](little-island-2.jpg)
+![漂浮公園](little-island-2.webp)
 
 適合散步、遠看城市天際線、偶爾有街頭藝人出沒、也能看夕陽、海景。
 
@@ -343,7 +343,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 華盛頓公園 Washington Square Park — 6th St.
 
-![華盛頓公園 photo by Kevin](washington-square-park.jpg)
+![華盛頓公園 photo by Kevin](washington-square-park.webp)
 
 下城最熱鬧的公園，當地人和觀光客溜搭休息好去處。
 
@@ -352,7 +352,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 紐約大學 New York University — 4th St.
 
-![紐約大學 photo by Jeremy Huang on Unsplash](nyu.jpg)
+![紐約大學 photo by Jeremy Huang on Unsplash](nyu.webp)
 
 美國知名大學。紐約大學沒有校園，校區有各個建築散佈在曼哈頓下城區所組成，可以到書店購買紐約大學紀念品。
 
@@ -361,7 +361,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 布魯克林大橋 Brooklyn Bridge — Metro Brooklyn Bridge City Hall Station
 
-![布魯克林大橋日落](brooklyn-bridge.jpg)
+![布魯克林大橋日落](brooklyn-bridge.webp)
 
 布魯克林大橋連接曼哈頓和布魯克林區，適合散步、看夕陽、拍照。
 
@@ -371,7 +371,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### The Dumbo
 
-![The Dumbo](dumbo-new-york.jpg)
+![The Dumbo](dumbo-new-york.webp)
 
 年輕人最愛的紐約拍照打卡地點之一，街道兩旁的紅磚建築配上後方的布魯克林大橋是所有紐約人都認得的場景。
 
@@ -379,16 +379,16 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 世貿中心 World Trade Center
 
-![世貿中心 photo by Kevin](world-trade-center.jpg)
+![世貿中心 photo by Kevin](world-trade-center.webp)
 
 911事件後新蓋的世貿中心，結合購物中心的商辦摩天大樓，高樓層設有觀景臺，旁有 911紀念博物館，值得參觀。
 
-![世貿中心的購物商場 | photo by Kevin](westfield-world-trade-center.jpg)
+![世貿中心的購物商場 | photo by Kevin](westfield-world-trade-center.webp)
 
 - 地址：285 Fulton St, New York
 - 購物中心營業時間：每日 10:00 ~ 20:00
 
-![911 紀念博物館](911-museum.jpg)
+![911 紀念博物館](911-museum.webp)
 
 - 地址：180 Greenwich St, New York
 - 911 紀念博物館營業時間：週二公休，10:00 ~ 17:00
@@ -396,11 +396,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 華爾街 Wall Street
 
-![證券交易所](stock-exchange.jpg)
+![證券交易所](stock-exchange.webp)
 
 美國證券交易所、華爾街金牛所在地，拍照通常要排隊排很久。
 
-![華爾街金牛](wall-street-bull.jpg)
+![華爾街金牛](wall-street-bull.webp)
 
 #### 自由女神像 Statue of Liberty
 
@@ -419,7 +419,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 蘇活區 Soho — Houston St. & Canal St. 之間
 
-![蘇活區](soho-street.jpg)
+![蘇活區](soho-street.webp)
 
 曼哈頓人的購物天堂，你能想到的品牌這裡都有，消費偏高，也有不少餐廳。
 
@@ -427,13 +427,13 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 唐人街 Chinatown — Canal St.
 
-![唐人街](china-town.jpg)
+![唐人街](china-town.webp)
 
 華人集散地，有不少人在擺地攤販賣冒牌奢侈包，也有很多亞洲餐廳在此區域。
 
 #### 三一教堂 Trinity Church — Wall St.
 
-![三一教堂](trinity-church.jpg)
+![三一教堂](trinity-church.webp)
 
 位在華爾街地鐵站旁，17世紀末的教堂，美國歷史名人長眠處。
 
@@ -444,7 +444,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 ### Pod Times Square
 
-![從房間內看出去的景觀](pod-room.jpg)
+![從房間內看出去的景觀](pod-room.webp)
 
 對於預算不是很高的人來說，很推薦 Pod Times Square 這間旅店。它是一間連鎖的旅店，在紐約共有三間，一間就在時代廣場附近，另外兩間也都在中城的區域，分別是 51 街和 39 街上。
 
@@ -469,7 +469,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 ### New York City Pass 紐約旅遊套票
 
-![紐約旅遊套票](new-york-citypass.jpg)
+![紐約旅遊套票](new-york-citypass.webp)
 
 紐約旅遊套票（New York City Pass）包含了紐約五大景點的門票，售價約為原價六折。
 
@@ -492,7 +492,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 2. 截圖 QR Code 或 下載票卷至手機。
 3. 於景點出示 QR Code 即可兌換門票。
 
-![紐約旅遊套票手機版](citypass-ticket-mobile.png)
+![紐約旅遊套票手機版](citypass-ticket-mobile.webp)
 
 **使用須知：**
 - 須於購買後一年內開始使用
