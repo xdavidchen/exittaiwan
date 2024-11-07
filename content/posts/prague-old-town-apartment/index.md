@@ -17,7 +17,7 @@ theme: "light"
 
 ## Smetanovo nábřeží 26 - Riverview Old Town Apartment 捷克布拉格老城河景公寓基本資訊
 
-![|inline](1.jpeg)
+![|inline](1.webp)
 
 - 地址：Smetanovo nábřeží 26, Prague, 110 00（[Google Maps](https://www.google.com/maps/place/Smetanovo+n%C3%A1b%C5%99.+197%2F26,+110+00+Star%C3%A9+M%C4%9Bsto,+%E6%8D%B7%E5%85%8B/@50.0855374,14.4115792,17z/data=!3m1!4b1!4m6!3m5!1s0x470b94e58c0f2bef:0x80101d266595b34d!8m2!3d50.0855374!4d14.4141541!16s%2Fg%2F11jv73x1_y?entry=ttu)）
 - 接待處地址：Masná 686/20, 110 00 Staré Město（[Google Maps](https://www.google.com/maps/place/Masn%C3%A1+686%2F20,+110+00+Star%C3%A9+M%C4%9Bsto,+%E6%8D%B7%E5%85%8B/@50.0896109,14.4232176,17z/data=!3m1!4b1!4m6!3m5!1s0x470b94ea150d48ed:0xb0a7b4d3c6817320!8m2!3d50.0896109!4d14.4257925!16s%2Fg%2F11csjhm6m7?authuser=1&entry=ttu)）*地鐵 Náměstí Republiky（共和廣場）站步行約五分鐘
@@ -38,15 +38,15 @@ theme: "light"
 
 客廳附有電視、環繞音響、兩張大沙發和客廳桌、一張雙人床，如果同行人數超過 6 人（三間雙人房），也可以選擇睡在客廳的床和沙發上。
 
-![客廳全景|inline](2.jpeg)
+![客廳全景|inline](2.webp)
 
-![客廳的吊燈非常氣派|inline](3.jpeg)
+![客廳的吊燈非常氣派|inline](3.webp)
 
 客廳旁還連接著一個小陽台，有著這整層公寓最好的景觀。
 
 雖然沒有辦法直接看到查理大橋本人，不過能看到伏爾塔瓦（捷克語：Vltava）河景和日落時的光線，有閒情逸致的人絕對要在這邊享受早餐或下午茶。
 
-![陽台景觀|inline](4.jpeg)
+![陽台景觀|inline](4.webp)
 
 ### 廚房
 
@@ -54,9 +54,9 @@ theme: "light"
 
 怕在歐洲旅行時吃外面太貴，可以買回來自己煮，也可以外帶回來避免每次餐廳吃飯都要付酒水費和服務費。
 
-![廚房區及吧台區|inline](5.jpeg)
+![廚房區及吧台區|inline](5.webp)
 
-![廚房區及吧台區另一角度|inline](6.jpeg)
+![廚房區及吧台區另一角度|inline](6.webp)
 
 ### 房間
 
@@ -64,13 +64,13 @@ theme: "light"
 
 撇除客廳房，這三間房間都是簡單傳統的雙人房。
 
-![走廊|inline](7.jpeg)
+![走廊|inline](7.webp)
 
-![第一間雙人房|inline](8.jpeg)
+![第一間雙人房|inline](8.webp)
 
-![第二間雙人房|inline](9.jpeg)
+![第二間雙人房|inline](9.webp)
 
-![第三間雙人房|inline](10.jpeg)
+![第三間雙人房|inline](10.webp)
 
 ### 廁浴
 
@@ -78,7 +78,7 @@ theme: "light"
 
 飯店提供每位房客大毛巾和小毛巾各一條，有洗手乳和吹風機、衛生紙備品也足夠，但是沫浴乳、洗髮乳等其他個人衛生備品需要自行準備。
 
-![廁浴|inline](11.jpeg)
+![廁浴|inline](11.webp)
 
 ## 老城河景公寓整體評價
 

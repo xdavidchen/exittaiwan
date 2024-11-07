@@ -43,7 +43,7 @@ theme: "light"
 
 ## 維也納金色大廳（音樂協會）基本資訊
 
-![|inline](musikverein.jpg)
+![|inline](musikverein.webp)
 
 - 地址：Musikvereinsplatz 1, 1010 Vienna（[Google Maps](https://www.google.com/maps/place/%E9%87%91%E8%89%B2%E5%A4%A7%E5%BB%B3/@48.2007972,16.3647574,15z/data=!4m6!3m5!1s0x476d079d51daeac7:0x82c12bc03731834f!8m2!3d48.200544!4d16.372359!16zL20vMDFwbDZx?entry=ttu)）
 - 交通：地鐵 U1 或 U4 線搭到卡爾廣場（Karlsplatz）站，步行約五分鐘；路面電車 71 號搭到 Schwarzenbergplatz 站；公車 59A 搭到歌劇院，卡爾廣場（Oper, Karlsplatz）站或是 4A 搭到卡爾廣場（Karlsplatz）站
@@ -93,7 +93,7 @@ theme: "light"
 2. 如果選位時看到「restricted view」或類似的字樣，代表該座位有視野死角，可能會影響觀演體驗。
 3. 「Reihe」指的是「排」；「Platz」指的是「座位」。
 
-![金色大廳座位示意圖|inline](seat-plan-muskverein.jpg)
+![金色大廳座位示意圖|inline](seat-plan-muskverein.webp)
 
 ### 一樓前小部分（Cercle）
 
@@ -135,7 +135,7 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 
 ## 金色大廳購票教學
 
-![|inline](musikverein-book-tickets.png)
+![|inline](musikverein-book-tickets.webp)
 
 1. 在金色大廳的官網上查看[**當月節目表**](https://www.musikverein.at/en/concert-plan-2/)，選擇日期時間場次。
 2. 根據自身喜好和預算選擇座位。
@@ -159,7 +159,7 @@ banner = 訂票服務
 
 ## 加碼內容：怎麼親自朝聖維也納新年音樂會？
 
-![|inline](wiener-philharmoniker.png)
+![|inline](wiener-philharmoniker.webp)
 
 維也納新年音樂會的歷史可以追朔到 1941 年，在二戰期間的這場演唱會，所有收入都會捐獻給史特勞斯音樂家族，很多人認為這是一場維也納在戰爭中表示獨立性的方式。
 

@@ -5,13 +5,13 @@ date: 2023-12-11
 description: "紐約市區交通方式的實用資訊，包含價格、購票方式、和優缺點比較，讓你在紐約輕鬆走跳！"
 draft: false
 author: "David Chen"
-cover: "feature.jpg"
-image: "feature.jpg"
+cover: "feature.webp"
+image: "feature.webp"
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 theme: "light"
 ---
 
-![|inline](feature.jpg)
+![|inline](feature.webp)
 
 即將到紐約市區旅遊嗎？除了要知道[**如何從紐約機場到市區的交通**](https://exittaiwan.com/posts/%E7%B4%90%E7%B4%84%E6%A9%9F%E5%A0%B4%E5%88%B0%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)，到了市區之後，當然還需要知道市區內的交通方式！
 
@@ -29,7 +29,7 @@ theme: "light"
 
 ## 紐約市區交通方式一：地鐵
 
-![|inline](metro-station-entry.jpg)
+![|inline](metro-station-entry.webp)
 
 只要是比較長距離的移動，紐約地鐵通常都是旅客的第一選擇。
 
@@ -61,7 +61,7 @@ theme: "light"
 
 ## 紐約市區交通方式二：公車
 
-![|inline](bus.jpg)
+![|inline](bus.webp)
 
 如果要前往離地鐵站有點距離的地方，可以選擇搭紐約市的公車。價格和地鐵一樣，購票方式也和地鐵一樣。
 
@@ -75,7 +75,7 @@ theme: "light"
 
 ## 紐約市區交通方式三：Citibike
 
-![|inline](citi-bike.jpg)
+![|inline](citi-bike.webp)
 
 [Citibike](https://citibikenyc.com/) 是紐約的自行車租借服務，路上隨便找都會看到租借站點。要租借前，需要先[下載應用程式](https://citibikenyc.com/how-it-works/app)、註冊會員，才有辦法順利使用。
 
@@ -87,7 +87,7 @@ theme: "light"
 
 ## 紐約市區交通方式四：Lyft / Uber / 計程車
 
-![|inline](taxi.jpg)
+![|inline](taxi.webp)
 
 出租車和計程車服務我就當作一樣的交通方式囉！基本上 Lyft、Uber、計程車這三種交通方式的價格都不會差太多，可以在叫車當下交叉比對上下車地點，看看哪一個價格最划算。
 
@@ -97,7 +97,7 @@ theme: "light"
 
 ## 紐約市區交通方式五：雙腿
 
-![|inline](street-view.jpg)
+![|inline](street-view.webp)
 
 在[**紐約旅遊**](https://exittaiwan.com/posts/紐約自由行旅遊/)，雙腿是荷包的好朋友。
 

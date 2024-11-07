@@ -5,13 +5,13 @@ date: 2023-09-04
 description: "想要在首爾東大門商圈玩得開心、購物滿足、享受美食，首先要找到適合的住宿！這篇文章，我整理了十間我最推薦且包含各個價格區間、位在首爾東大門的飯店給前往韓國旅遊的台灣旅客。"
 draft: false
 author: "Tim Kuo"
-cover: "feature.jpeg"
-image: "feature.jpeg"
+cover: "feature.webp"
+image: "feature.webp"
 tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
 theme: "light"
 ---
 
-![|inline](feature.jpeg)
+![|inline](feature.webp)
 
 ## 首爾東大門商圈
 
@@ -62,7 +62,7 @@ $$$$ = > 10000
 
 ### 東大門飯店推薦 2 - 東大門 IBC 酒店
 
-![東大門 IBC 酒店外觀｜*照片取自東大門 IBC 酒店官網|inline](hotel-ibc.jpeg)
+![東大門 IBC 酒店外觀｜*照片取自東大門 IBC 酒店官網|inline](hotel-ibc.webp)
 
 [東大門 IBC 酒店](https://www.booking.com/hotel/kr/ibc.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2)是個方便性極高的酒店，內含酒吧、商店、附設會議室和健身中心。酒店甚至有提供多項服務包括外幣兌換、免費行李寄存和傳真／影印服務。工作人員非常友善並樂於助人，是個有安靜又乾淨的酒店。此外，東大門 IBC 酒店周邊有京東市場以及平和市場。整體來說，非常適合旅遊新手。
 
@@ -79,7 +79,7 @@ $$$$ = > 10000
 
 ### 東大門飯店推薦 3 - LACOZi STAY
 
-![LACOZi STAY 飯店外觀｜*照片取自 LACOZi STAY 飯店官網|inline](lacozi-stay.jpeg)
+![LACOZi STAY 飯店外觀｜*照片取自 LACOZi STAY 飯店官網|inline](lacozi-stay.webp)
 
 [LACOZi STAY 住宿](https://www.booking.com/hotel/kr/rakojiseutei.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2)的客房均設有私人衛浴，且提供淋浴設施和吹風機。客房為住客設有空調，提供保險箱和平面電視，WiFi 當然也是免費。LACOZi STAY 離 GS25 便利商店走路不到 1 分鐘，房間內的設施完善，是喜歡自己煮東西的人的首選。雖然它距離東大門商圈有一點距離，但只能搭上捷運，都不是問題。總結就是 LACOZi STAY 是一間適合家庭旅遊的住宿，如果你的旅遊風格步調比較輕鬆，可以考慮看看！
 
@@ -96,7 +96,7 @@ $$$$ = > 10000
 
 ### 東大門飯店推薦 4 - 東大門 K 大旅館
 
-![東大門 K 大旅館外觀｜*照片取自東大門 K 大旅館官網|inline](k-grand-hostel.jpeg)
+![東大門 K 大旅館外觀｜*照片取自東大門 K 大旅館官網|inline](k-grand-hostel.webp)
 
 [東大門 K 大旅館](https://www.booking.com/hotel/kr/k-guesthouse-dongdaemun-3.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2)提供多項便利設施，包括觀光旅遊櫃台、全面禁菸客房、共用休息室以及可以看到美麗風景的露台。這家旅館的住宿套餐包含美味早餐，且在房間就能享有美麗的景色！飯店也保持得非常乾淨，設施齊全，而且工作人員態度親切友善，溝通能力出色，非常樂於協助。另外，它除了價格實惠，位置也非常方便，離地鐵站不遠。推薦給獨自旅遊或與親友兩人行的你！
 
@@ -130,7 +130,7 @@ $$$$ = > 10000
 
 ### 東大門飯店推薦 6 - 東大門阿里郎山飯店
 
-![東大門阿里郎山飯店外觀｜*照片取自東大門阿里郎山飯店官網|inline](arirang.jpeg)
+![東大門阿里郎山飯店外觀｜*照片取自東大門阿里郎山飯店官網|inline](arirang.webp)
 
 [東大門阿里郎山飯店](https://www.booking.com/hotel/kr/best-western-a-hill-dongdaemun.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2)提供現代化的客房，裝潢以暖色調的木製家具為主，可以感受到溫馨舒適的氛圍。飯店備有一個休息區，裡面有沙發和平面有線電視，是一個很不錯的休息空間。24 小時接待並提供方便快捷的服務，包括外幣兌換和行李寄存。此外，館內的健身中心也供顧客免費使用。飯店的服務人員非常親切和熱情。儘管房型空間相對不大，但環境非常安靜舒適，住在這了真的很愜意。如果你喜歡這種輕輕鬆鬆、自由自在的感覺，勢必要考慮一下東大門阿里郎山飯店！
 
@@ -147,7 +147,7 @@ $$$$ = > 10000
 
 ### 東大門飯店推薦 7 - 空中花園東大門金斯敦酒店
 
-![空中花園東大門金斯敦酒店外觀｜*照片取自空中花園東大門金斯敦酒店官網|inline](skyparkhotel.jpeg)
+![空中花園東大門金斯敦酒店外觀｜*照片取自空中花園東大門金斯敦酒店官網|inline](skyparkhotel.webp)
 
 [空中花園東大門金斯敦酒店](https://www.booking.com/hotel/kr/skypark-kingstown-dongdaemun.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2)位於地點極佳的位置，樓下就是進入東大門購物商圈，交通便利，周邊餐飲和便利商店多不勝數。飯店的服務人員極為親切專業，精通多國語言，讓溝通變得無障礙。客房現代化，並且都鋪設了柔軟的地毯，提供了一個舒適的休息空間。此外，飯店的接待櫃檯 24 小時開放，提供禮賓服務、外幣兌換和行李寄存服務。最可愛的是飯店有提供行李磅秤，讓旅客去機場前可以確認自己的行李是否會超重。雖然金斯敦酒店的價位稍微比較高，但 CP 質絕對是數一數二，推薦給單純只想來購物的各位！
 
@@ -164,7 +164,7 @@ $$$$ = > 10000
 
 ### 東大門飯店推薦 8 - Glue Hotel
 
-![Glue Hotel 飯店外觀｜*照片取自 Glue Hotel 官網|inline](glue-hotel.jpeg)
+![Glue Hotel 飯店外觀｜*照片取自 Glue Hotel 官網|inline](glue-hotel.webp)
 
 [Glue Hotel](https://www.booking.com/hotel/kr/glue-hotel.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2) 是一間平價 3 星級飯店，飯店提供行李寄放服務，方便你在入住或退房時輕鬆處理行李。櫃台服務人員非常親切，並能以英語、日語和韓語 3 種語言溝通，並且 24 小時服務。房間裝修設備頗新，乾淨且陽光充足，營造出舒適的居住環境。這間飯店的獨特之處在於每間客房都設有一台迷你唱機，並提供一張黑膠唱片，供客人欣賞音樂。這種浪漫的氛圍特別吸引情侶入住，帶著你的另一伴去好好享受吧！
 
@@ -198,7 +198,7 @@ $$$$ = > 10000
 
 ### 東大門飯店推薦 10 - 首爾新羅酒店
 
-![首爾新羅酒店外觀｜*照片取自普爾新羅酒店官網|inline](shilla.jpeg)
+![首爾新羅酒店外觀｜*照片取自普爾新羅酒店官網|inline](shilla.webp)
 
 [首爾新羅酒店](https://www.booking.com/hotel/kr/the-shilla.zh-tw.html?aid=7956794&no_rooms=1&group_adults=2)連續四年榮獲《富比士旅遊指南》的五星級殊榮，堪稱卓越的住宿選擇。飯店提供免費接駁巴士前往東國大學地鐵站。飯店更有全方位的服務，包括豪華 SPA 和六間精緻餐廳。此外，飯店設有健身俱樂部，提供健身房、高爾夫練習場和步道，並提供瑜伽課程和有氧運動課程。客房以溫暖的色調裝潢，設備齊全，包括空調和暖氣，最重要的是，飯店的服務人員始終態度只能說是太專業了。此外，飯店大樓內還設有購物中心，不用出門也能輕鬆購物和娛樂。當然。價格方面偏高，如果你也想體驗奢華的生活，可以參考看看！
 

@@ -49,7 +49,7 @@ $$$$ = > 10000
 
 ### 首爾弘大、梨大、新村飯店推薦 1 - 弘大風格旅館
 
-![弘大風格旅館飯店外觀｜*照片取自弘大風格旅館飯店官網](style.jpeg)
+![弘大風格旅館飯店外觀｜*照片取自弘大風格旅館飯店官網](style.webp)
 
 [弘大風格旅館](https://www.booking.com/hotel/kr/hongdae-style-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2)具有方便的交通位置，前往城市內的各大景點和設施都很輕鬆快速。儘管位於市中心，住宿處卻非常安靜，提供了一個非常適合休息的環境。旅館提供老闆親自做的早餐，也有訂購外送的服務，用餐方面完全不用擔心。弘大風格旅館還是個講求安全性飯店，設有高度的安全措施，門窗都有雙層保護。最後，老闆非常友善和客氣，也很熱情。推薦給想要舒適安心旅遊的你！
 
@@ -66,7 +66,7 @@ $$$$ = > 10000
 
 ### 首爾弘大、梨大、新村飯店推薦 2 - Mercure Ambassador Seoul Hongdae
 
-![Mercure Ambassador Seoul Hongdae 飯店外觀｜*照片取自 Mercure Ambassador Seoul Hongdae 飯店官網](mercure.jpeg)
+![Mercure Ambassador Seoul Hongdae 飯店外觀｜*照片取自 Mercure Ambassador Seoul Hongdae 飯店官網](mercure.webp)
 
 [Mercure Ambassador Seoul Hongdae](https://www.booking.com/hotel/kr/mercure-ambassador-seoul-hongdae.xt.html?aid=7956794&no_rooms=1&group_adults=2) 是一間四星級飯店，提供一個愜意的住宿環境。房間內部環境非常乾淨舒適，讓旅客能夠真的感到賓至如歸。飯店的服務人員都很親切和熱心助人，隨時準備為你提供任何所需的幫助。此外，飯店設有美麗的露台，從那裡可以欣賞到令人驚艷的城市景色，不管事早上還是晚上看，都方長的賞心悅目，絕對是休閒和放鬆的好地方。最後，值得一提的是飯店的床非常舒適，每天都睡得一覺到天明！推薦給想要好好放鬆的你！
 
@@ -100,7 +100,7 @@ $$$$ = > 10000
 
 ### 首爾弘大、梨大、新村飯店推薦 4 - 鄭家旅館
 
-![鄭家旅館飯店外觀｜*照片取自 Naver Map](jeong.jpeg)
+![鄭家旅館飯店外觀｜*照片取自 Naver Map](jeong.webp)
 
 [鄭家旅館](https://www.booking.com/hotel/kr/jeong-house.xt.html?aid=7956794&no_rooms=1&group_adults=2)的接待人員非常親切友善，給你的感覺就是遠房親戚。整個民宿給人的感覺就像是回到了自己的家鄉一樣。地理位置優越，便於前往各處，極為方便。整體環境保持著高度的乾淨衛生，讓到來的人都能感到舒適。此外，這個民宿不是位於一座大樓內，而是獨立的小房子，充滿了溫馨和家的感覺。特別推薦給想要感受到更多韓國人民人情味的你！
 
@@ -118,7 +118,7 @@ $$$$ = > 10000
 ### 首爾弘大、梨大、新村飯店推薦 5 - 首爾弘大智選假日飯店
 
 ![首爾弘大智選假日飯店外觀｜*照片取自首爾弘大智選假日飯店官網
-](holiday-inn.jpeg)
+](holiday-inn.webp)
 
 [首爾弘大智選假日飯店](https://www.booking.com/hotel/kr/holiday-inn-express-seoul-hongdae.xt.html?aid=7956794&no_rooms=1&group_adults=2)的地點幾乎是完美，下樓就是地鐵站，交通真的非常方便，能夠輕鬆抵達市區的各大景點。此外，員工服務親切、熱情，提供優質的住宿環境。飯店的早餐選擇也非常豐富，滿足各種口味。樓下設有便利商店，在寒冷的季節，可以在不受寒的狀況下買到熱咖啡和食物。最後，飯店的各種設施都非常人性化且實用，特別推薦給注重方便性的你！
 
@@ -135,7 +135,7 @@ $$$$ = > 10000
 
 ### 首爾弘大、梨大、新村飯店推薦 6 - 弘大愛博 2 號旅館
 
-![弘大愛博 2 號旅館飯店外觀｜*照片取自 Naver Blog](able.jpeg)
+![弘大愛博 2 號旅館飯店外觀｜*照片取自 Naver Blog](able.webp)
 
 [弘大愛博 2 號旅館](https://www.booking.com/hotel/kr/able-guesthouse-hongdae-2.xt.html?aid=7956794&no_rooms=1&group_adults=2)的房間雖然簡潔，稍微小了一點但有一應俱全的基本設施。這家旅館的價格相對於提供的便利和舒適度來說，非常經濟實惠。更值得一提的是，它位於首爾充滿活力的弘大商圈內，要前往城市內各個熱門景點和文化體驗變得非常簡單。對於尋找物超所值住宿選擇的個人旅行者，這絕對是一個非常推薦的選擇。
 
@@ -152,7 +152,7 @@ $$$$ = > 10000
 
 ### 首爾弘大、梨大、新村飯店推薦 7 - Hi there guesthouse
 
-![Hi there guesthouse 飯店外觀｜*照片取自 Naver Map](hi-there.jpeg)
+![Hi there guesthouse 飯店外觀｜*照片取自 Naver Map](hi-there.webp)
 
 [Hi there guesthouse](https://www.booking.com/hotel/kr/hi-there-guesthouse-haideeo-geseuteu-hauseu.xt.html?aid=7956794&no_rooms=1&group_adults=2) 這間民宿附近擁有很多餐廳和美食的選擇，完全不必擔心半夜肚子餓。除此之外，民宿主人的服務態度非常良好，回覆快速，也盡量達到任何要求。整體環境也保持著高度的整潔，可以安心的住宿。而且，飯店地點位置極佳，方便前往市區內各大景點。此外，每週二還定期舉辦晚餐聚會，為旅客提供社交互動的機會，增添了住宿體驗的一點趣味。如果你也想交朋友，不妨考慮看看！
 
@@ -169,7 +169,7 @@ $$$$ = > 10000
 
 ### 首爾弘大、梨大、新村飯店推薦 8 - 首爾大廈旅館
 
-![首爾大廈旅館飯店外觀｜*照片取自 Naver Map](mansion.jpeg)
+![首爾大廈旅館飯店外觀｜*照片取自 Naver Map](mansion.webp)
 
 [首爾大廈旅館](https://www.booking.com/hotel/kr/seoul-mansion-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2)的地理位置超棒，距離地鐵站非常近。環境乾淨度也保持得很好，是個舒適的住宿環境。客房內提供所有基本設備，很多插頭。而且，這間旅館的員工回覆以及解決問題的速度都很快。在價格方面，這家旅館的性價比非常高。最貼心的是，旅館門口還設有行李秤，方便要前往機場的人在出行前輕鬆檢查行李重量，這種細節設計讓住宿體驗更加愉快。這裡很適合目標是來首爾購物的各位！
 
@@ -186,7 +186,7 @@ $$$$ = > 10000
 
 ### 首爾弘大、梨大、新村飯店推薦 9 - 梨大首爾大旅館
 
-![梨大首爾大旅館飯店外觀｜*照片取自 Naver Map](grand-hostel.jpeg)
+![梨大首爾大旅館飯店外觀｜*照片取自 Naver Map](grand-hostel.webp)
 
 [梨大首爾大旅館](https://www.booking.com/hotel/kr/k-grand-hostel-ewha.xt.html?aid=7956794&no_rooms=1&group_adults=2)的地理位置非常方便，無論是前往市區的主要景點還是各種設施，都非常輕鬆。不僅如此，飯店的隔音設施非常優秀，讓遊客享受安靜的住宿環境，無需擔心外界的噪音。房間的寬敞設計有充足的空間理行李，同時提供了各種貼心的小設施，簡直應有盡有。而且，飯店的價格相對於提供的設施和服務來說，性價比非常高。適合獨自旅行的背包客！
 
@@ -203,7 +203,7 @@ $$$$ = > 10000
 
 ### 首爾弘大、梨大、新村飯店推薦 10 - K'STAY Sinchon
 
-![K STAY Sinchon 飯店外觀｜*照片取自 Naver Map](k-stay.jpeg)
+![K STAY Sinchon 飯店外觀｜*照片取自 Naver Map](k-stay.webp)
 
 [K'STAY Sinchon](https://www.booking.com/hotel/kr/k-39-stay.xt.html?aid=7956794&no_rooms=1&group_adults=2) 的周邊地區本身就非常熱鬧，有許多各式各樣的餐廳，還有許多可愛的活動，住在這裡的期間絕不會感到無聊。此外，交通非常方便，不管事地鐵還是公車站都很近。飯店內部環境乾淨整潔，裝修帶有新鮮感，十分舒適。值得一提的是，飯店非常貼心，提供轉接頭和耳塞等生活用品。另外，飯店還有一個簡單的廚房，讓遊客可以自行烹飪，很是便利。推薦給想要省住宿費的你！
 

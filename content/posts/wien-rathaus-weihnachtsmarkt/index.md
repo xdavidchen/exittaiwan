@@ -67,7 +67,7 @@ theme: "light"
 
 返還租借溜冰鞋的地方。
 
-![溜冰價格表（2023 年）|inline](eislaufen-preis.jpg)
+![溜冰價格表（2023 年）|inline](eislaufen-preis.webp)
 
 ### 特色攤位
 

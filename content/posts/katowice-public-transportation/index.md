@@ -26,7 +26,7 @@ tags:
 
 ## 卡托維治市區交通工具介紹
 
-![](image-1.png)
+![](image-1.webp)
 
 ### 公車 / 輕軌
 
@@ -63,11 +63,11 @@ tags:
 2. App 內儲值任意金額。
 3. 上車後，車窗上都貼有 qrcode 或六位數字，點選 Buy ticket 掃碼或手動輸入數字完成買票。
 
-![](image-2.png)
+![](image-2.webp)
 
-![](image-3.png "車窗上的 QR code 和六位數字")
+![](image-3.webp "車窗上的 QR code 和六位數字")
 
-![](image-4.png)
+![](image-4.webp)
 
 ### 推薦指數：9/10
 
@@ -81,7 +81,7 @@ tags:
 
 如果你偏好「移動兼運動」的交通方式，在卡托維治市中心也有像 Ubike 的存在，那就是 Metrorower。腳踏車顏色是亮黃色和黑色，站點繁多，借還程序也很方便。
 
-![](image-7.png)
+![](image-7.webp)
 
 
 
@@ -100,9 +100,9 @@ tags:
 2. 掃碼或輸入腳踏車上的號碼借車。
 3. 還車時在 App 上選取還車，並壓下後輪卡榫即完成。
 
-![](image-5.png)
+![](image-5.webp)
 
-![](image-6.png)
+![](image-6.webp)
 
 ### 推薦指數：8/10
 

@@ -23,7 +23,7 @@ theme: "light"
 
 ## 甘迺迪國際機場（John F. Kennedy International Airport, JFK）
 
-![甘迺迪國際機場|inline](jfk.jpeg)
+![甘迺迪國際機場|inline](jfk.webp)
 
 絕大部分的台灣旅客來到紐約會降落在甘迺迪機場，從這裡來回曼哈頓市中心有五種方式：
 
@@ -126,7 +126,7 @@ theme: "light"
 
 ## 紐瓦克國際機場（Newark Liberty International Airport, EWR）
 
-![紐瓦克國際機場|inline](ewr.jpeg)
+![紐瓦克國際機場|inline](ewr.webp)
 
 紐瓦克機場的班機主要服務美國國內和歐洲國際線，這個機場位在離曼哈頓較遠的紐澤西州，因此沒有地鐵進紐約市區。
 
@@ -142,7 +142,7 @@ theme: "light"
 
 ## 拉瓜迪亞機場（LaGuardia Airport, LGA）
 
-![拉瓜迪亞機場|inline](lga.jpeg)
+![拉瓜迪亞機場|inline](lga.webp)
 
 從機場的[官方網站](https://laguardiaairport.com/)來看，拉瓜迪亞機場的航線目前都是美國國內線，如果有經過美國國內線轉機的旅客比較有可能降落在這個機場。
 
