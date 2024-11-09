@@ -20,7 +20,7 @@ theme: 'light'
 - 我們堅持不經營社群媒體，因為沒有一個人的人生值得和另一個人的人生比較，我們相信口耳相傳的力量。
 - 我們堅持只和信譽高的商家合作，目前主要營利方式僅透過行銷合作連結，推薦團隊成員親自體驗過後感到滿意的服務＆產品，且透過這些連結購買時讀者不需要付出任何額外的費用。
 
-如果你願意支持高品質的圖文內容，你可以透過網站上的連結進行購買的動作，或是直接[**贊助我們**](https://exittaiwan.gumroad.com/l/membership)，幫助團隊運營，持續為你提供實用資訊。
+如果你願意支持高品質的圖文內容，你可以透過網站上的連結進行購買的動作，或是直接贊助我們（[**每月贊助**](https://exittaiwan.gumroad.com/l/membership)｜[**單次贊助**](https://exittaiwan.gumroad.com/coffee)）幫助團隊運營，持續為你提供實用資訊。
 
 ## About ExitTaiwan
 
@@ -38,7 +38,7 @@ In an online world that values efficiency above all, we choose to slow down, hop
 - We choose *not to manage social media*, as we believe no one’s life should be compared to another’s. Instead, we trust in the power of word-of-mouth.
 - We only collaborate with reputable businesses. Currently, our main revenue comes from affiliate marketing links, recommending services and products that our team members have personally tested and found satisfactory. Through these links, readers incur no additional costs when making purchases.
 
-If you’d like to support our high-quality content, you can make purchases through our links or consider [**donating directly**](https://exittaiwan.gumroad.com/l/membership) to help keep our team running and providing valuable information.
+If you’d like to support our high-quality content, you can make purchases through our links or consider donating directly ([**monthly**](https://exittaiwan.gumroad.com/l/membership) or [**one-time**](https://exittaiwan.gumroad.com/coffee)) to help keep our team running and providing valuable information.
 
 ## Work With Us
 

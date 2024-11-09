@@ -28,11 +28,11 @@ paginate = 10
     name = '免責聲明與使用條款'
     url = '/terms'
   [[params.blogroll]]
-    name = '好用資源'
+    name = 'ExitTaiwan Docs'
     url = 'https://docs.exittaiwan.com'
   [[params.blogroll]]
     name = '小額贊助'
-    url = 'https://exittaiwan.gumroad.com/l/membership'
+    url = 'https://exittaiwan.gumroad.com/coffee'
   [[params.blogroll]]
     name = '內容投稿（招募中）'
     url = 'https://app.formbricks.com/s/n8q6ubrjuooymhfxv8i684xy'
