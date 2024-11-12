@@ -278,12 +278,12 @@ code {
   margin: 0;
   border-top: 1px solid #d2d2d7;
   align-items: center;
-  padding: 32px 0
+  padding: 32px 32px
 }
 
 @media only screen and (max-width: 1068px) {
   .result__item {
-    padding:24px 0
+    padding:24px 24px
   }
 }
 
@@ -293,9 +293,11 @@ code {
   }
 }
 
-.result__item:last-of-type {
+/*.result__item:last-of-type {
   padding-bottom: 0
-}
+}*/
+
+/* adding padding-bottom regardless of section */
 
 .result__item.row-anchor:hover {
   text-decoration: none
