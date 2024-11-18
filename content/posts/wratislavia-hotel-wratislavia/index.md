@@ -4,7 +4,7 @@ description: draft
 draft: true
 slug: hotel-wratislavia
 folder-name: wratislavia-hotel-wratislavia
-author: Your Name
+author: Mar Chang
 date: 2024-11-18T03:27:00.000Z
 cover: thumbnail.webp
 tags:
