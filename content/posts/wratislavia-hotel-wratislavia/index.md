@@ -1,5 +1,5 @@
 ---
-title: 波蘭弗羅茲瓦弗住宿推薦｜瓦特拉旅館
+title: 波蘭弗羅茲瓦弗住宿推薦｜瓦特拉旅館，CP 值超高的青年旅館
 description: draft
 draft: true
 slug: hotel-wratislavia
@@ -27,8 +27,8 @@ tags:
 
 ![](image-external.jpg)
 
-* 名稱：瓦特拉旅館 Hostel Wratislavia（[Google Maps](https://maps.app.goo.gl/fhiThkmZZZjEsmiD7)）
-* 地址：Komuny Paryskiej 19, 50-451 Wrocław
+* 名稱：瓦特拉旅館 Hostel Wratislavia[](https://maps.app.goo.gl/fhiThkmZZZjEsmiD7)
+* 地址：Komuny Paryskiej 19, 50-451 Wrocław（[Google Maps](<>)）
 * 價格：雙人房 1600 / 晚；單人房 1300 / 晚；背包客（混宿、四五六床）500 / 晚
 
   * **[前往 Booking.com 查價](https://www.booking.com/hotel/pl/hostel-wratislavia-wroclaw.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
