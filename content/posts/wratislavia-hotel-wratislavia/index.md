@@ -6,14 +6,14 @@ slug: 弗羅茲瓦弗住宿推薦-瓦特拉旅館
 folder-name: wratislavia-hotel-wratislavia
 author: Mar Chang
 date: 2024-11-18T03:27:00.000Z
-cover: thumbnail.webp
+cover: image-external.webp
 tags:
   - 波蘭
   - 弗羅茲瓦弗
   - 弗羅茲瓦弗旅遊
   - 弗羅茲瓦弗自由行
 ---
-![](image-0.png)
+![](image-0.webp)
 
 來到[波蘭](https://exittaiwan.com/tags/%E6%B3%A2%E8%98%AD/)後，終於迎來第一個連假：[諸靈節](https://culture.pl/zht/article/%E8%AB%B8%E9%9D%88%E7%AF%80-%E6%B3%A2%E8%98%AD%E7%9A%84%E6%B8%85%E6%98%8E%E7%AF%80%E6%9C%89%E5%93%AA%E4%BA%9B%E5%82%B3%E7%B5%B1)（波蘭語：Wszystkich Świętych）！自從得知消息後，筆者立馬手刀訂了位在卡托維治的隔壁、弗羅茲瓦弗（Wrocław）的車票和住宿，準備一個人好好的玩波蘭第三大城。
 
@@ -25,7 +25,7 @@ tags:
 
 ## 瓦特拉旅館 Hostel Wratislavia 基本資料
 
-![](image-external.jpg)
+![](image-external.webp)
 
 * 名稱：瓦特拉旅館 Hostel Wratislavia[](https://maps.app.goo.gl/fhiThkmZZZjEsmiD7)
 * 地址：Komuny Paryskiej 19, 50-451 Wrocław（[Google Maps](<>)）
@@ -52,7 +52,7 @@ tags:
 
 ### 客廳
 
-![](image-1.png)
+![](image-1.webp)
 
 瓦特拉旅館雖然沒有一個正式的客廳，但有類似接待廳的空間。設有一套沙發、一套桌椅和一台電視。筆者傍晚回到旅館時，看見許多遊客帶著啤酒會在這聊天。如果想要安靜一點的空間，旁邊也有刻意設計類似凹進去的地方，面著牆設有多高腳椅及檯燈，想閱讀或寫作的人可以好好利用。
 
@@ -64,7 +64,7 @@ tags:
 
 ### 交誼廳
 
-![](image-2.png)
+![](image-2.webp)
 
 交誼廳的空間反而比客廳大，寬敞安靜。大概有七、八張桌子。免費使用。
 
@@ -72,7 +72,7 @@ tags:
 
 ### 房間
 
-![](image-3.png)
+![](image-3.webp)
 
 筆者訂的是五人混宿背包客房，設有置物櫃。
 
@@ -82,7 +82,7 @@ tags:
 
 ### 廁浴
 
-![](image-4.png)
+![](image-4.webp)
 
 在入夜後剩下不到五度的波蘭，能好好沖個熱水澡是件幸福的事。旅館內的熱水很強，浴室內也有暖氣，乾濕分離的門拉開後，不必擔心冷空氣瞬間撲上來的問題。
 
