@@ -25,9 +25,7 @@ tags:
 
 * 名稱：瓦特拉旅館 Hostel Wratislavia（[Google Maps](https://maps.app.goo.gl/fhiThkmZZZjEsmiD7)）
 * 地址：Komuny Paryskiej 19, 50-451 Wrocław
-* 價格：雙人房1600/晚\
-  單人房1300/晚\
-  背包客（混宿、四五六床）500/晚
+* 價格：雙人房 1600 / 晚；單人房 1300 / 晚；背包客（混宿、四五六床）500 / 晚
 * 給台灣旅客：
 * 周邊景點：
 
