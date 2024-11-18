@@ -17,7 +17,7 @@ tags:
 
 自從十月來到波蘭後，終於迎來第一個連假：諸靈節（波蘭語：Wszystkich Świętych）！自從得知消息後，筆者立馬手刀定了隔壁城市弗羅茲瓦弗（Wrocław）的車票和住宿，準備一個人好好的玩波蘭第三大城。
 
-身為學生，用最經濟實惠的方式旅行是最適合不過了，而歐洲的青年旅館果然沒有讓人失望！打開 Booking.com，馬上就看到當地推薦的瓦特拉旅館（Hotel Wratislavia），由於日期接近，甚至還有打折，因此一個人住下來，一晚五百塊台幣有找。
+身為學生，用最經濟實惠的方式旅行是最適合不過了，而歐洲的青年旅館果然沒有讓人失望！打開 **[Booking.com](https://www.booking.com/?aid=7956794)**，馬上就看到當地推薦的**瓦特拉旅館 [Hotel Wratislavia](https://www.booking.com/hotel/pl/hostel-wratislavia-wroclaw.xt.html?aid=7956794&no_rooms=1&group_adults=2)**，由於日期接近，甚至還有打折，因此一個人住下來，一晚五百塊台幣有找。
 
 瓦特拉旅館的地理位置相當便利，走路十五分鐘即抵達火車站，便利商店、超市、餐館都在步行可達的距離。
 
@@ -30,6 +30,8 @@ tags:
 * 名稱：瓦特拉旅館 Hostel Wratislavia（[Google Maps](https://maps.app.goo.gl/fhiThkmZZZjEsmiD7)）
 * 地址：Komuny Paryskiej 19, 50-451 Wrocław
 * 價格：雙人房 1600 / 晚；單人房 1300 / 晚；背包客（混宿、四五六床）500 / 晚
+
+  * **[前往 Booking.com 查價](https://www.booking.com/hotel/pl/hostel-wratislavia-wroclaw.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 * 給台灣旅客：
 
   * 有 24 小時櫃檯
