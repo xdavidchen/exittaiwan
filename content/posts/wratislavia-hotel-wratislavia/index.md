@@ -30,18 +30,17 @@ tags:
 * 名稱：瓦特拉旅館 Hostel Wratislavia[](https://maps.app.goo.gl/fhiThkmZZZjEsmiD7)
 * 地址：Komuny Paryskiej 19, 50-451 Wrocław（[Google Maps](<>)）
 * 價格：雙人房 1600 / 晚；單人房 1300 / 晚；背包客（混宿、四五六床）500 / 晚
+  * [**前往 Booking.com 查價**](https://www.booking.com/hotel/pl/hostel-wratislavia-wroclaw.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-  * **[前往 Booking.com 查價](https://www.booking.com/hotel/pl/hostel-wratislavia-wroclaw.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
-* 給台灣旅客：
-
+#### 給台灣旅客：
   * 有 24 小時櫃檯
   * 有提供置物櫃 / 鑰匙
   * 部分備品須租借：浴巾、吹風機
   * 建議自備沫浴乳和洗髮乳
   * 使用廚房約 40 台幣 / 天
   * 早餐加購約 150 台幣
-* 周邊景點：
 
+#### 瓦特拉旅館 Hostel Wratislavia 周邊景點：
   * 民族博物館（波蘭語：Muzeum Etnograficzne）步行15分
   * 哥白尼公園（Nicolaus Copernicus Park）步行15分
   * 中央集市廣場（波蘭語：Rynek）步行20分
