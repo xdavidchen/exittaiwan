@@ -2,7 +2,7 @@
 title: 波蘭弗羅茲瓦弗住宿推薦｜瓦特拉旅館，CP 值超高的青年旅館
 description: draft
 draft: true
-slug: hotel-wratislavia
+slug: 弗羅茲瓦弗住宿推薦瓦特拉旅館
 folder-name: wratislavia-hotel-wratislavia
 author: Mar Chang
 date: 2024-11-18T03:27:00.000Z
