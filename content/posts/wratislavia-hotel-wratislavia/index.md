@@ -29,15 +29,11 @@ tags:
 * 給台灣旅客：
 * 周邊景點：
 
-民族博物館（波蘭語：Muzeum Etnograficzne）步行15分
-
-哥白尼公園（Nicolaus Copernicus Park）步行15分
-
-中央集市廣場（波蘭語：Rynek）步行20分
-
-弗羅茲瓦夫國家博物館（波蘭語：Muzeum Narodowe we Wrocławiu） 公車13分
-
-弗羅茲瓦夫主教座堂（波蘭語：św. Jana Chrzciciela）公車13分
+  * 民族博物館（波蘭語：Muzeum Etnograficzne）步行15分
+  * 哥白尼公園（Nicolaus Copernicus Park）步行15分
+  * 中央集市廣場（波蘭語：Rynek）步行20分
+  * 弗羅茲瓦夫國家博物館（波蘭語：Muzeum Narodowe we Wrocławiu） 公車13分
+  * 弗羅茲瓦夫主教座堂（波蘭語：św. Jana Chrzciciela）公車13分
 
 實際入住體驗（公區）
 
