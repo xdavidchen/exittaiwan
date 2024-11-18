@@ -1,5 +1,5 @@
 ---
-title: 瓦特拉旅館 弗羅茲瓦弗住宿
+title: 波蘭弗羅茲瓦弗住宿推薦｜瓦特拉旅館
 description: draft
 draft: true
 slug: hotel-wratislavia
