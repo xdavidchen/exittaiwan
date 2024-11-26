@@ -28,7 +28,7 @@ theme: "light"
 
 *假日人潮太多時市政廳門口的路面電車 Rathausplatz（市政廳前廣場）站會暫停上下客，要提前在 Schottentor 站或延後在 Parlament 站下車，再步行到聖誕市集。
 
-> 推薦閱讀：[**維也納市區交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E6%94%BB%E7%95%A5/)
+> 推薦閱讀：[**維也納自由行市區交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E6%94%BB%E7%95%A5/)
 
 
 ## 市政廳前廣場聖誕市集特色

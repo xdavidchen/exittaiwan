@@ -1,19 +1,19 @@
 ---
-title: "首爾明洞飯店住宿推薦｜十間適合台灣遊客的明洞商圈飯店"
+title: "首爾明洞飯店住宿推薦｜十間適合台灣自由行遊客的明洞商圈飯店"
 slug: "首爾明洞飯店住宿推薦"
 date: 2023-09-12
-description: "想要在首爾明洞商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化，你就需要考慮住宿！這篇文章中我整理了十間最適合台灣遊客的的飯店，快來看看"
+description: "想要在首爾明洞商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化嗎？這篇文章整理了十間最適合台灣遊客的的飯店！"
 draft: false
 author: "Tim Kuo"
 cover: "feature.webp"
 image: "feature.webp"
-tags: [韓國, 韓國旅遊, 韓國自由行, 韓國飯店, 韓國住宿]
+tags: [韓國, 首爾旅遊, 首爾自由行, 首爾飯店, 首爾住宿]
 theme: "light"
 ---
 
 ![|inline](myeongdong-hotel.webp)
 
-## 首爾明洞飯店
+## 首爾自由行明洞飯店
 
 [**首爾明洞（韓文：명동）商圈**](https://www.agoda.com/zh-tw/travel-guides/south-korea/seoul/myeongdong-shopping-seoul)是在首爾購物和娛樂的絕佳選擇，跟台北的西門町很像但更加多元豐富，是一個韓國主要旅遊景點之一。
 

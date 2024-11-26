@@ -1,8 +1,8 @@
 ---
-title: "捷克布拉格住宿推薦｜Old Town Apartment 查理大橋旁地點絕佳、景觀優美的氣派公寓式住宿"
+title: "捷克布拉格自由行住宿推薦｜Old Town Apartment 查理大橋旁地點絕佳、景觀優美的氣派公寓式住宿"
 slug: "布拉格住宿-old-town-apartment"
 date: 2023-11-15
-description: "Smetanovo nábřeží 26 - Riverview Old Town Apartment 是一間位在布拉格查理大橋旁的公寓式住宿，非常適合小團體行動的旅客入住。"
+description: "Smetanovo nábřeží 26 - Riverview Old Town Apartment 是一間位在布拉格查理大橋旁的公寓式住宿，非常適合自由行的旅客入住。"
 draft: false
 author: "David Chen"
 cover: "feature.webp"
@@ -11,7 +11,7 @@ tags: [捷克, 捷克旅遊, 捷克自由行, 布拉格, 布拉格旅遊, 布拉
 theme: "light"
 ---
 
-只要安排在捷克布拉格旅遊，每個人都不會錯過的景點就是在十五世紀初（西元 1406 年）完工的查理大橋（捷克語：Karlův most），以這裡為中心，旅客可以輕鬆的前往老城區的天文鐘、城堡區的教堂、或是高堡區的猶太景點。
+只要安排在捷克布拉格自由行旅遊，每個人都不會錯過的景點就是在十五世紀初（西元 1406 年）完工的查理大橋（捷克語：Karlův most），以這裡為中心，旅客可以輕鬆的前往老城區的天文鐘、城堡區的教堂、或是高堡區的猶太景點。
 
 今天要介紹的這間 [**Smetanovo nábřeží 26 - Riverview Old Town Apartment 公寓式飯店**](https://www.booking.com/hotel/cz/riverview-old-town-apartment.xt.html?aid=7956794&no_rooms=1&group_adults=2)（以下簡稱老城河景公寓），正好就位在查理大橋旁，擁有絕佳的地點和景色，且公寓空間非常大又氣派，不管是家族旅行、或是一群朋友自由行，只要是團體一起行動，這就是一個方便又划算的布拉格住宿選擇。
 

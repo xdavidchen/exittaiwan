@@ -13,11 +13,11 @@ theme: "light"
 
 ![|inline](featured.webp)
 
-如果你現在正在[規劃前往韓國的旅行](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
+如果你現在正在[規劃前往韓國自由行旅遊](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
-> 🏠 **韓國住宿精選推薦清單：**\
+> 🏠 **韓國自由行住宿精選推薦清單：**\
 > \
 > ✔️ [**首爾東大門飯店住宿推薦｜十間在東大門商圈的飯店**](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E6%9D%B1%E5%A4%A7%E9%96%80%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)\
 > \

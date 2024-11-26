@@ -1,5 +1,5 @@
 ---
-title: "哈修塔特住宿推薦 Haus Salzberg｜溫馨家庭木屋，位在世界文化遺產鹽礦旁的住宿選擇"
+title: "哈修塔特自由行住宿推薦 Haus Salzberg｜溫馨家庭木屋，位在世界文化遺產鹽礦旁的住宿選擇"
 slug: "哈修塔特住宿推薦 Haus Salzberg"
 date: 2024-03-23
 description: "即將到哈修塔特旅遊，正在尋找住宿嗎？這間位在哈修塔特鹽礦山附近的 Haus Salzberg，擁有寬敞空間，價格合理，對於多人同行的旅人，是個值得考慮的選擇。"
@@ -16,7 +16,7 @@ theme: "light"
 
 小提醒：在 [**Booking.com**](https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上，這間住宿叫做 Haus Salzberg，但是在 Googla Maps 上它是標註為 Ferienhaus Salzberg 喔。
 
-## 哈修塔特住宿 Haus Salzberg（Ferienhaus Salzberg）基本資訊
+## 哈修塔特自由行住宿 Haus Salzberg（Ferienhaus Salzberg）基本資訊
 
 ![](IMG_3982.webp)
 

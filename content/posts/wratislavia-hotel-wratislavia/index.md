@@ -1,6 +1,6 @@
 ---
-title: 波蘭弗羅茲瓦弗住宿推薦｜瓦特拉旅館，CP 值超高、環境好的青年旅館
-description: 瓦特拉旅館是位在波蘭弗羅茲瓦弗的青年旅館，便宜的價格和良好的住宿環境是在歐洲旅行背包客的絕佳住宿選擇！
+title: 波蘭弗羅茲瓦弗自由行住宿推薦｜瓦特拉旅館，CP 值超高、環境好的青年旅館
+description: 瓦特拉旅館是位在波蘭弗羅茲瓦弗的青年旅館，便宜的價格和良好的住宿環境是在歐洲旅行自由行旅客的絕佳住宿選擇！
 draft: false
 slug: 弗羅茲瓦弗住宿推薦-瓦特拉旅館
 folder-name: wratislavia-hotel-wratislavia
@@ -27,12 +27,13 @@ tags:
 
 ![](image-external.webp)
 
-* 名稱：瓦特拉旅館 Hostel Wratislavia[](https://maps.app.goo.gl/fhiThkmZZZjEsmiD7)
-* 地址：Komuny Paryskiej 19, 50-451 Wrocław（[Google Maps](<>)）
+* 名稱：瓦特拉旅館 Hostel Wratislavia
+* 地址：Komuny Paryskiej 19, 50-451 Wrocław（[Google Maps](https://maps.app.goo.gl/fhiThkmZZZjEsmiD7)）
 * 價格：雙人房 1600 / 晚；單人房 1300 / 晚；背包客（混宿、四五六床）500 / 晚
-  * [**前往 Booking.com 查價**](https://www.booking.com/hotel/pl/hostel-wratislavia-wroclaw.xt.html?aid=7956794&no_rooms=1&group_adults=2)
+* [**前往 Booking.com 查價**](https://www.booking.com/hotel/pl/hostel-wratislavia-wroclaw.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-#### 給台灣旅客：
+#### 給台灣自由行旅客：
+
   * 有 24 小時櫃檯
   * 有提供置物櫃 / 鑰匙
   * 部分備品須租借：浴巾、吹風機
@@ -41,6 +42,7 @@ tags:
   * 早餐加購約 150 台幣
 
 #### 瓦特拉旅館 Hostel Wratislavia 周邊景點：
+
   * 民族博物館（波蘭語：Muzeum Etnograficzne）步行15分
   * 哥白尼公園（Nicolaus Copernicus Park）步行15分
   * 中央集市廣場（波蘭語：Rynek）步行20分
@@ -87,11 +89,10 @@ tags:
 
 較特別的是浴室地板是黑白格子相間的簡約風，就算是洗澡時間，也可以感受到旅館設計的用心。
 
-
-
 ## 瓦特拉旅館 Hostel Wratislavia 整體評價
 
 ### 優點
+
 - 附近有公車站和電車站
 - 整潔度佳
 - 地點入夜後安靜
