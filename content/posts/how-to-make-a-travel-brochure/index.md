@@ -5,7 +5,7 @@ description: "怎麼製作一本旅遊手冊？ExitTaiwan 不藏私，告訴你�
 draft: false
 author: David Chen
 date: 2024-11-26T00:00:00.000Z
-cover: cover-paper-texture-linen.webp
+cover: cover.webp
 tags:
   - 工具
 ---
