@@ -1,7 +1,7 @@
 ---
 title: 鹿特丹自由行｜機場市區來回交通全攻略：三種阿姆斯特丹史基浦機場到鹿特丹市中心的方法
 description: 這篇文章詳細介紹從阿姆斯特丹的機場到鹿特丹市中心的各種交通方式、通車時間、價格比較、優缺點等實用資訊。
-draft: true
+draft: false
 slug: 鹿特丹機場到市區交通全攻略
 folder-name: rotterdam-airtport-to-city-center
 author: Jason
@@ -60,3 +60,8 @@ Uber
 
 ## 阿姆斯特丹史基浦機場往鹿特丹市區交通方式比較表
 
+| **交通方式** | **單程行車時間** | **起迄站**                                                   | **單程價格（合計，[幣值]）**                      |
+| ------------ | ---------------- | ------------------------------------------------------------ | ------------------------------------------------- |
+| 火車         | 27-50分鐘        | 阿姆斯特丹史基浦機場（AMS；Amsterdam Schiphol Airport）-鹿特丹中央車站（Rotterdam CS） | InterCity：14.50 歐元InterCity direct：17.40 歐元 |
+| 巴士         | 45-75 分鐘       | 阿姆斯特丹史基浦機場（AMS；Amsterdam Schiphol Airport）-鹿特丹中央車站（Rotterdam CS） | 浮動價格，3 - 8 歐元不等                          |
+| Uber         | 60分鐘           | 阿姆斯特丹史基浦機場（AMS；Amsterdam Schiphol Airport）-鹿特丹中央車站（Rotterdam CS） | 依當下叫車價格而定                                |
