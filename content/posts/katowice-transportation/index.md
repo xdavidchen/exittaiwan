@@ -3,7 +3,7 @@ title: 波蘭卡托維治自由行｜機場到市區交通攻略
 description: 波蘭卡托維治自由行｜機場到市區交通攻略
 draft: true
 slug: 卡托維治機場到市區交通全攻略
-folder-name: katowice--airport-to-city-center
+folder-name: katowice-airport-to-city-center
 author: Mar Chang
 date: 2024-12-03T16:34:00.000Z
 cover: thumbnail.webp
