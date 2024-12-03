@@ -3,7 +3,7 @@ title: 波蘭卡托維治自由行｜機場到市區交通攻略
 description: 波蘭卡托維治自由行｜機場到市區交通攻略
 draft: true
 slug: 卡托維治機場到市區交通全攻略
-folder-name: katowice--transportation
+folder-name: katowice--airport-to-city-center
 author: Mar Chang
 date: 2024-12-03T16:34:00.000Z
 cover: thumbnail.webp
@@ -13,6 +13,7 @@ tags:
   - 卡托維治旅遊
   - 卡托維治自由行
 ---
+![](1.png)
 
 本篇介紹從卡托維治國際機場（波蘭語：Międzynarodowy Port Lotniczy Katowice）到市區的交通方式。
 
@@ -30,4 +31,3 @@ tags:
 
 身為小資女孩，筆者選擇了搭公車到宿舍，本來很擔心語言不通，會不會出什麼岔子，但卻比想像中更快抵達。
 接著，就來介紹從機場到市區的主要兩種交通方式吧！
-
