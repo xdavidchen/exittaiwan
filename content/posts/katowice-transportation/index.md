@@ -1,6 +1,6 @@
 ---
 title: 波蘭卡托維治自由行｜機場到市區交通攻略
-description: 波蘭卡托維治自由行｜機場到市區交通攻略
+description: 這篇文章詳細介紹從波蘭卡托機場到市中心的各種交通方式、通車時間、價格比較、優缺點等實用資訊。
 draft: true
 slug: 卡托維治機場到市區交通全攻略
 folder-name: katowice-airport-to-city-center
