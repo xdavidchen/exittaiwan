@@ -6,7 +6,7 @@ slug: 鹿特丹景點-方塊屋-拱廊市場
 folder-name: rotterdam-kubus-market
 author: Jason
 date: 2024-12-05T22:34:00.000Z
-cover: image2.png
+cover: thumbnail.webp
 tags:
   - 荷蘭
   - 鹿特丹
@@ -14,17 +14,16 @@ tags:
   - 鹿特丹自由行
   - 鹿特丹景點
 ---
-![](image2.png)
 
 ## 鹿特丹市區景點 - 方塊屋（De Kijk-Kubus）基本資訊
 
+![](image2.webp)
+
 * 地址：Overblaak 70, 3011 MH Rotterdam, The Netherlands
-* 營業時間：每天11點到17點
-* 門票：每人3€
-
-\    ※ 持有Rotterdam Pass可免費入場
-
-\    ※ 持有Rotterdam Welcome Card 可享 €1 折扣
+* 營業時間：每天 11 點到 17 點
+* 門票：每人 €3
+  - 持有 Rotterdam Pass 可免費入場
+  - 持有 Rotterdam Welcome Card 可享 €1 折扣
 
 由荷蘭建築師 Piet Blom 操刀設計，方塊屋的設計前衛又突兀，每個方塊體皆傾斜 45 度，走在鹿特丹市區絕對不會忽視它的存在。
 
@@ -32,13 +31,13 @@ tags:
 
 底下的運河旁有許多餐廳及酒吧可以坐下來欣賞荷蘭獨有的運河美景！
 
-![](image4.png)
+![](image4.webp)
 
 方塊屋，旁邊的兩棟建築也相當吸引人，只能說鹿特丹的很多建築都很有創意。旁邊的公寓建築由同一位設計師設計，外型像鉛筆因此被稱為鉛筆屋；鉛筆屋旁邊的建築外觀用黃色管線點綴，因此被稱為水管屋，這個水管屋其實是鹿特丹市立圖書館（Centrale Bibliotheek Rotterdam）。
 
 ## 鹿特丹市區景點 - 拱廊市場（Markthal）
 
-![](image3.png)
+![](image3.webp)
 
 拱廊市場建於 2014 年，是一座大型的室內市場，裡面有許多異國料理，還有一間亞洲超市。
 
@@ -46,15 +45,15 @@ tags:
 
 ### 戶外廣場市集
 
-![](image5.png)
+![](image5.webp)
 
-![](image7.png)
+![](image7.webp)
 
-![](image1.png)
+![](image1.webp)
 
 拱廊市場一樣是市區景點，就位在方塊屋的旁邊，因此只要搭電車或地鐵抵達Blaak站即可抵達囉！再加上拱廊市場前面的廣場每周二到六都有市集，讓 Blaak 更加熱鬧，市集有賣食物、水果、花卉、衣服，甚至是五金日用品都有！不妨可以來這邊挖寶撿便宜喔！
 
-![](iamge-8.png)
+![](iamge-8.webp)
 
 拱廊市場入口的大玻璃上，會應景地有不同的燈飾點綴這個城市的佳節氛圍，聖誕節就會是聖誕樹，西洋情人節就會是愛心等等...。
 
