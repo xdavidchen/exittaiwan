@@ -1,7 +1,7 @@
 ---
 title: 阿姆斯特丹自由行｜機場市區來回交通全攻略：三種阿姆斯特丹史基浦機場到市中心的方法
 description: 正在安排阿姆斯特丹自由行嗎？本篇攻略詳解史基浦機場到市中心的三種交通方式，包括火車、巴士和計程車（Uber）。快速掌握交通費用、時間及選擇適合你的方法，讓旅程更順利！
-draft: true
+draft: false
 slug: 阿姆斯特丹交通-史基浦機場
 folder-name: amsterdam-transportation-schiphol-airport
 author: Jason
@@ -29,6 +29,10 @@ tags:
 ![史基浦機場出境大廳](image5.jpg "史基浦機場出境大廳")
 
 搭火車從機場到阿姆斯特丹是最普遍的方法。從阿姆斯特丹史基浦機場到阿姆斯特丹中央車站（Amsterdam Centraal）。有買荷蘭的交通卡 OV 卡的話，搭火車外到市區後也可以搭乘市內的大眾交通。
+
+![匿名 OV 卡範本](匿名ov卡.jpg)
+
+![實名 OV 卡樣本](實名ov卡.jpeg)
 
 火車搭乘 Sprinter 車種即可，Sprinter 就很像台鐵的區間車，雖然是站站停，但僅花費 18 分鐘即可抵達阿姆斯特丹中央車站，也是最便宜的車種。
 
