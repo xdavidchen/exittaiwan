@@ -737,6 +737,13 @@ html.js .tile.large-loaded .image {
   padding-top: 32px;
 }
 
+@media (max-width: 768px) {
+  .everydayfeed {
+    background-image: none; /* Remove the background image */
+    background-color: #f5f5f7; /* Set your desired background color */
+  }
+}
+
 @media only screen and (max-width: 1068px) {
   .everydayfeed {
     padding-bottom: 64px
@@ -5445,6 +5452,13 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   background-repeat: no-repeat; /* Ensures the image doesn't repeat */
   background-size: cover; /* Makes the image cover the entire area */
   background-position: center; /* Centers the image */
+}
+
+@media (max-width: 768px) {
+  .pagebody {
+    background-image: none; /* Remove the background image */
+    background-color: #f5f5f7; /* Set your desired background color */
+  }
 }
 
 .pagebody:lang(ar) {
