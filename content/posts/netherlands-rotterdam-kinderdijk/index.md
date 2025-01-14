@@ -1,7 +1,7 @@
 ---
 title: 鹿特丹自由行｜近郊景點｜小孩堤防（Kinderdijk）一日遊
 description: 計劃荷蘭自由行？來小孩堤防（Kinderdijk）欣賞壯麗的風車群與獨特的水利工程，了解荷蘭人「與海爭地」的智慧技術！適合安排鹿特丹一日遊行程，交通、票價資訊詳盡呈現。
-draft: true
+draft: false
 slug: 鹿特丹自由行-小孩堤防
 folder-name: rotterdam-kinderdijk
 author: Jason Chen
@@ -37,7 +37,7 @@ Nederwaard 1b, 2961 AS Kinderdijk, Nederland
 ### 交通方式：
 
 1. 公車路線：從地鐵站 Kralingse Zoom 下車，轉搭 Bus 489 到 Kinderdijk Molenkade 下車，全程約需 1 小時。
-2. 從鹿特丹伊拉斯謨橋（Erasmusburg）碼頭站搭乘 21線水上巴士，約 40 - 45 分鐘直達 Kinderdijk Molenkade。想了解更多，可點擊 [水上巴士官網](https://www.waterbus.nl) 查詢最新資訊。
+2. 從鹿特丹伊拉斯謨橋（Erasmusburg）碼頭站搭乘 21線水上巴士，約 40 ~ 45 分鐘直達 Kinderdijk Molenkade。想了解更多，可點擊[水上巴士官網](https://www.waterbus.nl)查詢最新資訊。
 
 ### 票價：
 
