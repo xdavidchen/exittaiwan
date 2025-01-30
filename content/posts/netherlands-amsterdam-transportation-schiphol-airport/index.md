@@ -4,7 +4,7 @@ description: 正在安排阿姆斯特丹自由行嗎？本篇攻略詳解史基�
 draft: false
 slug: 阿姆斯特丹交通-史基浦機場
 folder-name: amsterdam-transportation-schiphol-airport
-author: Jason
+author: Jason Chen
 date: 2024-12-08T21:35:00.000Z
 cover: thumbnail.webp
 tags:
