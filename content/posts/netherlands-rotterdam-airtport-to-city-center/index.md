@@ -4,7 +4,7 @@ description: 這篇文章詳細介紹從阿姆斯特丹的機場到鹿特丹市�
 draft: false
 slug: 鹿特丹機場到市區交通全攻略
 folder-name: rotterdam-airtport-to-city-center
-author: Jason
+author: Jason Chen
 date: 2024-11-27T09:48:00.000Z
 cover: thumbnail.webp
 tags:
