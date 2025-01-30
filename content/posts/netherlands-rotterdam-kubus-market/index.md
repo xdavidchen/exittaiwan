@@ -4,7 +4,7 @@ description: 鹿特丹市區最受歡迎的市區景點就是方塊屋及拱廊�
 draft: false
 slug: 鹿特丹景點-方塊屋-拱廊市場
 folder-name: rotterdam-kubus-market
-author: Jason
+author: Jason Chen
 date: 2024-12-05T22:34:00.000Z
 cover: thumbnail.webp
 tags:
