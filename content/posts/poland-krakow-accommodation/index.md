@@ -126,7 +126,7 @@ Meininger Kraków Centrum 是一間 **CP 值極高** 的青年旅館，無論是
 
 如果你計畫到 **克拉克夫自由行**，並希望找到 **價格合理、環境舒適、交通方便** 的住宿選擇，那麼 **Meininger Kraków Centrum 絕對值得考慮！** 
 
-👉 **立即查詢房價與訂房**：[Meininger Kraków Centrum 官網](https://www.booking.com/hotel/pl/meininger-krakow-centrum.xt.html?aid=7956794&no_rooms=1&group_adults=2)
+👉 **立即查詢房價與訂房**：[Meininger Kraków Centrum 官網](https://www.booking.com/hotel/pl/meininger-krakow-centrum.xt.html?aid=7956794&no_rooms=1&group_adults=2)\
 👉 **更多克拉克夫住宿推薦**：[Booking.com 克拉克夫住宿](https://www.booking.com/searchresults.xt.html?city=-510625&aid=7956794&no_rooms=1&group_adults=2)
 
 希望這篇住宿推薦對你的克拉克夫旅程有所幫助，祝你旅途愉快！
