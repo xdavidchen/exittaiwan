@@ -136,7 +136,6 @@ body {
   font-weight: 400;
   letter-spacing: -.022em;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  background-color: #f5f5f7;
   color: #1d1d1f;
   font-style: normal
 }
@@ -737,7 +736,7 @@ html.js .tile.large-loaded .image {
   padding-top: 32px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1279px) {
   .everydayfeed {
     background-image: none; /* Remove the background image */
     background-color: #f5f5f7; /* Set your desired background color */
@@ -827,7 +826,7 @@ html.js .tile.large-loaded .image {
 .more-from-newsroom {
   padding-top: 10px;
   padding-bottom: 80px;
-  background-color: #f5f5f7;
+  background-color: #fff;
   overflow: hidden
 }
 
@@ -5457,7 +5456,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 @media (max-width: 1279px) {
   .pagebody {
     background-image: none; /* Remove the background image */
-    background-color: #f5f5f7; /* Set your desired background color */
+    background-color: #fff; /* Set your desired background color */
   }
 }
 
@@ -5665,7 +5664,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 .component-content {
   margin-left: auto;
   margin-right: auto;
-  width: 653px
+  width: 653px;
 }
 
 @media only screen and (max-width: 1068px) {
@@ -7292,7 +7291,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   border-radius: 10px;
   display: flex;
   flex-direction: column;
-  margin: 0;
+  margin: 20px 0px 20px 0px;
   padding: 10px 0px;
   font-size: 14px;
 }
