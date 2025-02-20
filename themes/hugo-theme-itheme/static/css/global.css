@@ -5454,7 +5454,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   background-position: center; /* Centers the image */
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1279px) {
   .pagebody {
     background-image: none; /* Remove the background image */
     background-color: #f5f5f7; /* Set your desired background color */
