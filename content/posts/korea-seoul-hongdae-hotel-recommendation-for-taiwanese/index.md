@@ -1,5 +1,5 @@
 ---
-title: "弘大、梨大、新村商圈飯店住宿推薦｜十間適合台灣自由行旅客的飯店"
+title: "弘大、梨大、新村商圈飯店住宿推薦｜十一間適合台灣自由行旅客的飯店"
 slug: "弘大商圈梨大商圈新村商圈飯店住宿推薦"
 date: 2023-10-07
 description: "想要在弘大商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化，你就需要考慮住宿！這篇文章整理了十間最適合台灣遊客的的飯店"
@@ -23,18 +23,19 @@ theme: "light"
 
 ![首爾都會區地圖](seoul-map.webp)
 
-想要在首爾的這三大商圈有最完整的體驗，少不了一間**適合的住宿**！這篇文章，我整理了十間我最推薦且包含各個價格區間、位在首爾的弘大、梨大、新村商圈飯店推薦給前往韓國旅遊的你們，包括：
+想要在首爾的這三大商圈有最完整的體驗，少不了一間**適合的住宿**！這篇文章，「ExitTaiwan 出台灣」團隊整理了十一間我們最推薦且包含各個價格區間、位在首爾的弘大、梨大、新村商圈飯店推薦給前往韓國旅遊的你們，包括：
 
 1. [弘大風格旅館](#首爾弘大梨大新村飯店推薦-1---弘大風格旅館)
 2. [Mercure Ambassador Seoul Hongdae](#首爾弘大梨大新村飯店推薦-2---mercure-ambassador-seoul-hongdae)
 3. [Localstitch Seogyo Town](#首爾弘大梨大新村飯店推薦-3---localstitch-seogyo-town)
-4. [鄭家旅館](#首爾弘大梨大新村飯店推薦-4---鄭家旅館)
-5. [首爾弘大智選假日飯店](#首爾弘大梨大新村飯店推薦-5---首爾弘大智選假日飯店)
-6. [弘大愛博 2 號旅館](#首爾弘大梨大新村飯店推薦-6---弘大愛博-2-號旅館)
-7. [Hi there guesthouse](#首爾弘大梨大新村飯店推薦-7---hi-there-guesthouse)
-8. [首爾大廈旅館](#首爾弘大梨大新村飯店推薦-8---首爾大廈旅館)
-9. [梨大首爾大旅館](#首爾弘大梨大新村飯店推薦-9---梨大首爾大旅館)
-10. [K'STAY Sinchon](#首爾弘大梨大新村飯店推薦-10---kstay-sinchon)
+4. [Union Hotel](#首爾弘大梨大新村飯店推薦-4---union-hotel)
+5. [鄭家旅館](#首爾弘大梨大新村飯店推薦-5---鄭家旅館)
+6. [首爾弘大智選假日飯店](#首爾弘大梨大新村飯店推薦-6---首爾弘大智選假日飯店)
+7. [弘大愛博 2 號旅館](#首爾弘大梨大新村飯店推薦-7---弘大愛博-2-號旅館)
+8. [Hi there guesthouse](#首爾弘大梨大新村飯店推薦-8---hi-there-guesthouse)
+9. [首爾大廈旅館](#首爾弘大梨大新村飯店推薦-9---首爾大廈旅館)
+10. [梨大首爾大旅館](#首爾弘大梨大新村飯店推薦-10---梨大首爾大旅館)
+11. [K'STAY Sinchon](#首爾弘大梨大新村飯店推薦-11---kstay-sinchon)
 
 因為[**在韓國 Google Maps 不太能用**](https://exittaiwan.com/posts/%E7%82%BA%E4%BB%80%E9%BA%BC-google-maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8%E6%9C%89%E4%BB%80%E9%BA%BC%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
 
@@ -98,7 +99,28 @@ $$$$ = > 10000
 - 平均每晚雙人房價格：約台幣 3,000 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/rokeolseutici-seogyotaun.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-### 首爾弘大、梨大、新村飯店推薦 4 - 鄭家旅館
+### 首爾弘大、梨大、新村飯店推薦 4 - Union Hotel
+
+![Union Hotel 飯店房間](union-hotel.webp)
+
+[**Union Hotel**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 是一間價格平易近人，卻提供高品質的星級飯店！經過團隊成員[親自入住體驗](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E4%BD%8F%E5%AE%BF-union-hotel/)，我們認為 Union Hotel 可以成為每位台灣旅客來到首爾自由行的口袋住宿名單。
+
+雖然不在弘大商圈內，但是搭乘公車或地鐵 15 ~ 20 分鐘就能抵達弘大商圈，
+
+可以到 [Booking.com](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 上面看更多 Union Hotel 的照片，或是快速閱讀我們的[親自入住體驗文章](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E4%BD%8F%E5%AE%BF-union-hotel/)！
+
+![Union Hotel 接待大廳](union-hotel-2.webp)
+
+**Union Hotel 基本資訊**
+- 地址：서울 영등포구 양평로 136 유니언호텔（Naver Map）
+- 地鐵：地鐵 9 號線仙游島公園（Seonyudo，韓文：선유도）一號出口步行三分鐘
+- 商圈：距離弘大商圈約 4 公里
+- 最近機場：距離金浦國際機場約 10 公里
+- 是否含早餐：無
+- 平均每晚雙人房價格：約台幣 2,000 ~ 4,000 元（$$）
+- 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794)
+
+### 首爾弘大、梨大、新村飯店推薦 5 - 鄭家旅館
 
 ![鄭家旅館飯店外觀｜*照片取自 Naver Map](jeong.webp)
 
@@ -115,7 +137,7 @@ $$$$ = > 10000
 - 平均每晚雙人房價格：約台幣 2,500 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/jeong-house.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-### 首爾弘大、梨大、新村飯店推薦 5 - 首爾弘大智選假日飯店
+### 首爾弘大、梨大、新村飯店推薦 6 - 首爾弘大智選假日飯店
 
 ![首爾弘大智選假日飯店外觀｜*照片取自首爾弘大智選假日飯店官網
 ](holiday-inn.webp)
@@ -133,7 +155,7 @@ $$$$ = > 10000
 - 平均每晚雙人房價格：約台幣 4,500 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/holiday-inn-express-seoul-hongdae.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-### 首爾弘大、梨大、新村飯店推薦 6 - 弘大愛博 2 號旅館
+### 首爾弘大、梨大、新村飯店推薦 7 - 弘大愛博 2 號旅館
 
 ![弘大愛博 2 號旅館飯店外觀｜*照片取自 Naver Blog](able.webp)
 
@@ -150,7 +172,7 @@ $$$$ = > 10000
 - 平均每晚雙人房價格：約台幣 1,600 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/able-guesthouse-hongdae-2.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-### 首爾弘大、梨大、新村飯店推薦 7 - Hi there guesthouse
+### 首爾弘大、梨大、新村飯店推薦 8 - Hi there guesthouse
 
 ![Hi there guesthouse 飯店外觀｜*照片取自 Naver Map](hi-there.webp)
 
@@ -167,7 +189,7 @@ $$$$ = > 10000
 - 平均每晚雙人房價格：約台幣 2,700 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/hi-there-guesthouse-haideeo-geseuteu-hauseu.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-### 首爾弘大、梨大、新村飯店推薦 8 - 首爾大廈旅館
+### 首爾弘大、梨大、新村飯店推薦 9 - 首爾大廈旅館
 
 ![首爾大廈旅館飯店外觀｜*照片取自 Naver Map](mansion.webp)
 
@@ -184,7 +206,7 @@ $$$$ = > 10000
 - 平均每晚雙人房價格：約台幣 3,600 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/seoul-mansion-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-### 首爾弘大、梨大、新村飯店推薦 9 - 梨大首爾大旅館
+### 首爾弘大、梨大、新村飯店推薦 10 - 梨大首爾大旅館
 
 ![梨大首爾大旅館飯店外觀｜*照片取自 Naver Map](grand-hostel.webp)
 
@@ -201,7 +223,7 @@ $$$$ = > 10000
 - 平均每晚雙人房價格：約台幣 2,500 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/k-grand-hostel-ewha.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-### 首爾弘大、梨大、新村飯店推薦 10 - K'STAY Sinchon
+### 首爾弘大、梨大、新村飯店推薦 11 - K'STAY Sinchon
 
 ![K STAY Sinchon 飯店外觀｜*照片取自 Naver Map](k-stay.webp)
 
@@ -225,6 +247,7 @@ $$$$ = > 10000
 | 弘大風格旅館 | $$     | 位於弘大商圈內     | [**前往查價→**](https://www.booking.com/hotel/kr/hongdae-style-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2)     |
 | Mercure Ambassador Seoul Hongdae  | $$$     | 位於弘大商圈內  | [**前往查價→**](https://www.booking.com/hotel/kr/mercure-ambassador-seoul-hongdae.xt.html?aid=7956794&no_rooms=1&group_adults=2 )    |
 | Localstitch Seogyo Town | $$   | 500 公尺  | [**前往查價→**](https://www.booking.com/hotel/kr/rokeolseutici-seogyotaun.xt.html?aid=7956794&no_rooms=1&group_adults=2) |
+| Union Hotel | $$   | 4 公里  | [**前往查價→**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) |
 |鄭家旅館| $$ | 500 公尺 | [**前往查價→**](https://www.booking.com/hotel/kr/jeong-house.xt.html?aid=7956794&no_rooms=1&group_adults=2) |
 | 首爾弘大智選假日飯店 | $$   |  位於弘大商圈內 | [**前往查價→**](https://www.booking.com/hotel/kr/holiday-inn-express-seoul-hongdae.xt.html?aid=7956794&no_rooms=1&group_adults=2) |
 |弘大愛博 2 號旅館 | $$ |位於弘大商圈內 | [**前往查價→**](https://www.booking.com/hotel/kr/able-guesthouse-hongdae-2.xt.html?aid=7956794&no_rooms=1&group_adults=2) |
