@@ -14,9 +14,9 @@ theme: "light"
 ![|wide](schoenbrunn.webp)
 
 >  **使用說明書**\
-這篇文章分成了五大章節，從對紐約的基本了解、交通、自由行旅遊景點、住宿、和優惠都幫你整理好了！文章比較長，建議配合目錄更快速找到資訊。\
+這篇文章分成了五大章節，從對維也納的基本了解、交通、自由行旅遊景點、住宿、和優惠都幫你整理好了！文章比較長，建議配合目錄更快速找到資訊。\
 \
-喜歡隨興安排旅遊的人，只需要看**行前須知**來確保出發前對紐約有最基本的了解讓你的旅程平安順遂，和最後的[**優惠票卷**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)幫自己省一點錢。\
+喜歡隨興安排旅遊的人，只需要看**行前須知**來確保出發前對維也納有最基本的了解讓你的旅程平安順遂，和最後的[**優惠票卷**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)幫自己省一點錢。\
 \
 喜歡把一切的規劃好的人，可以把文章加入書籤列，隨時回來查看需要的資訊。
 
