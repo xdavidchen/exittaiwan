@@ -7391,12 +7391,12 @@ code {
 }
 
 blockquote {
-  background: #fafafa;
-  border-left: 0.3em solid #ccc;
+  background: #f2fcf2;
+  border-left: 0.3em solid #54ac54;
   padding: 0.5em 0.5em;
   border-radius: 4px;
   margin-bottom: 1.4211em;
-  color: #6e6e73;
+  color: #5e5e61;
   font-size: 16px;
 }
 
