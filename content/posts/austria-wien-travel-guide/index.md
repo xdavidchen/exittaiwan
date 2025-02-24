@@ -99,7 +99,7 @@ theme: "light"
 
 ![](inner-stadt.webp)
 
-在歐洲許多城市，城市規劃都是圍繞著該城市的主要火車站，並從該火車站為中心，以同心圓的方式規劃設計。在維也納同樣是同心圓的規劃，差別在於中心點不是主要火車站，而是聖史蒂芬大教堂（德文：Stephansdom)。
+在歐洲許多城市，城市規劃都是圍繞著該城市的主要火車站，並從該火車站為中心，以同心圓的方式規劃設計。在維也納同樣是同心圓的規劃，差別在於中心點不是主要火車站，而是聖史蒂芬大教堂（德文：Stephansdom）。
 
 以聖史蒂芬大教堂為中心，範圍在環城大道（德文：Ringstrasse）以內的區域範圍，稱為內城區（又稱舊城區或老城區）。這個區域被列為 UNESCO 世界文化遺產，當中景點除了正中心的聖史蒂芬大教堂之外，還包含了維也納歌劇院、維也納音樂協會（金色大廳）、霍夫堡⋯⋯等等。
 
@@ -109,7 +109,7 @@ theme: "light"
 
 ![聖史蒂芬大教堂](stephansdom.webp)
 
-聖史蒂芬大教堂（德文：Stephansdom 或 Stephanskirsche)是維也納的中心點，是每個旅客來到維也納一定會來參觀的景點。教堂內有一小區是可以免費參觀的區域，如果想要上塔或是到地下墓穴，就需要另外買票囉。
+聖史蒂芬大教堂（德文：Stephansdom 或 Stephanskirsche）是維也納的中心點，是每個旅客來到維也納一定會來參觀的景點。教堂內有一小區是可以免費參觀的區域，如果想要上塔或是到地下墓穴，就需要另外買票囉。
 
 如果你剛好在冬天 11 ~ 12 月時來到聖史蒂芬大教堂，這裡的[聖誕市集](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%8F%B2%E8%92%82%E8%8A%AC%E5%BB%A3%E5%A0%B4%E8%81%96%E8%AA%95%E5%B8%82%E9%9B%86/)更是會有著滿滿的人潮！
 
@@ -134,7 +134,7 @@ theme: "light"
 
 ![維也納國立歌劇院](staatsoper.webp)
 
-維也納國立歌劇院（德文：Wiener Staatsoper）幾乎每天都上演著歌劇演出，包括由莫札特創作的費加洛的婚禮（Le nozze di Figaro)、喬治·比才創作的卡門等等知名歌劇。
+維也納國立歌劇院（德文：Wiener Staatsoper）幾乎每天都上演著歌劇演出，包括由莫札特創作的費加洛的婚禮（Le nozze di Figaro）、喬治·比才創作的卡門等等知名歌劇。
 
 在歌劇院裡的每個觀眾席前面都有一個小型的螢幕，顯示翻譯的台詞，所以不用怕聽不懂台上的人在唱什麼，喜歡歌劇的人千萬別錯過這個難得的機會。想要一探究竟的歌劇入門者，也可以買 15 - 20 歐元的站票，了解這個古典的藝術表演。有時候在半場休息過後，如果坐票的人沒有再回到位子上，也可以視情況到位子坐著觀看下半場的演出喔！
 
@@ -150,7 +150,7 @@ theme: "light"
 
 ![霍夫堡](hofburg.webp)
 
-霍夫堡 Hofburg 在地圖上沒有顯示明確的範圍，不過整個霍夫堡大概包含了世界（民族學)博物館、皇家公寓、皇家銀器收藏、阿爾貝蒂娜 Albertina 博物館、奧地利國家圖書館、皇家珍寶館、西班牙馬術學校、維也納歷史博物館，還有人民公園和城堡公園，要逛完所有展覽可能一整天都夠！
+霍夫堡 Hofburg 在地圖上沒有顯示明確的範圍，不過整個霍夫堡大概包含了世界（民族學）博物館、皇家公寓、皇家銀器收藏、阿爾貝蒂娜 Albertina 博物館、奧地利國家圖書館、皇家珍寶館、西班牙馬術學校、維也納歷史博物館，還有人民公園和城堡公園，要逛完所有展覽可能一整天都夠！
 
 在新霍夫堡裡面的世界（民族學）博物館（德文：Weltmuseum）除了展示來自世界各地的文明遺物，也有完整的騎士盔甲、武器展，和不少古董樂器的展示，不論你是歷史迷、軍事迷、或是音樂迷都可以來這裡開開眼界。
 
@@ -166,7 +166,7 @@ theme: "light"
 
 ![阿爾貝蒂娜](albertina.webp)
 
-阿爾貝蒂娜 Albertina 美術館是世界上最多人造訪的美術館之一，擁有豐富的近代美術史館藏，包含印象派（Impressionism）、點描主義（Pointilism）、野獸派（法文：fauvisme)各個歷代大師的作品，你在這裡可以看到畢卡索、莫內、克林姆等人的作品。
+阿爾貝蒂娜 Albertina 美術館是世界上最多人造訪的美術館之一，擁有豐富的近代美術史館藏，包含印象派（Impressionism）、點描主義（Pointilism）、野獸派（法文：fauvisme）各個歷代大師的作品，你在這裡可以看到畢卡索、莫內、克林姆等人的作品。
 
 Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Before Sunrise）](https://www.imdb.com/title/tt0112471/)》的拍攝場景，所以就算不進去美術館參觀，你也可以到外面，和就在對街的維也納國立歌劇院拍幾張照片留念！
 
@@ -182,7 +182,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 
 ![茜茜公主博物館｜照片來源：schauvorbei.at](sisi-museum.webp)
 
-茜茜公主（Elisabeth Amalie Eugenie）作為奧地利史上最有影響力的皇后之一，在奧地利和匈牙利等等歐洲國家都留下了重要的歷史意義，茜茜公主博物館介紹了她傳奇的一生，從童年生活、她的家庭成長背景、到之後嫁給地利的皇帝法蘭茲喬瑟夫一世（Franz Josef I)等等戲劇性般的情節，讓人一窺當時茜茜公主的生活。
+茜茜公主（Elisabeth Amalie Eugenie）作為奧地利史上最有影響力的皇后之一，在奧地利和匈牙利等等歐洲國家都留下了重要的歷史意義，茜茜公主博物館介紹了她傳奇的一生，從童年生活、她的家庭成長背景、到之後嫁給地利的皇帝法蘭茲喬瑟夫一世（Franz Josef I）等等戲劇性般的情節，讓人一窺當時茜茜公主的生活。
 
 - 地址：Michaelerkuppel, 1010 Wien ([Google Maps](https://maps.app.goo.gl/PpZNV7kWqh4UKPXHA))
   - 地鐵 U3 Herrengasse 站步行五分鐘
@@ -277,7 +277,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 
 ![卡爾教堂](karlskirsche.webp)
 
-卡爾教堂（德文：Karlskirsche）就位在維也納音樂協會對面的卡爾廣場（德文：Karlsplatz），為 18 世紀建成的巴洛克建築，是在西元 1713 年大瘟疫後，神聖羅馬帝國查利六世為聖嘉祿·鮑榮茂（拉丁語：Sanctus Carolus Borromeus；義大利語：Santo Carlo Borromeo；1538年—1584年)所建造的。
+卡爾教堂（德文：Karlskirsche）就位在維也納音樂協會對面的卡爾廣場（德文：Karlsplatz），為 18 世紀建成的巴洛克建築，是在西元 1713 年大瘟疫後，神聖羅馬帝國查利六世為聖嘉祿·鮑榮茂（拉丁語：Sanctus Carolus Borromeus；義大利語：Santo Carlo Borromeo；1538年—1584年）所建造的。
 
 教堂旁邊旁邊曾經是醫院墓地，音樂家安東尼奧-韋瓦第（Antonio Vivaldi）在 1741 年去世時就埋葬在此，但是今日墓地已不存在，而是變成維也納科技大學（德文：TU Wien）。韋瓦第的墳墓因為已經無法找到，所以卡爾教堂裡幾乎每天晚上都會[**上演韋瓦第的《四季》音樂會**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1003266&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F106019-vivaldis-four-seasons-concert-ticket-st-charless-church%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfc4b60e21b)來紀念他。
 
@@ -310,7 +310,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 
 ![美景宮](belvedere.webp)
 
-美景宮（德文：Schloss Belvedere）分為上美景宮和下美景宮，大部分旅客會前往上美景宮了解宮殿的歷史，並欣賞宮殿內的裝潢、裝飾、以及包括古斯塔夫・克林姆（德文：Gustav Klimt)在內多名藝術家的名作。
+美景宮（德文：Schloss Belvedere）分為上美景宮和下美景宮，大部分旅客會前往上美景宮了解宮殿的歷史，並欣賞宮殿內的裝潢、裝飾、以及包括古斯塔夫・克林姆（德文：Gustav Klimt）在內多名藝術家的名作。
 
 克林姆最有名的畫作《吻（Der Kuss）》也在這裡展出。
 
@@ -352,7 +352,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 
 ![普拉特室外遊樂場](prater.webp)
 
-對於喜愛遊樂設施、享受刺激的人來說，普拉特市外遊樂場（Prater)可以滿足你的心願！
+對於喜愛遊樂設施、享受刺激的人來說，普拉特市外遊樂場（Prater）可以滿足你的心願！
 
 不像台灣的樂園，普拉特是不需要購票入園的，而是看你想要搭乘哪一個遊樂設施就購買該遊樂設施的乘坐票卷。遊樂場也有不少賣吃的小店面，想要在這裡嗨一整晚都沒問題。
 
@@ -435,7 +435,7 @@ insert image
 
 ![Hotel Sacher  薩赫酒店](hotel-sacher.webp)
 
-你有無上限的旅遊預算、想要超級奢華的體驗嗎？[**Hotel Sacher 薩赫酒店**](https://www.booking.com/hotel/at/sacher-wien.xt.html?aid=7956794)是維也納老城區最有名、最經典、最頂級的飯店之一。它就位在國家歌劇院（德文：Staatsoper）旁邊，走路五分鐘就到卡爾廣場（德文：Karlsplatz）、三分鐘到阿爾貝蒂娜（德文：Albertina）美術館，旁邊又有克恩藤（德文：Kärntner Straße）和格拉本（德文：Graben)購物大街，要什麼有什麼，享受貴賓等級的待遇！
+你有無上限的旅遊預算、想要超級奢華的體驗嗎？[**Hotel Sacher 薩赫酒店**](https://www.booking.com/hotel/at/sacher-wien.xt.html?aid=7956794)是維也納老城區最有名、最經典、最頂級的飯店之一。它就位在國家歌劇院（德文：Staatsoper）旁邊，走路五分鐘就到卡爾廣場（德文：Karlsplatz）、三分鐘到阿爾貝蒂娜（德文：Albertina）美術館，旁邊又有克恩藤（德文：Kärntner Straße）和格拉本（德文：Graben）購物大街，要什麼有什麼，享受貴賓等級的待遇！
 
 - 地址：Philharmoniker Str. 4, 1010 Wien ([Google Maps](https://maps.app.goo.gl/sSewXD2sJwtL2hCh6))
 - 是否含早餐：是
@@ -446,7 +446,7 @@ insert image
 
 ![room by wolfensson](roombywolfensson.webp)
 
-不喜歡傳統高貴的飯店風格，而是現代摩登的高級飯店？那麼 [**rooms by wolfensson**](https://www.booking.com/hotel/at/rooms-by-wolfensson.xt.html?aid=7956794) 絕對是一個絕佳的選擇。[**rooms by wolfensson**](https://www.booking.com/hotel/at/rooms-by-wolfensson.xt.html?aid=7956794) 也在老城區裡面，不遠處就是聖史蒂芬大教堂（德文：Stephansdom)，是一間服務超好、地點超優、整體評價超高的星級飯店！
+不喜歡傳統高貴的飯店風格，而是現代摩登的高級飯店？那麼 [**rooms by wolfensson**](https://www.booking.com/hotel/at/rooms-by-wolfensson.xt.html?aid=7956794) 絕對是一個絕佳的選擇。[**rooms by wolfensson**](https://www.booking.com/hotel/at/rooms-by-wolfensson.xt.html?aid=7956794) 也在老城區裡面，不遠處就是聖史蒂芬大教堂（德文：Stephansdom），是一間服務超好、地點超優、整體評價超高的星級飯店！
 
 - 地址：Habsburgergasse 3, 1010 Wien ([Google Maps](https://www.google.com/maps/place/rooms+by+wolfensson/@48.2080295,16.3678843,16.93z/data=!4m9!3m8!1s0x476d0787ad14f519:0xfb0ebe451ae006a0!5m2!4m1!1i2!8m2!3d48.2083497!4d16.3687462!16s%2Fg%2F11wqny5ykn?authuser=1&entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D))
 - 是否含早餐：無
@@ -457,7 +457,7 @@ insert image
 
 ![Hotel Spiess & Spiess 司碧思酒店](hotel-spiess.webp)
 
-在 U3 地鐵 Rochusgasse 站附近，[**Hotel Spiess & Spiess 司碧思酒店**](https://www.booking.com/hotel/at/appartement-pension-spiess-amp-spiess.xt.html?aid=7956794) 擁有格局相當大的房間，距離市中心的聖史蒂芬大教堂（德文：Stephansdom）搭 U3 也只要 5 分鐘就能抵達，到城市公園（德文：Stadtpark)也很近，是一間性價比非常高的維也納首選飯店！
+在 U3 地鐵 Rochusgasse 站附近，[**Hotel Spiess & Spiess 司碧思酒店**](https://www.booking.com/hotel/at/appartement-pension-spiess-amp-spiess.xt.html?aid=7956794) 擁有格局相當大的房間，距離市中心的聖史蒂芬大教堂（德文：Stephansdom）搭 U3 也只要 5 分鐘就能抵達，到城市公園（德文：Stadtpark）也很近，是一間性價比非常高的維也納首選飯店！
 
 - 地址：Hainburger Str. 19, 1030 Wien ([Google Maps](https://maps.app.goo.gl/d7mvoZitc83UdrA3A))
 - 是否含早餐：有
@@ -481,7 +481,7 @@ insert image
 
 ![Wombat City Hostel Vienna Naschmarkt](wombat.webp)
 
-你是預算超級吃緊的背包客嗎？那也沒問題！[**Wombat's City Hostel Vienna Naschmarkt**](https://www.booking.com/hotel/at/wombats-hostels-vienna-naschmarkt.xt.html?aid=7956794) 可以說是維也納最有名的青年旅館之一。它就位在納許市場（德文：Naschmarkt）旁邊，距離地鐵 U4 的車站只需要步行五分鐘，離卡爾廣場（德文：Karlsplatz)也不遠，大廳有簡單的咖啡廳、隨時都有不少旅客在這邊交朋友！
+你是預算超級吃緊的背包客嗎？那也沒問題！[**Wombat's City Hostel Vienna Naschmarkt**](https://www.booking.com/hotel/at/wombats-hostels-vienna-naschmarkt.xt.html?aid=7956794) 可以說是維也納最有名的青年旅館之一。它就位在納許市場（德文：Naschmarkt）旁邊，距離地鐵 U4 的車站只需要步行五分鐘，離卡爾廣場（德文：Karlsplatz）也不遠，大廳有簡單的咖啡廳、隨時都有不少旅客在這邊交朋友！
 
 - 地址：Rechte Wienzeile 35, 1040 Wien ([Google Maps](https://maps.app.goo.gl/Efb7nWaNXNH4aKjb7))
 - 是否含早餐：有，需加購

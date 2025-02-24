@@ -116,6 +116,6 @@ tags:
 
 ## 總結
 
-[**Oliwka Hostel**](https://www.booking.com/hotel/pl/oliwka-hostel-warszawa.xt.html?aid=7956794&no_rooms=1&group_adults=2) 是一間 地理位置優越、交通便利 的青年旅館，適合預算型旅客。雖然設施較簡單，但整體環境乾淨，若你計畫來華沙自由行、想住在市中心，這間旅館會是值得考慮的選擇！
+[**Oliwka Hostel**](https://www.booking.com/hotel/pl/oliwka-hostel-warszawa.xt.html?aid=7956794&no_rooms=1&group_adults=2) 是一間地理位置優越、交通便利的青年旅館，適合預算型旅客。雖然設施較簡單，但整體環境乾淨，若你計畫來華沙自由行、想住在市中心，這間旅館會是值得考慮的選擇！
 
 希望這篇華沙住宿攻略對你有幫助！祝旅途愉快！
