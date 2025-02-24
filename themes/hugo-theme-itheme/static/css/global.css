@@ -132,7 +132,7 @@ html {
 
 body {
   font-size: 17px;
-  line-height: 1.47059;
+  ;
   font-weight: 400;
   letter-spacing: -.022em;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -153,7 +153,7 @@ h4,
 h5,
 h6 {
   font-weight: 600;
-  color: #1d1d1f
+  color: #1d1d1f;
 }
 
 h1 img,
@@ -965,7 +965,7 @@ html.js .tile.large-loaded .image {
 
 @media only screen and (max-width: 734px) {
   .more-from-newsroom .view-archive-wrapper {
-    margin-top: 24px
+    margin-top: 12px
   }
 }
 
@@ -1286,9 +1286,10 @@ html.js .tile.large-loaded .image {
 @media only screen and (max-width: 1068px) {
   .featured-header .featured-subhead {
     font-size: 21px;
-    line-height: 1.19048;
+    line-height: 1.29048;
     font-weight: 500;
     letter-spacing: .011em;
+    margin-bottom: 1em;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
   }
 
@@ -5442,7 +5443,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 
 .pagebody {
   font-size: 17px;
-  line-height: 1.4211;
+  line-height: 1.8;
   font-weight: 400;
   letter-spacing: .012em;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -5499,7 +5500,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 @media only screen and (max-width: 1068px) {
   .pagebody {
     font-size: 17px;
-    line-height: 1.47059;
+    line-height: 1.8;
     font-weight: 400;
     letter-spacing: -.022em;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
@@ -6736,12 +6737,12 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 
 @media only screen and (max-width: 734px) {
   .pagebody-header:first-child {
-    margin-top: 12px
+    margin-top: 1em;
   }
 }
 
 .pagebody-header:last-child {
-  margin-bottom: 0
+  margin-bottom: 0.2em;
 }
 
 
@@ -7000,7 +7001,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 @media only screen and (max-width: 1068px) {
   .article-subhead {
     font-size: 21px;
-    line-height: 1.19048;
+    line-height: 1.29048;
     font-weight: 500;
     letter-spacing: .011em;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
@@ -7278,7 +7279,8 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   border-radius: 12px;
   background: #0071e3;
   color: #fff;
-  margin-right: 12px;
+  margin-right: 6px;
+  margin-bottom: 1em;
 }
 
 .tag:hover {
@@ -7291,7 +7293,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   border-radius: 10px;
   display: flex;
   flex-direction: column;
-  margin: 20px 0px 20px 0px;
+  margin: 20px 0px 0px 0px;
   padding: 10px 0px;
   font-size: 14px;
 }
