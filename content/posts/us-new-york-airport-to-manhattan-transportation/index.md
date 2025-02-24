@@ -46,7 +46,7 @@ theme: "light"
 - **你的目的地在 Downtown 曼哈頓**：
 搭乘 AirTrain 到霍華德海灘站，轉乘地鐵 A 線（Howard Beach Station ＋ Transit A Metro）
 
-我不推薦這個方法給初訪紐約的旅客原因有很多，關於它唯的一優點就只有價格便宜，一趟 [AirTrain 單程票 $8.25 美元](https://www.jfkairport.com/to-from-airport/air-train)，加上[地鐵單趟 $2.9 美元](https://new.mta.info/fares)，總共是 $11.15 美元。
+我們不推薦這個方法給初訪紐約的旅客原因有很多。關於它唯的一優點就只有價格便宜，一趟 [AirTrain 單程票 $8.25 美元](https://www.jfkairport.com/to-from-airport/air-train)，加上[地鐵單趟 $2.9 美元](https://new.mta.info/fares)，總共是 $11.15 美元。
 
 - **價格**：$11.15 美元
 - **時間**：約一小時
@@ -55,7 +55,7 @@ theme: "light"
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
-> **機場巴士**：AirTrain 從機場到 Jamica 地鐵站的這段路也可以用機場巴士替代，不過光是這一段搭[機場巴士 Q3 路線](https://new.mta.info/document/6271)就要一個小時，應該不會有人想這樣搭，我就不詳細說明了。
+> **機場巴士**：AirTrain 從機場到 Jamica 地鐵站的這段路也可以用機場巴士替代，不過光是這一段搭[機場巴士 Q3 路線](https://new.mta.info/document/6271)就要一個小時，應該不會有人想這樣搭，這邊就不詳細說明了。
 
 ### 計程車
 
@@ -102,9 +102,9 @@ theme: "light"
 ) 和 [**Lyft**](https://www.lyft.com/i/CHEN61210?utm_medium=p2pi_iacc
 )  車資價格和數量的多寡的人來說，私人的出租車是不錯的選擇。
 
-私人出租車大概分兩種：**公司（含各平台）經營**的和**個人經營**的，公司（含各平台）提供的機場接送服務價格約在 $3,000 ~ 4,000 台幣（約 $100 出頭美元），個人經營的價格則是比較少公開在網路上，但我**個人猜測**應該都是 $100 美元上下。
+私人出租車大概分兩種：**公司（含各平台）經營**的和**個人經營**的，公司（含各平台）提供的機場接送服務價格約在 $3,000 ~ 4,000 台幣（約 $100 出頭美元），個人經營的價格則是比較少公開在網路上，但市場價格應該都是 $100 美元上下。
 
-以平台來說，[**Klook**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=745177&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86268-private-john-f-kennedy-international-airport-jfk-transfer-new-york%2F) 和 [**Booking.com**](https://www.booking.com/taxi/index.html?aid=7956794) 都可以找到這個價格區間的選擇，個體經營的機場接送服務我比較沒經驗，大家可以多多到處比較參考，我就不放沒把握的資訊在這邊了～
+以平台來說，[**Klook**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=745177&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86268-private-john-f-kennedy-international-airport-jfk-transfer-new-york%2F) 和 [**Booking.com**](https://www.booking.com/taxi/index.html?aid=7956794) 都可以找到這個價格區間的選擇，大家可以多多到處比較參考。
 
 - **價格**：$3,000 ~ 4,000 元台幣（約 $100 出頭美元）
 - **時間**：非尖峰時段約 40 分鐘，尖峰時段可能超過一小時
@@ -136,7 +136,7 @@ theme: "light"
 
 **我們非常不推薦搭乘機場巴士**，不但班次少，環境差、搭車地點標示不明、票價還很貴。
 
-計程車、Uber 或 Lyft 直接在機場接送區叫車，除了價格偏高以外應該不會有太大的問題。如果下一次我降落在這個機場，我應該會選擇搭搭看機場捷運 AirTrain。
+計程車、Uber 或 Lyft 直接在機場接送區叫車，除了價格偏高以外應該不會有太大的問題。如果下一次降落在這個機場，可能會嘗試搭搭看機場捷運 AirTrain。
 
 > 更多關於紐瓦克機場的交通資訊，可以參考紐瓦克國際機場[官方網站](https://www.newarkairport.com/to-from-airport/public-transportation)。
 
@@ -152,4 +152,4 @@ theme: "light"
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
-如果你是降落在這個機場的人，我們預設你的英文程度應該不錯，比較有機率在美國飛國內線，詳細的交通資訊可以直接到機場的[**這個頁面**](https://laguardiaairport.com/to-from-airport/public-transportation)做參考。
+如果你降落在這個機場，我們預設你的英文程度應該不錯，所以比較有機率在美國飛國內線，詳細的交通資訊可以直接到機場的[**這個頁面**](https://laguardiaairport.com/to-from-airport/public-transportation)做參考。
