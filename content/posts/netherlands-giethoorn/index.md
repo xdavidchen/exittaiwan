@@ -23,13 +23,15 @@ tags:
 
 ## 羊角村特色
 
-![](image1.webp)
+![](image2.webp)
 
 ### [](https://giethoornvillage.com/)[](https://giethoornvillage.com/)**羊角村的房屋**
 
 約 1-200 年前，羊角村這帶相當貧窮，當地人建造房屋都用蘆葦蓋屋頂。而現今在這個磚瓦比蘆葦便宜的時代，加上政府被保護景觀的限制，羊角村的居民仍繼續維持傳統，使用蘆葦屋頂。造就我們可以在羊角村旅遊時有這麼特別又漂亮的運河沿岸風景。必須要注意的是，羊角村雖然是一個旅遊勝地，還是有當地居民住在這的，房子很特別可愛，不過不要不小心就踩到私人土地了。
 
 ### **船遊羊角村**
+
+![](image1.webp)
 
 這是最適合遊覽羊角村的方式，除了遊船外，還可以自行租船享受開船的樂趣。運河沿岸都有很多租船業者可以租船。不過如果是高峰期的話，運河上的船過多，可能就開始玩碰碰船了喔哈哈哈。我們在羊角村停留兩天一夜，第二天早上租船來開，避開了下午的人潮，沒玩到碰碰船有點可惜(?)
 
@@ -42,7 +44,6 @@ tags:
 ### **如何抵達羊角村**
 
 1. 搭火車到 Steenwijk 站後轉 70 號公車到 Giethoorn, Dominee Hylkemaweg 站後就到羊角村啦！或者也可以在前幾站下車然後走過去。
-
 2. 可以自駕前往，從阿姆斯特丹開車車程大約 1.5 小時。不過羊角村內車子是沒有辦法開進去的，所以要把車停在外圍然後走進去。
 
 停車的話羊角村周圍有許多停車場可以給遊客停車，且幾乎都是免費的。停車場主要都是在船公司附近，方便遊客停好車之後直接進去租船。需要注意的是，如果不是停在停車場內被抓到的話，會被罰95歐元喔！
@@ -53,4 +54,8 @@ tags:
 
 Klook：[羊角村 & 運河一日遊（阿姆斯特丹出發）](https://klook.tp.st/KShvB7Eh)
 
-GetYourGuide：[阿姆斯特丹：羊角村一日遊、乘船遊覽和徒步遊覽](https://getyourguide.tp.st/UxSGyIXI)[](https://giethoornvillage.com/rent-a-boat-in-giethoorn/)[](https://giethoornvillage.com/rent-a-boat-in-giethoorn/)[](https://giethoornvillage.com/)
+GetYourGuide：[阿姆斯特丹：羊角村一日遊、乘船遊覽和徒步遊覽](https://getyourguide.tp.st/UxSGyIXI)
+
+## [](https://getyourguide.tp.st/UxSGyIXI)結語
+
+[](https://giethoornvillage.com/rent-a-boat-in-giethoorn/)[](https://giethoornvillage.com/rent-a-boat-in-giethoorn/)[](https://giethoornvillage.com/)當你走進羊角村，彷彿踏入了一個世外桃源，寧靜的運河、茅草屋頂的房舍，以及蜿蜒的小橋構成了一幅夢幻的畫面。無論是悠閒漫步、騎腳踏車，還是乘船穿梭於水道之間，這裡都能讓人感受到與世隔絕的寧靜與美好。如果你嚮往一場遠離喧囂、親近大自然的旅行，羊角村絕對值得列入你的荷蘭旅遊清單。下次計劃荷蘭行程時，別忘了安排時間來這裡，享受這座「荷蘭威尼斯」的獨特魅力！
