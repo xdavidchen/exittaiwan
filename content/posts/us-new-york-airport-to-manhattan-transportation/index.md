@@ -13,13 +13,15 @@ theme: "light"
 
 ![|inline](nyc-airport-transportation.webp)
 
-即將前往[紐約自由行旅遊](https://exittaiwan.com/posts/紐約自由行旅遊/)嗎？當你搭飛機來到紐約，有很大的機率你會降落在紐約的三個機場之一：**甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場**，其中又以甘迺迪國際機場（JFK）和紐瓦克國際機場（EWR）最為常見，相對地理位置可以參考下面地圖。
+即將前往[**紐約自由行旅遊**](https://exittaiwan.com/posts/紐約自由行旅遊/)嗎？當你搭飛機來到紐約，有很大的機率你會降落在紐約的三個機場之一：**甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場**，其中又以甘迺迪國際機場（JFK）和紐瓦克國際機場（EWR）最為常見，相對地理位置可以參考下面地圖。
 
 ![|inline](new-york-city-map.webp)
 
 這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+
+> 推薦閱讀：[**紐約自由行市區交通全攻略｜五種紐約交通方式一次看懂**](https://exittaiwan.com/posts/%E7%B4%90%E7%B4%84%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)
 
 ## 甘迺迪國際機場（John F. Kennedy International Airport, JFK）
 
@@ -31,7 +33,7 @@ theme: "light"
 2. 計程車
 3. Uber 或 Lyft
 4. 飯店機場接送服務
-5. 私人機場接送服務
+5. [**私人機場接送服務**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=745177&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86268-private-john-f-kennedy-international-airport-jfk-transfer-new-york%2)
 
 ### 機場捷運 AirTrain ＋ 地鐵
 
@@ -104,7 +106,7 @@ theme: "light"
 
 私人出租車大概分兩種：**公司（含各平台）經營**的和**個人經營**的，公司（含各平台）提供的機場接送服務價格約在 $3,000 ~ 4,000 台幣（約 $100 出頭美元），個人經營的價格則是比較少公開在網路上，但市場價格應該都是 $100 美元上下。
 
-以平台來說，[**Klook**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=745177&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86268-private-john-f-kennedy-international-airport-jfk-transfer-new-york%2F) 和 [**Booking.com**](https://www.booking.com/taxi/index.html?aid=7956794) 都可以找到這個價格區間的選擇，大家可以多多到處比較參考。
+以平台來說，在 [**Klook**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=745177&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86268-private-john-f-kennedy-international-airport-jfk-transfer-new-york%2F) 上也可以找到這個價格區間的選擇，大家可以多多到處比較參考。
 
 - **價格**：$3,000 ~ 4,000 元台幣（約 $100 出頭美元）
 - **時間**：非尖峰時段約 40 分鐘，尖峰時段可能超過一小時
@@ -152,4 +154,4 @@ theme: "light"
 
 [![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
-如果你降落在這個機場，我們預設你的英文程度應該不錯，所以比較有機率在美國飛國內線，詳細的交通資訊可以直接到機場的[**這個頁面**](https://laguardiaairport.com/to-from-airport/public-transportation)做參考。
+如果你降落在這個機場，我們預設你的英文程度應該不錯，所以比較有機率在美國飛國內線，詳細的交通資訊可以直接到機場的[這個頁面](https://laguardiaairport.com/to-from-airport/public-transportation)做參考。
