@@ -1,8 +1,8 @@
 ---
-title: "弘大、梨大、新村商圈飯店住宿推薦｜十一間適合台灣自由行旅客的飯店"
+title: "弘大、梨大、新村商圈飯店住宿推薦｜十二間適合台灣自由行旅客的飯店"
 slug: "弘大商圈梨大商圈新村商圈飯店住宿推薦"
 date: 2023-10-07
-description: "想要在弘大商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化，你就需要考慮住宿！這篇文章整理了十間最適合台灣遊客的的飯店"
+description: "想要在弘大商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化，你就需要考慮住宿！這篇文章整理了十二間最適合台灣遊客的的飯店"
 draft: false
 author: "Tim Kuo"
 cover: "feature.webp"
@@ -15,15 +15,7 @@ theme: "light"
 
 ## 首爾弘大、梨大、新村商圈
 
-[弘大商圈](https://bobby.tw/blog/post/227567630-%E3%80%90%E9%9F%93%E5%9C%8B%E3%80%91%E5%BC%98%E5%A4%A7%E6%9C%80%E5%BC%B7%E9%80%9B%E8%A1%97%E5%9C%B0%E5%9C%96%EF%BC%812019%E9%A6%96%E7%88%BE%E5%BC%98%E5%A4%A7%E7%BE%8E)是首爾著名的商業區之一，它散發著年輕活力、文化氛圍和街頭表演，有如倫敦皮卡迪利圓環。不同於高端、時尚的風格，弘大商圈更加融合了藝術和設計元素，周圍散發著韓國年輕人所追求的自由和獨特個性的街頭風格。這裡擁有獨具特色的弘大生活。
-
-[梨大商圈](https://www.bring-you.info/zh-tw/ewha-womans-university)同樣是來首爾自由行絕對不能錯過的地方，梨大（梨花女子大學）享有盛名，早已被傳頌美麗與浪漫。這裡也是眾多韓劇的取景地，即使對韓劇不太感興趣，來首爾自由行時，也值得一探這個頂尖學府的風采。特別是在秋天，梨大更是首爾賞楓的絕佳勝地之一！
-
-[新村商圈](https://blog.asiayo.com/2023/04/20/archives/29604/)就在弘大、梨大兩大商圈的附近。因為它鄰近需多大學，主要客群主要是學生，因此價格相對便宜，卻不減品質。如果你喜歡購物，這裡是最明智的選擇，因為性價比極高！首爾新村商圈位於首爾市中心，融合了時尚、文化、藝術和美食，深受韓國年輕人喜愛。
-
-![首爾都會區地圖](seoul-map.webp)
-
-想要在首爾的這三大商圈有最完整的體驗，少不了一間**適合的住宿**！這篇文章，「ExitTaiwan 出台灣」團隊整理了十一間我們最推薦且包含各個價格區間、位在首爾的弘大、梨大、新村商圈飯店推薦給前往韓國旅遊的你們，包括：
+想要在首爾的這三大商圈有最完整的體驗，少不了一間**適合的住宿**！這篇文章，「ExitTaiwan 出台灣」團隊整理了十二間我們最推薦且包含各個價格區間、位在首爾的弘大、梨大、新村商圈飯店推薦給前往韓國旅遊的你們，包括：
 
 1. [弘大風格旅館](#首爾弘大梨大新村飯店推薦-1---弘大風格旅館)
 2. [Mercure Ambassador Seoul Hongdae](#首爾弘大梨大新村飯店推薦-2---mercure-ambassador-seoul-hongdae)
@@ -36,8 +28,11 @@ theme: "light"
 9. [首爾大廈旅館](#首爾弘大梨大新村飯店推薦-9---首爾大廈旅館)
 10. [梨大首爾大旅館](#首爾弘大梨大新村飯店推薦-10---梨大首爾大旅館)
 11. [K'STAY Sinchon](#首爾弘大梨大新村飯店推薦-11---kstay-sinchon)
+12. [Wegoinn Hostel](#首爾弘大梨大新村飯店推薦-12---wegoinn-hostel)
 
 因為[**在韓國 Google Maps 不太能用**](https://exittaiwan.com/posts/%E7%82%BA%E4%BB%80%E9%BA%BC-google-maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8%E6%9C%89%E4%BB%80%E9%BA%BC%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
+
+![首爾都會區地圖](seoul-map.webp)
 
 <!--
 $ = < 1000,
@@ -46,7 +41,7 @@ $$$ = 5000 ~ 9999
 $$$$ = > 10000
 -->
 
-## 十間首爾自由行弘大、梨大、新村商圈飯店住宿推薦
+## 十二間首爾自由行弘大、梨大、新村商圈飯店住宿推薦
 
 ### 首爾弘大、梨大、新村飯店推薦 1 - 弘大風格旅館
 
@@ -240,7 +235,26 @@ $$$$ = > 10000
 - 平均每晚雙人房價格：約台幣 2,200 元（$$）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/k-39-stay.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-## 十間弘大、梨大、新村商圈飯店推薦比較表格
+### 首爾弘大、梨大、新村飯店推薦 12 - Wegoinn Hostel
+
+![](wegoinn.webp)
+
+[**Wegoinn Hotel**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 是一間打著 Hostel 的名號，卻已經快要有旅館的等級的弘大商圈住宿選擇！經過團隊成員[親自入住體驗](https://exittaiwan.com/posts/首爾自由行住宿-wegoinn-hostel)，推薦 Wegoinn Hostel 給想要住在弘大商圈附近、又想壓低預算的台灣旅客。
+
+可以到 [Booking.com](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 上面看更多 Union Hotel 的照片，或是快速閱讀我們的[親自入住體驗文章](https://exittaiwan.com/posts/首爾自由行住宿-wegoinn-hostel)！
+
+![Union Hotel 接待大廳](union-hotel-2.webp)
+
+**Wegoinn 基本資訊**
+- 地址：서울 서대문구 신촌로 141 위고인호스텔빌딩 6~8층, RECEPTION 1F ([Naver Map](https://map.naver.com/p/entry/place/1242893814?placePath=%2Fhome))
+- 交通：
+  - 地鐵 2 號線梨花女字大學（이대）站 1 號出口往斜坡下走，或是
+  - 地鐵 2 號線新村（신촌，Sinchon）站 4 號出口往斜坡上走
+- 是否含早餐：無
+- 平均每晚價格：約台幣 3,000 ~ 8,000（依房型和旅行季節決定，雙人房）
+- 查看即時房價：[**點我前往**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794)
+
+## 十二間弘大、梨大、新村商圈飯店推薦比較表格
 
 | 飯店 | 價格 | 距離弘大商圈 | 即時房價 |
 | -------- | -------- | -------- | -------- |
@@ -255,7 +269,8 @@ $$$$ = > 10000
 | 首爾大廈旅館| $$    |位於弘大商圈內 | [**前往查價→**](https://www.booking.com/hotel/kr/seoul-mansion-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2) |
 | 梨大首爾大旅館 | $$ | 500 公尺 | [**前往查價→**](https://www.booking.com/hotel/kr/k-grand-hostel-ewha.xt.html?aid=7956794&no_rooms=1&group_adults=2) |
 | K'STAY Sinchon | $$   | 700 公尺 | [**前往查價→**](https://www.booking.com/hotel/kr/k-39-stay.xt.html?aid=7956794&no_rooms=1&group_adults=2) |
+| Wegoinn Hostel | $$   | 500 公尺 | [**前往查價→**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) |
 
 價格方面都是以住宿日期前約一個月下訂計算，如果你更早決定好要去弘大、梨大、新村三大商圈附近下榻，提前兩到三個月基本上都可以再省下 30% 花費（旺季除外）。
 
-以上就是十間位在弘大、梨大、新村商圈的飯店住宿推薦，希望能夠幫助到想要到韓國首爾旅遊的各位！
+以上就是十二間位在弘大、梨大、新村商圈的飯店住宿推薦，希望能夠幫助到想要到韓國首爾旅遊的各位！
