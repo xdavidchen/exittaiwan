@@ -18,6 +18,8 @@ tags:
 
 除了是荷蘭議會及國際法庭的所在地，海牙也是藝術愛好者的天堂，尤其是莫瑞泰斯皇家美術館（Mauritshuis），其中以荷蘭畫家梅維爾（Johannes Vermeer）的《戴珍珠耳環的少女》吸引了大量遊客。
 
+> 越早訂越便宜：[**現在查詢海牙房價**](https://www.booking.com/city/nl/den-haag.xt.html?aid=7956794&no_rooms=1&group_adults=2)
+
 這篇文章將帶你深入了解這個博物館的歷史背景及參觀亮點，讓你在荷蘭海牙自由行中不錯過這個藝術瑰寶。
 
 ## 莫瑞泰斯皇家美術館基本資訊
@@ -64,6 +66,8 @@ tags:
 
 博物館位於海牙市中心，周圍擁有許多觀光景點。你可以在參觀完博物館後，漫步至霍夫維弗湖畔，享受湖邊的美麗景色。如果時間允許，可以登上湖邊的黃色高塔 Uitzichtpunt Binnenhof，俯瞰海牙的市區天際線。
 
-## 總結
+> 越早訂越便宜：[**現在查詢海牙房價**](https://www.booking.com/city/nl/den-haag.xt.html?aid=7956794&no_rooms=1&group_adults=2)
+
+## 來海牙別錯過莫瑞泰斯皇家美術館（Mauritshuis）
 
 無論你是藝術愛好者還是純粹想要享受荷蘭的美麗風光，莫瑞泰斯皇家美術館都是海牙自由行的必去景點。別忘了事先[預約門票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=991598&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F100635-mauritshuis-museum-ticket-netherlands%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D38a85e62bc)，準備好一場藝術之旅！

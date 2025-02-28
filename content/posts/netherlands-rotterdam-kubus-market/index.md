@@ -21,6 +21,8 @@ tags:
 
 二戰重生後的鹿特丹，靠著當地建築師的巧手與前衛創新的思維，打造出了非常不荷蘭的鹿特丹，也為鹿特丹注入了一股未來新氣息。
 
+> 越早訂越便宜：[**現在查詢鹿特丹房價**](https://www.booking.com/city/nl/rotterdam.xt.html?aid=7956794&no_rooms=1&group_adults=2)
+
 ## 鹿特丹市區景點 - 方塊屋（De Kijk-Kubus）基本資訊
 
 ![](image2.webp)
@@ -66,6 +68,8 @@ tags:
 ![](image-8.webp)
 
 拱廊市場入口的大玻璃上，會應景地有不同的燈飾點綴這個城市的佳節氛圍，聖誕節就會是聖誕樹，西洋情人節就會是愛心等等...。
+
+> 越早訂越便宜：[**現在查詢鹿特丹房價**](https://www.booking.com/city/nl/rotterdam.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
 ## 如何抵達方塊屋及拱廊市場
 
