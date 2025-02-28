@@ -17,6 +17,9 @@ theme: "light"
 
 和德國柏林愛樂廳（德文：Konzerthaus）、荷蘭阿姆斯特丹大會堂（荷蘭文：Concertgebouw）、美國波士頓交響樂大廳（英文：Symphony Hall）齊名，這是世界上最佳的音樂廳之一，晚上常常有「**一群莫札特演奏著莫札特的音樂**」——它是**維也納的「金色大廳」**（德文：Goldener Saal）。
 
+> ✔️ 越早訂越便宜：[**現在查詢維也納房價**](https://www.booking.com/city/at/vienna.en.html?aid=7956794&no_rooms=1&group_adults=2)
+
+
 維也納的金色大廳已有超過百年歷史，它最為人知曉的特色莫過於每年新年一月一日，都會透過全球電視直播的「**[維也納新年音樂會](https://www.wienerphilharmoniker.at/en/newyearsconcert)**」了。
 
 來到金色大廳的觀光客，可以選擇[參加 45 分鐘的英語導覽](https://www.musikverein.at/en/guided-tours/)，深入了解這裡的歷史、建築設計等，除了星期日和奧地利國定假日外，每天有兩場付費導覽（一場英文、一場德文）。
@@ -147,11 +150,7 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 2. 根據自身喜好和預算選擇座位。
 3. **最慢於演出開始一小時前**，至金色大廳（也就是音樂協會的大樓）櫃檯出示購票證明，兌換實體門票即可。
 
-<!--怕訂錯票嗎？
-
-banner = 訂票服務
-
-服務費 300 台幣-->
+> ✔️ 越早訂越便宜：[**現在查詢維也納房價**](https://www.booking.com/city/at/vienna.en.html?aid=7956794&no_rooms=1&group_adults=2)
 
 ## 觀賞金色大廳演出注意事項
 
