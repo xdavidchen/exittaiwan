@@ -23,6 +23,13 @@
           </div>
 
           <div class="item resources">
+            <div class="item-title">{{ i18n "related-resources" }}</div>
+            {{ range site.Params.resources }}
+              <a href="{{ .url }}" target="_blank">{{ .name}}</a>
+            {{ end }}
+          </div>
+
+          <div class="item resources">
             <div class="item-title">{{ i18n "related" }}</div>
             {{ range site.Params.blogroll }}
               <a href="{{ .url }}" target="_blank">{{ .name}}</a>

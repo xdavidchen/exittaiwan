@@ -14,6 +14,8 @@
     other = "社群"
 [related]
     other = "相關連結"
+[related-resources]
+    other = "旅遊資源"
 [pagination]
     other = "分頁"
 [of]

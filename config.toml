@@ -22,17 +22,26 @@ paginate = 10
     name = '關於 About'
     url = '/about'
   [[params.about]]
-    name = '選擇目的地國家'
-    url = '/tags'
+    name = '小額贊助'
+    url = 'https://exittaiwan.gumroad.com/coffee'
   [[params.about]]
     name = '免責聲明與使用條款'
     url = '/terms'
-  [[params.blogroll]]
+  [[params.resources]]
+    name = 'Booking.com'
+    url = 'https://www.booking.com/?aid=7956794'
+  [[params.resources]]
+    name = 'Klook'
+    url = 'https://affiliate.klook.com/redirect?aid=41451&aff_adid=1007703&k_site=https%3A%2F%2Fwww.klook.com%2F'
+  [[params.resources]]
     name = 'ExitTaiwan Docs'
     url = 'https://docs.exittaiwan.com'
   [[params.blogroll]]
-    name = '小額贊助'
-    url = 'https://exittaiwan.gumroad.com/coffee'
+    name = '製作旅遊手冊'
+    url = 'https://exittaiwan.com/posts/%E5%A6%82%E4%BD%95%E8%A3%BD%E4%BD%9C%E6%97%85%E9%81%8A%E6%89%8B%E5%86%8A/'
+  [[params.blogroll]]
+    name = '自由行行李清單'
+    url = 'https://exittaiwan.com/posts/%E5%87%BA%E5%9C%8B%E8%A1%8C%E6%9D%8E%E6%89%93%E5%8C%85/'
   [[params.blogroll]]
     name = '內容投稿（招募中）'
     url = 'https://app.formbricks.com/s/n8q6ubrjuooymhfxv8i684xy'
