@@ -15,7 +15,7 @@ tags:
 ---
 ![](image4.webp)
 
-克拉克夫（Kraków）是[波蘭](http://localhost:1313/tags/%E6%B3%A2%E8%98%AD/)最具代表性的旅遊城市之一，以其豐富的歷史文化、壯麗的建築和世界知名的大學—**亞捷隆大學**（Uniwersytet Jagielloński）而聞名。這座城市充滿濃厚的歐洲古典氛圍，即使不會講波蘭文，這裡的觀光產業發達，使用英文溝通也完全沒問題。
+克拉克夫（Kraków）是[波蘭](http://exittaiwan/com/tags/%E6%B3%A2%E8%98%AD/)最具代表性的旅遊城市之一，以其豐富的歷史文化、壯麗的建築和世界知名的大學—**亞捷隆大學**（Uniwersytet Jagielloński）而聞名。這座城市充滿濃厚的歐洲古典氛圍，即使不會講波蘭文，這裡的觀光產業發達，使用英文溝通也完全沒問題。
 
 這次筆者入住了一家**高 CP 值的青年旅館**—**[Meininger Kraków Centrum](https://www.booking.com/hotel/pl/meininger-krakow-centrum.xt.html?aid=7956794&no_rooms=1&group_adults=2)**，無論是背包客、家庭旅遊或情侶出遊都相當適合，今天就來分享這間旅館的詳細住宿體驗！
 
