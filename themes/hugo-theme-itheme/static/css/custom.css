@@ -534,14 +534,14 @@ hr {
 .nav-logo {
   width: 26px; /* adjust the width to fit your logo */
   height: auto;
-  margin-top: 12px;
+  margin-top: 8px;
 }
 
 @media only screen and (max-width: 734px) {
   .nav-logo {
     width: 20px; /* adjust the width to fit your logo */
     height: auto;
-    margin-top: 8px;
+    margin-top: 6px;
   }
 }
 
