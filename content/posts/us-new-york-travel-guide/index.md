@@ -45,7 +45,9 @@ theme: "light"
 
 更具體來說，**觀光客最常聽到的紐約，幾乎都是在講曼哈頓**這個行政區，這裡也是最多電影取景、觀光景點最多的旅遊勝地。
 
-![紐約市地理位置圖](new-york-map.webp)
+![](nyc-map-product.webp)
+
+> ✔️ 免費下載[**紐約地圖＋地鐵路線圖高清 PDF 版**](https://exittaiwan.gumroad.com/l/nyc?layout=profile)
 
 **曼哈頓只是一個區？聽起來一天就可以逛完了**
 
