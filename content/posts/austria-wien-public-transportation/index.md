@@ -21,7 +21,7 @@ theme: "light"
 
 ![](wien.webp)
 
-> 想要把圖片存下來嗎？[**免費下載維也納地圖**](https://exittaiwan.gumroad.com/l/wien)
+> 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
 
 ## 核心區 Core Zone
 
