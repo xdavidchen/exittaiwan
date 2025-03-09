@@ -36,7 +36,7 @@ theme: "light"
 
 ![|inline](cat2.webp)
 
-維也納的機場快線（City Airport Train，CAT）是來回維也納市區和機場最快速的選擇。
+[維也納的機場快線（City Airport Train，CAT）](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1011857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F8895-vienna-city-airport-train-ticket-vienna%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D160621ce0b)是來回維也納市區和機場最快速的選擇。
 
 機場快線是維也納機場站和 Wien Mitte（英文：Vienna Center；暫譯：維也納中心）兩站的直達車，行程總時間只要 16 分鐘。
 
@@ -49,9 +49,9 @@ theme: "light"
 
 機場快線 CAT 的淺綠色標示非常顯眼，從出境後的行李托盤區就可以看到廣告，到機場大廳跟著火車的指標走，也會很快就看到一區綠色的櫃檯購票區，只要和櫃檯人員或是透過自動售票機買單程或是來回票就可以囉！
 
-當然，你也可以直接在 [CAT 官網購買電子車票](https://www.cityairporttrain.com/en/)。 <!-- https://www.cityairporttrain.com/en/partner-->
+當然，你也可以在 [Klook 購買電子車票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1011857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F8895-vienna-city-airport-train-ticket-vienna%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D160621ce0b)。 <!-- https://www.cityairporttrain.com/en/partner-->
 
-如果你是在市中心要前往機場的話，CAT 的購票地點在 Wien Mitte The Mall（維也納中心購物商場）裡面。
+如果你是在市中心要前往機場的話，CAT 的現場購票地點在 Wien Mitte The Mall（維也納中心購物商場）裡面。
 
 ![維也納中心購物商場裡的 CAT 櫃檯|inline](cat1.webp)
 

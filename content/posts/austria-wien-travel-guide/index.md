@@ -69,7 +69,7 @@ theme: "light"
 
 維也納國際機場是維也納唯一一個國際機場，它位在維也納東南方的位置，距離維也納市中心只需要 15 - 30 分鐘就可抵達，對於旅客來說非常方便。
 
-此外，你有各種不同的交通選擇往返機場和維也納市區，包括了私人租車、計程車（還有 Uber 和 Lyft）、機場巴士、一般火車、快速直達火車等，你可以根據自身的預算和時間做出適當的選擇，大多數旅客的需求，使用火車和計程車就可以滿足。
+此外，你有各種不同的交通選擇往返機場和維也納市區，包括了私人租車、計程車（還有 Uber 和 Lyft）、機場巴士、一般火車、[**快速直達火車**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1011857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F8895-vienna-city-airport-train-ticket-vienna%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D160621ce0b)等，你可以根據自身的預算和時間做出適當的選擇，大多數旅客的需求，使用火車和計程車就可以滿足。
 
 想要了解更多各種交通方式的差別和細節，你可以參考這篇[**維也納機場到市區交通全攻略**](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E6%A9%9F%E5%A0%B4%E5%88%B0%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)。
 
@@ -518,7 +518,8 @@ insert image
 - 奧地利國家圖書館（德文：Österreichische Nationalbibliothek）
 - 科學博物館（德文：Technisches Museum Wien）
 
-<!-- TODO: link to Museum card article -->
+> 更詳盡的介紹可以看看這篇文章：[維也納博物館通票｜藝術愛好者的一大福音，一張票讓你有逛不完的展覽
+](https://exittaiwan.com/posts/維也納博物館通票/)
 
 ## 現在就安排屬於你的維也納自由行
 
