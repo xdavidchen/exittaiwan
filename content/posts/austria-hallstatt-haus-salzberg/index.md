@@ -85,7 +85,7 @@ Haus Salzberg 最明顯的缺點應該就是熱水的問題了。因為房子歷
 
 會說也不太算缺點的原因是，它其實和交通總站（Hallstatt Lahn）距離走路只有三到五分鐘而已，所以有排行程要前往上特勞恩（Obertraun），也就是達克斯坦山（Dachstein）的所在地，健行觀光冰洞、長毛象洞、五指觀景台等，其實是相當方便走到交通總站搭乘 543 號公車。
 
-### 哈修塔特住宿 Haus Salzberg 結語
+### 哈修塔特住宿 Haus Salzberg 評價
 
 整體來說，我會給 [**Haus Salzberg**](https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2) 滿分 10 分中 8 分的分數，除了房子太老舊偶爾會沒熱水、還有要爬一點樓梯比較不方便以外，我會推薦 Haus Salzberg 給預算中上的旅客。
 

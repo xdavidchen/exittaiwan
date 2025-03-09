@@ -80,7 +80,7 @@ Union Hotel 房間的設計走典雅極簡的風格，黃色的暖色系燈光�
 
 ![首爾都會區地圖](seoul-map.webp)
 
-### Union Hotel 結語
+### Union Hotel 評價
 
 滿分十分的話，[**Union Hotel**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 大概可以得到 9 分的高分吧！
 
