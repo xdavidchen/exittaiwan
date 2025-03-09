@@ -36,6 +36,10 @@ theme: "light"
 - 奧地利國家圖書館（德文：Österreichische Nationalbibliothek）
 - 科學博物館（德文：Technisches Museum Wien）
 
+![](wien.webp)
+
+> 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
+
 ## 維也納博物館 / 美術館通票值得買嗎？
 
 ![](maria-theresien-platz.webp)
@@ -69,3 +73,7 @@ theme: "light"
 > ✔️ [**維也納市區自由行交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](https://exittaiwan.com/posts/維也納市區交通攻略/)
 >
 > ✔️ [**維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包**](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)
+
+![](wien.webp)
+
+> 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
