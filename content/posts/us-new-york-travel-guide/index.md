@@ -20,7 +20,7 @@ theme: "light"
 \
 喜歡隨興安排旅遊的人，只需要看**行前須知**來確保出發前對紐約有最基本的了解讓你的旅程平安順遂，和最後的[**優惠票卷**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)幫自己省一點錢。\
 \
-喜歡把一切的規劃好的人，可以把文章加入書籤列，隨時回來查看需要的資訊。
+喜歡把一切都規劃好的旅客，也可以先把文章加入書籤列，旅途中隨時回來查看需要的資訊。
 
 文章目錄：
 - [紐約自由行旅遊 — 行前須知](#紐約自由行旅遊--行前須知)
