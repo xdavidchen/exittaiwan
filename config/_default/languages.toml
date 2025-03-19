@@ -1,0 +1,6 @@
+################ English language ##################
+[zh-tw]
+languageName = "繁體中文"
+languageCode = 'zh-tw'
+contentDir = "content/zh"
+weight = 1

@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "Booking.com",
+      "icon": "fa-solid fa-hotel",
+      "link": "https://www.booking.com/?aid=7956794"
+    },
+    {
+      "name": "ExitTaiwan Docs",
+      "icon": "fab fa-readme",
+      "link": "https://docs.exittaiwan.com"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/floyd-li"
+    },
+    {
+      "name": "email",
+      "icon": "fa-solid fa-envelope",
+      "link": "mailto:contact@exittaiwan.com"
+    }
+  ]
+}

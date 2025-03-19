@@ -1,0 +1,12 @@
+{{$page_header := site.Params.page_header}}
+{{ if $page_header.enable }}
+<section>
+  <div class="container text-center">
+    <div
+      class="bg-[{{ $page_header.bg_color_lightmode }}] dark:bg-[{{ $page_header.bg_color_darkmode }}] rounded-2xl  px-8 py-14">
+      <h1 class="text-[{{ $page_header.text_color_lightmode }}] dark:text-[{{ $page_header.text_color_darkmode }}]">{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
+      {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+    </div>
+  </div>
+</section>
+{{ end }}

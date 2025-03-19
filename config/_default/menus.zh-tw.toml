@@ -1,0 +1,100 @@
+############# zh navigation ##############
+
+# main menu
+
+
+[[main]]
+name = "關於"
+url = "/about"
+weight = 1
+
+
+[[main]]
+name = "商城"
+url = "/shop"
+weight = 2
+
+[[main]]
+name = "所有貼文"
+url = "posts"
+weight = 3
+
+[[main]]
+name = "文章"
+url = "country"
+weight = 4
+
+
+
+# [[main]]
+# weight = 4
+# name = "Pages"
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "/blog"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "/contact"
+
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "/authors"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "/categories"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "/404"
+
+
+# footer menu
+[[footer_about]]
+name = "關於 About"
+url = "/about"
+weight = 1
+
+[[footer_about]]
+name = "小額贊助"
+url = "https://exittaiwan.gumroad.com/coffee"
+weight = 2
+
+[[footer_about]]
+name = "免責聲明與使用條款"
+url = "/terms"
+weight = 3
+
+
+[[footer_resources]]
+name = "Booking.com"
+url = "https://www.booking.com/?aid=7956794"
+weight = 1
+
+[[footer_resources]]
+name = "Klook"
+url = "https://www.klook.com/?aid=41451&aff_adid=1007703&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=41451&utm_term=&utm_content=&aff_klick_id=93102626107-41451-1007703-c178e75"
+weight = 2
+
+[[footer_resources]]
+name = "ExitTaiwan Docs"
+url = "https://docs.exittaiwan.com/"
+weight = 3
+
+
+[[footer_links]]
+name = "製作旅遊手冊"
+url = "/posts/如何製作旅遊手冊"
+weight = 1
+
+[[footer_links]]
+name = "內容投稿（招募中)"
+url = "https://app.formbricks.com/s/n8q6ubrjuooymhfxv8i684xy"
+weight = 2

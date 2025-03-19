@@ -1,0 +1,61 @@
+<footer class="bg-light dark:bg-darkmode-light">
+  <div class="container">
+    
+
+    <div class="row py-10 gap-y-10">
+      {{/* Footer details */}}
+      <div class="sm:col-6 md:col-4 lg:col-3">
+        <a class="navbar-brand flex items-center gap-3 mb-4" href="{{ site.Home.RelPermalink }}">
+          {{ partial "logo" }}
+          <span class="mt-1 text-2xl">{{site.Params.logo_text}}</span>
+        </a>
+        <a href="mailto:{{site.Params.email}}"><strong>{{T "email"}}:</strong> {{site.Params.email }}</a>
+        <ul class="social-icons mt-6">
+          {{ range site.Data.social.main }}
+          <li>
+            <a target="_blank" aria-label="{{ .name }}" rel="nofollow noopener" href="{{ .link | safeURL }}">
+              <i class="{{ .icon }}"></i>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+
+      {{/* Footer About */}}
+      <div class="sm:col-6 md:col-4 lg:col-3">
+        <h5 class="mb-3">{{T "about"}}</h5>
+        <ul>
+          {{range site.Menus.footer_about}}
+          <li><a href="{{.URL | relLangURL}}">{{.Name}}</a></li>
+          {{end}}
+        </ul>
+      </div>
+      {{/* Footer Resources */}}
+      <div class="sm:col-6 md:col-4 lg:col-3">
+        <h5 class="mb-3">{{T "tourism_resources"}}</h5>
+        <ul>
+          {{range site.Menus.footer_resources}}
+          <li><a href="{{.URL | relLangURL}}">{{.Name}}</a></li>
+          {{end}}
+        </ul>
+      </div>
+      {{/* Footer Links */}}
+      <div class="sm:col-6 md:col-4 lg:col-3">
+        <h5 class="mb-3">{{T "related_links"}}</h5>
+        <ul>
+          {{range site.Menus.footer_links}}
+          <li><a href="{{.URL | relLangURL}}">{{.Name}}</a></li>
+          {{end}}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="border-border dark:border-darkmode-border border-t py-7">
+    <div class="text-text-light dark:text-darkmode-text-light container text-center">
+      <p>
+        {{ site.Params.copyright | markdownify }} | Powerd By <a href="https://github.com/zeon-studio/hugoplate"
+          target="_blank" rel="noopener">Hugoplate</a>
+      </p>
+    </div>
+  </div>
+</footer>

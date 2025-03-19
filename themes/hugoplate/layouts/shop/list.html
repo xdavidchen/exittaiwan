@@ -1,0 +1,55 @@
+{{ define "main" }}
+{{ partial "page-header" . }}
+
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="lg:col-10 mx-auto">
+                <!-- Featured post -->
+                {{ range .RegularPages }}
+                {{ if eq .Params.featured true }}
+                <div class="bg-light dark:bg-darkmode-light rounded-lg shadow-lg overflow-hidden">
+                    <div class="row gap-y-5">
+                        <div class="md:col-6">
+                            {{partial "image" (dict "Src" .Params.cover "Alt" .Title "Class" "w-full md:h-full! h-[200px]! object-cover rounded")}}
+                        </div>
+                        <div class="md:col-6">
+                            <div class="px-6 py-10">
+                                <span class="mb-3">{{ T "travel_brochure" }}</span>
+                                <h2 class="h2 mb-5">
+                                    {{ .Title }}
+                                </h2>
+                                <p class="mb-5">
+                                    {{ .Description | markdownify }}
+                                </p>
+                                <a href="{{ .Params.external_url }}" target="_blank" class="btn btn-primary ">
+                                    <span>{{T "purchase"}}</span>
+                                    <span class="ml-3">→</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+                {{ end }}
+
+
+                <!-- Other Post -->
+                <div class="row mt-24">
+                    {{ $paginator:= .Paginate .RegularPages }}
+                    {{ range $paginator.Pages }}
+                    {{if not .Params.featured}}
+
+                    <div class="md:col-6 mb-14">
+                        {{ partial "components/shop-card" . }}
+                    </div>
+                    {{end}}
+                    {{ end }}
+                </div>
+                {{ partial "components/pagination.html" . }}
+            </div>
+
+        </div>
+    </div>
+</section>
+{{ end }}

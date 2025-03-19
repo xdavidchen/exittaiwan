@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wise 網銀 on ExitTaiwan</title>
-    <link>/tags/wise-%E7%B6%B2%E9%8A%80/</link>
-    <description>Recent content in Wise 網銀 on ExitTaiwan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Wise 網銀 on ExitTaiwan 出台灣</title>
+    <link>//localhost:1313/tags/wise-%E7%B6%B2%E9%8A%80/</link>
+    <description>Recent content in Wise 網銀 on ExitTaiwan 出台灣</description>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
-    <copyright>David Chen</copyright>
-    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wise-%E7%B6%B2%E9%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/wise-%E7%B6%B2%E9%8A%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wise 是什麼？專門寫給台灣人的 Wise 網銀全攻略（開戶、入金、出金、換匯）</title>
-      <link>/posts/%E7%B5%A6%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84wise%E7%B6%B2%E9%8A%80%E5%85%A8%E6%94%BB%E7%95%A5/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/%E7%B5%A6%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84wise%E7%B6%B2%E9%8A%80%E5%85%A8%E6%94%BB%E7%95%A5/</guid>
-      <description>本文持續更新中，如有新變動會盡量放進文章中，但最即時的消息請依照 Wise 官網為主。最後更新日期：2023 年 9 月 8 日。 Wise（前身為 Transfe</description>
+      <link>//localhost:1313/posts/%E7%B5%A6%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84-wise-%E7%B6%B2%E9%8A%80%E5%85%A8%E6%94%BB%E7%95%A5/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/posts/%E7%B5%A6%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84-wise-%E7%B6%B2%E9%8A%80%E5%85%A8%E6%94%BB%E7%95%A5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/posts/%E7%B5%A6%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84-wise-%E7%B6%B2%E9%8A%80%E5%85%A8%E6%94%BB%E7%95%A5/wise.webp&#34; alt=&#34;|inline&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;本文持續更新中，如有新變動會盡量放進文章中，但最即時的消息請依照 &lt;a href=&#34;https://wise.prf.hn/click/camref:1101lC2de&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&lt;strong&gt;Wise&lt;/strong&gt;&lt;/a&gt; 官網為主。最後更新日期：2025 年 2 月 24 日。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

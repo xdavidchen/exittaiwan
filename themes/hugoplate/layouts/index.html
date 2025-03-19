@@ -1,0 +1,68 @@
+{{ define "main" }}
+<!-- Banner -->
+{{ with .Params.banner }}
+<section class="section">
+  <div class="container">
+    <div class="row items-center justify-between gap-y-10">
+      <div class="lg:col-7 ">
+        <h2 class="mb-4">
+          {{ .title | markdownify }}
+        </h2>
+        <p class="mb-8 text-lg">
+          {{ .content | markdownify }}
+        </p>
+        <div class="flex flex-col sm:flex-row items-center mt-15">
+          {{ with .form }}
+          {{ if .enable }}
+          <form id="contact-form"
+            class="flex w-full sm:w-8/12 border border-dark! dark:border-white! rounded-md overflow-hidden  sm:mr-4 md:mr-8">
+            <input type="text" class="form-input rounded-none w-8/12 xl:w-9/12" placeholder="{{ .placeholder }}" required name="email" id="email">
+            <button class="btn btn-primary rounded-none! cursor-pointer w-4/12 xl:w-3/12" id="submit-btn">
+              {{ .button }}
+            </button>
+          </form>
+          {{ end }}
+          {{ end }}
+
+          {{ with .button }}
+          {{ if .enable }}
+          <a class="btn btn-primary md:py-3 mt-8 sm:mt-0" href="{{ .link | absURL }}">
+            {{ .label }}
+            <i class="fa fa-arrow-right pl-2"></i>
+          </a>
+          {{ end }}
+          {{ end }}
+        </div>
+        <p class=" mt-4 font-semibold" id="form-status"></p>
+
+      </div>
+      <div class="lg:col-5 mb-6">
+        {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD"
+        "360x") }}
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+<!-- Banner -->
+<script>
+  const contactFormDomElem =  document.getElementById("contact-form");
+  if (contactFormDomElem) {
+    document.getElementById("contact-form").addEventListener("submit", function (event) {
+    event.preventDefault();
+    let formObject = {
+      subject: "Newsletter Subscription",
+      email: document.getElementById("email").value.trim(),
+      
+    };
+
+    formSubmission(formObject, this, "{{ site.Params.newsletter | safeJS }}");
+    
+  });
+  }
+</script>
+
+<!-- Call to Action -->
+{{ partial "call-to-action" }}
+
+{{ end }}
