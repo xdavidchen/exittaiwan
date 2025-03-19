@@ -101,16 +101,6 @@ You can update the content from the `content/zh` directory. This includes the po
 
 We have added some custom scripts to make your life easier. You can use these scripts to help you with your development.
 
-### 👉 Update Theme
-
-If you want to update the theme, then you can use the following command. It will update the theme to the latest version.
-
-```bash
-npm run update-theme
-```
-
-> **Note:** This command will work after running `project-setup` script.
-
 ### 👉 Update Modules
 
 We have added a lot of modules to this template. You can update all the modules using the following command.
