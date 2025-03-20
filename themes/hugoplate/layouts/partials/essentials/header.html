@@ -34,7 +34,7 @@
       {{ $active := eq $menuURL $pageURL }}
       {{ if .HasChildren }}
       <li class="nav-item nav-dropdown group relative">
-        <span class="nav-link {{ range .Children }}
+        <a href="{{ .URL | absLangURL }}" class="nav-link {{ range .Children }}
                 {{ $childURL := .URL | absLangURL }}
                 {{ $active := eq $childURL $pageURL }}
                 {{ if $active }}active{{ end }}
@@ -43,7 +43,7 @@
           <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
             <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
           </svg>
-        </span>
+        </a>
         <ul class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
           {{ range .Children }}
           {{ $childURL := .URL | absLangURL }}
@@ -66,42 +66,6 @@
         </ul>
       </li>
       {{ else }}
-      {{/* For Posts country */}}
-      {{ if eq .URL "country" }}
-      <li class="nav-item nav-dropdown group relative">
-        <span class="nav-link {{ range site.Taxonomies.country }}
-                {{ $childURL := .Page.RelPermalink | absLangURL }}
-                {{ $active := eq $childURL $pageURL }}
-                {{ if $active }}active{{ end }}
-              {{ end }} inline-flex items-center">
-          {{ .Name }}
-          <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
-            <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-          </svg>
-        </span>
-        <ul class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
-          {{ range site.Taxonomies.country }}
-          {{ $childURL := .Page.RelPermalink | absLangURL }}
-          {{ $active := eq $childURL $pageURL }}
-          <li class="nav-dropdown-item">
-            <a class="nav-dropdown-link {{ if $active }}
-                      active
-                    {{- end -}}" {{ if findRE `^http` .Page.RelPermalink }} target="_blank" rel="noopener" {{ end }} href="{{- if findRE `^#` .Page.RelPermalink -}}
-                      {{- if not $.IsHome -}}
-                        {{- site.Home.RelPermalink -}}
-                      {{- end }}
-                      {{- .Page.RelPermalink -}}
-                    {{- else -}}
-                      {{- .Page.RelPermalink | relLangURL -}}
-                    {{- end -}}">
-              {{ .Page.Name }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      </li>
-    
-      {{else}}
       <li class="nav-item">
         <a class="nav-link {{ if $active }}active{{- end -}}" {{ if findRE `^http` .URL }} target="_blank"
           rel="noopener" {{ end }} href="{{- if findRE `^#` .URL -}}
@@ -112,7 +76,6 @@
                 {{- .URL | relLangURL -}}
               {{- end -}}">{{ .Name }}</a>
       </li>
-      {{ end }}
 
       {{ end }}
       {{ end }}

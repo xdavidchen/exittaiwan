@@ -14,16 +14,42 @@ name = "商城"
 url = "/shop"
 weight = 2
 
+
+# Post with country dropdwon
 [[main]]
-name = "所有貼文"
+name = "文章"
 url = "posts"
 weight = 3
 
 [[main]]
-name = "文章"
-url = "country"
-weight = 4
+parent = "文章"
+name = "冰島"
+url = "country/冰島"
 
+[[main]]
+parent = "文章"
+name = "奧地利"
+url = "country/奧地利"
+
+[[main]]
+parent = "文章"
+name = "捷克"
+url = "country/捷克"
+
+[[main]]
+parent = "文章"
+name = "美國"
+url = "country/美國"
+
+[[main]]
+parent = "文章"
+name = "荷蘭"
+url = "country/荷蘭"
+
+[[main]]
+parent = "文章"
+name = "韓國"
+url = "country/韓國"
 
 
 # [[main]]

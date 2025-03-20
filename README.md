@@ -59,12 +59,44 @@ bg_color_darkmode = "#384343"
 text_color_darkmode = "#fff"
 ```
 
+### 👉 Customize Menu
+
+You can change the menu from the `config/_default/menus.toml` file.
+
+if you want to add new item in menu then add it like:
+```toml
+[[main]]
+name = "Blog"
+url = "posts"
+weight = 100
+
+```
+if you want to add sub menu then add it like:
+```toml
+[[main]]
+weight = 4
+name = "Pages"
+
+[[main]]
+parent = "Pages"
+name = "Blog"
+url = "/blog"
+```
+
+if you want to add more country in submenu then add it like:
+```toml
+[[main]]
+parent = "文章"
+name = "冰島"
+url = "country/冰島"
+```
+
 ### Newslatter and Contact form Customization
 
 You can change the newslatter configuration from the `config/_default/params.toml` file.
 
 ```toml
-contact_form_action = "https://formsubmit.co/contact@exittaiwan.com" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://formsubmit.co/contact@exittaiwan.com" 
 newsletter = "https://formsubmit.co/contact@exittaiwan.com"
 ```
 

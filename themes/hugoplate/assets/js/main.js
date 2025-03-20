@@ -37,9 +37,7 @@
 
 
 async function formSubmission(formObject,form,url) {
-console.log(url)
-console.log(form)
-console.log(formObject)
+
   let submitBtn = document.getElementById("submit-btn");
   let formStatus = document.getElementById("form-status");
 
