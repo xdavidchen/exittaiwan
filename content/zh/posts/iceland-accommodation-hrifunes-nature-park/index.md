@@ -10,7 +10,7 @@ image: "hrifunes-cover.webp"
 tags: [冰島, 冰島旅遊, 冰島自由行, 冰島自駕, 冰島住宿]
 theme: "light"
 country: "冰島"
-city: "冰島"
+city: "呂福恩斯"
 ---
 
 ![](hrifunes-cover.webp)

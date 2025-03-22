@@ -10,6 +10,8 @@ cover: "thumbnail.webp"
 image: "thumbnail.webp"
 tags: [斯洛伐克, 布拉提斯拉瓦, 布拉提斯拉瓦旅遊, 布拉提斯拉瓦自由行]
 theme: "light"
+country: 斯洛伐克
+city: 布拉提斯拉瓦
 ---
 
 ![|wide](thumbnail.webp)

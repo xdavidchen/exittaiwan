@@ -10,7 +10,6 @@ image: "feature.webp"
 tags: [奧地利, 租屋]
 theme: "light"
 country: "奧地利"
-city: "奧地利"
 ---
 
 ![](housing-websites-austria.webp)

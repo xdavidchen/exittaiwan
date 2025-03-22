@@ -1,62 +1,58 @@
 ---
 # Banner
 banner:
-  title: "「ExitTaiwan 出台灣」是一個為了幫助台灣人走出台灣，探索世界而誕生的生活品牌。"
-  content: "不管出國是為了旅遊、交換學生、留學、打工度假、工作、甚至移民等，你都能在這個網站上找到相關的資訊。"
-  image: "/images/banner.png"
+  title: "2025-26 世界最佳飯店指南"
+  content: "現在就免費下載由「ExitTaiwan」製作提供的世界最佳飯店指南，探索世界各城市口碑最佳、最優質的自由行住宿選擇。"
+  image: "/images/service-1.png"
   form:
     enable: true
-    button: "訂閱"
-    placeholder: "輸入您的電子郵件地址"
+    button: "接收"
+    placeholder: "輸入電子信箱"
   button:
-    enable: true
+    enable: false
     label: "了解更多"
     link: "/about"
 
 
 # Features
 features:
-  enable: false
+  enable: true
   list:
-    - title: "What's Included in Hugoplate"
-      image: "/images/service-1.png"
-      content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    - title: "Couch Surfing? Cloud Surfing!"
+      image: "/images/banner.png"
+      content: "沙發衝浪 couch surfing 過時了，現在就跟「ExitTaiwan 出台灣」一起雲端衝浪 cloud surfing！"
       bulletpoints:
-        - "10+ Pre-build pages"
-        - "95+ Google Pagespeed Score"
-        - "Build with Hugo and TailwindCSS for easy and customizable styling"
-        - "Fully responsive on all devices"
-        - "SEO-optimized for better search engine rankings"
-        - "**Open-source and free** for personal and commercial use"
-      button:
-        enable: false
-        label: "Get Started Now"
-        link: "#"
-
-    - title: "Discover the Key Features Of Hugo"
-      image: "/images/service-2.png"
-      content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-      bulletpoints:
-        - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-        - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-        - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+        - "到葡萄牙拿著塑膠槌互相敲頭？"
+        - "看看紐約人的廚房裡有一間浴室？"
+        - "聽聽日本人吸拉麵的聲音，在瑞典北方的城市是「同意」的意思？"
       button:
         enable: true
-        label: "Get Started Now"
-        link: "https://github.com/zeon-studio/hugoplate"
+        label: "接收電子報"
+        link: "https://newsletter.exittaiwan.com/profile"
 
-    - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-      image: "/images/service-3.png"
-      content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    #- title: "手作旅行手冊，重拾手作的溫度"
+      #image: "/images/ebook-cover.png"
+      #content: "和專業平面設計師合作，"
+      #bulletpoints:
+        #- "內頁包含行程表、"
+        #- "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
+        #- "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      #button:
+        #enable: true
+        #label: "前往購買"
+        #link: "https://github.com/zeon-studio/hugoplate"
+
+    - title: "手作旅行手冊，重拾手作的溫度"
+      image: "/images/ebook-cover.png"
+      content: "和專業平面設計師合作，就要你把旅程深深刻刻的紀錄在你專屬的旅遊小書裡。"
       bulletpoints:
-        - "Instantly load static sites for better user experience and SEO."
-        - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-        - "Use any front-end library or framework, or build custom components, for any project size."
-        - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+        - "總共 24 頁的高解析度 PDF 檔，到影印店五分鐘內輸出完成旅行小書。"
+        - "內頁包含行李清單、行程表、記帳表、彈性筆記區等。"
+        - "簡單輸出，動手製作，讓旅行的回憶更具溫度。"
       button:
-        enable: false
-        label: ""
-        link: ""
+        enable: true
+        label: "選擇國家"
+        link: "/shop"
 ---
 
 

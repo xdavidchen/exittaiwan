@@ -10,7 +10,6 @@ image: "featured.webp"
 tags: [韓國, 韓國旅遊, 韓國自由行]
 theme: "light"
 country: "韓國"
-city: "韓國"
 ---
 
 ![|inline](featured.webp)

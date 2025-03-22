@@ -8,7 +8,8 @@ author: "David Chen"
 cover: "pod.webp"
 image: "pod.webp"
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行, 紐約飯店]
-theme: "light"
+country: "美國"
+city: "紐約"
 ---
 
 ![](pod.webp)

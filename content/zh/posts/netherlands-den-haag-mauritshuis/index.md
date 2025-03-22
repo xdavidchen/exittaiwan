@@ -11,6 +11,9 @@ tags:
   - 海牙
   - 海牙旅遊
   - 海牙自由行
+
+country: 荷蘭
+city: 海牙
 ---
 ![](image2.webp)
 

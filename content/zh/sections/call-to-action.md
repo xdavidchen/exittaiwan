@@ -1,12 +1,12 @@
 ---
-enable: false
-title: "電子報"
+enable: true
+title: "國外自由行 x 慢遊美學"
 image: "/images/call-to-action.png"
-description: "隨時關注我們的最新產品和文章。"
+description: "沒有社群平台，只有乾淨內容。接收消息和獨家優惠的唯一管道。"
 form:
   enable: true
   button: "訂閱"
-  placeholder: "輸入您的電子郵件地址"
+  placeholder: "輸入電子郵件"
 
 
 

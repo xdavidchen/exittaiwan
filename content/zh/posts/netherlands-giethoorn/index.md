@@ -12,6 +12,8 @@ tags:
   - 羊角村
   - 羊角村旅遊
   - 羊角村自由行
+country: 荷蘭
+city: 羊角村
 ---
 ![](giethoorn-1.webp)
 

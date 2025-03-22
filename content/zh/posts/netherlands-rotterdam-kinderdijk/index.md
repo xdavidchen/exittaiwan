@@ -12,6 +12,8 @@ tags:
   - 鹿特丹
   - 鹿特丹旅遊
   - 鹿特丹自由行
+country: 荷蘭
+city: 鹿特丹
 ---
 ![](kinderdijk-scene.webp)
 

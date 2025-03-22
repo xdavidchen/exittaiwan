@@ -44,7 +44,7 @@ async function formSubmission(formObject,form,url) {
   // Disable button and show "Submitting..."
   submitBtn.disabled = true;
   submitBtn.classList.add("cursor-wait");
-  submitBtn.textContent = "Submitting...";
+  submitBtn.textContent = "提交中..."; //"Submitting...";
 
   try {
     const response = await fetch(url , {

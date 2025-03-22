@@ -72,7 +72,6 @@
 
 
 
-  <base href="//localhost:1313/posts/%E7%B4%90%E7%B4%84%E6%A9%9F%E5%A0%B4%E5%88%B0%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/" />
 
 
 
@@ -159,8 +158,8 @@
       
       
       
-        <meta property="og:image" content="//localhost:1313/images/og-image.png" />
-        <meta name="twitter:image" content="//localhost:1313/images/og-image.png" />
+        <meta property="og:image" content="http://localhost:1313/images/og-image.png" />
+        <meta name="twitter:image" content="http://localhost:1313/images/og-image.png" />
         <meta
           name="twitter:card"
           content="summary_large_image" />
@@ -187,7 +186,7 @@
 <meta property="og:title" content="紐約機場怎麼到曼哈頓？甘迺迪機場到市區交通全攻略" />
 <meta property="og:description" content="這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="//localhost:1313/posts/%E7%B4%90%E7%B4%84%E6%A9%9F%E5%A0%B4%E5%88%B0%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/" />
+<meta property="og:url" content="http://localhost:1313/posts/%E7%B4%90%E7%B4%84%E6%A9%9F%E5%A0%B4%E5%88%B0%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/" />
 
 
 <meta name="twitter:title" content="紐約機場怎麼到曼哈頓？甘迺迪機場到市區交通全攻略" />
@@ -218,7 +217,7 @@
 
 
 <script>
-  let indexURL = "//localhost:1313/searchindex.json";
+  let indexURL = "http://localhost:1313/searchindex.json";
   let includeSectionsInSearch = ["posts"];
   let search_no_results = "沒有符合的結果";
   let search_initial_message = "輸入內容以搜尋...";
@@ -271,12 +270,16 @@
 <script>
   (function () {
     const googleFont = document.createElement("link");
-    googleFont.href = "https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Signika:wght@500;700&display=swap";
+    googleFont.href = "https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Noto Serif TC:wght@500;700&display=swap";
     googleFont.type = "text/css";
     googleFont.rel = "stylesheet";
     document.head.appendChild(googleFont);
   })();
 </script>
+
+
+
+
 
 
 
@@ -342,6 +345,8 @@
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
+
+    <script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="b347b00d-9393-4bb3-8cb9-7daaf1a18057" async> </script>
 
   </head>
 
@@ -509,49 +514,8 @@
       
       
       
-      
-      
-      <li class="nav-item">
-        <a class="nav-link "  href="/about">關於</a>
-      </li>
-      
-
-      
-      
-      
-      
-      
-      
-      
-      
-      <li class="nav-item">
-        <a class="nav-link "  href="/shop">商城</a>
-      </li>
-      
-
-      
-      
-      
-      
-      
-      
-      
-      
-      <li class="nav-item">
-        <a class="nav-link "  href="/posts">所有貼文</a>
-      </li>
-      
-
-      
-      
-      
-      
-      
-      
-      
-      
       <li class="nav-item nav-dropdown group relative">
-        <span class="nav-link 
+        <a href="http://localhost:1313/posts" class="nav-link 
                 
                 
                 
@@ -580,21 +544,13 @@
           <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
             <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
           </svg>
-        </span>
+        </a>
         <ul class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
           
           
           
           <li class="nav-dropdown-item">
-            <a class="nav-dropdown-link "  href="/country/%E5%86%B0%E5%B3%B6/">
-              冰島
-            </a>
-          </li>
-          
-          
-          
-          <li class="nav-dropdown-item">
-            <a class="nav-dropdown-link "  href="/country/%E5%A5%A7%E5%9C%B0%E5%88%A9/">
+            <a class="nav-dropdown-link "  href="/country/%e5%a5%a7%e5%9c%b0%e5%88%a9">
               奧地利
             </a>
           </li>
@@ -602,23 +558,7 @@
           
           
           <li class="nav-dropdown-item">
-            <a class="nav-dropdown-link "  href="/country/%E6%8D%B7%E5%85%8B/">
-              捷克
-            </a>
-          </li>
-          
-          
-          
-          <li class="nav-dropdown-item">
-            <a class="nav-dropdown-link "  href="/country/%E7%BE%8E%E5%9C%8B/">
-              美國
-            </a>
-          </li>
-          
-          
-          
-          <li class="nav-dropdown-item">
-            <a class="nav-dropdown-link "  href="/country/%E8%8D%B7%E8%98%AD/">
+            <a class="nav-dropdown-link "  href="/country/%e8%8d%b7%e8%98%ad">
               荷蘭
             </a>
           </li>
@@ -626,16 +566,76 @@
           
           
           <li class="nav-dropdown-item">
-            <a class="nav-dropdown-link "  href="/country/%E9%9F%93%E5%9C%8B/">
+            <a class="nav-dropdown-link "  href="/country/%e5%86%b0%e5%b3%b6">
+              冰島
+            </a>
+          </li>
+          
+          
+          
+          <li class="nav-dropdown-item">
+            <a class="nav-dropdown-link "  href="/country/%e6%8d%b7%e5%85%8b">
+              捷克
+            </a>
+          </li>
+          
+          
+          
+          <li class="nav-dropdown-item">
+            <a class="nav-dropdown-link "  href="/country/%e7%be%8e%e5%9c%8b">
+              美國
+            </a>
+          </li>
+          
+          
+          
+          <li class="nav-dropdown-item">
+            <a class="nav-dropdown-link "  href="/country/%e9%9f%93%e5%9c%8b">
               韓國
             </a>
           </li>
           
         </ul>
       </li>
-    
       
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a class="nav-link "  href="/shop">商城</a>
+      </li>
 
+      
+      
+      
+      
+      
+      
+      <li class="nav-item nav-dropdown group relative">
+        <a href="http://localhost:1313/about" class="nav-link 
+                
+                
+                
+               inline-flex items-center">
+          關於
+          <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+            <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+          </svg>
+        </a>
+        <ul class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
+          
+          
+          
+          <li class="nav-dropdown-item">
+            <a class="nav-dropdown-link "  href="/contact">
+              聯絡
+            </a>
+          </li>
+          
+        </ul>
+      </li>
       
       
       
@@ -754,7 +754,7 @@
     <div
       class="search-modal "
       aria-hidden="true"
-      style="--color-primary: #121212">
+      style="--color-primary: #399A4B">
       <div data-target="close-search-modal" class="search-modal-overlay"></div>
       <div
         class="search-wrapper"
@@ -1483,7 +1483,7 @@
   
     <a
       class="share-link share-facebook"
-      href="https://facebook.com/sharer/sharer.php?u=%2f%2flocalhost%3a1313%2fposts%2f%25E7%25B4%2590%25E7%25B4%2584%25E6%25A9%259F%25E5%25A0%25B4%25E5%2588%25B0%25E5%25B8%2582%25E5%258D%2580%25E4%25BA%25A4%25E9%2580%259A%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5%2f"
+      href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fposts%2f%25E7%25B4%2590%25E7%25B4%2584%25E6%25A9%259F%25E5%25A0%25B4%25E5%2588%25B0%25E5%25B8%2582%25E5%258D%2580%25E4%25BA%25A4%25E9%2580%259A%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5%2f"
       target="_blank"
       rel="noopener"
       aria-label="share facebook">
@@ -1501,7 +1501,7 @@
   
     <a
       class="share-link share-twitter"
-      href="https://twitter.com/intent/tweet/?text=%e5%88%86%e4%ba%ab&amp;url=%2f%2flocalhost%3a1313%2fposts%2f%25E7%25B4%2590%25E7%25B4%2584%25E6%25A9%259F%25E5%25A0%25B4%25E5%2588%25B0%25E5%25B8%2582%25E5%258D%2580%25E4%25BA%25A4%25E9%2580%259A%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5%2f"
+      href="https://twitter.com/intent/tweet/?text=%e5%88%86%e4%ba%ab&amp;url=http%3a%2f%2flocalhost%3a1313%2fposts%2f%25E7%25B4%2590%25E7%25B4%2584%25E6%25A9%259F%25E5%25A0%25B4%25E5%2588%25B0%25E5%25B8%2582%25E5%258D%2580%25E4%25BA%25A4%25E9%2580%259A%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5%2f"
       target="_blank"
       rel="noopener"
       aria-label="share twitter">
@@ -1519,7 +1519,7 @@
   
     <a
       class="share-link share-email"
-      href="mailto:?subject=%e5%88%86%e4%ba%ab&amp;body=%2f%2flocalhost%3a1313%2fposts%2f%25E7%25B4%2590%25E7%25B4%2584%25E6%25A9%259F%25E5%25A0%25B4%25E5%2588%25B0%25E5%25B8%2582%25E5%258D%2580%25E4%25BA%25A4%25E9%2580%259A%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5%2f"
+      href="mailto:?subject=%e5%88%86%e4%ba%ab&amp;body=http%3a%2f%2flocalhost%3a1313%2fposts%2f%25E7%25B4%2590%25E7%25B4%2584%25E6%25A9%259F%25E5%25A0%25B4%25E5%2588%25B0%25E5%25B8%2582%25E5%258D%2580%25E4%25BA%25A4%25E9%2580%259A%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5%2f"
       target="_self"
       rel="noopener"
       aria-label="share email">
@@ -1537,7 +1537,7 @@
   
     <a
       class="share-link share-reddit"
-      href="https://reddit.com/submit/?url=%2f%2flocalhost%3a1313%2fposts%2f%25E7%25B4%2590%25E7%25B4%2584%25E6%25A9%259F%25E5%25A0%25B4%25E5%2588%25B0%25E5%25B8%2582%25E5%258D%2580%25E4%25BA%25A4%25E9%2580%259A%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5%2f&amp;resubmit=true&amp;title=%e5%88%86%e4%ba%ab"
+      href="https://reddit.com/submit/?url=http%3a%2f%2flocalhost%3a1313%2fposts%2f%25E7%25B4%2590%25E7%25B4%2584%25E6%25A9%259F%25E5%25A0%25B4%25E5%2588%25B0%25E5%25B8%2582%25E5%258D%2580%25E4%25BA%25A4%25E9%2580%259A%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5%2f&amp;resubmit=true&amp;title=%e5%88%86%e4%ba%ab"
       target="_blank"
       rel="noopener"
       aria-label="share reddit">
@@ -1578,29 +1578,6 @@
             </div>
           </div>
           
-          
-            <div class="mt-20">
-              <div id="disqus_thread"></div>
-<script>
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "themefisher-template" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            </div>
           
         </article>
       </div>
@@ -1796,7 +1773,7 @@
   <div class="border-border dark:border-darkmode-border border-t py-7">
     <div class="text-text-light dark:text-darkmode-text-light container text-center">
       <p>
-        © 2025 ExitTaiwan 出台湾 | Powerd By <a href="https://github.com/zeon-studio/hugoplate"
+        © 2025 ExitTaiwan 出台灣 | Powerd By <a href="https://github.com/zeon-studio/hugoplate"
           target="_blank" rel="noopener">Hugoplate</a>
       </p>
     </div>

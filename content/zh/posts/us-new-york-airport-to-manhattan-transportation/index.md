@@ -8,6 +8,8 @@ cover: "feature.webp"
 tags: [美國, 紐約, 紐約旅遊, 紐約自由行]
 theme: "light"
 draft: false
+country: "美國"
+city: "紐約"
 ---
 
 ![|inline](nyc-airport-transportation.webp)

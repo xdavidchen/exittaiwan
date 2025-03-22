@@ -14,6 +14,8 @@ tags:
   - 鹿特丹自由行
   - 鹿特丹景點
   - 鹿特丹美食
+country: 荷蘭
+city: 鹿特丹
 ---
 
 ![](thumbnail.webp)

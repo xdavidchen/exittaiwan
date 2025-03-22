@@ -6,8 +6,25 @@
 [[main]]
 name = "關於"
 url = "/about"
-weight = 1
+weight = 3
 
+#[[main]]
+#parent = "關於"
+#name = "作者"
+#url = "/authors"
+#weight = 1
+
+[[main]]
+parent = "關於"
+name = "聯絡"
+url = "/contact"
+weight = 2
+
+#[[main]]
+#parent = "關於"
+#name = "ExitTaiwan Docs"
+#url = "https://docs.exittaiwan.com/"
+#weight = 3
 
 [[main]]
 name = "商城"
@@ -19,7 +36,7 @@ weight = 2
 [[main]]
 name = "文章"
 url = "posts"
-weight = 3
+weight = 1
 
 [[main]]
 parent = "文章"
@@ -30,6 +47,7 @@ url = "country/冰島"
 parent = "文章"
 name = "奧地利"
 url = "country/奧地利"
+weight = 1
 
 [[main]]
 parent = "文章"
@@ -45,6 +63,7 @@ url = "country/美國"
 parent = "文章"
 name = "荷蘭"
 url = "country/荷蘭"
+weight = 6
 
 [[main]]
 parent = "文章"

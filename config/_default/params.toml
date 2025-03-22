@@ -28,7 +28,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "© 2025 ExitTaiwan 出台湾"
+copyright = "© 2025 ExitTaiwan 出台灣"
 email = "contact@exittaiwan.com"
 
 # Preloader
@@ -55,7 +55,7 @@ text_color_darkmode = "#fff"
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
-primary_color = "#121212"
+primary_color = "#399A4B"
 include_sections = ["posts"]
 show_image = true
 show_description = true

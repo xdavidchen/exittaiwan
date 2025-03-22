@@ -2,7 +2,7 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#121212",
+        "primary": "#399A4B",
         "body": "#fff",
         "border": "#eaeaea",
         "light": "#f6f6f6",
@@ -33,8 +33,8 @@
     "font_family": {
       "primary": "Heebo:wght@400;600",
       "primary_type": "sans-serif",
-      "secondary": "Signika:wght@500;700",
-      "secondary_type": "sans-serif"
+      "secondary": "Noto Serif TC:wght@500;700",
+      "secondary_type": "serif"
     },
     "font_size": {
       "base": "16",

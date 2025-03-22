@@ -12,6 +12,8 @@ tags:
   - 卡托維治
   - 卡托維治旅遊
   - 卡托維治自由行
+country: 波蘭
+city: 卡托維治
 ---
 
 ![](katowice-cover-image.webp)

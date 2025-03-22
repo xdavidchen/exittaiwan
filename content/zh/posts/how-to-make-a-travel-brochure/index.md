@@ -9,8 +9,6 @@ cover: cover.webp
 image: cover.webp
 tags:
   - 工具
-country: 美國
-city: 洛杉磯
 ---
 
 ![](e-book-1.webp)    
