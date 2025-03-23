@@ -14,10 +14,10 @@
         {{ with .Params.form }}
         {{ if .enable }}
         <div class="lg:w-6/12 md:w-8/12 sm:w-10/12 w-full  mx-auto flex justify-center">
-          <form action="{{ site.Params.newsletter }}" method="post"
+          <form id="contact-form"
             class="flex w-full border border-dark! dark:border-white! rounded-md overflow-hidden">
             <input type="text" class="form-input rounded-none" placeholder="{{ .placeholder }}" required name="email">
-            <button class="btn btn-primary rounded-none! cursor-pointer">
+            <button class="btn btn-primary rounded-none! cursor-pointer w-28!">
               {{ .button }}
             </button>
           </form>
@@ -29,6 +29,22 @@
     </div>
   </div>
 </section>
+<script>
+  const contactFormDomElem =  document.getElementById("contact-form");
+  if (contactFormDomElem) {
+    document.getElementById("contact-form").addEventListener("submit", function (event) {
+    event.preventDefault();
+    let formObject = {
+      _subject: "Newsletter Subscription",
+      email: document.getElementById("email").value.trim(),
+      
+    };
+
+    formSubmission(formObject, this, "{{ site.Params.newsletter | safeJS }}");
+    
+  });
+  }
+</script>
 {{ end }}
 {{ end }}
 <!-- /Call to actions -->

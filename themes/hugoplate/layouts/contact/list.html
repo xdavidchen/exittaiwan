@@ -55,7 +55,7 @@
       document.getElementById("contact-form").addEventListener("submit", function (event) {
       event.preventDefault();
       let formObject = {
-        firstName: document.getElementById("full_name").value.trim(),
+        fullName: document.getElementById("full_name").value.trim(),
         email: document.getElementById("email").value.trim(),
         message: document.getElementById("message").value.trim(),
       };

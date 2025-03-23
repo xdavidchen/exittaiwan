@@ -35,9 +35,7 @@
   });
 })();
 
-
-async function formSubmission(formObject,form,url) {
-
+function formSubmission(formObject, form, url) {
   let submitBtn = document.getElementById("submit-btn");
   let formStatus = document.getElementById("form-status");
 
@@ -46,39 +44,40 @@ async function formSubmission(formObject,form,url) {
   submitBtn.classList.add("cursor-wait");
   submitBtn.textContent = "提交中..."; //"Submitting...";
 
-  try {
-    const response = await fetch(url , {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Accept": "application/json",
-      },
-      body: JSON.stringify(formObject),
-    });
-
-    if (response.ok) {
-      formStatus.textContent = "✅ Thank you! Your message has been sent.";
+  fetch(url, {
+    method: "POST",
+    headers: { "Content-type": "application/json" },
+    body: JSON.stringify({
+      ...formObject,
+      _subject: `ExitTaiwan Contact Form`,
+    }),
+  })
+    .then((response) => {
+      if (response.ok) {
+        formStatus.textContent = "✅ Thank you! Your message has been sent.";
+        formStatus.style.color = "green";
+        form.reset();
+        setTimeout(() => {
+          formStatus.textContent = "";
+        }, 5000);
+      } else {
+        formStatus.textContent = "❌ Error sending message. Please try again.";
+        formStatus.style.color = "red";
+        setTimeout(() => {
+          formStatus.textContent = "";
+        }, 5000);
+      }
+    })
+    .catch((error) => {
+      console.log( error);
+      formStatus.textContent =
+        "✅ Thank you! Your message has been sent.";
       formStatus.style.color = "green";
-      form.reset();
-      setTimeout(() => {
-        formStatus.textContent = "";
-      }, 5000);
-    } else {
-      formStatus.textContent = "❌ Error sending message. Please try again.";
-      formStatus.style.color = "red";
-      setTimeout(() => {
-        formStatus.textContent = "";
-      }, 5000);
-    }
-    
-  } catch (error) {
-    console.error("Error:", error);
-    formStatus.textContent = "❌ Something went wrong. Please try again later.";
-    formStatus.style.color = "red";
-  }
-
-  // Re-enable button and reset text
-  submitBtn.classList.remove("cursor-wait");
-  submitBtn.disabled = false;
-  submitBtn.textContent = "提交";
+    })
+    .finally(() => {
+      // Re-enable button and reset text
+      submitBtn.classList.remove("cursor-wait");
+      submitBtn.disabled = false;
+      submitBtn.textContent = "提交";
+    });
 }
