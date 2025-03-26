@@ -29,7 +29,7 @@ input#nav-toggle:checked ~ #nav-menu {
   @apply !h-4 !w-4 !bg-primary dark:!bg-darkmode-primary;
 }
 
-.content a[target="_blank"]::after {
+.content a[target="_blank"]:not(:has(img))::after {
   content: "\f08e"; 
   font-family: "Font Awesome 6 Free";
   margin-left: 0.3rem;
@@ -39,4 +39,5 @@ input#nav-toggle:checked ~ #nav-menu {
   font-weight: 400;
   font-size: 12px;
 }
+
 

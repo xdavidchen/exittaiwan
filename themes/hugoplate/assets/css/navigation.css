@@ -4,7 +4,7 @@
 
 /* navbar items */
 .navbar {
-  @apply relative flex flex-wrap items-center justify-between;
+  @apply  flex flex-wrap items-center justify-between;
 }
 
 .navbar-brand {
@@ -15,7 +15,7 @@
 }
 
 .navbar-nav {
-  @apply text-center lg:text-left;
+  @apply justify-center  absolute lg:relative top-0 w-[250px]! h-screen lg:h-auto lg:w-auto z-100 bg-body dark:bg-darkmode-body lg:bg-transparent left-0 px-7 lg:px-0;
 }
 
 .nav-link {
@@ -24,6 +24,10 @@
 
 .nav-dropdown {
   @apply mr-0;
+}
+
+.nav-dropdown > .nav-link{
+  @apply flex! justify-between;
 }
 
 .nav-dropdown > svg {
@@ -35,7 +39,7 @@
 }
 
 .nav-dropdown-list {
-  @apply bg-body dark:bg-darkmode-body z-10 min-w-[180px] rounded p-4 shadow-sm hidden lg:invisible lg:absolute lg:block lg:opacity-0;
+  @apply bg-body dark:bg-darkmode-body z-10 min-w-[180px] rounded p-4 dark:shadow-lg shadow-sm hidden lg:invisible lg:absolute lg:block lg:opacity-0;
 }
 
 .nav-dropdown-item {
