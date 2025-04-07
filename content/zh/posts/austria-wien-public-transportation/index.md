@@ -25,8 +25,6 @@ city: "維也納"
 
 > 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
 
-{{< button label="所有文章" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
-
 ## 核心區 Core Zone
 
 要理解維也納的市區交通，最先要基本知道維也納的城市規劃。
