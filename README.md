@@ -127,6 +127,53 @@ if you want to use other shortcodes you can check the `content/zh/pages/elements
 You can update the content from the `content/zh` directory. This includes the posts, pages, and other content.
 ```
 
+## Mailchimp Newslatter
+
+To connect your newsletter form to Mailchimp, you’ll need two values:
+
+1. `mailchimp_form_action`  
+2. `mailchimp_form_name`
+
+### Step-by-Step Guide:
+
+1. **Log into Mailchimp**  
+   Go to [mailchimp.com](https://mailchimp.com) and log into your account.
+
+2. **Go to Your Audience**  
+   Click on **Audience** from the left-hand menu.  
+   If you have more than one audience, choose the correct one.
+
+3. **Create or View Signup Form**  
+   - Click on **Signup forms** > **Embedded forms**.
+   - Customize the form if you want.
+   - Copy the **embed code** shown in the box.
+
+4. **Extract the Info from the Embed Code**  
+   Look for something like this in the embed code:
+
+   ```html
+   <form action="https://gmail.us16.list-manage.com/subscribe/post?u=c1d6227ee0ca00a18e4cdac71&id=347604ba0d&f_id=00fdc2e1f0" method="post">
+       <input type="hidden" name="b_c1d6227ee0ca00a18e4cdac71_347604ba0d" tabindex="-1" value="">
+   </form>
+   ```
+
+   - The **form action URL** is your `mailchimp_form_action`  
+     → Example:  
+     `https://gmail.us16.list-manage.com/subscribe/post?u=c1d6227ee0ca00a18e4cdac71&id=347604ba0d&f_id=00fdc2e1f0`
+
+   - The **name of the hidden input field** is your `mailchimp_form_name`  
+     → Example:  
+     `b_c1d6227ee0ca00a18e4cdac71_347604ba0d`
+
+### ✅ Use These in Your Settings
+
+Replace your current values with the ones you just copied.
+
+```toml
+mailchimp_form_action = "YOUR_FORM_ACTION_URL"
+mailchimp_form_name = "YOUR_FORM_NAME"
+```
+
 ---
 
 ## 🛠 Advanced Usage
