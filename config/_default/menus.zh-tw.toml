@@ -67,6 +67,18 @@ weight = 6
 
 [[main]]
 parent = "文章"
+name = "波蘭"
+url = "country/波蘭"
+weight = 5
+
+[[main]]
+parent = "文章"
+name = "斯洛伐克"
+url = "country/斯洛伐克"
+weight = 4
+
+[[main]]
+parent = "文章"
 name = "韓國"
 url = "country/韓國"
 
