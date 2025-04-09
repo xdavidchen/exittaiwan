@@ -23,7 +23,7 @@ city: "維也納"
 
 ![](wien.webp)
 
-> 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
+{{< button label="下載維也納地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
 
 ## 核心區 Core Zone
 
