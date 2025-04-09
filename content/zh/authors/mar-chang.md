@@ -1,20 +1,12 @@
 ---
 title: "Mar Chang"
-email: contact@exittaiwan.com
-image: "/images/avatar.png"
+email: chiatiantiffany100@gmail.com
+image: "/images/mar.jpg"
 description: this is meta description
 social:
-  - name: github
-    icon: fa-brands fa-github # fontawesome icon name
-    link: https://github.com 
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+  - name: instagram
+    icon: fa-brands fa-instagram
+    link: https://www.instagram.com/marinpoland/?utm_source=qr
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+沒有太陽活不下去的過動小孩
