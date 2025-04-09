@@ -1,1 +1,6 @@
 /* Add your own custom styles here */
+
+blockquote {
+    padding-block: 1.5rem; /* or whatever spacing you want */
+    margin: 0;
+}
