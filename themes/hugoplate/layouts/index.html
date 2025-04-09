@@ -11,7 +11,7 @@
             <p class="mb-8 text-lg">
               {{ .content | markdownify }}
             </p>
-            <div class="flex flex-col sm:flex-row items-center mt-15">
+            <div class="flex flex-col sm:flex-row items-start mt-15">
               {{ with .form }}
                 {{ if .enable }}
                   {{ if site.Params.subscription.enable }}
