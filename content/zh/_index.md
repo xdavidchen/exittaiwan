@@ -9,7 +9,7 @@ banner:
     button: "接收"
     placeholder: "輸入電子信箱"
   button:
-    enable: false
+    enable: true
     label: "了解更多"
     link: "/about"
 
