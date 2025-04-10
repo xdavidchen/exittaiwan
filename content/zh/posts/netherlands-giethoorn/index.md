@@ -4,7 +4,7 @@ description: 探索荷蘭東部的羊角村（Giethoorn）：這個無車村落�
 draft: false
 slug: "荷蘭自由行-羊角村"
 folder-name: Netherlands-giethoorn
-author: Jason Chen
+author: Jason Yi
 date: 2025-02-27T18:50:00.000Z
 cover: giethoorn-1.webp
 tags:

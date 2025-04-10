@@ -3,7 +3,7 @@ title: 荷蘭海牙自由行｜必去博物館｜莫瑞泰斯皇家美術館（M
 description: 探索荷蘭海牙的莫瑞泰斯皇家美術館，欣賞梅維爾的名作《戴珍珠耳環的少女》及更多荷蘭黃金時代的藝術瑰寶。了解博物館的歷史與周邊景點，計劃你的海牙自由行。
 slug: 荷蘭海牙自由行-莫瑞泰斯皇家美術館
 folder-name: netherlands-den-haag
-author: Jason Chen
+author: Jason Yi
 date: 2025-01-31T16:00:00.000Z
 cover: image2.webp
 tags:
