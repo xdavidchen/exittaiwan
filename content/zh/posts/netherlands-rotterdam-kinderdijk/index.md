@@ -4,7 +4,7 @@ description: 計劃荷蘭自由行？來小孩堤防（Kinderdijk）欣賞壯麗
 draft: false
 slug: 鹿特丹自由行-小孩堤防
 folder-name: rotterdam-kinderdijk
-author: Jason Chen
+author: Jason Yi
 date: 2025-01-05T16:10:00.000Z
 cover: kinderdijk-scene-cover.webp
 tags:

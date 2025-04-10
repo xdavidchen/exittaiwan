@@ -3,7 +3,7 @@ title: 阿姆斯特丹自由行必訪景點：庫肯霍夫花園一日遊全攻�
 description: 計劃阿姆斯特丹自由行？別錯過每年春季限定的庫肯霍夫花園！探索世界最大花園的歷史、賞花攻略與交通方式，享受荷蘭鬱金香花季的夢幻景色。
 slug: 阿姆斯特丹-庫肯霍夫花園ㄧ日遊
 folder-name: amsterdam-keukenhof-day-trip
-author: Jason Chen
+author: Jason Yi
 date: 2025-02-16T11:18:00.000Z
 cover: thumbnail.webp
 tags:

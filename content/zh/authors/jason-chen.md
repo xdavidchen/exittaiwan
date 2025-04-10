@@ -1,20 +1,12 @@
 ---
-title: "Jason Chen"
+title: "Jason Yi"
 email: contact@exittaiwan.com
-image: "/images/avatar.png"
+image: "/images/jason.jpg"
 description: this is meta description
 social:
-  - name: github
-    icon: fa-brands fa-github # fontawesome icon name
-    link: https://github.com 
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+  - name: instagram
+    icon: fa-brands fa-instagram
+    link: https://www.instagram.com/chenyi0925/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+不是在看電影就是在旅遊的路上
