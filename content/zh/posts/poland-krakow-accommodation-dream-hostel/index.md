@@ -19,7 +19,7 @@ city: 克拉克夫
 
 <!--![](image3.webp)-->
 
-[克拉克夫（波蘭語：Kraków）](https://exittaiwan.com/tags/%E5%85%8B%E6%8B%89%E5%85%8B%E5%A4%AB/)作為波蘭旅遊大城，自然是住宿、餐廳蓬勃發展之地，筆者二度造訪該城，幸運地找到了位在老城區與猶太區間的旅社，價格經濟實惠，地理位置極佳，今天就來推薦給大家！
+[克拉克夫（波蘭語：Kraków）](/city/克拉克夫/)作為波蘭旅遊大城，自然是住宿、餐廳蓬勃發展之地，筆者二度造訪該城，幸運地找到了位在老城區與猶太區間的旅社，價格經濟實惠，地理位置極佳，今天就來推薦給大家！
 
 在筆者住過的歐洲青旅中，許多都是位在公寓的其中一層，招牌不一定很大，但一樓對講機上面會貼個樓層旅社名稱，尋找時要再注意一下。
 
@@ -107,7 +107,7 @@ city: 克拉克夫
 
 雖然公區空間不大，但整體環境整潔，房間舒適，適合短期停留或背包客入住。如果你正在尋找一間交通便利又性價比高的青旅，夢想公寓旅社絕對值得考慮！
 
-想要稍微再高級一點的青旅嗎？看看 [**Meininger Kraków Centrum**](https://exittaiwan.com/posts/克拉克夫住宿推薦-meininger-krakow-centrum) 的住宿體驗，一定不會讓你失望！
+想要稍微再高級一點的青旅嗎？看看 [**Meininger Kraków Centrum**](/posts/克拉克夫住宿推薦-meininger-krakow-centrum) 的住宿體驗，一定不會讓你失望！
 
 > ✔️ **立即查詢房價與訂房**：[**夢想公寓旅社查價**](https://www.booking.com/hotel/pl/dream-hostel.xt.html?aid=7956794)\
 > ✔️ **更多克拉克夫住宿推薦**：[Booking.com 克拉克夫住宿](https://www.booking.com/searchresults.xt.html?city=-510625&aid=7956794&no_rooms=1&group_adults=2)

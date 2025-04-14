@@ -59,7 +59,7 @@ city: 布拉提斯拉瓦
 ## 布拉提斯拉瓦交通攻略
 ![](maps-product-mockup-bratislava.webp)
 
-> 想要把圖片存下來嗎？[**免費下載布拉提斯拉瓦高清交通路線圖**](https://exittaiwan.gumroad.com/l/bratislava)
+{{< button label="下載交通路線圖" link="https://exittaiwan.gumroad.com/l/bratislava" style="solid" >}}
 
 ### 布拉提斯拉瓦機場交通
 

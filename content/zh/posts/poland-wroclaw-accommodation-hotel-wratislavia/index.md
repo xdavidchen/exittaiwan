@@ -18,7 +18,7 @@ city: 弗羅茲瓦弗
 
 <!--![](image-0.webp)-->
 
-來到[波蘭](https://exittaiwan.com/tags/%E6%B3%A2%E8%98%AD/)後，終於迎來第一個連假：[諸靈節](https://culture.pl/zht/article/%E8%AB%B8%E9%9D%88%E7%AF%80-%E6%B3%A2%E8%98%AD%E7%9A%84%E6%B8%85%E6%98%8E%E7%AF%80%E6%9C%89%E5%93%AA%E4%BA%9B%E5%82%B3%E7%B5%B1)（波蘭語：Wszystkich Świętych）！自從得知消息後，筆者立馬手刀訂了位在卡托維治的隔壁、弗羅茲瓦弗（Wrocław）的車票和住宿，準備一個人好好的玩波蘭第三大城。
+來到[波蘭](/country/波蘭/)後，終於迎來第一個連假：[諸靈節](https://culture.pl/zht/article/%E8%AB%B8%E9%9D%88%E7%AF%80-%E6%B3%A2%E8%98%AD%E7%9A%84%E6%B8%85%E6%98%8E%E7%AF%80%E6%9C%89%E5%93%AA%E4%BA%9B%E5%82%B3%E7%B5%B1)（波蘭語：Wszystkich Świętych）！自從得知消息後，筆者立馬手刀訂了位在卡托維治的隔壁、弗羅茲瓦弗（Wrocław）的車票和住宿，準備一個人好好的玩波蘭第三大城。
 
 身為學生，用最經濟實惠的方式旅行是最適合不過了，而歐洲的青年旅館果然沒有讓人失望！打開 **[Booking.com](https://www.booking.com/?aid=7956794)**，馬上就看到當地推薦的**瓦特拉旅館 [Hotel Wratislavia](https://www.booking.com/hotel/pl/hostel-wratislavia-wroclaw.xt.html?aid=7956794&no_rooms=1&group_adults=2)**，就算日期接近，房間還是有打折，因此一個人住下來，一晚五百塊台幣有找。
 

@@ -18,7 +18,7 @@ city: 卡托維治
 
 <!--![](image-1.webp)-->
 
-本篇介紹從卡托維治國際機場（波蘭語：Międzynarodowy Port Lotniczy Katowice）到市區的交通方式。
+本篇介紹從波蘭卡托維治國際機場（波蘭語：Międzynarodowy Port Lotniczy Katowice）到市區的交通方式。
 
 雖然叫做國際機場，但實際規模跟安檢都讓筆者相當驚訝。
 
@@ -57,7 +57,7 @@ city: 卡托維治
 
 公車票可於公車站的機器購買，或上車後向司機購買。也可以先下載 Jakdojade ，直接於 app 內購票，上車後掃 Qrcode 即可。
 
-更多公車買票小知識，可以參考[卡托維治市區交通攻略](https://exittaiwan.com/posts/卡托維治市區交通攻略/)。
+更多公車買票小知識，可以參考[卡托維治市區交通攻略](/posts/卡托維治市區交通攻略/)。
 
 ## 交通方式二：計程車
 

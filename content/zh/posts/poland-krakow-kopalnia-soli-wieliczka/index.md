@@ -44,7 +44,7 @@ city: 克拉克夫
 
 ## 維奇利亞鹽礦旅遊交通：怎麼到維奇利亞鹽礦？
 
-從[克拉克夫（波蘭文：Kraków）](https://exittaiwan.com/tags/%E5%85%8B%E6%8B%89%E5%85%8B%E5%A4%AB/)任何一個火車站搭到 Wieliczka Rynek Kopalnia 後步行即可。當天下車後看到大排長龍的建築物，基本上就是遊客中心，記得詢問一下資訊站的人，因為有預約和現場買票是分開的。
+從[克拉克夫（波蘭文：Kraków）](/city/克拉克夫/)任何一個火車站搭到 Wieliczka Rynek Kopalnia 後步行即可。當天下車後看到大排長龍的建築物，基本上就是遊客中心，記得詢問一下資訊站的人，因為有預約和現場買票是分開的。
 
 > 越早訂越便宜：[**現在查詢克拉克夫房價**](https://www.booking.com/city/pl/krakow.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
