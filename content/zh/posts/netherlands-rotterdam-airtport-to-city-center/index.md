@@ -17,7 +17,7 @@ country: 荷蘭
 city: 鹿特丹
 ---
 
-![](thumbnail.webp)
+<!--![](thumbnail.webp)-->
 
 鹿特丹（Rotterdam）是荷蘭的第二大城，同時有著歐洲最大的海港，給人的感覺很像高雄。
 

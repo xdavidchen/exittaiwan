@@ -18,7 +18,7 @@ country: 荷蘭
 city: 阿姆斯特丹
 ---
 
-![史基浦機場地標：I amsterdam](image6.webp "史基浦機場地標：I amsterdam")
+<!--![史基浦機場地標：I amsterdam](image6.webp "史基浦機場地標：I amsterdam")-->
 
 阿姆斯特丹（Amsterdam）作為荷蘭的首都，是許多遊客抵達荷蘭的首選目的地。史基浦機場（Amsterdam Schiphol Airport）則是歐洲重要的中轉站，使得阿姆斯特丹成為觀光熱點。
 

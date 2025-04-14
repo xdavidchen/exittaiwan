@@ -15,7 +15,8 @@ tags:
 country: 荷蘭
 city: 海牙
 ---
-![](image2.webp)
+
+<!--![](image2.webp)-->
 
 海牙（Den Haag）是[荷蘭](https://exittaiwan.com/tags/%E8%8D%B7%E8%98%AD/)的第三大城市，擁有豐富的歷史與文化背景。
 

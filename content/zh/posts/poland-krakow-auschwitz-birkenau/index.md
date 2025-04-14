@@ -14,7 +14,8 @@ tags:
 country: 波蘭
 city: 克拉克夫
 ---
-![](thumbnail.webp)
+
+<!--![](thumbnail.webp)-->
 
 ## 前言：波蘭與它的歷史印記
 

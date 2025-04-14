@@ -13,7 +13,7 @@ country: "捷克"
 city: "布拉格"
 ---
 
-![|inline](open-kitchen.webp)
+<!--![|inline](open-kitchen.webp)-->
 
 Restaurant Mlýnec 依著伏爾塔瓦（捷克語：Vltava）河畔，從整片的落地窗看出去就是查理大橋，擁有絕佳的景色。
 

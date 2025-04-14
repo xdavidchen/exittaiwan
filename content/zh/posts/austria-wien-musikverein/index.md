@@ -13,7 +13,7 @@ country: "奧地利"
 city: "維也納"
 ---
 
-![|inline](feature.webp)
+<!--![|inline](feature.webp)-->
 
 來自蘇格蘭格拉斯哥的衛報（The Guardian）作家湯姆（Tom Service），曾評論這個[演奏廳的聲音是「純金的」](https://www.theguardian.com/music/tomserviceblog/2008/sep/29/classical.music.musikverein)（pure gold）。
 

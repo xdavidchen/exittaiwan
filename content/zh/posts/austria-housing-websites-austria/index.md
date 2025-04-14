@@ -12,7 +12,7 @@ theme: "light"
 country: "奧地利"
 ---
 
-![](housing-websites-austria.webp)
+<!--![](housing-websites-austria.webp)-->
 
 你即將前往奧地利留學、打工度假、學德文、或是工作？不論你是什麼原因即將前往奧地利，找到一個舒服的住處絕對是最重要的事情之一。
 

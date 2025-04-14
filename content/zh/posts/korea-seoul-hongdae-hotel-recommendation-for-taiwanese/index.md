@@ -13,7 +13,7 @@ country: 韓國
 city: 首爾
 ---
 
-![|inline](hongdae-hotel.webp)
+<!--![|inline](hongdae-hotel.webp)-->
 
 ## 首爾弘大、梨大、新村商圈
 

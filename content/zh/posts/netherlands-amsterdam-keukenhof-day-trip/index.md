@@ -15,7 +15,8 @@ tags:
 country: 荷蘭
 city: 阿姆斯特丹
 ---
-![](image2.webp)
+
+<!--![](image2.webp)-->
 
 荷蘭有三寶：**風車、木屐、鬱金香**！
 

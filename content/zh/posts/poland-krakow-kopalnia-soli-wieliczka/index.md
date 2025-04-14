@@ -16,7 +16,7 @@ country: 波蘭
 city: 克拉克夫
 ---
 
-![](wieliczka.webp)
+<!--![](wieliczka.webp)-->
 
 ## 鹽巴與維奇利亞鹽礦的故事
 

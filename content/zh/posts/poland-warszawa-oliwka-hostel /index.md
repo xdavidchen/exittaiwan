@@ -14,7 +14,8 @@ tags:
 country: 波蘭
 city: 華沙
 ---
-![夜晚打燈的科學文化宮](image4.webp)
+
+<!--![夜晚打燈的科學文化宮](image4.webp)-->
 
 這次逢連假，筆者與朋友到[波蘭](http://exittaiwan.com/tags/%E6%B3%A2%E8%98%AD/)首都華沙旅行，選擇入住 [**Oliwka Hostel**](https://www.booking.com/hotel/pl/oliwka-hostel-warszawa.xt.html?aid=7956794&no_rooms=1&group_adults=2)，這是一間 CP 值高、交通便利的青年旅館，距離華沙地標科學文化宮（Pałac Kultury i Nauki）只要步行 5 分鐘，周邊生活機能佳，地鐵站、餐廳、超市、景點都在步行範圍內，適合來華沙自由行的旅客。
 

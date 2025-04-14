@@ -16,7 +16,7 @@ country: 波蘭
 city: 卡托維治
 ---
 
-![](katowice-christmas-market.webp)
+<!--![](katowice-christmas-market.webp)-->
 
 [卡托維治](https://exittaiwan.com/tags/%E5%8D%A1%E6%89%98%E7%B6%AD%E6%B2%BB/)曾是波蘭的煤礦之都，這座城市的背景充滿了濃厚的工業氣息。
 

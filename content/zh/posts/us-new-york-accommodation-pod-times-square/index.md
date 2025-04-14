@@ -12,7 +12,7 @@ country: "美國"
 city: "紐約"
 ---
 
-![](pod.webp)
+<!--![](pod.webp)-->
 
 [**龐德時代酒店 Pod Times Square**](https://www.booking.com/hotel/us/pod-times-square.xt.html?aid=7956794) 是一間位在紐約市中心曼哈頓區的酒店。當你安排[**紐約自由行**](https://exittaiwan.com/posts/%E7%B4%90%E7%B4%84%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A/)，你會發現越靠近曼哈頓中心的時代廣場，住宿價格越貴，但交通也的確最方便。
 

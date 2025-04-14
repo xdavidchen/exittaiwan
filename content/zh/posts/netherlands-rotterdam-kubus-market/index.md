@@ -17,7 +17,7 @@ country: 荷蘭
 city: 鹿特丹
 ---
 
-![](thumbnail.webp)
+<!--![](thumbnail.webp)-->
 
 其中一個會讓人愛上[鹿特丹](https://exittaiwan.com/tags/%E9%B9%BF%E7%89%B9%E4%B8%B9/)的原因就是這裡的建築。
 

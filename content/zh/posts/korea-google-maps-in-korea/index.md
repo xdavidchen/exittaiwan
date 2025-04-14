@@ -12,7 +12,7 @@ theme: "light"
 country: "韓國"
 ---
 
-![|inline](featured.webp)
+<!--![|inline](featured.webp)-->
 
 如果你現在正在[規劃前往韓國自由行旅遊](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
 

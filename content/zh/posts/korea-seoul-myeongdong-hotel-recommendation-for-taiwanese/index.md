@@ -13,7 +13,7 @@ country: 韓國
 city: 首爾
 ---
 
-![|inline](myeongdong-hotel.webp)
+<!--![|inline](myeongdong-hotel.webp)-->
 
 ## 首爾自由行明洞飯店
 

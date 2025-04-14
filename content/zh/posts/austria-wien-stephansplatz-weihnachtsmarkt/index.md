@@ -13,7 +13,7 @@ country: "奧地利"
 city: "維也納"
 ---
 
-![|inline](feature.webp)
+<!--![|inline](feature.webp)-->
 
 沈浸在世界文化遺產的薰陶中，在聖誕時節來浪漫的史蒂芬廣場（德文：Stephansplatz）聖誕市集一遊吧！
 

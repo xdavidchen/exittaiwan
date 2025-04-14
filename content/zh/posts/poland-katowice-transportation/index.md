@@ -16,7 +16,7 @@ country: 波蘭
 city: 卡托維治
 ---
 
-![](image-1.webp)
+<!--![](image-1.webp)-->
 
 本篇介紹從卡托維治國際機場（波蘭語：Międzynarodowy Port Lotniczy Katowice）到市區的交通方式。
 

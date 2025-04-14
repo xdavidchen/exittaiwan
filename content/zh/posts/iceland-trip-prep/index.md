@@ -12,7 +12,7 @@ theme: "light"
 country: "冰島"
 ---
 
-![iceland-trip-prep](iceland-trip-prep.webp)
+<!--![iceland-trip-prep](iceland-trip-prep.webp)-->
 
 要準備出發到冰島旅遊的人，尤其是自由行、甚至是自駕遊，八九成都是相當有經驗的旅人了。正當你照著[行李清單](https://exittaiwan.gumroad.com/l/packing-list)，很有自信的像上次出國自由行那樣打包著行李時，我們必須要來潑你一下冷水了！
 

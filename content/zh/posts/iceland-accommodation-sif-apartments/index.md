@@ -13,7 +13,7 @@ country: "冰島"
 city: "雷克雅維克"
 ---
 
-![](sif-apartment.webp)
+<!--![](sif-apartment.webp)-->
 
 [**Sif Apartments**](https://www.booking.com/hotel/is/sif-apartments-reykjavik.xt.html?aid=7956794) 是一間在冰島首都雷克雅維克市中心的公寓式酒店，距離購物街和餐廳走路只要五分鐘、要走到冰島最有名的教堂哈德格里米爾教堂（冰島語： Hallgrímskirkj）也只要 15 分鐘。
 

@@ -12,7 +12,7 @@ country: "美國"
 city: "紐約"
 ---
 
-![|inline](nyc-airport-transportation.webp)
+<!--![|inline](nyc-airport-transportation.webp)-->
 
 即將前往[**紐約自由行旅遊**](https://exittaiwan.com/posts/紐約自由行旅遊/)嗎？當你搭飛機來到紐約，有很大的機率你會降落在紐約的三個機場之一：**甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場**，其中又以甘迺迪國際機場（JFK）和紐瓦克國際機場（EWR）最為常見，相對地理位置可以參考下面地圖。
 

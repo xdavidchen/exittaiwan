@@ -10,8 +10,7 @@ tags:
   - 工具
 ---
 
-
-![](packing-list-mockup-1.webp)
+<!--![](packing-list-mockup-1.webp)-->
 
 ## 「出國打包行李好麻煩，要帶什麼好焦慮？」
 

@@ -15,7 +15,8 @@ tags:
 country: 波蘭
 city: 弗羅茲瓦弗
 ---
-![](image-0.webp)
+
+<!--![](image-0.webp)-->
 
 來到[波蘭](https://exittaiwan.com/tags/%E6%B3%A2%E8%98%AD/)後，終於迎來第一個連假：[諸靈節](https://culture.pl/zht/article/%E8%AB%B8%E9%9D%88%E7%AF%80-%E6%B3%A2%E8%98%AD%E7%9A%84%E6%B8%85%E6%98%8E%E7%AF%80%E6%9C%89%E5%93%AA%E4%BA%9B%E5%82%B3%E7%B5%B1)（波蘭語：Wszystkich Świętych）！自從得知消息後，筆者立馬手刀訂了位在卡托維治的隔壁、弗羅茲瓦弗（Wrocław）的車票和住宿，準備一個人好好的玩波蘭第三大城。
 

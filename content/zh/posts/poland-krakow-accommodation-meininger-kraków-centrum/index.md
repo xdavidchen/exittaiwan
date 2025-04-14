@@ -15,7 +15,8 @@ tags:
 country: 波蘭
 city: 克拉克夫
 ---
-![](image4.webp)
+
+<!--![](image4.webp)-->
 
 克拉克夫（Kraków）是[波蘭](http://exittaiwan/com/tags/%E6%B3%A2%E8%98%AD/)最具代表性的旅遊城市之一，以其豐富的歷史文化、壯麗的建築和世界知名的大學—**亞捷隆大學**（Uniwersytet Jagielloński）而聞名。這座城市充滿濃厚的歐洲古典氛圍，即使不會講波蘭文，這裡的觀光產業發達，使用英文溝通也完全沒問題。
 

@@ -15,7 +15,8 @@ tags:
 country: 荷蘭
 city: 羊角村
 ---
-![](giethoorn-1.webp)
+
+<!--![](giethoorn-1.webp)-->
 
 ## 羊角村為什麼叫羊角村？
 

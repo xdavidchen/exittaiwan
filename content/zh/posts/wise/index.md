@@ -1,5 +1,5 @@
 ---
-title: "Wise 是什麼？專門寫給台灣人的 Wise 網銀全攻略（開戶、入金、出金、換匯）"
+title: "Wise 好用嗎？專門寫給台灣人的 Wise 網銀全攻略（開戶、入金、出金、換匯）"
 slug: "給台灣人的-wise-網銀全攻略"
 date: 2023-09-08
 description: "台灣人適合用 Wise 嗎？Wise 要怎麼開戶？ 它是網銀嗎？這篇專門寫給台灣人的 Wise 全攻略，解答你所有對於 Wise 的問題！"
@@ -11,9 +11,9 @@ tags: [Wise 網銀, 網路銀行推薦]
 theme: "light"
 ---
 
-![|inline](wise.webp)
+<!--![|inline](wise.webp)-->
 
-> 本文持續更新中，如有新變動會盡量放進文章中，但最即時的消息請依照 [**Wise**](https://wise.prf.hn/click/camref:1101lC2de) 官網為主。最後更新日期：2025 年 2 月 24 日。
+> 本文持續更新中，如有新變動會盡量放進文章中，但最即時的消息請依照 [**Wise**](https://wise.prf.hn/click/camref:1101lC2de) 官網為主。最後更新日期：2025 年 4 月 14 日。
 
 [**Wise**](https://wise.prf.hn/click/camref:1101lC2de)（前身為 TransferWise）是一間提供國際匯款服務的數位科技公司，兩位前 Skype 的員工為了減少國際間匯款的手續費和過高的匯差，在 2011 年一同創立了 Wise，目前全球已有超過千萬名用戶。
 

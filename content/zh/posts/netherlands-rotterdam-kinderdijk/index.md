@@ -15,7 +15,8 @@ tags:
 country: 荷蘭
 city: 鹿特丹
 ---
-![](kinderdijk-scene.webp)
+
+<!--![](kinderdijk-scene.webp)-->
 
 小孩堤防（Kinderdijk）是荷蘭最大的風車群，共有 19 座風車，已有超過700年的歷史，並被聯合國教科文組織列為世界文化遺產。
 
