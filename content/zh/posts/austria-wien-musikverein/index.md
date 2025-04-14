@@ -62,6 +62,10 @@ city: "維也納"
 >
 > ✔️ [**維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包**](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)
 
+![](wien.webp)
+
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
+
 ## 維也納音樂協會各音樂廳種類
 
 ![|inline](IMG_3646.webp)

@@ -26,7 +26,7 @@ city: "哈修塔特"
 
 ![](hallstatt-am-see.webp)
 
-> 想要把圖片存下來嗎？**[免費下載哈修塔特地圖＋路線圖](https://exittaiwan.gumroad.com/l/hallstatt)**
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/hallstatt" style="solid" >}}
 
 達克斯坦山的纜車根據季節會有不同的開放時間，因此要自己注意當天的最末班下山纜車時間，老實說，我們也不確定錯過了末班下山纜車會怎麼樣，但應該不會有人想嘗試看看⋯⋯。
 

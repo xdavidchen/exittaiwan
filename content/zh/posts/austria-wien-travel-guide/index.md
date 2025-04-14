@@ -79,7 +79,7 @@ city: "維也納"
 
 ![](wien.webp)
 
-> 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
 
 在維也納市區內你有不少選擇選擇。你可以透過步行、地鐵、街道路面電車、公車、腳踏車、計程車等來探索這座美麗的城市。最多自由行旅客使用、也最普遍常見的交通方式是公車、地鐵和街道電車。
 
@@ -292,8 +292,6 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 - 地址：Karlskirche, Karlsplatz 10, 1040 Wien ([Google Maps](https://maps.app.goo.gl/d1ZKRNcHhfsxVnjJA))
 - 營業時間：每日 7:30 ~ 19:00
 - 門票：€9.50
-
-> [**免費下載維也納地圖**](https://exittaiwan.gumroad.com/l/wien)
 
 **納許市場 Naschmarkt**
 

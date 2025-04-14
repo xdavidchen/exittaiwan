@@ -49,7 +49,7 @@ Core zone 包括了維也納市區的所有大眾交通工具，街道電車、�
 
 透過方位、結合 Google Maps 來對應站名，只要你在這張地圖上找得到、**且不是在虛線上**的站，都屬於維也納交通的核心區。
 
-> 想要把圖片存下來嗎？[**免費下載維也納地圖**](https://exittaiwan.gumroad.com/l/wien)
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
 
 *備註：以下幾個是你有可能聽過的、但**不在維也納交通核心區的景點**
 
@@ -61,7 +61,7 @@ Core zone 包括了維也納市區的所有大眾交通工具，街道電車、�
 
 ![](gesamtnetzplan-wiener-linien.webp)
 
-> 想要把圖片存下來嗎？[**免費下載維也納地圖**](https://exittaiwan.gumroad.com/l/wien)
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
 
 維也納市中心交通非常方便且多元，買了一張票，不論是地鐵、街道電車、公車、市區內快速鐵路，只要在交通核心區內都能夠搭乘。
 

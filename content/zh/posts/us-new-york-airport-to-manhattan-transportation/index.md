@@ -18,7 +18,7 @@ city: "紐約"
 
 ![](nyc-map-product.webp)
 
-> ✔️ 免費下載[**紐約地圖＋地鐵路線圖高清 PDF 版**](https://exittaiwan.gumroad.com/l/nyc?layout=profile)
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/nyc" style="solid" >}}
 
 這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。
 

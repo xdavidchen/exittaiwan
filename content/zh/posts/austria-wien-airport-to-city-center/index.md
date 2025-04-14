@@ -23,7 +23,7 @@ city: "維也納"
 
 ![](wien.webp)
 
-> 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
 
 從維也納機場和市中心的距離其實只有不到 20 公里。除了自行租車之外，你有四種方式可以在機場和市中心來回通勤，包括搭乘機場快線火車（City Airport Train，CAT）、搭乘一般火車、搭乘 Uber、以及搭乘 FlixBus 跨國巴士。
 

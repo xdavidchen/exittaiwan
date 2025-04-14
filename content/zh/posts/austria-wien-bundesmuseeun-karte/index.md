@@ -40,7 +40,8 @@ city: "維也納"
 
 ![](wien.webp)
 
-> 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
+
 
 ## 維也納博物館 / 美術館通票值得買嗎？
 
@@ -78,4 +79,4 @@ city: "維也納"
 
 ![](wien.webp)
 
-> 想要把圖片存下來嗎？[**免費下載維也納景點地圖和高清地鐵路線圖**](https://exittaiwan.gumroad.com/l/wien)
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}

@@ -49,7 +49,7 @@ city: "紐約"
 
 ![](nyc-map-product.webp)
 
-> ✔️ 免費下載[**紐約地圖＋地鐵路線圖高清 PDF 版**](https://exittaiwan.gumroad.com/l/nyc?layout=profile)
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/nyc" style="solid" >}}
 
 **曼哈頓只是一個區？聽起來一天就可以逛完了**
 

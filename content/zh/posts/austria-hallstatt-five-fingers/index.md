@@ -22,7 +22,7 @@ city: "哈修塔特"
 
 ![](hallstatt-am-see.webp)
 
-> 想要把圖片存下來嗎？**[免費下載哈修塔特地圖＋路線圖](https://exittaiwan.gumroad.com/l/hallstatt)**
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/hallstatt" style="solid" >}}
 
 因為天晴時視野良好、可以眺望整個哈修塔特湖區、壯闊的阿爾卑斯山脈而聞名。其特殊的設計，往五個角度延伸出去的觀景台就像人的手指而得名。
 

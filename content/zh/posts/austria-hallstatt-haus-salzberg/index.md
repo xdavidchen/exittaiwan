@@ -83,7 +83,7 @@ Haus Salzberg 最明顯的缺點應該就是熱水的問題了。因為房子歷
 
 ![](hallstatt-am-see.webp)
 
-> 想要把圖片存下來嗎？**[免費下載哈修塔特地圖＋路線圖](https://exittaiwan.gumroad.com/l/hallstatt)**
+{{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/hallstatt" style="solid" >}}
 
 會說也不太算缺點的原因是，它其實和交通總站（Hallstatt Lahn）距離走路只有三到五分鐘而已，所以有排行程要前往上特勞恩（Obertraun），也就是達克斯坦山（Dachstein）的所在地，健行觀光冰洞、長毛象洞、五指觀景台等，其實是相當方便走到交通總站搭乘 543 號公車。
 
