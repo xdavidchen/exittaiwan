@@ -107,3 +107,5 @@ Sif Apartments 唯一可以被挑惕的就是停車問題。因為本身沒有�
 整體來說，Sif Apartments 的住宿評價 10 分裡可以拿到 9.5 分吧！
 
 除了停車的問題需要額外解決之外，這個冰島市中心的房源是幾乎完美了。下次有機會來到雷克雅維克自由行，一定要[**查查價格**](https://www.booking.com/hotel/is/sif-apartments-reykjavik.xt.html?aid=7956794)、考慮看看這間 Sif Apartments！
+
+出發冰島自駕遊前，也別忘了看看「[冰島自駕出發前準備](/posts/冰島自駕遊行前準備)」確定行李已經準備齊全喔！
