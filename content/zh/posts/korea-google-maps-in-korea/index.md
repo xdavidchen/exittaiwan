@@ -14,13 +14,14 @@ country: "韓國"
 
 <!--![|inline](featured.webp)-->
 
-如果你現在正在[規劃前往韓國自由行旅遊](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
-
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+如果你現在正在[規劃前往韓國自由行旅遊](/city/首爾)、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
 
 > ✔️ 越早訂越便宜：[**查詢首爾房價**](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-![首爾都會區地圖](seoul-map.webp)
+![](seoul-metro-mockup.webp)
+{{< button label="下載首爾地鐵圖" link="https://exittaiwan.gumroad.com/l/seoul-metro" style="solid" >}}
+
+<br>
 
 其實南韓政府對於精確的地圖與衛星影像選擇不對外開放的原因，很大一部份是因為**南韓與北韓的軍事關係**。
 
@@ -38,8 +39,6 @@ country: "韓國"
 
 > ✔️ 越早訂越便宜：[**查詢首爾房價**](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
-
 目前在韓國最多人使用的地圖是 [Naver Map](https://map.naver.com/p?c=15.00,0,0,0,dh) 和 [Kakao Map](https://map.kakao.com/)，不過對於外國人來說，使用上要上手會需要花一點時間，因為使用者介面還是有很多只有韓文、沒有多國語言翻譯的地方。
 
 ![Naver Map](naver.webp)
@@ -49,7 +48,5 @@ country: "韓國"
 資料來源：
 - [Why South Korea refuses to share mapping data with Google](https://www.csmonitor.com/Technology/2016/1118/Why-South-Korea-refuses-to-share-mapping-data-with-Google) on The Christian Science Monitor
 - [So, you want to go to South Korea?](https://www.theslateonline.com/article/2023/04/so-you-want-to-go-to-south-korea) on The Slate Online
-
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
 
 <!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
