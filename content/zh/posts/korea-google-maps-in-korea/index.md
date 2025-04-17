@@ -16,18 +16,16 @@ country: "韓國"
 
 如果你現在正在[規劃前往韓國自由行旅遊](/city/首爾)、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
 
-> ✔️ 越早訂越便宜：[**查詢首爾房價**](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)
-
-![](seoul-metro-mockup.webp)
-{{< button label="下載首爾地鐵圖" link="https://exittaiwan.gumroad.com/l/seoul-metro" style="solid" >}}
-
-<br>
-
 其實南韓政府對於精確的地圖與衛星影像選擇不對外開放的原因，很大一部份是因為**南韓與北韓的軍事關係**。
 
 為了防止引發國家安全問題，南韓的國家安全法限制了地圖資訊在國外伺服器上的儲存，南韓目前提供的 Google Maps 服務，也是透過與韓國當地電信業者 SK 的合作，才能取得部分有限的地圖資料。
 
 根據韓國 2016 年時的法律規定，只有比例尺在 25,000：1 以下的**非精密地圖**才能傳輸至海外，其他比例尺較大的精準地圖數據，必須得到政府批准才能匯出。
+
+![](seoul-metro-mockup.webp)
+{{< button label="下載首爾地鐵圖" link="https://exittaiwan.gumroad.com/l/seoul-metro" style="solid" >}}
+
+<br>
 
 但是 Google 在 2016 年中時，向受「韓國國土交通部」管轄的「國土地理訊息院」提出申請，要求「國土地理訊息院」允許 Google 將 5,000：1 的精密地圖數據，儲存在 Google 海外的（不在韓國的）數據中心。
 
@@ -40,6 +38,10 @@ country: "韓國"
 > ✔️ 越早訂越便宜：[**查詢首爾房價**](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
 目前在韓國最多人使用的地圖是 [Naver Map](https://map.naver.com/p?c=15.00,0,0,0,dh) 和 [Kakao Map](https://map.kakao.com/)，不過對於外國人來說，使用上要上手會需要花一點時間，因為使用者介面還是有很多只有韓文、沒有多國語言翻譯的地方。
+
+也因爲如此，我們特別製作了有[繁體中文和韓文對照的首爾地鐵圖 PDF 檔案](/posts/首爾地鐵圖繁體中文高解析檔免費下載/)，行前下載到手機裡面，就算沒有網路也能對照地鐵站名！
+
+> [點我下載韓國首爾地鐵圖（繁體中文｜韓文對照版）](https://exittaiwan.gumroad.com/l/seoul-metro)
 
 ![Naver Map](naver.webp)
 
