@@ -14,7 +14,7 @@ country: "韓國"
 city: "首爾"
 ---
 
-[**Union Hotel**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 是一間位在首爾永登浦區，仙游島公園附近的平價星級飯店。交通方便、環境整潔、服務人員態度親切，都讓這間飯店成為一個台灣人到[首爾自由行的絕佳住宿選擇](https://exittaiwan.com/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)。
+[**Union Hotel**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 是一間位在首爾永登浦區，仙游島公園附近的平價星級飯店。交通方便、環境整潔、服務人員態度親切，都讓這間飯店成為一個台灣人到[首爾自由行的絕佳住宿選擇](/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)。
 
 ## Union Hotel 基本資訊
 
@@ -79,7 +79,7 @@ Union Hotel 房間的設計走典雅極簡的風格，黃色的暖色系燈光�
 
 入住 Union Hotel 都是不包含早餐的，但是，旅客可以到一樓的 Bakery Sonyou 填飽肚子，每天從早上 11 點營業至 21 點（最後點餐時間為 20 點），而且 16 點到 17 點間還有下午茶喔！
 
-至於距離市中心較遠的這點，附近食物比起熱鬧商圈的確相對少了一些，但是坐一趟公車就可以到有比較多餐廳的鬧區，搭地鐵或公車 15 ~ 20 分鐘也可以到[弘大商圈](https://exittaiwan.com/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)，其實也不算太遠啦。如果真的要住在離弘大商圈附近的話，可以考慮看看 [**Wegoinn Hostel**](https://exittaiwan.com/posts/首爾自由行住宿-wegoinn-hostel)，也是我們入住過後覺得值得推薦的首爾自由行住宿選擇。
+至於距離市中心較遠的這點，附近食物比起熱鬧商圈的確相對少了一些，但是坐一趟公車就可以到有比較多餐廳的鬧區，搭地鐵或公車 15 ~ 20 分鐘也可以到[弘大商圈](/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)，其實也不算太遠啦。如果真的要住在離弘大商圈附近的話，可以考慮看看 [**Wegoinn Hostel**](/posts/首爾自由行住宿-wegoinn-hostel)，也是我們入住過後覺得值得推薦的首爾自由行住宿選擇。
 
 ![首爾都會區地圖](seoul-map.webp)
 

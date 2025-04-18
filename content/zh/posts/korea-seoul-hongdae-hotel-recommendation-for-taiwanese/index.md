@@ -32,7 +32,7 @@ city: 首爾
 11. [K'STAY Sinchon](#首爾弘大梨大新村飯店推薦-11---kstay-sinchon)
 12. [Wegoinn Hostel](#首爾弘大梨大新村飯店推薦-12---wegoinn-hostel)
 
-因為[**在韓國 Google Maps 不太能用**](https://exittaiwan.com/posts/%E7%82%BA%E4%BB%80%E9%BA%BC-google-maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8%E6%9C%89%E4%BB%80%E9%BA%BC%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
+因為[**在韓國 Google Maps 不太能用**](/posts/%E7%82%BA%E4%BB%80%E9%BA%BC-google-maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8%E6%9C%89%E4%BB%80%E9%BA%BC%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
 
 ![首爾都會區地圖](seoul-map.webp)
 
@@ -100,11 +100,11 @@ $$$$ = > 10000
 
 ![Union Hotel 飯店房間](union-hotel.webp)
 
-[**Union Hotel**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 是一間價格平易近人，卻提供高品質的星級飯店！經過團隊成員[親自入住體驗](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E4%BD%8F%E5%AE%BF-union-hotel/)，我們認為 Union Hotel 可以成為每位台灣旅客來到首爾自由行的口袋住宿名單。
+[**Union Hotel**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 是一間價格平易近人，卻提供高品質的星級飯店！經過團隊成員[親自入住體驗](/posts/%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E4%BD%8F%E5%AE%BF-union-hotel/)，我們認為 Union Hotel 可以成為每位台灣旅客來到首爾自由行的口袋住宿名單。
 
 雖然不在弘大商圈內，但是搭乘公車或地鐵 15 ~ 20 分鐘就能抵達弘大商圈，
 
-可以到 [Booking.com](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 上面看更多 Union Hotel 的照片，或是快速閱讀我們的[親自入住體驗文章](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E4%BD%8F%E5%AE%BF-union-hotel/)！
+可以到 [Booking.com](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 上面看更多 Union Hotel 的照片，或是快速閱讀我們的[親自入住體驗文章](/posts/%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E4%BD%8F%E5%AE%BF-union-hotel/)！
 
 ![Union Hotel 接待大廳](union-hotel-2.webp)
 
@@ -241,9 +241,9 @@ $$$$ = > 10000
 
 ![](wegoinn.webp)
 
-[**Wegoinn Hotel**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 是一間打著 Hostel 的名號，卻已經快要有旅館的等級的弘大商圈住宿選擇！經過團隊成員[親自入住體驗](https://exittaiwan.com/posts/首爾自由行住宿-wegoinn-hostel)，推薦 Wegoinn Hostel 給想要住在弘大商圈附近、又想壓低預算的台灣旅客。
+[**Wegoinn Hotel**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 是一間打著 Hostel 的名號，卻已經快要有旅館的等級的弘大商圈住宿選擇！經過團隊成員[親自入住體驗](/posts/首爾自由行住宿-wegoinn-hostel)，推薦 Wegoinn Hostel 給想要住在弘大商圈附近、又想壓低預算的台灣旅客。
 
-可以到 [Booking.com](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 上面看更多 Union Hotel 的照片，或是快速閱讀我們的[親自入住體驗文章](https://exittaiwan.com/posts/首爾自由行住宿-wegoinn-hostel)！
+可以到 [Booking.com](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 上面看更多 Union Hotel 的照片，或是快速閱讀我們的[親自入住體驗文章](/posts/首爾自由行住宿-wegoinn-hostel)！
 
 ![Union Hotel 接待大廳](union-hotel-2.webp)
 

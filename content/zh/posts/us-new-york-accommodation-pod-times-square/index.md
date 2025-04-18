@@ -14,15 +14,15 @@ city: "紐約"
 
 <!--![](pod.webp)-->
 
-[**龐德時代酒店 Pod Times Square**](https://www.booking.com/hotel/us/pod-times-square.xt.html?aid=7956794) 是一間位在紐約市中心曼哈頓區的酒店。當你安排[**紐約自由行**](https://exittaiwan.com/posts/%E7%B4%90%E7%B4%84%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A/)，你會發現越靠近曼哈頓中心的時代廣場，住宿價格越貴，但交通也的確最方便。
+[**龐德時代酒店 Pod Times Square**](https://www.booking.com/hotel/us/pod-times-square.xt.html?aid=7956794) 是一間位在紐約市中心曼哈頓區的酒店。當你安排[**紐約自由行**](/posts/%E7%B4%90%E7%B4%84%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A/)，你會發現越靠近曼哈頓中心的時代廣場，住宿價格越貴，但交通也的確最方便。
 
 Pod Times Square 的位置就在紐約巴士總站 PABT（英文：Port Authority Bus Terminal）步行五分鐘可到之處，附近就是百老匯街區，而且走路十分鐘就可以到達時代廣場。
 
 以曼哈頓來說，Pod Times Square 已經算是「非青年旅館」最便宜又有品質的飯店選擇了。到紐約自由行旅遊但是預算稍微有限的人，可以考慮入住這間 酒店！
 
-其實 Pod 是一場間在紐約的連鎖旅館，所以不只有離時代廣場步行十分鐘的 Pod Times Square，曼哈頓還有其他兩間，分別是在[東 51 街](https://exittaiwan.com/posts/%E7%B4%90%E7%B4%84%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)的 [**Pod 51**](https://www.booking.com/hotel/us/pod.xt.html?aid=7956794)，還有在[東 39 街](https://exittaiwan.com/posts/%E7%B4%90%E7%B4%84%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)的 [**Pod 39**](https://www.booking.com/hotel/us/the-pod-39th-street.xt.html?aid=7956794)。可以每間價錢比較看看，品質都是差不多的水準。
+其實 Pod 是一場間在紐約的連鎖旅館，所以不只有離時代廣場步行十分鐘的 Pod Times Square，曼哈頓還有其他兩間，分別是在[東 51 街](/posts/%E7%B4%90%E7%B4%84%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)的 [**Pod 51**](https://www.booking.com/hotel/us/pod.xt.html?aid=7956794)，還有在[東 39 街](/posts/%E7%B4%90%E7%B4%84%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)的 [**Pod 39**](https://www.booking.com/hotel/us/the-pod-39th-street.xt.html?aid=7956794)。可以每間價錢比較看看，品質都是差不多的水準。
 
-> 推薦閱讀：[紐約自由行旅遊全攻略｜紐約旅遊景點、交通、住宿懶人包](https://exittaiwan.com/posts/%E7%B4%90%E7%B4%84%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A/)
+> 推薦閱讀：[紐約自由行旅遊全攻略｜紐約旅遊景點、交通、住宿懶人包](/posts/%E7%B4%90%E7%B4%84%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A/)
 
 ## 龐德時代酒店 Pods Times Square 基本資訊
 
@@ -33,7 +33,7 @@ Pod Times Square 的位置就在紐約巴士總站 PABT（英文：Port Authorit
 - 平均每晚價格：台幣 6,000 ~ 14,000（雙人房）
 - 查看即時房價：[**現在查看**](https://www.booking.com/hotel/us/pod-times-square.xt.html?aid=7956794)
 
-> 推薦閱讀：[紐約自由行市區交通全攻略｜五種紐約交通方式一次看懂](https://exittaiwan.com/posts/%E7%B4%90%E7%B4%84%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)
+> 推薦閱讀：[紐約自由行市區交通全攻略｜五種紐約交通方式一次看懂](/posts/%E7%B4%90%E7%B4%84%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)
 
 ## 龐德時代酒店 Pod Times Square 實際入住體驗
 

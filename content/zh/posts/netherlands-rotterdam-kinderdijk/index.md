@@ -82,7 +82,7 @@ city: 鹿特丹
 
 ### 附加行程建議
 
-若時間充裕，可搭配鹿特丹市區自由行，參觀伊拉斯謨橋（Erasmus Bridge）及標誌性的[立體方塊屋（Cube Houses）](https://exittaiwan.com/posts/%E9%B9%BF%E7%89%B9%E4%B8%B9%E6%99%AF%E9%BB%9E-%E6%96%B9%E5%A1%8A%E5%B1%8B-%E6%8B%B1%E5%BB%8A%E5%B8%82%E5%A0%B4/)。
+若時間充裕，可搭配鹿特丹市區自由行，參觀伊拉斯謨橋（Erasmus Bridge）及標誌性的[立體方塊屋（Cube Houses）](/posts/%E9%B9%BF%E7%89%B9%E4%B8%B9%E6%99%AF%E9%BB%9E-%E6%96%B9%E5%A1%8A%E5%B1%8B-%E6%8B%B1%E5%BB%8A%E5%B8%82%E5%A0%B4/)。
 
 ## 結語
 

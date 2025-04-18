@@ -15,7 +15,7 @@ city: "維也納"
 
 <!--![](oper.webp)-->
 
-到了[**維也納**](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)，你一定不會錯過的建築就是維也納國家（立）歌劇院了！19 世紀中建成的維也納國立歌劇院（德文：Wiener Staatsoper）是文藝復興風格的建築，有超過一千七百個座位，並座落在主要道路環城大道（德文：Ring）上。
+到了[**維也納**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)，你一定不會錯過的建築就是維也納國家（立）歌劇院了！19 世紀中建成的維也納國立歌劇院（德文：Wiener Staatsoper）是文藝復興風格的建築，有超過一千七百個座位，並座落在主要道路環城大道（德文：Ring）上。
 
 > ✔️ 越早訂越便宜：[**現在查詢維也納房價**](https://www.booking.com/city/at/vienna.en.html?aid=7956794&no_rooms=1&group_adults=2)
 
@@ -31,15 +31,15 @@ city: "維也納"
 
 > 推薦閱讀：
 >
-> ✔️ [**維也納市區自由行交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](https://exittaiwan.com/posts/維也納市區交通攻略/)
+> ✔️ [**維也納市區自由行交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](/posts/維也納市區交通攻略/)
 >
-> ✔️ [**維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包**](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)
+> ✔️ [**維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)
 
 ## 維也納國家歌劇院演出節目
 
 ![](oper-3.webp)
 
-維也納國家歌劇院一年算一季，從每年的九月開始，一直到隔年的六月底幾乎每天都有演出。夏天七、八月則是休季時間。和地理位置相距不遠的[金色大廳](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E9%87%91%E8%89%B2%E5%A4%A7%E5%BB%B3%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/)一樣，維也納國立歌劇院就算在休季期間也有[付費導覽服務](https://www.wiener-staatsoper.at/en/guided-tours/)。
+維也納國家歌劇院一年算一季，從每年的九月開始，一直到隔年的六月底幾乎每天都有演出。夏天七、八月則是休季時間。和地理位置相距不遠的[金色大廳](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E9%87%91%E8%89%B2%E5%A4%A7%E5%BB%B3%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/)一樣，維也納國立歌劇院就算在休季期間也有[付費導覽服務](https://www.wiener-staatsoper.at/en/guided-tours/)。
 
 許多有名的芭雷舞演出和歌劇表演都可以在這裡欣賞到，像是天鵝湖《[Schwanensee](https://www.wiener-staatsoper.at/en/calendar/detail/schwanensee/)》、羅密歐與茱麗葉《[Roméo et Juliette](https://www.wiener-staatsoper.at/en/calendar/detail/romeo-et-juliette/)》、費加洛的婚禮《[Le nozze di Figaro](https://www.wiener-staatsoper.at/en/calendar/detail/le-nozze-di-figaro/)》、卡門《[Carmen](https://www.wiener-staatsoper.at/en/calendar/detail/carmen/)》、和魔笛《[Die Zauber­flöte](https://www.wiener-staatsoper.at/en/calendar/detail/die-zauberfloete/)》等等。
 
@@ -85,7 +85,7 @@ Galerie 是離舞台最遠、最高的位置，視野偏遠，俯視角度很大
 
 在座位圖上，站票的顏色是淺淺、小小的灰色。維也納國立歌劇院的站票根據演出種類，從 €13 到 €18 都有，整個場地共有 435 個站位。
 
-不像[金色大廳的站位](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E9%87%91%E8%89%B2%E5%A4%A7%E5%BB%B3%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/)是先入場先卡位，維也納國立歌劇院的站位是要對號入「站」的。站票在演出當天的上午十點可以線上或是現場到售票處購買，如果演出開始前 80 分鐘還有站位，這些站位會被釋出，並且只能在售票處現場購買。
+不像[金色大廳的站位](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E9%87%91%E8%89%B2%E5%A4%A7%E5%BB%B3%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/)是先入場先卡位，維也納國立歌劇院的站位是要對號入「站」的。站票在演出當天的上午十點可以線上或是現場到售票處購買，如果演出開始前 80 分鐘還有站位，這些站位會被釋出，並且只能在售票處現場購買。
 
 > ✔️ 越早訂越便宜：[**現在查詢維也納房價**](https://www.booking.com/city/at/vienna.en.html?aid=7956794&no_rooms=1&group_adults=2)
 

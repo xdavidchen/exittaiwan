@@ -57,6 +57,12 @@ weight = 1
 
 [[main]]
 parent = "文章"
+name = "德國"
+url = "country/德國"
+weight = 2
+
+[[main]]
+parent = "文章"
 name = "捷克"
 url = "country/捷克"
 
@@ -67,9 +73,9 @@ url = "country/美國"
 
 [[main]]
 parent = "文章"
-name = "荷蘭"
-url = "country/荷蘭"
-weight = 6
+name = "斯洛伐克"
+url = "country/斯洛伐克"
+weight = 4
 
 [[main]]
 parent = "文章"
@@ -79,9 +85,9 @@ weight = 5
 
 [[main]]
 parent = "文章"
-name = "斯洛伐克"
-url = "country/斯洛伐克"
-weight = 4
+name = "荷蘭"
+url = "country/荷蘭"
+weight = 6
 
 [[main]]
 parent = "文章"

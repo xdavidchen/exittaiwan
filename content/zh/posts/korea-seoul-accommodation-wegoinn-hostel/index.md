@@ -15,7 +15,7 @@ city: "首爾"
 
 <!--![](cafe-2.webp)-->
 
-[**Wegoinn Hostel**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 是一間價格平價，位在[弘大商圈](https://exittaiwan.com/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)走路十分鐘的地方，價格平易近人卻提供品質相當不錯的住宿體驗，非常適合年輕旅客、喜歡逛街購物、或是來韓國追星的粉絲們入住！
+[**Wegoinn Hostel**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 是一間價格平價，位在[弘大商圈](/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)走路十分鐘的地方，價格平易近人卻提供品質相當不錯的住宿體驗，非常適合年輕旅客、喜歡逛街購物、或是來韓國追星的粉絲們入住！
 
 ## Wegoinn Hostel 基本資訊
 
@@ -39,7 +39,7 @@ city: "首爾"
 
 Wegoinn Hostel 的接待大廳就在一樓，提早到達可以把大型行李寄放在這邊，櫃檯人員都非常親切，check-in 入住的流程都很迅速。
 
-和另一間我們超推薦的首爾飯店 [**Union Hotel**](https://exittaiwan.com/posts/%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E4%BD%8F%E5%AE%BF-union-hotel/) 一樣，Wegoinn Hostel 的一樓也是咖啡廳，叫做 Cafe_Libertree，每天從早上十點到晚上十點都有營業。
+和另一間我們超推薦的首爾飯店 [**Union Hotel**](/posts/%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E4%BD%8F%E5%AE%BF-union-hotel/) 一樣，Wegoinn Hostel 的一樓也是咖啡廳，叫做 Cafe_Libertree，每天從早上十點到晚上十點都有營業。
 
 ### 房間
 

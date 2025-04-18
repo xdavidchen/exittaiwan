@@ -64,7 +64,7 @@ city: "哈修塔特"
 
 ![](IMG_3792.webp)
 
-不論你是從[**奧地利首都維也納**](https://exittaiwan.com/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)、莫札特的故鄉薩爾斯堡、或是德國的大城市慕尼黑，只要你是搭乘火車前往，並且購買目的地是哈修塔特的車票，八九成你都會在一個叫做 Attnang Puchheim（阿特南）的車站轉車。
+不論你是從[**奧地利首都維也納**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)、莫札特的故鄉薩爾斯堡、或是德國的大城市慕尼黑，只要你是搭乘火車前往，並且購買目的地是哈修塔特的車票，八九成你都會在一個叫做 Attnang Puchheim（阿特南）的車站轉車。
 
 從阿特南（Attnang Puchheim）到哈修塔特火車站（Hallstatt Bahnhof）車程大約是一小時四十五分鐘。
 
@@ -209,7 +209,7 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 4. ~~**第四種**：二段纜車 + 冰洞**或**猛瑪洞 + 3 項戶外免費景觀（包含五指觀景台）~~
 5. ~~**第五種**：三段纜車 + 冰洞 + 猛瑪洞 + 3 項戶外免費景觀（包含五指觀景台）~~
 
-自 2024 夏季起，票卷種類已更新，以下簡單介紹，更詳細的資訊可以到[**哈修塔特五指觀景台旅遊全攻略**](https://exittaiwan.com/posts/哈修塔特五指觀景台旅遊全攻略/)這篇文章內看喔。
+自 2024 夏季起，票卷種類已更新，以下簡單介紹，更詳細的資訊可以到[**哈修塔特五指觀景台旅遊全攻略**](/posts/哈修塔特五指觀景台旅遊全攻略/)這篇文章內看喔。
 
 1. Panorama Ticket（全景票）：三段纜車＋3 項戶外免費景觀（包含五指觀景台）
 2. Höhlen Kombiticket：第一段纜車和兩個洞穴門票，**不包含五指觀景台**。
@@ -314,7 +314,7 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 獨立公寓平均**兩晚**價格：約台幣 17,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-想看 Haus Salzberg 更詳細的介紹，可以[**點我查看遊記**](https://exittaiwan.com/posts/%E5%93%88%E4%BF%AE%E5%A1%94%E7%89%B9%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6-haus-salzberg/)
+想看 Haus Salzberg 更詳細的介紹，可以[**點我查看遊記**](/posts/%E5%93%88%E4%BF%AE%E5%A1%94%E7%89%B9%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6-haus-salzberg/)
 
 <!-- <https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
