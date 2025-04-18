@@ -5,10 +5,12 @@ description: "歐洲旅遊找不到廁所怎麼辦？本篇教你如何快速找
 draft: false
 author: David Chen
 date: 2025-04-18T00:00:00.000Z
-cover: toiet-1.webp
-image: toiet-1.webp
+cover: toilet-1.webp
+image: toilet-1.webp
 tags:
   - 工具
+  - 歐洲
+  - 歐洲自由行
 ---
 
 因為大眾交通發達、鐵路、航空路線也都涵蓋的相當完整，在歐洲自由行旅遊真的算蠻方便的。
