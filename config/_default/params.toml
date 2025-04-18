@@ -47,7 +47,7 @@ link = "contact"
 # Page Header
 [page_header]
 enable = true
-bg_color_lightmode = "#f6f6f6"
+bg_color_lightmode = "#F4F1EB"
 text_color_lightmode = "#000"
 bg_color_darkmode = "#222222"
 text_color_darkmode = "#fff"
