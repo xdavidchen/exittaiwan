@@ -14,7 +14,7 @@ country: "奧地利"
 city: "哈修塔特"
 ---
 
-[**Haus Salzberg**](https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2)（意譯：鹽礦山旁的房子）是一間位在[**奧地利哈修塔特**](/posts/%E5%93%88%E4%BF%AE%E5%A1%94%E7%89%B9%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)的獨棟民宿，位於哈修塔特鹽礦山旁絕佳的地點、寬敞的室內空間、合理的價位，這間住宿對於要在哈修塔特過夜、深度旅遊的你，是個很不錯的選擇。
+[**Haus Salzberg**](https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2)（意譯：鹽礦山旁的房子）是一間位在[**奧地利哈修塔特**](/posts/哈修塔特自由行)的獨棟民宿，位於哈修塔特鹽礦山旁絕佳的地點、寬敞的室內空間、合理的價位，這間住宿對於要在哈修塔特過夜、深度旅遊的你，是個很不錯的選擇。
 
 小提醒：在 [**Booking.com**](https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上，這間住宿叫做 Haus Salzberg，但是在 Googla Maps 上它是標註為 Ferienhaus Salzberg 喔。
 

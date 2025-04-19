@@ -1,14 +1,14 @@
 ---
-title: "維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包"
-slug: "維也納自由行旅遊全攻略"
+title: "維也納自由行旅遊攻略｜維也納自由行旅遊景點、交通、住宿懶人包"
+slug: "維也納自由行"
 date: 2025-02-23
-description: "維也納旅遊須知、交通、景點、住宿、優惠票卷，所有你前往維也納旅遊前需要的資訊都在這！"
+description: "即將到維也納自助旅行嗎？維也納自由行旅遊須知、交通、景點、住宿、優惠票卷，所有你前往維也納旅遊前需要的資訊都在這！"
 draft: false
 featured: true
 author: "David Chen"
 cover: "schoenbrunn.webp"
 image: "schoenbrunn.webp"
-tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行]
+tags: [奧地利, 奧地利旅遊, 奧地利自由行 維也納, 維也納旅遊, 維也納自由行]
 theme: "light"
 country: "奧地利"
 city: "維也納"
@@ -67,7 +67,7 @@ city: "維也納"
 - 奧地利生水：可直接飲用
 - 奧地利小費文化：非必要，可適當給予 10 ~ 20%
 
-## 維也納自由行交通
+## 維也納自由行交通攻略
 
 ![](cat2.webp)
 
@@ -93,7 +93,7 @@ city: "維也納"
 - [**維也納景點通行證**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)：Vienna Pass 讓你快速造訪超過九十個在維也納的觀光景點，並且可以無限次搭乘 HOP ON HOP OFF 觀光巴士。
 - [維也納博物館美術館套票](https://www.bundesmuseencard.at/)：一年內無限次進出八個維也納博物館和美術館
 
-## 維也納自由行必訪景點
+## 維也納自由行推薦景點
 
 ![](vienna-city.webp)
 
@@ -535,4 +535,4 @@ insert image
 
 如果時間夠多，推薦你到東邊的斯洛伐克首都[**布拉提斯拉瓦（Bratislava）半日遊或一日遊**](/posts/%E5%B8%83%E6%8B%89%E6%8F%90%E6%96%AF%E6%8B%89%E7%93%A6%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)。
 
-而遊完維也納後，也可以很輕鬆的搭火車前往位在西邊的[哈修塔特（德文：Hallstatt）](/posts/%E5%93%88%E4%BF%AE%E5%A1%94%E7%89%B9%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)、或是要前往匈牙利布達佩斯或捷克布拉格都從維也納主火車站（德文：Hbf Wien）有直達火車。甚至你想要直接從維也納飛到其他歐洲國家大城市、又或是飛回台灣都有直達班機喔！
+而遊完維也納後，也可以很輕鬆的搭火車前往位在西邊的[哈修塔特（德文：Hallstatt）](/posts/哈修塔特自由行/)、或是要前往匈牙利布達佩斯或捷克布拉格都從維也納主火車站（德文：Hbf Wien）有直達火車。甚至你想要直接從維也納飛到其他歐洲國家大城市、又或是飛回台灣都有直達班機喔！
