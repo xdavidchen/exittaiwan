@@ -3,7 +3,7 @@
   "description": "ExitTaiwan",
   "version": "2.0.4",
   "license": "MIT",
-  "author": "exittaiwan.com",
+  "author": "Exittaiwan 出台灣｜國外自由行第一品牌",
   "scripts": {
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
