@@ -9,6 +9,7 @@ cover: "feature.webp"
 image: "feature.webp"
 tags: [Wise 網銀, 網路銀行推薦]
 theme: "light"
+country: "歐洲多國"
 ---
 
 <!--![|inline](wise.webp)-->
