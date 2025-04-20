@@ -474,7 +474,7 @@ insert image
 
 擁有大房間的 [**Rioca Vienna Posto 1**](https://www.booking.com/hotel/at/rioca.xt.html?aid=7956794)、工作人員親切、整體衛生清潔乾淨，同時又提供相對平價的住宿價格。
 
-雖然位置離市區有一小段距離，但是走路五分鐘就可以到 Trisengasse 火車站，搭乘市區火車十分鐘就可以到有機場火車 CAT 直達的維也納中央車站（德文：Wien Mitte），也就是城市公園旁邊的火車站。對於稍微有預算考量的人來說，這是一個很不錯的維也納住宿選擇！
+雖然位置離市區有一小段距離，但是走路五分鐘就可以到 Trisengasse 火車站，搭乘市區火車十分鐘就可以到有[機場火車 CAT ](/posts/維也納機場快線-cat/)直達的維也納中央車站（德文：Wien Mitte），也就是城市公園旁邊的火車站。對於稍微有預算考量的人來說，這是一個很不錯的維也納住宿選擇！
 
 - 地址：Dresdner Str. 109, 1200 Wien ([Google Maps](https://maps.app.goo.gl/etTvq4AYL7bgpemD8))
 - 是否含早餐：有
@@ -491,6 +491,8 @@ insert image
 - 是否含早餐：有，需加購
 - 平均每晚價格：約台幣 1000（單床位）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/at/wombats-hostels-vienna-naschmarkt.xt.html?aid=7956794)
+
+> 四間住宿不夠，想要比較看看更多維也納住宿選擇嗎？現在就看看這篇我們最新整理的[**CP 值高、交通又方便的維也納住宿推薦**](/post/維也納住宿)！
 
 ## 維也納自由行景點優惠票卷
 
