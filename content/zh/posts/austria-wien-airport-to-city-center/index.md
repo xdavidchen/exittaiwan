@@ -53,7 +53,7 @@ city: "維也納"
 
 當然，你也可以在 [Klook 購買電子車票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1011857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F8895-vienna-city-airport-train-ticket-vienna%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D160621ce0b)。 <!-- https://www.cityairporttrain.com/en/partner-->
 
-如果你是在市中心要前往機場的話，CAT 的現場購票地點在 Wien Mitte The Mall（維也納中心購物商場）裡面。
+如果你是在市中心要前往機場的話，CAT 的現場購票地點在 Wien Mitte The Mall（維也納中心購物商場）裡面（Wien Mitte The Mall 購物商場裡面[有免費廁所](/posts/歐洲找免費廁所攻略/)可以使用）。
 
 ![維也納中心購物商場裡的 CAT 櫃檯|inline](cat1.webp)
 

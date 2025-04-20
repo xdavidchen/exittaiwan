@@ -35,6 +35,8 @@ city: "維也納"
 
 要從維也納市中心前往機場時，也只要再次來到位在 Wien Mitte The Mall（維也納中心購物商場）裡面的 CAT 車站，就能到 CAT 專用的火車月台再次用 16 分鐘直達機場搭機。
 
+*Wien Mitte The Mall 購物商場裡面[有免費廁所](/posts/歐洲找免費廁所攻略/)可以使用。
+
 <img src="cat-wien-mittel.webp" style="zoom:200%;" />
 {{< button label="訂票去" link="https://affiliate.klook.com/redirect?aid=41451&aff_adid=1011857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F8895-vienna-city-airport-train-ticket-vienna%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D160621ce0b" style="solid" >}}
 

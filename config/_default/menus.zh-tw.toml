@@ -94,6 +94,12 @@ parent = "文章"
 name = "韓國"
 url = "country/韓國"
 
+[[main]]
+parent = "文章"
+name = "葡萄牙"
+url = "country/葡萄牙"
+weight = 7
+
 
 # [[main]]
 # weight = 4
