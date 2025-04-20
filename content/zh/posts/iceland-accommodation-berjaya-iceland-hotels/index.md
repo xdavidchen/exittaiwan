@@ -66,7 +66,7 @@ Berjaya Iceland Hotels 的廁所浴室空間較小，不過還是有做簡單的
 
 老實說，Berjaya Iceland Hotels 除了廁所衛浴的空間小了一點之外，實在沒什麼可以挑惕的地方。
 
-### 住宿評價
+### Berjaya Iceland Hotels 住宿評價
 
 在滿分十分中，[**Berjaya Iceland Hotels**](https://www.booking.com/hotel/is/hotel-edda-hofn.xt.html?aid=7956794) 值得 9 分的高分！雖然這次只有短短的入住一晚，但可以感受到 Berjaya Iceland Hotels 是一個很適合[冰島自駕遊旅客](/posts/冰島自駕遊行前準備)來放鬆做休息的中繼站。
 
