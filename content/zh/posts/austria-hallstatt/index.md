@@ -13,8 +13,6 @@ country: "奧地利"
 city: "哈修塔特"
 ---
 
-<!--![|wide](DSC09408.webp)-->
-
 如果要說歐洲哪些旅遊景點「風景如畫」，答案肯定少不了哈修塔特了！
 
 哈修塔特（Hallstatt）是一個位在奧地利中部的小鎮。它在 1997 年被聯合國列入世界文化遺產，其中達克斯坦山（德文：Dachstein）和鹽礦區（德文：Salzkammergut）更是[在 UNESCO 的介紹中](https://whc.unesco.org/en/list/806)被特別點名。
@@ -22,14 +20,6 @@ city: "哈修塔特"
 身為世界上最多人造訪的城市之一，要怎麼玩的過癮可是一門學問，事前先做好功課，才不會好不容易千里迢迢到了這座美麗的小鎮，卻玩得不盡興啊！
 
 在這篇文章，你會了解怎麼從其他歐洲城市到哈修塔特的交通方式、哈修塔特的住宿、還有一些景點和餐廳。
-
-<!--**文章目錄**：
-- [**哈修塔特自由行怎麼玩**](#哈修塔特自由行怎麼玩)
-- [**哈修塔特自由行交通**](#哈修塔特自由行交通)
-- [**哈修塔特自由行景點**](#哈修塔特自由行景點)
-- [**哈修塔特自由行住宿**](#哈修塔特自由行住宿)
-- [**哈修塔特自由行餐廳**](#哈修塔特自由行餐廳)
--->
 
 ## 哈修塔特自由行怎麼玩？
 
@@ -317,7 +307,7 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 <!-- <https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
-### 哈修塔特推薦住宿四｜**Pension Cafe zum Mühlbach**
+### 哈修塔特推薦住宿四｜Pension Cafe zum Mühlbach
 
 ![](pension.webp)
 
@@ -355,7 +345,7 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 <!-- <https://www.booking.com/hotel/at/i-da-mitt.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
-### 哈修塔特推薦住宿六｜**Seehotel Grüner Baum**
+### 哈修塔特推薦住宿六｜Seehotel Grüner Baum
 
 ![](baum.webp)
 
@@ -374,13 +364,13 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 <!-- <https://www.booking.com/hotel/at/seehotel-gruner-baum.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
-### 哈修塔特推薦住宿七｜Living History（限已成年之旅客入住）
+### 哈修塔特推薦住宿七｜Living History
 
 ![](living-history.webp)
 
 **[Living History](https://www.booking.com/hotel/at/living-in-museum.xt.html?aid=7956794&no_rooms=1&group_adults=2)** 位在哈修塔特鎮中心的廣場上，建築具有歐洲中古世紀時期的特色，入住這間就像是活在歷史中，因此取其名。
 
-為了確保住宿品質，這間住宿**只接待成人旅客**。
+為了確保住宿品質，這間住宿**不接待兒童喔**。
 
 另外，從過往評論來看，老闆似乎蠻有個性，沒有提供行李寄放的服務，也針對 check-in 和 check-out 時間比較沒有彈性，因此會建議如果行程常有變動的旅客，可以選擇其他間住宿喔。
 
@@ -395,7 +385,7 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 <!-- <https://www.booking.com/hotel/at/living-in-museum.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
-### 哈修塔特推薦住宿八｜**B&B Simmer**
+### 哈修塔特推薦住宿八｜B&B Simmer
 
 ![](b-and-b.webp)
 
@@ -414,7 +404,7 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 <!-- <https://www.booking.com/hotel/at/b-amp-b-simmer.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
-### 哈修塔特推薦住宿九｜**Dormio Hotel Obertraun**
+### 哈修塔特推薦住宿九｜Dormio Hotel Obertraun
 
 ![](dormio.webp)
 
@@ -464,13 +454,13 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 [Restaurant am See](https://www.google.com/maps/place/Restaurant+am+See/@47.5623474,13.6496374,19.34z/data=!3m1!5s0x4771366d4bdb5af1:0xb26d5b839801668a!4m20!1m9!3m8!1s0x47713750c12a59cf:0x754b7cf545c68252!2sZum+Bader+Gastwirtschaft!8m2!3d47.5620505!4d13.6493855!9m1!1b1!16s%2Fg%2F11kqx7qvhk!3m9!1s0x4771366d3584e94b:0x48dcb39f9192f7a2!5m3!1s2024-02-21!4m1!1i2!8m2!3d47.5623222!4d13.6497111!16s%2Fg%2F11g9q0l0ft?authuser=2&entry=ttu) 其實就是前面介紹的其中一間住宿，Seehotel Grüner Baum 的餐廳。這間餐廳擁有數量不少的室外座位，就在湖岸旁，常常可見天鵝緩緩游過，氛圍非常好。餐點的選擇大部分是德奧當地料理、當然哈修塔特常見的鱸魚和鮭魚料理在這裡也能品嚐到囉。
 
-### 哈修塔特餐廳二｜Muk’s Schmankerl
+### 哈修塔特推薦餐廳二｜Muk’s Schmankerl
 
 ![](muk.webp)
 
 這間 [Muk’s Schmankerl](https://www.google.com/maps/place/Muk%C2%B4s+Schmankerl/@47.5593849,13.6474274,19.28z/data=!3m1!5s0x4771366d8ee49aeb:0x1a7773414eb9e10!4m17!1m10!3m9!1s0x477137e548d44489:0xf0074c66a5f1a8d5!2sMuk%C2%B4s+Schmankerl!8m2!3d47.5595131!4d13.6473988!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11gmtkl_3j!3m5!1s0x477137e548d44489:0xf0074c66a5f1a8d5!8m2!3d47.5595131!4d13.6473988!16s%2Fg%2F11gmtkl_3j?authuser=2&entry=ttu) 位在湖岸旁邊，每天早上 11 點營業到下午 5 點，小小的店舖提供披薩、烤魚、濃湯、麵包、冰淇淋等平價的美食。
 
-### 哈修塔特餐廳三｜Zum Bader Gastwirtschaft
+### 哈修塔特推薦餐廳三｜Zum Bader Gastwirtschaft
 
 ![](zum-bader.webp)
 
