@@ -28,7 +28,7 @@ features:
       button:
         enable: true
         label: "接收電子報"
-        link: "https://newsletter.exittaiwan.com/profile"
+        link: "https://mailchi.mp/c3933af17e88/landing-newsletter"
 
     #- title: "手作旅行手冊，重拾手作的溫度"
       #image: "/images/ebook-cover.png"
