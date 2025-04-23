@@ -243,9 +243,9 @@ $$$$ = > 10000
 
 [**Wegoinn Hotel**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 是一間打著 Hostel 的名號，卻已經快要有旅館的等級的弘大商圈住宿選擇！經過團隊成員[親自入住體驗](/posts/首爾自由行住宿-wegoinn-hostel)，推薦 Wegoinn Hostel 給想要住在弘大商圈附近、又想壓低預算的台灣旅客。
 
-可以到 [Booking.com](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 上面看更多 Union Hotel 的照片，或是快速閱讀我們的[親自入住體驗文章](/posts/首爾自由行住宿-wegoinn-hostel)！
+可以到 [Booking.com](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 上面看更多 Wegoinn 的照片，或是快速閱讀我們的[親自入住體驗文章](/posts/首爾自由行住宿-wegoinn-hostel)！
 
-![Union Hotel 接待大廳](union-hotel-2.webp)
+![Wegoinn Hotel 接待大廳](cafe-2.webp)
 
 **Wegoinn 基本資訊**
 - 地址：서울 서대문구 신촌로 141 위고인호스텔빌딩 6~8층, RECEPTION 1F ([Naver Map](https://map.naver.com/p/entry/place/1242893814?placePath=%2Fhome))
