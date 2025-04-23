@@ -408,7 +408,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 自由女神像 Statue of Liberty
 
-![自由女神像](statue-of-liberty-horizontal.webp)
+![自由女神像](cover.webp)
 
 沒搭船去看自由女神像，別說你來過紐約！
 
