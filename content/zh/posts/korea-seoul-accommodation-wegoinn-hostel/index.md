@@ -78,3 +78,5 @@ Wegoinn Hostel 有幾個零星的缺點，像是房間隔音比較不好，所�
 在 [**Wegoinn Hostel**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 住宿的體驗是相當好的，雖然是寫 Hostel（青年旅館），不過他們所有的房型都是私人房型，不會跟陌生人一起分房間睡覺，而且以他們的住房品質，讓人感覺雖然是打著 Hostel 的名號，卻已經快要有旅館的等級了！
 
 滿分十分的話，[**Wegoinn Hostel**](https://www.booking.com/hotel/kr/wegoinn-hostel.xt.html?aid=7956794) 有 8 分，推薦給台灣來到首爾自由行的旅客！
+
+> 推薦閱讀：[【首爾住宿】CP 值高、交通又方便的首爾住宿推薦](/posts/seoul-top-hotels/)

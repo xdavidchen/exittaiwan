@@ -32,6 +32,8 @@ city: 首爾
 11. [K'STAY Sinchon](#首爾弘大梨大新村飯店推薦-11---kstay-sinchon)
 12. [Wegoinn Hostel](#首爾弘大梨大新村飯店推薦-12---wegoinn-hostel)
 
+不打算住在弘大、梨大、新村商圈附近嗎？那快參考我們寫過的[ CP 值高、交通又方便的首爾住宿推薦](/posts/seoul-top-hotels/)來看看哪個住宿地區最符合你的胃口！
+
 因為[**在韓國 Google Maps 不太能用**](/posts/%E7%82%BA%E4%BB%80%E9%BA%BC-google-maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8%E6%9C%89%E4%BB%80%E9%BA%BC%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
 
 ![首爾都會區地圖](seoul-map.webp)

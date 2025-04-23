@@ -33,3 +33,9 @@ city: "首爾"
 
 ![](seoul-metro-mockup.webp)
 {{< button label="下載地鐵圖" link="https://exittaiwan.gumroad.com/l/seoul-metro" style="solid" >}}
+
+>**「走錯路是插曲，住錯飯店才是災難」**
+>
+> 在首爾走錯路頂多多曬太陽，但住到雷飯店⋯⋯直接毀行程。
+> 
+> 先選對住宿，導航就只是輔助工具，快看看首爾 [CP 值高、交通又方便的首爾住宿推薦](/posts/seoul-top-hotels/)

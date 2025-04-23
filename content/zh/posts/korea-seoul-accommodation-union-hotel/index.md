@@ -14,7 +14,7 @@ country: "韓國"
 city: "首爾"
 ---
 
-[**Union Hotel**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 是一間位在首爾永登浦區，仙游島公園附近的平價星級飯店。交通方便、環境整潔、服務人員態度親切，都讓這間飯店成為一個台灣人到[首爾自由行的絕佳住宿選擇](/posts/%E5%BC%98%E5%A4%A7%E5%95%86%E5%9C%88%E6%A2%A8%E5%A4%A7%E5%95%86%E5%9C%88%E6%96%B0%E6%9D%91%E5%95%86%E5%9C%88%E9%A3%AF%E5%BA%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)。
+[**Union Hotel**](https://www.booking.com/hotel/kr/union-yeongdeungpo-gu.xt.html?aid=7956794) 是一間位在首爾永登浦區，仙游島公園附近的平價星級飯店。交通方便、環境整潔、服務人員態度親切，都讓這間飯店成為一個台灣人到[首爾自由行的絕佳住宿選擇](/posts/seoul-top-hotels/)。
 
 ## Union Hotel 基本資訊
 
