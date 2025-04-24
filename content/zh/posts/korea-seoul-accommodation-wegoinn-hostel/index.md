@@ -19,7 +19,7 @@ city: "首爾"
 
 ## Wegoinn Hostel 基本資訊
 
-![](wegoinn.webp)
+<img src="wegoinn.webp" style="zoom:200%;" />
 
 - 地址：서울 서대문구 신촌로 141 위고인호스텔빌딩 6~8층, RECEPTION 1F ([Naver Map](https://map.naver.com/p/entry/place/1242893814?placePath=%2Fhome))
 - 交通：
