@@ -61,7 +61,7 @@ Duplex Apartment 的房型包含了三間雙人房共六個床位，如果八人
 
 這個房型有兩間廁浴，清潔衛生沒什麼問題，不過根據網路上的公開評論，有少數房間的淋浴間有排水問題，如果有遇到再和櫃檯人員聯絡處理。
 
-![](bathroom.webp)
+<img src="bathroom.webp" style="zoom:200%;" />
 
 ## 布達佩斯住宿 K46 Residence 整體評價
 
