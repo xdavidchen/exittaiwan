@@ -80,6 +80,8 @@ city: "布達佩斯"
 | 火車     | €10 ~ 100（單日來回） | 約 2 小時 40 分鐘      | 維也納主火車站（Wien Hbf）                          | Budapest Keleti 或 Budapest Kelenföld   |
 | 巴士     | €12 ~ 25（單程）      | 約 3 小時至 3 個半小時 | 維也納國際巴士站（VIB）或維也納主火車站（Wien Hbf） | Budapest Kelenföld 或 Budapest Népliget |
 
-> 推薦文章：[維也納和布拉提斯拉瓦交通方式](/posts/vienna-bratislava-transport-guide/)
-
-<!-- 維也納和布拉格、布達佩斯和布拉格-->
+> **推薦文章：**
+>
+> ✔️ [維也納和布拉提斯拉瓦交通方式](/posts/vienna-bratislava-transport-guide/)
+>
+> ✔️ [維也納和布拉格交通方式](/posts/vienna-prague-transport/)
