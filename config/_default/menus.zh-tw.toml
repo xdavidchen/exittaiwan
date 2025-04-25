@@ -46,11 +46,6 @@ weight = 1
 
 [[main]]
 parent = "文章"
-name = "冰島"
-url = "country/冰島"
-
-[[main]]
-parent = "文章"
 name = "奧地利"
 url = "country/奧地利"
 weight = 1
@@ -77,35 +72,50 @@ weight = 4
 parent = "文章"
 name = "德國"
 url = "country/德國"
-weight = 8
-
-[[main]]
-parent = "文章"
-name = "美國"
-url = "country/美國"
+weight = 5
 
 [[main]]
 parent = "文章"
 name = "波蘭"
 url = "country/波蘭"
-weight = 5
+weight = 6
+
+[[main]]
+parent = "文章"
+name = "冰島"
+url = "country/冰島"
+weight = 6.5
 
 [[main]]
 parent = "文章"
 name = "荷蘭"
 url = "country/荷蘭"
-weight = 6
-
-[[main]]
-parent = "文章"
-name = "韓國"
-url = "country/韓國"
+weight = 7
 
 [[main]]
 parent = "文章"
 name = "葡萄牙"
 url = "country/葡萄牙"
-weight = 7
+weight = 8
+
+[[main]]
+parent = "文章"
+name = "韓國"
+url = "country/韓國"
+weight = 11
+
+
+[[main]]
+parent = "文章"
+name = "日本"
+url = "country/日本"
+weight = 12
+
+[[main]]
+parent = "文章"
+name = "美國"
+url = "country/美國"
+weight = 13
 
 
 # [[main]]
