@@ -93,7 +93,7 @@ RegioJet 除了有火車以外，也有巴士喔！
 
 | 交通方式 | 價格                 | 行程時間     | 起迄站（維也納）                                             | 起迄站（布拉格）                                             |
 | -------- | -------------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 火車     | €11 ~ 90（單日來回） | 約  4 個小時 | 維也納主火車站（Wien Hbf）或維也納法蘭斯約瑟夫火車站（Wien Franz-Josefs-Bahnhof） | 布拉格火車總站（[Praha hl.n.](https://maps.app.goo.gl/jEZ1VqJxamDfucQm9), Prague MS） |
+| 火車     | €11 ~ 90（單程） | 約  4 個小時 | 維也納主火車站（Wien Hbf）或維也納法蘭斯約瑟夫火車站（Wien Franz-Josefs-Bahnhof） | 布拉格火車總站（[Praha hl.n.](https://maps.app.goo.gl/jEZ1VqJxamDfucQm9), Prague MS） |
 | 巴士     | €10 ~ 70（單程）     | 約 4 個小時  | 維也納國際巴士站（VIB）或維也納主火車站（Wien Hbf）          | 布拉格巴士站（[Prag ZOB Florenc](https://maps.app.goo.gl/kVR73oEkdmTeR9b18)）或布拉格火車總站（[Praha hl.n.](https://maps.app.goo.gl/jEZ1VqJxamDfucQm9)）或布拉格火車站 Kačerov（[Prague - Kačerov](https://maps.app.goo.gl/GArebo7RpfSaeheM9)） |
 
 > **推薦文章：**
