@@ -101,3 +101,5 @@ RegioJet 除了有火車以外，也有巴士喔！
 > ✔️ [維也納和布拉提斯拉瓦交通方式](/posts/vienna-bratislava-transport-guide/)
 >
 > ✔️ [維也納和布達佩斯交通方式](/posts/vienna-budapest-transport/)
+>
+> ✔️ [布拉格和布達佩斯交通方式](/posts/prague-budapest-transportation/)
