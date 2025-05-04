@@ -52,7 +52,7 @@ features:
       button:
         enable: true
         label: "選擇國家"
-        link: "/shop"
+        link: "https://exittaiwan.gumroad.com/?section=zqL-iN5Z1QQJf1UamLxTVQ==#zqL-iN5Z1QQJf1UamLxTVQ=="
 ---
 
 
