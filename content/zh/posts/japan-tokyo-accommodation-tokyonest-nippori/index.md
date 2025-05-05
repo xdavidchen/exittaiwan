@@ -11,8 +11,6 @@ country: "日本"
 city: "東京"
 ---
 
-![](cover.webp)
-
 [**TokyoNEST Nippori**](https://www.booking.com/hotel/jp/tokyonest-nippori.xt.html?aid=7956794) 位在東京北方的日暮里， JR 山手線上的日暮里車站附近，從[**成田機場到 Skyliner 日暮里站**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1037290&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F1410-skyliner-tokyo%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D53551aeb94)只要半個多小時。日暮里車站旁邊有吃的有逛的，要搭乘山手線到東京都也非常方便，到淺草寺和晴天塔也只要搭公車，非常適合台灣旅客來到東京自由行時入住！
 
 ## TokyoNEST Nippori 基本資訊
