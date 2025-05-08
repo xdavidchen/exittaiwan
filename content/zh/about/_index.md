@@ -22,6 +22,8 @@ draft: false
 
 如果你願意支持高品質的圖文內容，你可以透過網站上的連結進行購買的動作，或是直接贊助我們（[**每月贊助**](https://exittaiwan.gumroad.com/l/membership)｜[**單次贊助**](https://exittaiwan.gumroad.com/coffee)）幫助團隊運營，持續為你提供實用資訊。
 
+--- 
+
 ## About ExitTaiwan
 
 ### Brand Mission
@@ -49,5 +51,3 @@ Whether you're a content creator, a travel enthusiast, or a business offering pr
 Together, we can provide valuable resources and insights to our community while promoting a positive, enriching travel experience.
 
 For inquiries, send an email to **contact@exittaiwan.com**.
-
-{{< button label="所有文章" link="/posts" style="solid" >}}
