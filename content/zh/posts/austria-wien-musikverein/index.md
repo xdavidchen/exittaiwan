@@ -152,7 +152,7 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 
 ![|inline](musikverein-book-tickets.webp)
 
-1. 在金色大廳的官網上查看[**當月節目表**](https://www.musikverein.at/en/concert-plan-2/)，選擇日期時間場次。
+1. 在金色大廳的官網上查看[**當月節目表**](https://www.musikverein.at/en/programme/)，選擇日期時間場次。
 2. 根據自身喜好和預算選擇座位。
 3. **最慢於演出開始一小時前**，至金色大廳（也就是音樂協會的大樓）櫃檯出示購票證明，兌換實體門票即可。
 
