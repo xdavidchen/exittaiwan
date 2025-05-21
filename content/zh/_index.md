@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "2025-26 世界最佳飯店指南"
-  content: "現在就免費下載由「ExitTaiwan」製作提供的世界最佳飯店指南，探索世界各城市口碑最佳、最優質的自由行住宿選擇。"
+  content: "現在就下載由「ExitTaiwan」製作提供的世界最佳飯店指南，探索世界各城市口碑最佳、最優質的自由行住宿選擇。"
   image: "/images/service-1.png"
   form:
     enable: true

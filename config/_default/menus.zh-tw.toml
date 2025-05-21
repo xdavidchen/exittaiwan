@@ -33,7 +33,7 @@ weight = 2
 #weight = 3
 
 [[main]]
-name = "商城"
+name = "一元商店"
 url = "/shop"
 weight = 2
 

@@ -18,11 +18,11 @@ country: "韓國"
 
 如果你現在正在[規劃前往韓國自由行旅遊](/city/首爾)、正在使用 Google Maps 的街景服務想像自己在雲端旅遊、又或是為了在 [GeoGusser](https://www.geoguessr.com/) 取得高分而使用 Google Maps 練習⋯⋯你應該都會發現，Google Maps 到了韓國區域幾乎不能使用。
 
->**「這幾間飯店，就算你沒網路也不會迷路」**
+<!-->>**「這幾間飯店，就算你沒網路也不會迷路」**
 > 
 > 沒網路？導航壞了？沒差！這幾家飯店的地點，用雙腳 + 直覺也走得回來。
 >
-> [點我看「新手友善」CP值最高的首爾住宿推薦](/posts/seoul-top-hotels/)
+> [點我看「新手友善」CP值最高的首爾住宿推薦](/posts/seoul-top-hotels/)-->
 
 ## 為什麼 Google Maps 在韓國不行用？
 
@@ -40,7 +40,7 @@ country: "韓國"
 
 一直到 Google 在 2021 年直接在韓國境內營運數據中心，才解決了「精密地圖不可傳輸至海外」這項規定，不過因為這幾年 Google 地圖進度在韓國的更新速度落後、且使用者習慣早已定調不使用 Google Maps，所以 Google Maps 在韓國到現在還是非常不好用（~~幾乎不能用~~）。
 
-> ✔️ 越早訂越便宜：[**查詢首爾房價**](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)
+<!-->> ✔️ 越早訂越便宜：[**查詢首爾房價**](https://www.booking.com/city/kr/seoul.xt.html?aid=7956794&no_rooms=1&group_adults=2)-->
 
 ## 韓國 Google Maps 替代方案
 
@@ -50,14 +50,14 @@ country: "韓國"
 
 ![Kakao Map](kakao.webp)
 
-也因爲如此，我們特別製作了有[繁體中文和韓文對照的首爾地鐵圖 PDF 檔案](/posts/首爾地鐵圖繁體中文高解析檔免費下載/)，行前下載到手機裡面，就算沒有網路也能對照地鐵站名！
+也因爲如此，我們特別製作了有[繁體中文和韓文對照的首爾地鐵圖 PDF 檔案](/posts/首爾地鐵圖繁體中文高解析檔下載/)，行前下載到手機裡面，就算沒有網路也能對照地鐵站名！
 
 ![](seoul-metro-mockup.webp)
 {{< button label="下載首爾地鐵圖" link="https://exittaiwan.gumroad.com/l/seoul-metro" style="solid" >}}
 
 <br>
 
-雖然這些 App 和工具能幫忙，但真正決定旅程順不順的，還是[你住哪裡](/posts/seoul-top-hotels/)！
+<!-- 雖然這些 App 和工具能幫忙，但真正決定旅程順不順的，還是[你住哪裡](/posts/seoul-top-hotels/)！-->
 
 資料來源：
 - [Why South Korea refuses to share mapping data with Google](https://www.csmonitor.com/Technology/2016/1118/Why-South-Korea-refuses-to-share-mapping-data-with-Google) on The Christian Science Monitor
