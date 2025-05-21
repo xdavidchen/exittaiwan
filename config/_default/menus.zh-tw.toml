@@ -26,6 +26,12 @@ name = "聯絡"
 url = "/contact"
 weight = 2
 
+[[main]]
+parent = "關於"
+name = "贊助"
+url = "https://l.exittaiwan.com/dropdown-donate"
+weight = 3
+
 #[[main]]
 #parent = "關於"
 #name = "ExitTaiwan Docs"
@@ -35,8 +41,7 @@ weight = 2
 [[main]]
 name = "一元商店"
 url = "/shop"
-weight = 2
-
+weight = 3
 
 # Post with country dropdwon
 [[main]]
@@ -187,7 +192,7 @@ url = "/posts/如何製作旅遊手冊"
 weight = 1
 
 [[footer_links]]
-name = "邊旅行，邊賺稿費"
+name = "邊文章，邊賺稿費"
 url = "https://writer.exittaiwan.com/"
 weight = 2
 
