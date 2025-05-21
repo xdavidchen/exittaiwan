@@ -66,9 +66,9 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = false
+enable = true
 expire_days = 7
-content = "You must replace the **baseURL** in **hugo.toml** file when deploying, you can manage this announcement from the **params.toml** file."
+content = "[在2025 年底，「ExitTaiwan 出台灣」未達損益平衡將會結束營運。請點選我以小額贊助支持「ExitTaiwan 出台灣」維持營運。](https://l.exittaiwan.com/banner-top)"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo

@@ -1,17 +1,17 @@
 ---
 # Banner
 banner:
-  title: "2025-26 世界最佳飯店指南"
-  content: "現在就下載由「ExitTaiwan」製作提供的世界最佳飯店指南，探索世界各城市口碑最佳、最優質的自由行住宿選擇。"
-  image: "/images/service-1.png"
+  title: "Support ExitTaiwan"
+  content: "這個網站沒有彈出式廣告，你的贊助是我們的主要盈利來源。請以小額贊助支持「ExitTaiwan 出台灣」維持無廣告，提供旅人全網路最乾淨的部落格。"
+  image: "/images/balance.png"
   form:
-    enable: true
+    enable: false
     button: "接收"
     placeholder: "輸入電子信箱"
   button:
-    enable: false
-    label: "了解更多"
-    link: "/about"
+    enable: true
+    label: "小額贊助"
+    link: "https://l.exittaiwan.com/banner-cta-donate"
 
 
 # Features
