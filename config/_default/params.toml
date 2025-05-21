@@ -73,7 +73,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["出台灣", "ExitTaiwan", "國外自由行", "自由行", "自由行攻略", "國外旅遊", "出國旅遊", "出國自由行", "攻略"]
+keywords = ["出台灣", "ExitTaiwan", "國外生活", "國外自由行", "自由行", "自由行攻略", "國外旅遊", "出國旅遊", "出國自由行", "攻略"]
 description = "「ExitTaiwan 出台灣」是一個為了幫助台灣人走出台灣，探索世界而誕生的生活品牌。"
 author = "ExitTaiwan"
 # twitter = "zeon_studio"
