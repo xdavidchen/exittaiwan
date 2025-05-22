@@ -2,8 +2,8 @@
 # Banner
 banner:
   title: "Support ExitTaiwan"
-  content: "這個網站沒有彈出式廣告，你的贊助是我們的主要盈利來源。請以小額贊助支持「ExitTaiwan 出台灣」維持無廣告，提供旅人全網路最乾淨的部落格。"
-  image: "/images/balance.png"
+  content: "這個網站沒有彈出式廣告，請以小額贊助支持，提供旅人全網路最乾淨的部落格。"
+  image: "/images/hero.svg"
   form:
     enable: false
     button: "接收"

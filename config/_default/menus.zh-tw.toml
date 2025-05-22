@@ -39,7 +39,7 @@ weight = 3
 #weight = 3
 
 [[main]]
-name = "一元商店"
+name = "商城"
 url = "/shop"
 weight = 3
 
@@ -170,10 +170,10 @@ url = "/terms"
 weight = 3
 
 
-[[footer_resources]]
-name = "Booking.com"
-url = "https://www.booking.com/?aid=7956794"
-weight = 1
+#[[footer_resources]]
+#name = "Booking.com"
+#url = "https://www.booking.com/?aid=7956794"
+#weight = 1
 
 [[footer_resources]]
 name = "Klook"
