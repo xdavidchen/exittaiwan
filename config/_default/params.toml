@@ -68,7 +68,7 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "[**🎉 只到 6/6！結帳輸入「exittaiwan9」全球網卡全館 9 折！點選我前往 DJB 官網 🏚**](https://djbcard.com/?aid=84830)"
+content = "[**🎉 「ExitTaiwan 出台灣 x DJB 全球網卡」成為合作夥伴！點選我前往 DJB 官網選購 🏚**](https://djbcard.com/?aid=84830)"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
