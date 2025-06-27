@@ -3,7 +3,7 @@
 banner:
   title: "加入讀者專屬優惠社團*"
   content: "旅居在外、或是準備出國旅遊，想要享受當地人才知道的優惠？每個月銅板價，成為 ExitTaiwan 會員，挖掘專屬於你的讀者優惠！ *將於 25 年夏季起開放加入"
-  image: "/images/hero.svg"
+  image: "/images/hero.png"
   form:
     enable: true
     button: "加入名單"
