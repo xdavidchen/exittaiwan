@@ -6,7 +6,7 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form  id="contact-form">
+          <form id="contact-form" method="POST" action="{{ site.Params.contact_form_action }}">
             <div class="mb-6">
               <label for="name" class="form-label">
                 {{T "full_name"}} <span class="text-red-500">*</span>
@@ -41,6 +41,7 @@
                 required
                 rows="8"></textarea>
             </div>
+            <input type="hidden" name="_captcha" value="true">
             <button type="submit" class="btn btn-primary cursor-pointer" id="submit-btn">{{ T "submit"}}</button>
             <p class=" mt-4 font-semibold" id="form-status"></p>
           </form>
@@ -53,14 +54,14 @@
     const contactFormDomElemTow =  document.getElementById("contact-form");
     if (contactFormDomElemTow) {
       document.getElementById("contact-form").addEventListener("submit", function (event) {
-      event.preventDefault();
+      //event.preventDefault();
       let formObject = {
         fullName: document.getElementById("full_name").value.trim(),
         email: document.getElementById("email").value.trim(),
         message: document.getElementById("message").value.trim(),
       };
   
-      formSubmission(formObject, this, "{{ site.Params.contact_form_action | safeJS }}");
+      //formSubmission(formObject, this, "{{ site.Params.contact_form_action | safeJS }}");
     });
     }
   </script>

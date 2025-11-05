@@ -20,7 +20,7 @@ theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["posts"]
 # contact form action
-contact_form_action = "https://formsubmit.co/ajax/contact@exittaiwan.com" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://formsubmit.co/contact@exittaiwan.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 newsletter = "https://exittaiwan.us4.list-manage.com/subscribe/post?u=7f0798a03512327a858ddc173&amp;id=374151cb7a&amp;f_id=00855de8f0"
 
 # google tag manager, see https://developers.google.com/tag-manager/
