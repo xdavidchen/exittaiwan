@@ -191,12 +191,17 @@ name = "製作旅遊手冊"
 url = "/posts/如何製作旅遊手冊"
 weight = 1
 
-[[footer_links]]
-name = "邊旅遊，邊賺稿費"
-url = "https://writer.exittaiwan.com/"
-weight = 2
+#[[footer_links]]
+#name = "邊旅遊，邊賺稿費"
+#url = "https://writer.exittaiwan.com/"
+#weight = 2
 
 [[footer_links]]
 name = "聯盟夥伴申請"
 url = "https://l.exittaiwan.com/affiliate-footer"
 weight = 3
+
+[[footer_links]]
+name = "Promote Your Business"
+url = "https://vendor.exittaiwan.com/"
+weight = 4
