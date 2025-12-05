@@ -3,7 +3,7 @@ title: "首爾明洞飯店住宿推薦｜十間適合台灣自由行遊客的明
 slug: "首爾明洞飯店住宿推薦"
 date: 2023-09-12
 description: "想要在首爾明洞商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化嗎？這篇文章整理了十間最適合台灣遊客的的飯店！"
-draft: false
+draft: "true"
 author: "Tim Kuo"
 cover: "feature.webp"
 image: "feature.webp"

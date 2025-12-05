@@ -3,7 +3,7 @@ title: "紐約自由行住宿｜就在曼哈頓市中心的龐德時代酒店 Po
 slug: "紐約住宿-pod-times-square"
 date: 2025-02-26
 description: "Pod Times Square 是來到紐約自由行住宿的酒店好選擇！靠近百老匯和時代廣場，絕佳的地理位置讓你輕鬆探索紐約！"
-draft: false
+draft: "true"
 author: "David Chen"
 cover: "pod.webp"
 image: "pod.webp"

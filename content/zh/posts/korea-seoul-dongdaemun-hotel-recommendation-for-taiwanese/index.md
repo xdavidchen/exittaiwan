@@ -3,7 +3,7 @@ title: "首爾自由行東大門飯店住宿推薦｜十間在東大門商圈的
 slug: "首爾東大門飯店住宿推薦"
 date: 2023-09-04
 description: "想要在首爾東大門商圈玩得開心、購物滿足、享受美食，首先要找到適合的住宿！這篇文章整理了十間最推薦且包含各個價格區間、位在首爾東大門的飯店給前往韓國旅遊的自由行旅客。"
-draft: false
+draft: "true"
 author: "Tim Kuo"
 cover: "feature.webp"
 image: "feature.webp"

@@ -43,7 +43,7 @@ city: 布拉提斯拉瓦
 - 價格：來回 €18，6 ~ 14 歲孩童 €9（單日，含布拉提斯拉瓦單日交通票）
 - 搭乘地點：
   - 維也納：維也納主火車站（Wien Hbf）
-  - 布拉提斯拉瓦：布拉提斯拉瓦主火車站或 *Železničná stanica Bratislava-Petržalka（暫譯：佩特爾日爾卡火車站）
+  - 布拉提斯拉瓦：布拉提斯拉瓦主火車站或 Železničná stanica Bratislava-Petržalka（暫譯：佩特爾日爾卡火車站）
 - 行程時間：約一小時
 
 *目前幾乎所有班次都是到布拉提斯拉瓦 Železničná stanica Bratislava-Petržalka（暫譯：佩特爾日爾卡火車站）
@@ -61,7 +61,7 @@ city: 布拉提斯拉瓦
 - 價格：單程約 €10 - €25｜來回 €20 - €50
 - 搭乘地點：
   - 維也納：維也納國際巴士站（VIB）或維也納主火車站（Wien Hbf）
-  - 布拉提斯拉瓦：***Most SNP** 或 **Mlynské Nivy 巴士站或 Einsteinova 或布拉提斯拉瓦主火車站
+  - 布拉提斯拉瓦：Most SNP 或 Mlynské Nivy 巴士站或 Einsteinova 或布拉提斯拉瓦主火車站
 - 行程時間：約 75 分鐘
 
 *下車時建議選擇 Most SNP

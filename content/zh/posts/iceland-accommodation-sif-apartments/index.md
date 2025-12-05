@@ -3,7 +3,7 @@ title: "Sif Apartments｜評價極高、冰島雷克雅維克極簡奢華的公�
 slug: "冰島住宿-sif-apartments"
 date: 2025-03-09
 description: "查詢雷克雅維克住宿推薦？Sif Apartments 就位在雷克雅維克市中心，方便的地理位置和北歐風的極簡裝潢，可以成為你的冰島住宿絕佳選擇。"
-draft: false
+draft: "true"
 author: "David Chen"
 cover: "sif-apartment.webp"
 image: "sif-apartment.webp"

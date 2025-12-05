@@ -5,7 +5,7 @@ aliases:
   - 首爾住宿
 date: 2025-04-23
 description: "精選 2025 最新首爾住宿推薦，從明洞、弘大到東大門，交通便利、高評價、價格透明，幫你找到最適合的自由行飯店。首爾住宿攻略一次看懂！"
-draft: false
+draft: "true"
 author: "David Chen"
 cover: "cover.webp"
 image: "cover.webp"

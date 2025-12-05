@@ -40,8 +40,6 @@ city: 鹿特丹
 - 票價：
   - 成人：€19.50
 
-> 越早訂越便宜：[**現在查詢鹿特丹房價**](https://www.booking.com/city/nl/rotterdam.xt.html?aid=7956794&no_rooms=1&group_adults=2)
-
 ## 小孩堤防（Kinderdijk）的特色與魅力
 
 ![](kinderdijk-windmills.webp)
@@ -87,5 +85,3 @@ city: 鹿特丹
 ## 結語
 
 小孩堤防（Kinderdijk）是荷蘭著名的世界文化遺產，亦是風車國度的代表性景點。這裡不僅讓您感受荷蘭獨特的自然景觀，更能了解荷蘭人為了與海爭地所展現的智慧與努力。
-
-> 越早訂越便宜：[**現在查詢鹿特丹房價**](https://www.booking.com/city/nl/rotterdam.xt.html?aid=7956794&no_rooms=1&group_adults=2)

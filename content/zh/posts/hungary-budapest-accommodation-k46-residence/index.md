@@ -8,6 +8,7 @@ description: "想找布達佩斯市中心住宿推薦？K46 Residence 提供高 
 author: "David Chen"
 cover: "k46-cover.webp"
 image: "k46-cover.webp"
+draft: "true"
 tags: [匈牙利, 匈牙利旅遊, 匈牙利自由行, 布達佩斯, 布達佩斯旅遊, 布達佩斯自由行]
 theme: "light"
 country: "匈牙利"

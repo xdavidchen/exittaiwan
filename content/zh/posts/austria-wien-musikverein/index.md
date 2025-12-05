@@ -19,9 +19,6 @@ city: "維也納"
 
 和德國柏林愛樂廳（德文：Konzerthaus）、荷蘭阿姆斯特丹大會堂（荷蘭文：Concertgebouw）、美國波士頓交響樂大廳（英文：Symphony Hall）齊名，這是世界上最佳的音樂廳之一，晚上常常有「**一群莫札特演奏著莫札特的音樂**」——它是**維也納的「金色大廳」**（德文：Goldener Saal）。
 
-> ✔️ 越早訂越便宜：[**現在查詢維也納房價**](https://www.booking.com/city/at/vienna.en.html?aid=7956794&no_rooms=1&group_adults=2)
-
-
 維也納的金色大廳已有超過百年歷史，它最為人知曉的特色莫過於每年新年一月一日，都會透過全球電視直播的「**[維也納新年音樂會](https://www.wienerphilharmoniker.at/en/newyearsconcert)**」了。
 
 來到金色大廳的觀光客，可以選擇[參加 45 分鐘的英語導覽](https://www.musikverein.at/en/guided-tours/)，深入了解這裡的歷史、建築設計等，除了星期日和奧地利國定假日外，每天有兩場付費導覽（一場英文、一場德文）。
@@ -46,7 +43,7 @@ city: "維也納"
 
 完全就是要 hashtag #德文邏輯。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 維也納金色大廳（音樂協會）基本資訊
 
@@ -96,7 +93,7 @@ city: "維也納"
 
 
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 金色大廳座位分佈
 
@@ -156,8 +153,6 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 2. 根據自身喜好和預算選擇座位。
 3. **最慢於演出開始一小時前**，至金色大廳（也就是音樂協會的大樓）櫃檯出示購票證明，兌換實體門票即可。
 
-> ✔️ 越早訂越便宜：[**現在查詢維也納房價**](https://www.booking.com/city/at/vienna.en.html?aid=7956794&no_rooms=1&group_adults=2)
-
 ## 觀賞金色大廳演出注意事項
 
 ![金色大廳音樂會門票範本|inline](IMG_4878.webp)
@@ -182,7 +177,7 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 
 三場音樂會的票價範圍都不同。十二月三十日的「新年音樂會預演」票價約在 €20 到 €495；三十一日的「新年夜音樂會」票價約在 €25 到 €860；而一月一日的「新年音樂會」票價則是在 €35 到 €1,200 之間。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 資料來源：
 - [10 of the world’s best concert halls](https://www.theguardian.com/travel/2015/mar/05/10-worlds-best-concert-halls-berlin-boston-tokyo)

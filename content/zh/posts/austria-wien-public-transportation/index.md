@@ -37,7 +37,7 @@ city: "維也納"
 
 Core zone 包括了維也納市區的所有大眾交通工具，街道電車、地鐵、公車、輕軌火車等。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ### 維也納交通核心區有多大？
 
@@ -92,7 +92,7 @@ Core zone 包括了維也納市區的所有大眾交通工具，街道電車、�
 2. 在各地鐵站自動售票機購買的**實體票卷，需要在入口處進行打票**的動作才算是有效票；沒打過票的車票，在公車上也需要使用打票機進行打票。
 3. 查票員穿著便服，會不定時在各種交通工具中出現，他們會出示他們的證件並進行查票，如果被查到無票或持無效票搭乘，須繳納罰金 100 歐元。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 維也納市區其他交通方式
 
@@ -113,4 +113,4 @@ Core zone 包括了維也納市區的所有大眾交通工具，街道電車、�
 2. 使用應用程式掃描腳踏車上的 QR Code
 3. 開始騎乘，騎乘時請注意安全和當地交通規則。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->

@@ -3,7 +3,7 @@ title: "冰島住宿推薦｜霍芬龍蝦鎮 Berjaya Iceland Hotels｜港口邊�
 slug: "冰島住宿-berjaya-iceland-hotels"
 date: 2025-04-20
 description: "在冰島南岸霍芬（Höfn）龍蝦鎮找住宿？Berjaya Iceland Hotels 靠近港口與 Pakkhús Restaurant，地點絕佳、賞極光超方便，是冰島自駕行程中理想的休息站。"
-draft: false
+draft: "true"
 author: "David Chen"
 cover: "cover.webp"
 image: "cover.webp"

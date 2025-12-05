@@ -11,7 +11,7 @@ country: "日本"
 city: "東京"
 ---
 
-[**TokyoNEST Nippori**](https://www.booking.com/hotel/jp/tokyonest-nippori.xt.html?aid=7956794) 位在東京北方的日暮里， JR 山手線上的日暮里車站附近，從[**成田機場到 Skyliner 日暮里站**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1037290&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F1410-skyliner-tokyo%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D53551aeb94)只要半個多小時。日暮里車站旁邊有吃的有逛的，要搭乘山手線到東京都也非常方便，到淺草寺和晴天塔也只要搭公車，非常適合台灣旅客來到東京自由行時入住！
+**TokyoNEST Nippori** 位在東京北方的日暮里， JR 山手線上的日暮里車站附近，從[**成田機場到 Skyliner 日暮里站**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1037290&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F1410-skyliner-tokyo%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D53551aeb94)只要半個多小時。日暮里車站旁邊有吃的有逛的，要搭乘山手線到東京都也非常方便，到淺草寺和晴天塔也只要搭公車，非常適合台灣旅客來到東京自由行時入住！
 
 ## TokyoNEST Nippori 基本資訊
 
@@ -21,7 +21,7 @@ city: "東京"
 - 交通：地鐵 JR 日暮里站步行三分鐘
 - 是否含早餐：無
 - 平均雙人房每晚價格：3,000 ~ 5,000（根據季節、房型等變動）
-- 查看即時房價：[**點我前往**](https://www.booking.com/hotel/jp/tokyonest-nippori.xt.html?aid=7956794)
+<!--- 查看即時房價：[**點我前往**](https://www.booking.com/hotel/jp/tokyonest-nippori.xt.html?aid=7956794)-->
 
 ## 實際入住 TokyoNEST Nippori 體驗
 
@@ -57,9 +57,5 @@ TokyoNEST Nippori 的房間坪數並不大，但是還是住的蠻舒服的。�
 
 ### TokyoNEST Nippori 住宿評價
 
-整體來說，[**TokyoNEST Nippori**](https://www.booking.com/hotel/jp/tokyonest-nippori.xt.html?aid=7956794) 一定有十分內至少九分！非常推薦給所有即將前往東京自由行的台灣旅客！
-
-### 預訂 TokyoNEST Nippori 注意事項
-
-在暑假旅遊旺季期間，入住 TokyoNEST Nippori 需要至少兩晚起才可預訂
+整體來說，**TokyoNEST Nippori** 十分內一定至少有九分！非常推薦給所有即將前往東京自由行的台灣旅客！
 

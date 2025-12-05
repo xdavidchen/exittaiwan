@@ -3,7 +3,7 @@ title: "性價比極高的星級飯店 Union Hotel | 首爾自由行絕佳住宿
 slug: "首爾自由行住宿-union-hotel"
 date: 2025-02-20
 description: "你還在苦惱首爾自由行的下榻飯店嗎？實際入住 Union Hotel ，發現這是一間價格平易近人，卻提供高品質的星級飯店！這可以成為每位台灣旅客來到首爾自由行的口袋住宿名單。"
-draft: false
+draft: true
 featured: false
 author: "David Chen"
 cover: "cover.webp"
@@ -55,7 +55,7 @@ Union Hotel 房間的設計走典雅極簡的風格，黃色的暖色系燈光�
 
 和房間的風格一致，廁浴也是走一個簡潔的風格，非常衛生乾淨，沒有異味，唯一可以吹毛求疵的可能是沒有提供浴缸。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## Union Hotel 整體評價
 
@@ -91,4 +91,4 @@ Union Hotel 房間的設計走典雅極簡的風格，黃色的暖色系燈光�
 
 唯一小扣分的地方就是離市區和商圈稍微遠了一點，但飯店提供的性價比完全蓋過了這個小缺點，Union Hotel 是個幾乎完美的首爾住宿選擇。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->

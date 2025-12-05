@@ -37,7 +37,7 @@ city: "哈修塔特"
 
 如果你想要好好的享受這個美麗的小鎮和其自然風光，打算去鹽礦洞、冰洞、五指觀景台等一探究竟，那麼一天的時間是不可能足夠的！**停留三到五天大概會是最適合的安排**。
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--<!--[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 哈修塔特自由行交通
 
@@ -99,7 +99,7 @@ city: "哈修塔特"
 
 更詳細的資訊可以參考這個英文網站：[BigBoyTravel](https://www.bigboytravel.com/europe/austria/hallstatt/gettingtohallstatt/)。
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--<!--[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 哈修塔特自由行景點
 
@@ -225,7 +225,7 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 <!-- link to Dachstein 遊記（詳細說明） -->
 
-## 哈修塔特自由行住宿
+<!--## 哈修塔特自由行住宿
 
 ![](IMG_3847.webp)
 
@@ -261,8 +261,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 雙人房平均每晚價格：約台幣 9,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/fenix-hall.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-<!-- <https://www.booking.com/hotel/at/fenix-hall.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
-
 ### 哈修塔特推薦住宿二｜Lakeside Apartments Hallstatt
 
 ![](lakaside.webp)
@@ -279,8 +277,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 設施：陽台、基本備品
 - 雙人房平均每晚價格：約台幣 8,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/hallstatt-lakeside-top-5.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
-
-<!-- <https://www.booking.com/hotel/at/hallstatt-lakeside-top-5.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
 ### 哈修塔特推薦住宿三｜Ferienhaus Salzberg
 
@@ -305,7 +301,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 想看 Haus Salzberg 更詳細的介紹，可以[**點我查看遊記**](/posts/%E5%93%88%E4%BF%AE%E5%A1%94%E7%89%B9%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6-haus-salzberg/)
 
-<!-- <https://www.booking.com/hotel/at/ferienhaus-salzberg.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
 ### 哈修塔特推薦住宿四｜Pension Cafe zum Mühlbach
 
@@ -324,7 +319,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 雙人房平均每晚價格：約台幣 8,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/cafe-restaurant-zum-muhlbach.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-<!-- <https://www.booking.com/hotel/at/cafe-restaurant-zum-muhlbach.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
 ### 哈修塔特推薦住宿五｜I da Mitt
 
@@ -343,7 +337,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 雙人房平均每晚價格：約台幣 8,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/i-da-mitt.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-<!-- <https://www.booking.com/hotel/at/i-da-mitt.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
 ### 哈修塔特推薦住宿六｜Seehotel Grüner Baum
 
@@ -362,7 +355,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 雙人房平均每晚價格：約台幣 16,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/seehotel-gruner-baum.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-<!-- <https://www.booking.com/hotel/at/seehotel-gruner-baum.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
 ### 哈修塔特推薦住宿七｜Living History
 
@@ -383,7 +375,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 雙人房平均每晚價格：約台幣 16,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/living-in-museum.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-<!-- <https://www.booking.com/hotel/at/living-in-museum.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
 ### 哈修塔特推薦住宿八｜B&B Simmer
 
@@ -402,7 +393,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 雙人房平均每晚價格：約台幣 7,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/b-amp-b-simmer.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-<!-- <https://www.booking.com/hotel/at/b-amp-b-simmer.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
 ### 哈修塔特推薦住宿九｜Dormio Hotel Obertraun
 
@@ -419,7 +409,6 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 雙人房平均每晚價格：約台幣 7,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/obertraun-obertraun2.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-<!-- <https://www.booking.com/hotel/at/obertraun-obertraun2.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
 ### 哈修塔特推薦住宿十｜Chalet am Sonnenhang
 
@@ -438,9 +427,8 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 - 雙人房平均每晚價格：約台幣 8,000 元
 - 查看即時房價：**[點我前往](https://www.booking.com/hotel/at/jagdhutte-obertraun.xt.html?aid=7956794&no_rooms=1&group_adults=2)**
 
-<!-- <https://www.booking.com/hotel/at/jagdhutte-obertraun.xt.html?aid=7956794&no_rooms=1&group_adults=2> -->
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 哈修塔特自由行推薦餐廳
 
@@ -474,4 +462,4 @@ Salzwelten 這間導覽公司在薩爾斯堡、哈修塔特、Altaussee 都有�
 
 一個地方，每個拜訪的人都會有不同的感受，能夠確定的是，哈修塔特是一生一定要去一次的地方。
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->

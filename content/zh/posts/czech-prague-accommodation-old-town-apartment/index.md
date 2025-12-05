@@ -3,7 +3,7 @@ title: "捷克布拉格自由行住宿推薦｜Old Town Apartment 查理大橋�
 slug: "布拉格住宿-old-town-apartment"
 date: 2023-11-15
 description: "Smetanovo nábřeží 26 - Riverview Old Town Apartment 是一間位在布拉格查理大橋旁的公寓式住宿，非常適合自由行的旅客入住。"
-draft: false
+draft: "true"
 author: "David Chen"
 cover: "feature.webp"
 image: "feature.webp"

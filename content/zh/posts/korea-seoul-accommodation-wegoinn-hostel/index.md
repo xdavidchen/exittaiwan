@@ -3,7 +3,7 @@ title: "弘大住宿推薦 Wegoinn Hostel 平價又有品質的旅館｜首爾�
 slug: "首爾自由行住宿-wegoinn-hostel"
 date: 2025-02-27
 description: "正在尋找距離弘大商圈近、價格又不貴的住宿嗎？Wegoinn Hostel 也許是你最好的首爾自由行住宿選擇！"
-draft: false
+draft: "true"
 featured: false
 author: "David Chen"
 cover: "wegoinn.webp"

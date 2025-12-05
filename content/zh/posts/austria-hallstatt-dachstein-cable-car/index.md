@@ -20,7 +20,7 @@ city: "哈修塔特"
 
 沒來過哈修塔特的人可能會搞錯，在哈修塔特最知名的有兩種纜車，一個是達克斯坦山的纜車，上下山總共有三段、包含出發站共四個纜車站；另外一個是鹽礦山的纜車，搭乘地點就在哈修塔特小鎮附近，行程比較短，只有一段上下山在鹽礦世界售票處和鹽礦山之間運作。
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 這篇文章是在講達克斯坦山的纜車乘坐教學，如果你對於哈修塔特的交通還不清楚，建議你可以先到「[**哈修塔特自由行全攻略**](/posts/哈修塔特自由行)」這篇文章稍微過目交通的部分，就可以清楚知道怎麼從小鎮搭公車來到這囉！
 
@@ -42,7 +42,7 @@ city: "哈修塔特"
 
 這裡的票有分蠻多不同的種類，建議你參考「[**哈修塔特五指觀景台旅遊全攻略**](/posts/哈修塔特五指觀景台旅遊全攻略/)」來決定你想要購買哪一種票，最適合自身的體力、行程時間安排、預算等。
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 由於阿爾卑斯山區天氣多變，在售票處旁邊就有一個大大的看板，顯示當前的天氣狀況資訊，並標示山區是否有不開放的區域，相同的這些資訊也可以在網路上看到，可以在上山前當作一個參考。
 
@@ -101,4 +101,4 @@ city: "哈修塔特"
 
 所以如果你打算先上到第二站，前往五指觀景台，那麼之後下去到第一站，就沒有辦法再次乘坐纜車上山了。不過也不建議大部分的旅客這樣安排，畢竟在哈修塔特的時間寶貴，沒有需要走當天重複走過的路。
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->

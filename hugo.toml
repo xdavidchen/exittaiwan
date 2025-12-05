@@ -97,7 +97,7 @@ lineNumbersInTable = false
 
 [markup.tableOfContents]
 startLevel = 2
-endLevel = 5
+endLevel = 3
 ordered = true
 
 

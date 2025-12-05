@@ -18,7 +18,7 @@ country: "歐洲多國"
 {{< notice "懶人包" >}}
 - 食：NeoTaste（[**使用優惠碼**](/posts/neotaste/)）｜TheFork（[**使用優惠碼**](/posts/thefork/)）｜TooGoodToGo（[下載連結](https://tgtg.onelink.me/OGjG/iflv8wfh)）
 - 衣：下載免費行李打包清單
-- 住：[提早訂房 Booking.com](https://www.booking.com/?aid=7956794)
+- 住：提早訂房 <!-- CTA to membership site -->
 - 行：廉航｜[Eurail 歐鐵全境火車通行證](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043907&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9868-eurail-global-rail-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc840137fb8)｜[找免費廁所全攻略](/posts/歐洲找免費廁所攻略/)
 - 樂：善用學生、敬老身份｜[Klook 找城市卡 City Pass](https://www.klook.com/?aid=41451&aff_adid=1007703&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=41451&utm_term=&utm_content=&aff_klick_id=93102626107-41451-1007703-c178e75)
 {{< /notice >}}
@@ -104,7 +104,6 @@ country: "歐洲多國"
 
 - 一般來說，長住（一個禮拜以上）比短住便宜。
 - 在 Airbnb 的 App 上可以盡量放大，縮小尋找的區域，有些一開始被隱藏的住宿要一直放大才會顯示出來。
-- 有時候 [Booking.com](https://www.booking.com/?aid=7956794) 訂多間房會比少間房便宜，像是三人一起旅遊，有時候住兩間雙人房比一間四人房還便宜，可以調整比較價格看看。
 
 ---
 

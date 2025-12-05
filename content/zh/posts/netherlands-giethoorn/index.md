@@ -24,8 +24,6 @@ city: 羊角村
 
 羊角村曾在西元 1170 年時被洪水淹沒，重新整治的過程中發現許多羊角，因此才會被命名為「羊角村」。
 
-> ✔️ 越早訂越便宜：[**現在查詢羊角村房價**](https://www.booking.com/city/nl/giethoorn.xt.html?aid=7956794&no_rooms=1&group_adults=2)
-
 ## 羊角村特色
 
 ![](image2.webp)
@@ -54,7 +52,7 @@ city: 羊角村
 
 如果是自駕或是[**跟 tour 的話適合一日遊**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1007160&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F94943-giethoorn-day-trip-with-canal-tour-from-amsterdam%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc6dd6fb3f3)，當天不要再排其他行程，享受羊角村的寧靜與悠閒。
 
-若是大眾交通前往的話，則會推薦[兩天一夜](https://www.booking.com/city/nl/giethoorn.xt.html?aid=7956794&no_rooms=1&group_adults=2)，到主要還是看從哪裡出發，這樣行程可以不用太趕避免時間都花在搭車上。
+若是大眾交通前往的話，則會推薦兩天一夜，到主要還是看從哪裡出發，這樣行程可以不用太趕避免時間都花在搭車上。
 
 ## 如何抵達羊角村？羊角村交通
 
@@ -76,7 +74,5 @@ city: 羊角村
 無論是悠閒漫步、騎腳踏車，還是乘船穿梭於水道之間，這裡都能讓人感受到與世隔絕的寧靜與美好。如果你嚮往一場遠離喧囂、親近大自然的旅行，羊角村絕對值得列入你的荷蘭旅遊清單。
 
 ![](giethoorn-2.webp)
-
-> ✔️ 越早訂越便宜：[**現在查詢羊角村房價**](https://www.booking.com/city/nl/giethoorn.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
 下次計劃荷蘭行程時，別忘了安排時間來這裡，享受這座「荷蘭威尼斯」的獨特魅力！

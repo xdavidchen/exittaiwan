@@ -4,6 +4,7 @@ description: 華沙住宿推薦！Oliwka Hostel 位於華沙蛋黃區，步行 3
 slug: 華沙住宿推薦
 folder-name: warszawa-accommodation
 author: Mar Chang
+draft: "true"
 date: 2025-01-31T17:45:00.000Z
 cover: thumbnail.webp
 tags:

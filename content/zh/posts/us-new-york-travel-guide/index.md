@@ -17,7 +17,7 @@ city: "紐約"
 <!--![|wide](cover.webp)-->
 
 > **使用說明書**\
-這篇文章分成了五大章節，從對紐約的基本了解、交通、自由行旅遊景點、住宿、和優惠都幫你整理好了！文章比較長，建議配合目錄更快速找到資訊。\
+這篇文章分成了五大章節，從對紐約的基本了解、交通、自由行旅遊景點、和優惠都幫你整理好了！文章比較長，建議配合目錄更快速找到資訊。\
 \
 喜歡隨興安排旅遊的人，只需要看**行前須知**來確保出發前對紐約有最基本的了解讓你的旅程平安順遂，和最後的[**優惠票卷**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)幫自己省一點錢。\
 \
@@ -31,7 +31,7 @@ city: "紐約"
 - [紐約自由行優惠票卷](#當荷包在哭泣--紐約自由行優惠票卷)
 -->
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 紐約自由行旅遊 — 行前須知
 
@@ -133,7 +133,7 @@ city: "紐約"
 
 6月初至 9月中，平均溫度 24°C 以上。 紐約最熱的月份是七月，平均高溫為 29°C，平均低溫為 21°C。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 紐約自由行趴趴走 — 交通篇
 
@@ -152,7 +152,7 @@ city: "紐約"
 - **紐約景點優惠套票**：
   根據經驗，推薦第一次到紐約旅遊的人[**購買紐約市景點套票 New York City Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)，和分別購買景點的門票相比，價格打了六折左右。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 紐約自由行必訪景點
 
@@ -417,7 +417,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 <!-- Battery Park、自由女神島、移民博物館 -->
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ### 下城區路過看看的景點
 
@@ -444,7 +444,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 地址：89 Broadway, New York, NY 10006, United States
 - 營業時間：每日 8:30 ~ 18:00
 
-## 貴死人的好歸宿 — 紐約自由行住宿
+<!--## 貴死人的好歸宿 — 紐約自由行住宿
 
 ### Pod Times Square
 
@@ -510,4 +510,4 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 > **購買紐約旅遊套票**\
 購買連結：[**紐約旅遊套票**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->

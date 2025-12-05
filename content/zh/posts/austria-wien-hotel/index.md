@@ -3,7 +3,7 @@ title: "【維也納住宿】CP 值高、交通又方便的維也納住宿推薦
 slug: "維也納住宿"
 date: 2025-04-20
 description: "想找交通方便又高 CP 值的維也納住宿推薦？本篇整理 2025 最新為也罵飯店清單，從市中心豪華公寓到平價青年旅館，無論預算高低都能找到最適合的維也納住宿選擇！"
-draft: false
+draft: "true"
 author: "David Chen"
 cover: "karlsplatz.webp"
 image: "karlsplatz.webp"

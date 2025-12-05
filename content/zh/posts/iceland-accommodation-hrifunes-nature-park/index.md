@@ -3,7 +3,7 @@ title: "冰島賞極光最強飯店｜呂福恩斯自然公園度假屋 Hrifunes
 slug: "冰島住宿-hrifunes-nature-park"
 date: 2025-03-01
 description: "到冰島自駕旅遊要住哪裡？呂福恩斯自然公園度假屋提供觀賞極光的絕佳住宿體驗，住一次就讓你一生難忘。"
-draft: false
+draft: "true"
 author: "David Chen"
 cover: "hrifunes-cover.webp"
 image: "hrifunes-cover.webp"

@@ -23,8 +23,6 @@ city: 鹿特丹
 
 大部分的遊客來到荷蘭旅遊想到的第一個城市大概是阿姆斯特丹（Amsterdam），不過鹿特丹作為第二大城我認為還是有其可看之處。而且人比阿姆斯特丹少遊覽起來也舒服多了。
 
-> 越早訂越便宜：[**現在查詢鹿特丹房價**](https://www.booking.com/city/nl/rotterdam.xt.html?aid=7956794&no_rooms=1&group_adults=2)
-
 由於鹿特丹沒有對歐洲以外的國際航線，因此需要先抵達阿姆斯特丹史基浦機場再轉乘抵達鹿特丹。以下整理三種方式可以抵達鹿特丹市中心，包含火車、巴士以及 Uber。
 
 ## 火車
@@ -73,5 +71,3 @@ Flixbus 是歐洲最大的客運公司之一，範圍擴及歐洲各國的大小
 | 火車         | 27-50分鐘        | 阿姆斯特丹史基浦機場（AMS；Amsterdam Schiphol Airport）-鹿特丹中央車站（Rotterdam CS） | InterCity：14.50 歐元InterCity direct：17.40 歐元 |
 | 巴士         | 45-75 分鐘       | 阿姆斯特丹史基浦機場（AMS；Amsterdam Schiphol Airport）-鹿特丹中央車站（Rotterdam CS） | 浮動價格，3 - 8 歐元不等                          |
 | Uber         | 60分鐘           | 阿姆斯特丹史基浦機場（AMS；Amsterdam Schiphol Airport）-鹿特丹中央車站（Rotterdam CS） | 依當下叫車價格而定                                |
-
-> 越早訂越便宜：[**現在查詢鹿特丹房價**](https://www.booking.com/city/nl/rotterdam.xt.html?aid=7956794&no_rooms=1&group_adults=2)

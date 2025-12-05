@@ -17,8 +17,6 @@ city: "維也納"
 
 [**奧地利的首都維也納**](/posts/維也納自由行)位於歐洲大陸的中心點，對於從亞洲飛過來的台灣自由行旅客來說，不管是要在奧地利深度旅遊、或是短暫停留後前往下一個旅遊地點，維也納都是一個很棒的中繼點。
 
-> ✔️ 越早訂越便宜：[**現在查詢維也納房價**](https://www.booking.com/city/at/vienna.en.html?aid=7956794&no_rooms=1&group_adults=2)
-
 維也納只有一個國際機場，也就是[維也納機場](https://www.viennaairport.com/en/passengers)（Vienna Airport，VIE）。不論你是搭乘直飛的中華航空、長榮航空，或是轉機的班機來到維也納，你都會降落在這裡。
 
 ![](wien.webp)
@@ -32,7 +30,7 @@ city: "維也納"
 - Uber
 - FlixBus 跨國巴士
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 機場快線 City Airport Train，CAT
 
@@ -51,7 +49,7 @@ city: "維也納"
 
 機場快線 CAT 的淺綠色標示非常顯眼，從出境後的行李托盤區就可以看到廣告，到機場大廳跟著火車的指標走，也會很快就看到一區綠色的櫃檯購票區，只要和櫃檯人員或是透過自動售票機買單程或是來回票就可以囉！
 
-當然，你也可以在 [Klook 購買電子車票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1011857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F8895-vienna-city-airport-train-ticket-vienna%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D160621ce0b)。 <!-- https://www.cityairporttrain.com/en/partner-->
+當然，你也可以在 [Klook 購買電子車票](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1011857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F8895-vienna-city-airport-train-ticket-vienna%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D160621ce0b)。
 
 如果你是在市中心要前往機場的話，CAT 的現場購票地點在 Wien Mitte The Mall（維也納中心購物商場）裡面（Wien Mitte The Mall 購物商場裡面[有免費廁所](/posts/歐洲找免費廁所攻略/)可以使用）。
 
@@ -80,9 +78,7 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 - **優點**：快速、價格便宜、點到點移動、市中心有多個火車站可以作為目的地
 - **缺點**：上下車可能要搬行李
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
-
-> ✔️ 越早訂越便宜：[**現在查詢維也納房價**](https://www.booking.com/city/at/vienna.en.html?aid=7956794&no_rooms=1&group_adults=2)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ### 一般火車 S-Bahn、REX 購票教學
 
@@ -140,6 +136,6 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 | Uber                  | 20 ~ 30 分鐘 | 維也納機場、市中心任意點                           | €25 ~ €40             |
 | FlixBus 跨國巴士      | 20 ~ 30 分鐘 | 維也納機場、Erdberg                                | €6 ~ €16              |
 
-[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 把維也納機場和市區交通的方式都看懂了嗎？那你可能也會想知道[**維也納交通核心區的交通和購票方式**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E6%94%BB%E7%95%A5/)！

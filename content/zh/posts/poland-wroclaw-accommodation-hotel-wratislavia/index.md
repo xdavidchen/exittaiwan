@@ -1,7 +1,7 @@
 ---
 title: 弗羅茲瓦弗自由行住宿推薦｜瓦特拉旅館，CP 值超高、環境好的青年旅館
 description: 瓦特拉旅館是位在波蘭弗羅茲瓦弗的青年旅館，便宜的價格和良好的住宿環境是在歐洲旅行自由行旅客的絕佳住宿選擇！
-draft: false
+draft: "true"
 slug: 弗羅茲瓦弗住宿推薦-瓦特拉旅館
 folder-name: wratislavia-hotel-wratislavia
 author: Mar Chang

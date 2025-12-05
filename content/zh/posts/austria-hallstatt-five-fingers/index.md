@@ -104,7 +104,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 票價約 60 歐元。
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 > **✓ 特別門票折價優惠**\
 \
@@ -158,7 +158,7 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 ![照片取自 Dachstein Krippenstein 官網](5-fingers-2.webp)
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ### 達克斯坦鯊魚
 
@@ -186,4 +186,4 @@ Panorama Ticket 顧名思義就是全景（或環景）票。
 
 當然，你也可以在上山前，先在哈修塔特鎮上的麵包店或是超市先採買糧食。
 
-[![](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)
+<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->

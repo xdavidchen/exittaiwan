@@ -22,8 +22,6 @@ city: 阿姆斯特丹
 
 每年 3 月至 5 月正值荷蘭的**鬱金香花季**，庫肯霍夫花園（Keukenhof）作為世界最大的花園，每年都吸引無數遊客來此欣賞春日美景。如果你正計劃[**阿姆斯特丹自由行**](/posts/%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9%E4%BA%A4%E9%80%9A-%E5%8F%B2%E5%9F%BA%E6%B5%A6%E6%A9%9F%E5%A0%B4/)，千萬別錯過這場期間限定的花卉盛宴！
 
-> ✔️ 越早訂越便宜：[**查詢阿姆斯特丹房價**](https://www.booking.com/city/nl/amsterdam.xt.html?aid=7956794&no_rooms=1&group_adults=2)
-
 ## 庫肯霍夫花園一日遊基本資訊
 
 ![](image5.webp)
@@ -72,8 +70,6 @@ city: 阿姆斯特丹
 * 公車接駁：花季期間可搭乘特定接駁公車，建議使用[交通 + 門票聯票](https://tickets.keukenhof.nl/en-US/tickets)，可從阿姆斯特丹、史基浦機場等地搭乘。
 * 參加一日遊行程：若不想煩惱交通，推薦透過旅遊平台預訂一日遊行程，行程通常包含庫肯霍夫花園、荷蘭鄉村風光與風車遊船。
   * [Klook 庫肯霍夫花園一日遊](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1000566&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F101454-keukenhof-tours-countryside-cruise-options-landmark-tour-lisse%2F)（含鄉村風光 & 遊船行程）
-
-> ✔️ 越早訂越便宜：[**查詢阿姆斯特丹房價**](https://www.booking.com/city/nl/amsterdam.xt.html?aid=7956794&no_rooms=1&group_adults=2)
 
 ## 結語
 

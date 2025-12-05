@@ -3,7 +3,7 @@ title: "弘大、梨大、新村商圈飯店住宿推薦｜十二間適合台灣
 slug: "弘大商圈梨大商圈新村商圈飯店住宿推薦"
 date: 2023-10-07
 description: "想要在弘大商圈探索當地的購物街、品嚐道地的韓國美食、體驗夜間街頭文化，你就需要考慮住宿！這篇文章整理了十二間最適合台灣遊客的的飯店"
-draft: false
+draft: "true"
 author: "Tim Kuo"
 cover: "feature.webp"
 image: "feature.webp"

@@ -3,7 +3,7 @@ title: "德國杜塞道夫自由行住宿推薦 Limehome Düsseldorf｜位在市
 slug: "杜塞道夫住宿推薦-limehome-duesseldorf"
 date: 2025-04-18
 description: "limehome Düsseldorf 位於市中心，步行可達火車站，擁有寬敞房型、設備齊全的廚房與自助入住系統，適合情侶或小家庭入住。"
-draft: false
+draft: "true"
 featured: false
 author: "David Chen"
 cover: "cover.webp"

@@ -1,7 +1,7 @@
 ---
 title: 波蘭背包客自助行｜格但斯克住宿青旅推薦 La Guitarra Hostel Gdańsk
 description: 位在格但斯克老城區，價格超級實惠的青年旅館 La Guitarra！
-draft: false
+draft: "true"
 slug: 格但斯克住宿推薦-la-guitarra
 author: Mar Chang
 date: 2025-04-14T07:41:00.000Z

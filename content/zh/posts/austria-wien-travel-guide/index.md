@@ -21,7 +21,7 @@ city: "維也納"
 <!--![|wide](schoenbrunn.webp)-->
 
 >  **使用說明書**\
-這篇文章分成了五大章節，從對維也納的基本了解、交通、自由行旅遊景點、住宿、和優惠都幫你整理好了！文章比較長，建議配合目錄更快速找到資訊。\
+這篇文章分成了五大章節，從對維也納的基本了解、交通、自由行旅遊景點、和優惠都幫你整理好了！文章比較長，建議配合目錄更快速找到資訊。\
 \
 喜歡隨興安排旅遊的人，只需要看**行前須知**來確保出發前對維也納有最基本的了解讓你的旅程平安順遂，和最後的[**優惠票卷**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)幫自己省一點錢。\
 \
@@ -112,7 +112,7 @@ city: "維也納"
 
 這個範圍內大部分是行人步行區，不只可以享受文化歷史、購物商圈也少不了，且都在走路二十分鐘以內的距離。
 
-**聖史蒂芬大教堂 Stephansdom**
+#### 聖史蒂芬大教堂 Stephansdom
 
 ![聖史蒂芬大教堂](stephansdom.webp)
 
@@ -124,7 +124,7 @@ city: "維也納"
 - 營業時間：每週一至週六早上 9 ~ 11:30，下午 1 點 ~ 4:30。週日及國定假日開放下午 1 點 ~ 4:30
 - 門票：根據[參觀行程及年齡](https://www.stephanskirche.at/info.php)，€6 ~ €25
 
-**格拉本大街 Graben**
+#### 格拉本大街 Graben
 
 ![格拉本大街](graben.webp)
 
@@ -137,7 +137,7 @@ city: "維也納"
 - 地址：地鐵 U1 和 U3 線史蒂芬廣場（德文：Stephanplatz）站
 - 營業時間：全天，星期日及國定假日大部分商店關門，但餐廳幾乎都會正常營業
 
-**維也納國立歌劇院 Wiener Staatsoper**
+#### 維也納國立歌劇院 Wiener Staatsoper
 
 ![維也納國立歌劇院](staatsoper.webp)
 
@@ -155,7 +155,7 @@ city: "維也納"
 - 營業時間：根據演出及活動調整
 - 門票：€15 ~ €140+
 
-**霍夫堡 Hofburg**
+#### 霍夫堡 Hofburg
 
 ![霍夫堡](hofburg.webp)
 
@@ -171,7 +171,7 @@ city: "維也納"
   - 適用[**維也納景點通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)
   - 適用[維也納博物館美術館套票](https://www.bundesmuseencard.at/)
 
-**阿爾貝蒂娜 Albertina 美術館**
+#### 阿爾貝蒂娜 Albertina 美術館
 
 ![阿爾貝蒂娜](albertina.webp)
 
@@ -187,7 +187,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
   - 適用[**維也納景點通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)
   - 適用[維也納博物館美術館套票](https://www.bundesmuseencard.at/)
 
-**Sisi 茜茜公主博物館**
+#### Sisi 茜茜公主博物館
 
 ![茜茜公主博物館｜照片來源：schauvorbei.at](sisi-museum.webp)
 
@@ -200,7 +200,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
   - 適用[**維也納景點通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)
 
 
-**奧地利國家圖書館 Österreichische Nationalbibliothek**
+#### 奧地利國家圖書館 Österreichische Nationalbibliothek
 
 ![奧地利國家圖書館](national-library-austria.webp)
 
@@ -219,7 +219,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
   - 適用[**維也納景點通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)
   - 適用[維也納博物館美術館套票](https://www.bundesmuseencard.at/)
 
-**維也納市政廳廣場 Rathausplatz**
+#### 維也納市政廳廣場 Rathausplatz
 
 ![維也納市政廳廣場](rathaus-platz.webp)
 
@@ -234,7 +234,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 
 <!-- link to 維也納市政廳每年活動 -->
 
-**瑪麗亞・特蕾西亞廣場 Maria-Theresien-Platz**
+#### 瑪麗亞・特蕾西亞廣場 Maria-Theresien-Platz
 
 ![瑪麗亞・特蕾西亞廣場](maria-theresien-platz.webp)
 
@@ -255,7 +255,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
   - 適用[**維也納景點通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)
   - 適用[維也納博物館美術館套票](https://www.bundesmuseencard.at/)
 
-**城市公園 Stadtpark**
+#### 城市公園 Stadtpark
 
 ![維也納城市公園雕像](stadtpark.webp)
 
@@ -267,7 +267,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 - 營業時間：24 小時開放
 - 門票：免門票
 
-**金色大廳 Musikverin**
+#### 金色大廳 Musikverin
 
 ![金色大廳](musikverein.webp)
 
@@ -284,7 +284,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 - 營業時間：根據演出及活動調整
 - 演出門票價格：€10 ~ €140+（看看[金色大廳音樂會訂票攻略](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E9%87%91%E8%89%B2%E5%A4%A7%E5%BB%B3%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/)）
 
-**卡爾教堂 Karlskirsche**
+#### 卡爾教堂 Karlskirsche
 
 ![卡爾教堂](karlskirsche.webp)
 
@@ -298,7 +298,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 - 營業時間：每日 7:30 ~ 19:00
 - 門票：€9.50
 
-**納許市場 Naschmarkt**
+#### 納許市場 Naschmarkt
 
 ![納許市場](naschmarkt.webp)
 
@@ -315,7 +315,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 
 在環城大道（德文：Ringstraße）範圍以外就大致上是老城區以外了。雖然意義上不再是市中心，但是維也納便捷的大眾交通運輸也讓老城區外的景點都相當容易抵達。知名的宮殿景點美景宮和美泉宮都等著你造訪！
 
-**美景宮 Schloss Belvedere**
+#### 美景宮 Schloss Belvedere
 
 ![美景宮](belvedere.webp)
 
@@ -329,7 +329,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
   - 適用[**維也納景點通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)
   - 適用[維也納博物館美術館套票](https://www.bundesmuseencard.at/)
 
-**美泉宮 Schloss Schönbrunn**
+#### 美泉宮 Schloss Schönbrunn
 
 ![美泉宮](schoenbrunn.webp)
 
@@ -342,7 +342,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 - 門票：成人 €32｜學生票 25 歲以下 €27｜孩童（6 ~ 18 歲）€23
   - 適用[**維也納景點通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)
 
-**百水公寓 Hundertwasser Haus** 
+#### 百水公寓 Hundertwasser Haus
 
 ![百水公寓](hundertwasser.webp)
 
@@ -357,7 +357,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 - 營業時間：戶外 24 小時開放
 - 門票：無
 
-**普拉特室外遊樂場 Prater**
+#### 普拉特室外遊樂場 Prater
 
 ![普拉特室外遊樂場](prater.webp)
 
@@ -375,7 +375,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 
 維也納市區外的景點就稍微比較少了，也比較沒這麼容易抵達。不過如果你在維也納安排十天以上的停留時間，也不妨出市區看看近郊的景色！
 
-**卡崙堡 Kahlenberg**
+#### 卡崙堡 Kahlenberg
 
 卡崙堡（德文：Kahlenberg）在維也納的北方，從市中心搭乘大眾交通工具大概要一個小時左右，不過還是在維也納交通核心區的範圍內，所以不用特別買市區外的交通票。
 
@@ -386,7 +386,7 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 - 營業時間：戶外 24 小時開放
 - 門票：無
 
-**地底湖 Seegrotte**
+#### 地底湖 Seegrotte
 
 地底湖（德文：Seegrotte）位於維也納西南方，從維也納搭乘交通大眾運輸工具約一個半小時車程。地底湖是由開採石灰岩後人工形成，並經歷二戰等歷史，門票包含約 5 ~ 10 分鐘的地底湖船票，此景點適合慢遊、時間多的旅客前往。
 
@@ -435,7 +435,7 @@ insert image
 
  -->
 
-## 維也納自由行推薦住宿
+<!--## 維也納自由行推薦住宿
 
 ![](kaertner.webp)
 
@@ -498,7 +498,7 @@ insert image
 - 平均每晚價格：約台幣 1000（單床位）
 - 查看即時房價：[**點我前往**](https://www.booking.com/hotel/at/wombats-hostels-vienna-naschmarkt.xt.html?aid=7956794)
 
-> 四間住宿不夠，想要比較看看更多維也納住宿選擇嗎？現在就看看這篇我們最新整理的[**CP 值高、交通又方便的維也納住宿推薦**](/posts/維也納住宿)！
+> 四間住宿不夠，想要比較看看更多維也納住宿選擇嗎？現在就看看這篇我們最新整理的[**CP 值高、交通又方便的維也納住宿推薦**](/posts/維也納住宿)！-->
 
 ## 維也納自由行景點優惠票卷
 
