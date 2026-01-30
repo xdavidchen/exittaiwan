@@ -1,5 +1,3 @@
-import fetch from "node-fetch"; // 如果你是 Node.js 環境
-
 export async function handler(event) {
   const url = new URL(event.rawUrl);
   const source =
