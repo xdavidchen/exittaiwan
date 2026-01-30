@@ -2,32 +2,25 @@ export async function handler(event) {
   const url = new URL(event.rawUrl);
   const source =
     url.searchParams.get("from") ||
-    (event.headers.referer || event.headers.referrer) ||
-    "NOTION_REFERRER_MISSING";
+    (event.headers.referer ? `ref:${event.headers.referer}` : null) ||
+    "NO_SOURCE";
 
   console.log("Click from:", source);
 
-  const targetUrl = "https://l.exittaiwan.com/discount-error-report";
-
-  // === 先立即返回，但 fetch 啟動，並設超短 timeout ===
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 2000); // 2 秒超時
-
-  fetch(
-    "https://script.google.com/macros/s/AKfycbw4Gct_K_8S88Br2czIziQcOz6qPg_25WFq4vSS8ByuwS81-p8tfkGdtyL__qKYObfEVA/exec",
-    {
+  try {
+    await fetch("https://script.google.com/macros/s/AKfycbw4Gct_K_8S88Br2czIziQcOz6qPg_25WFq4vSS8ByuwS81-p8tfkGdtyL__qKYObfEVA/exec", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ source }),
-      signal: controller.signal
-    }
-  )
-    .catch(err => console.error("Notify failed:", err))
-    .finally(() => clearTimeout(timeout));
+      body: JSON.stringify({ source })
+    });
+  } catch (err) {
+    console.error("Notify failed:", err);
+  }
 
   return {
     statusCode: 302,
-    headers: { Location: targetUrl }
+    headers: {
+      Location: "https://l.exittaiwan.com/discount-error-report"
+    }
   };
 }
-
