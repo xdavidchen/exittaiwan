@@ -1,3 +1,5 @@
+import fetch from "node-fetch"; // 如果你是 Node.js 環境
+
 export async function handler(event) {
   const url = new URL(event.rawUrl);
   const source =
@@ -7,21 +9,27 @@ export async function handler(event) {
 
   console.log("Click from:", source);
 
-  // === 先立即跳轉，不等通知完成 ===
   const targetUrl = "https://l.exittaiwan.com/discount-error-report";
 
-  // fire-and-forget 發送通知
-  fetch("https://script.google.com/macros/s/AKfycbw4Gct_K_8S88Br2czIziQcOz6qPg_25WFq4vSS8ByuwS81-p8tfkGdtyL__qKYObfEVA/exec", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ source })
-  }).catch(err => console.error("Notify failed:", err));
+  // === 先立即返回，但 fetch 啟動，並設超短 timeout ===
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 500); // 0.5 秒超時
 
-  // === 立即 302 redirect ===
+  fetch(
+    "https://script.google.com/macros/s/AKfycbw4Gct_K_8S88Br2czIziQcOz6qPg_25WFq4vSS8ByuwS81-p8tfkGdtyL__qKYObfEVA/exec",
+    {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ source }),
+      signal: controller.signal
+    }
+  )
+    .catch(err => console.error("Notify failed:", err))
+    .finally(() => clearTimeout(timeout));
+
   return {
     statusCode: 302,
-    headers: {
-      Location: targetUrl
-    }
+    headers: { Location: targetUrl }
   };
 }
+
