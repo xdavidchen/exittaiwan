@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <title>Redirecting…</title>
+
+  <!-- 避免 Notion / 瀏覽器擋 referrer -->
+  <meta name="referrer" content="unsafe-url" />
+
+  <script>
+    (function () {
+      try {
+        // 1️⃣ 來源頁面（Notion 頁）
+        var source =
+          document.referrer && document.referrer !== ""
+            ? document.referrer
+            : window.location.href;
+
+        // 2️⃣ 傳給 Netlify Function
+        var outUrl =
+          "https://exittaiwan.com/.netlify/functions/out?from=" +
+          encodeURIComponent(source);
+
+        // 3️⃣ 立即跳轉
+        window.location.replace(outUrl);
+      } catch (e) {
+        // 極端失敗時的保底
+        window.location.href =
+          "https://exittaiwan.com/.netlify/functions/out";
+      }
+    })();
+  </script>
+</head>
+
+<body>
+  <p>正在跳轉，請稍候…</p>
+</body>
+</html>
