@@ -20,7 +20,7 @@ export async function handler(event) {
   return {
     statusCode: 302,
     headers: {
-      Location: "https://exittaiwan.bettermode.io/report"
+      Location: "https://l.exittaiwan.com/discount-error-report"
     }
   };
 }
