@@ -4,32 +4,23 @@
   <meta charset="utf-8" />
   <title>Redirecting…</title>
   <meta name="referrer" content="unsafe-url" />
-
   <script>
-    (function () {
-      try {
-        var ref = document.referrer || "";
+    (function() {
+      const source = new URLSearchParams(window.location.search).get('from') || 'NOTION_REFERRER_MISSING';
+      const targetUrl = "https://l.exittaiwan.com/discount-error-report";
 
-        // ✅ 只接受「不是自己網域」的 referrer
-        var source =
-          ref &&
-          !ref.includes("exittaiwan.com")
-            ? ref
-            : "NOTION_REFERRER_MISSING";
+      // fire-and-forget 發送
+      fetch("https://script.google.com/macros/s/AKfycbw4Gct_K_8S88Br2czIziQcOz6qPg_25WFq4vSS8ByuwS81-p8tfkGdtyL__qKYObfEVA/exec", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ source })
+      }).catch(e => console.error('Notify failed:', e));
 
-        var outUrl =
-          "https://exittaiwan.com/.netlify/functions/out?from=" +
-          encodeURIComponent(source);
-
-        window.location.replace(outUrl);
-      } catch (e) {
-        window.location.href =
-          "https://exittaiwan.com/.netlify/functions/out?from=TRACK_ERROR";
-      }
+      // 立即跳轉
+      window.location.replace(targetUrl);
     })();
   </script>
 </head>
-
 <body>
   <p>正在跳轉，請稍候…</p>
 </body>
