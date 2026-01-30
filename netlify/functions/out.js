@@ -11,7 +11,7 @@ export async function handler(event) {
 
   // === 先立即返回，但 fetch 啟動，並設超短 timeout ===
   const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 500); // 0.5 秒超時
+  const timeout = setTimeout(() => controller.abort(), 2000); // 2 秒超時
 
   fetch(
     "https://script.google.com/macros/s/AKfycbw4Gct_K_8S88Br2czIziQcOz6qPg_25WFq4vSS8ByuwS81-p8tfkGdtyL__qKYObfEVA/exec",
