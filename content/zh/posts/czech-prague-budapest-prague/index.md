@@ -1,5 +1,5 @@
 ---
-title: "布拉格到布達佩斯交通全攻略：火車、巴士、飛機比較（2025 最新）"
+title: "布拉格到布達佩斯交通全攻略：火車、巴士、飛機比較（2026 最新）"
 slug: "prague-budapest-transportation"
 aliases:
   - 布拉格-布達佩斯-交通方式

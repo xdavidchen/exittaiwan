@@ -29,7 +29,7 @@ city: "維也納"
 
 ![|inline](IMG_4609.webp)
 
-- 日期：11 月 8 日 ~ 12 月 26 日（2024 年）
+- 日期：11 月中 ~ 12 月 26 日
 - 開放時間：每天早上 11：00 ~ 晚上 9：00（12 月 24 日只到下午 4：00；12 月 25 和 26 日到晚上 7：00）
 - 地址：Stephansplatz, 1010 Vienna（[Google Maps](https://www.google.com/maps/place/Stephansplatz,+1010+Wien/@48.2087472,16.3633768,15z/data=!3m1!4b1!4m6!3m5!1s0x476d079f3e69c281:0x20563c156aa1fde!8m2!3d48.2087334!4d16.3736765!16s%2Fm%2F025wfts?authuser=1&entry=ttu)）
 - 交通：地鐵 U1 或 U3 到 Stephansplatz（史蒂芬廣場） 站；公車路線 1A、2A、3A 到 Stephansplatz（史蒂芬廣場） 站
