@@ -1,9 +1,9 @@
 ---
-title: '加入會員專屬優惠社團【探索者方案】'
+title: '會員專屬優惠社團【探索者方案】'
 date: '2026-02-08T13:06:38+08:00'
-description: '如果每次旅行，都能獲得一個獨一無二的實體收藏品，那該有多令人難忘？'
+description: '旅居在外、或是準備出國旅遊？解鎖只有當地人才知道的秘密優惠！'
 cover: 'https://public-files.gumroad.com/xpeosvakj2gs38e153y8nupnzov6'
-external_url: 'https://exittaiwan.gumroad.com/?section=zqL-iN5Z1QQJf1UamLxTVQ==#zqL-iN5Z1QQJf1UamLxTVQ=='
+external_url: 'https://l.exittaiwan.com/membership-shop-monthly'
 layout: 'shop'
 featured: false
 ---

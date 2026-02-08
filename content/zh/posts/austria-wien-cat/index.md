@@ -23,6 +23,8 @@ city: "維也納"
 
 *注意：[**Wien Mitte（維也納中央車站）和 Wien Hbf（維也納主火車站）是不同的車站**](/posts/維也納市區交通攻略/)！
 
+<!--[![|inline](banner-1.jpg)](https://l.exittaiwan.com/book-a-hotel)-->
+
 ## 維也納機場快線 CAT 方便嗎？
 
 ![](cat2.webp)
