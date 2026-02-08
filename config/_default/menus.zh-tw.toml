@@ -196,10 +196,10 @@ weight = 1
 #url = "https://writer.exittaiwan.com/"
 #weight = 2
 
-[[footer_links]]
-name = "聯盟夥伴申請"
-url = "https://l.exittaiwan.com/affiliate-footer"
-weight = 3
+#[[footer_links]]
+#name = "聯盟夥伴申請"
+#url = "https://l.exittaiwan.com/affiliate-footer"
+#weight = 3
 
 [[footer_links]]
 name = "Promote Your Business"

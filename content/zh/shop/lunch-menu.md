@@ -6,5 +6,5 @@ tags: [午間套餐]
 cover: 'https://exittaiwan.com/downloads/menu-mockup.webp'
 external_url: 'https://exittaiwan.gumroad.com/?section=PGsPs_H5PL3dITexorGl-A==#PGsPs_H5PL3dITexorGl-A=='
 layout: 'shop'
-featured: true
+featured: false
 ---

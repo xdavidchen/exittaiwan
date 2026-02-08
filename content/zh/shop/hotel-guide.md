@@ -6,4 +6,5 @@ tags: [午間套餐]
 cover: 'https://exittaiwan.com/downloads/hotel-guide.webp'
 external_url: 'https://exittaiwan.gumroad.com/?section=UgMRxSlSZ-zwS7GVBXCNOg==#UgMRxSlSZ-zwS7GVBXCNOg=='
 layout: 'shop'
+draft: true
 ---

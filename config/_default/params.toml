@@ -29,7 +29,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "© 2025 ExitTaiwan 出台灣"
+copyright = "© 2026 ExitTaiwan 出台灣"
 email = "contact@exittaiwan.com"
 
 # Preloader
@@ -41,8 +41,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "聯絡我們"
-link = "contact"
+label = "成為會員"
+link = "https://l.exittaiwan.com/nav-button"
 
 # Page Header
 [page_header]
@@ -66,7 +66,7 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = true
+enable = false
 expire_days = 7
 content = "[**🎉 「ExitTaiwan 出台灣 x DJB 全球網卡」成為合作夥伴！點選我前往 DJB 官網選購 🏚**](https://djbcard.com/?aid=84830)"
 
@@ -92,10 +92,10 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = false
+enable = true
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "🍪 本網站使用 Cookie。繼續使用本網站即表示您同意使用 Cookie。"
+button = "同意"
 
 # diagrams
 [mermaid]

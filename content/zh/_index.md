@@ -1,17 +1,18 @@
 ---
 # Banner
 banner:
-  title: "旅行到哪，優惠就在哪"
-  content: "加入中文世界唯一全球優惠社團*！旅居在外、或是準備出國旅遊，想要享受當地人才知道的優惠？每個月銅板價，成為 ExitTaiwan 會員，挖掘專屬於你的讀者優惠！ *將於 26 年起開放加入"
+  title: "把出國旅遊，玩得像在當地生活"
+  content: "加入中文世界唯一全球優惠社團！旅居在外、或是準備出國旅遊，想要解鎖只有當地人才知道的秘密優惠？成為會員，每月只要台幣 99 元起！"
   image: "/images/hero.png"
   form:
-    enable: true
+    enable: false
     button: "加入名單"
     placeholder: "輸入電子信箱"
   button:
-    enable: false
-    label: "小額贊助"
-    link: "https://l.exittaiwan.com/banner-cta-donate"
+    enable: true
+    label: "探索方案"
+    link: "https://l.exittaiwan.com/hero-landing"
+    newtab: true
 
 
 # Features
