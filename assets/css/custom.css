@@ -9,3 +9,8 @@ blockquote {
 .form-input {
     background-color: #f6f6f6; /* Light grey background */
 }
+
+.font-gasoek {
+  font-family: "Gasoek One", sans-serif;
+  font-weight: 400;
+}
