@@ -56,7 +56,7 @@ country: "歐洲多國"
 
 好像很多人出國就忘記了商業午餐的存在？在歐洲一樣有商業午餐 / 午間套餐的概念，套餐常有兩道或三道菜的選擇，一套吃下來不用五百台幣，有時候比台灣吃飯還便宜！
 
-<!-- CTA -->
+[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ### 有廚房可以使用？去超市吧！
 
@@ -92,18 +92,23 @@ country: "歐洲多國"
 
 ![](stay.webp)
 
-提前訂，提前訂，提前訂。
+提前訂，提前訂，提前訂！
 
-不管你準備來歐洲旅遊幾天，要壓低這趟旅程的花費最重要的其中一點就是提前決定好住宿。
+**官網訂，官網訂，官網訂！**
 
-最省最省的方式是歐洲有認識的親戚、朋友、同學，可以借住的話是最棒的方式。在歐洲沒有認識的人的話，有許多評價很高的青年旅館住起來也很舒適，大部分的青旅也都附有廚房可以使用。
+不管你準備來歐洲旅遊幾天，要壓低這趟旅程的花費最重要的其中一點就是提前決定好住宿，並且在官方網站上預訂。
+
+當然最省最省的方式，是歐洲有認識的親戚、朋友、同學，可以搏感情借住的話是最棒的方式。在歐洲沒有認識的人的話，有許多評價很高的青年旅館住起來也很舒適，大部分的青旅也都附有廚房可以使用。
 
 <!-- link to 背包客打包清單 -->
 
 另外幾個找便宜住宿的小技巧：
 
 - 一般來說，長住（一個禮拜以上）比短住便宜。
-- 在 Airbnb 的 App 上可以盡量放大，縮小尋找的區域，有些一開始被隱藏的住宿要一直放大才會顯示出來。
+- 一般來說，在官方網站訂房價格比各大訂房平台便宜（訂房平台抽成約 20%）。[加入 ExitTaiwan 優惠社團](https://exittaiwan.com/shop/)，歐洲飯店有提供特別優惠的方案，都幫你整理好，一目了然！
+- 探索各個 App 有不同的方式，例如在 Airbnb 的 App 上可以盡量放大，縮小尋找的區域，有些一開始被隱藏的住宿要一直放大才會顯示出來。
+
+[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
 
 ---
 
@@ -121,7 +126,7 @@ country: "歐洲多國"
 
 - 瑞安航空（英文：RyanAir）
 - 威茲航空（英文：WizzAir）
-- Play 航空
+- ~Play 航空~（已於 2025 年結束營運）
 - 易捷航空（英文：Easyjet）
 - 伏林航空（英文：Vueling）
 - Eurowings
@@ -168,14 +173,18 @@ country: "歐洲多國"
 
 ![](entertainment.webp)
 
-最後，要玩得開心當然不能忘記娛樂！
+要玩得開心當然也不能忘記娛樂的部分！
 
-首先，來歐洲自由行旅遊，選對季節就是節省花費。春天和夏天來到歐洲，日照時間的長度可以說是一天抵掉秋天和冬天的兩天，這也是春夏季是歐洲旅遊旺季的原因。
+首先要考量的其實是旅遊的季節。來歐洲自由行旅遊，選對季節就是節省花費。春天和夏天來到歐洲，日照時間的長度可以說是一天抵掉秋天和冬天的兩天，這也是春夏季是歐洲旅遊旺季的原因。
 
-有很多城市提供旅遊城市卡，要是剛好裡面包含的景點都和你想去的相同，那麼買一張這種 City Card 常常連大眾交通工具都包了，是個不錯的選擇。有幾個城市的城市卡評價特別高，像是丹麥的[哥本哈根卡（Copenhagen Card）](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1039786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15577-city-card-copenhagen%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D6c5cabc818)、荷蘭的[阿姆斯特丹卡](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043901&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14651-i-amsterdam-city-card-amsterdam%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfc76b178ae)、奧地利的[薩爾茨堡城市卡（Salzburg City Card）](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043900&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F140095-salzburg-city-card%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1e41b751c2)和[維也納通行證（Vienna Pass）](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)都是很划算的選擇。
+有很多城市提供旅遊城市卡，要是剛好裡面包含的景點都和你想去的相同，那麼買一張這種 City Card 就常常連大眾交通工具都包了，是不錯的選擇。有幾個城市的城市卡評價特別高，像是丹麥的[哥本哈根卡（Copenhagen Card）](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1039786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15577-city-card-copenhagen%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D6c5cabc818)、荷蘭的[阿姆斯特丹卡](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043901&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14651-i-amsterdam-city-card-amsterdam%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfc76b178ae)、奧地利的[薩爾茨堡城市卡（Salzburg City Card）](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043900&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F140095-salzburg-city-card%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1e41b751c2)和[維也納通行證（Vienna Pass）](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)都是很划算的選擇。
 
 再來，不論是購買車票或是門票，如果本身**有學生身份或是 60 歲以上的長輩同行，一定要善用這樣的身份來購買更便宜的票卷**，一來一往在歐洲自由行花費省下幾百歐元都有可能。
 
-你喜歡購物嗎？那別忘了購物超過一定金額，可以在**歐盟內最後出境國家退稅**。在最划算的狀況下，和台灣相比，你在歐洲購買的商品可能可以折到 6 折！
+如果你只對於博物館或是美術館等文藝活動有興趣，歐洲也有不少城市推出博物館 / 美術館套票。雖然很多都是年票，而你才待短短十天不到，但要是剛好套票裡面的博物館和美術館都是你感興趣的，通常每個館去逛一次就已經比每個館都單次買票進去還划算了。對於無限次進出的年票來說，甚至可以[把博物館和美術館當免費廁所](/posts/歐洲找免費廁所攻略/)呢⋯⋯。一個很好的例子就是「[維也納博物館通票](/posts/維也納博物館通票/)」啦！
+
+最後，你到歐洲一定要購物嗎？那別忘了購物超過一定金額，可以在**歐盟內最後出境國家退稅**。在最划算的狀況下，和台灣相比，你在歐洲購買的商品可能可以折到 6 折！
+
+[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
 
 最後來自經驗豐富旅人們的建議，出國了盡量少用電子產品、少滑手機！要拍照可以，要修圖、發文可以晚上回到住宿的地方、甚至旅程結束回台灣再做。在國外的時間很寶貴，人已經到歐洲了，就把握當下，用雙眼見識、雙腳體驗歐洲的美景吧！

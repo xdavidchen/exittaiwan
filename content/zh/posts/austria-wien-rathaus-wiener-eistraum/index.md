@@ -57,7 +57,7 @@ city: "維也納"
 
 {{< button label="加入會員" link="https://l.exittaiwan.com/cta-in-text-button" style="solid" >}}
 
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
+[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
 
 ### 團體票價
 
@@ -100,5 +100,6 @@ city: "維也納"
 
 [![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
 
-> 推薦閱讀：[**維也納自由行市區交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E6%94%BB%E7%95%A5/)
-> 推薦閱讀：[**【歐洲自由行花費】保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！**](/posts/%E6%AD%90%E6%B4%B2%E8%87%AA%E7%94%B1%E8%A1%8C%E8%8A%B1%E8%B2%BB%E7%9C%81%E9%8C%A2%E6%94%BB%E7%95%A5/)
+> 推薦閱讀：\
+[**維也納自由行市區交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E6%94%BB%E7%95%A5/)\
+[**【歐洲自由行花費】保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！**](/posts/%E6%AD%90%E6%B4%B2%E8%87%AA%E7%94%B1%E8%A1%8C%E8%8A%B1%E8%B2%BB%E7%9C%81%E9%8C%A2%E6%94%BB%E7%95%A5/)

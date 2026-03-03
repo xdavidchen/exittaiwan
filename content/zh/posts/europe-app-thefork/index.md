@@ -34,9 +34,11 @@ TheFork 是歐洲知名的餐廳訂位平台，合作上萬家餐廳，讓你直
 - 美食控想挖掘在地高評價餐廳的人
 - [有用 NeoTaste](/posts/neotaste/) 的人
 
-### 哪些國家可以用 NeoTaste？
+### 哪些國家可以用 TheFork
 
 [比起 NeoTaste](/posts/neotaste/) 目前只有在四個歐洲國家可以使用，TheFork 的合作餐廳幾乎涵蓋整個歐洲。所以在歐洲生活的人，一定要下載 TheFork 來省生活費，同時吃到高級餐廳料理！
+
+[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
 
 ---
 
@@ -47,6 +49,8 @@ TheFork 最棒的地方是平台使用完全免費，只需要用可以收簡訊
 - **即時折扣**：很多餐廳提供 TheFork 專屬折扣，如「全單 20% - 50% 折扣」、「特價套餐」。
 - **積分回饋**：每次透過 App 預訂並用餐，都可以累積積分（叫做 Yums），累積後可以抵餐費。
 - **不需要額外付費**：預訂服務完全免費，直接省下預約費用。
+
+[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ---
 
@@ -59,3 +63,5 @@ TheFork 最棒的地方是平台使用完全免費，只需要用可以收簡訊
 3. 查看可用折扣，線上預約
 4. **首次預約時在「Promo code」輸入獨家優惠碼：85322C4C，獲得 1000 Yums（等同 20 歐元，三天後入 TheFork 帳號）！**
 5. 進餐廳時直接告知店員是用 TheFork 訂位，即可享有優惠！
+
+[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)

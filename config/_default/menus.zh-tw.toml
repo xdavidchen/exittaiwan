@@ -73,11 +73,11 @@ name = "斯洛伐克"
 url = "country/斯洛伐克"
 weight = 4
 
-[[main]]
-parent = "文章"
-name = "德國"
-url = "country/德國"
-weight = 5
+#[[main]]
+#parent = "文章"
+#name = "德國"
+#url = "country/德國"
+#weight = 5
 
 [[main]]
 parent = "文章"
