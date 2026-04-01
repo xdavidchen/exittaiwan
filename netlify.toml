@@ -5,3 +5,4 @@ command = "rm -rf node_modules package-lock.json && npm install && hugo"
 [build.environment]
 HUGO_VERSION = "0.147.1"
 GO_VERSION = "1.24.0"
+NODE_VERSION = "20"
