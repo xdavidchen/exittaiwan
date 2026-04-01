@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo"
+command = "rm -rf node_modules package-lock.json && npm install && hugo"
 
 [build.environment]
 HUGO_VERSION = "0.147.1"
