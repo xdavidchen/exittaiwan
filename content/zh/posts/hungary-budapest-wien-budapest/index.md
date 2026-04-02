@@ -20,6 +20,8 @@ city: "布達佩斯"
 
 除了自駕以外，維也納和布達佩斯之間有兩種交通方式：**搭火車和巴士**。
 
+[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
+
 ## 搭火車往返維也納和布達佩斯
 
 ![](oebb.webp)
@@ -45,6 +47,8 @@ city: "布達佩斯"
   - 維也納：維也納主火車站（Wien Hbf）
   - 布達佩斯：Budapest Kelenföld
 - 行程時間：約 2 小時 40 分鐘
+
+[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ### MAV 匈牙利國鐵
 
@@ -73,6 +77,8 @@ city: "布達佩斯"
   - 布達佩斯：Budapest Kelenföld 或 Budapest Népliget
 - 行程時間：約 3 小時至 3 個半小時
 
+[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
+
 ## 往返維也納和布達佩斯交通比較表
 
 | 交通方式 | 價格                  | 行程時間               | 起迄站（維也納）                                    | 起迄站（布達佩斯）                      |
@@ -87,3 +93,7 @@ city: "布達佩斯"
 > ✔️ [維也納和布拉格交通方式](/posts/vienna-prague-transport/)
 >
 > ✔️ [布拉格和布達佩斯交通方式](/posts/prague-budapest-transportation/)
+>
+> ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)
+
+[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)

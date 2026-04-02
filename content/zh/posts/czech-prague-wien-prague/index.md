@@ -20,6 +20,8 @@ city: "布拉格"
 
 除了自駕以外，維也納和布拉格之間有兩種交通方式：**搭火車和巴士**。
 
+[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
+
 ## 搭火車往返維也納和布拉格
 
 <img src="railjet.webp" style="zoom:200%;" />
@@ -45,6 +47,8 @@ city: "布拉格"
   - 維也納：維也納主火車站（Wien Hbf）
   - 布拉格：布拉格火車總站（[Praha hl.n.](https://maps.app.goo.gl/jEZ1VqJxamDfucQm9), Prague MS）
 - 行程時間：約 4 個小時
+
+[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ### České dráhy 捷克國鐵
 
@@ -76,6 +80,8 @@ FlixBus 在維也納的車站則是維也納國際巴士站（VIB, Vienna Intern
   - 布拉格：布拉格巴士站（[Prag ZOB Florenc](https://maps.app.goo.gl/kVR73oEkdmTeR9b18)）或布拉格火車總站（[Praha hl.n.](https://maps.app.goo.gl/jEZ1VqJxamDfucQm9)）或布拉格火車站 Kačerov（[Prague - Kačerov](https://maps.app.goo.gl/GArebo7RpfSaeheM9)）
 - 行程時間：約 4 個小時
 
+[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
+
 ### RegioJet
 
 RegioJet 除了有火車以外，也有巴士喔！
@@ -103,3 +109,7 @@ RegioJet 除了有火車以外，也有巴士喔！
 > ✔️ [維也納和布達佩斯交通方式](/posts/vienna-budapest-transport/)
 >
 > ✔️ [布拉格和布達佩斯交通方式](/posts/prague-budapest-transportation/)
+>
+> ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)
+
+[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)

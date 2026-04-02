@@ -30,6 +30,8 @@ city: "布拉格"
 
 一般來說，主打學生市場（非學生也可以搭乘）的 RegioJet 會有最優惠的票價。
 
+[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
+
 ### MAV 匈牙利國鐵
 
 - 官網連結：[https://jegy.mav.hu/](https://jegy.mav.hu/)
@@ -56,6 +58,8 @@ city: "布拉格"
   - 布拉格：布拉格火車總站（[Praha hl.n.](https://maps.app.goo.gl/jEZ1VqJxamDfucQm9), Prague MS）
   - 布達佩斯：Budapest Kelenföld
 - 行程時間：約 6 小時 45 分鐘
+
+[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
 
 ## 搭巴士往返布拉格和布達佩斯
 
@@ -102,6 +106,8 @@ city: "布拉格"
   - 布達佩斯：布達佩斯國際機場（BUD）
 - 行程時間：約  1 個小時 15 分鐘
 
+[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
+
 ## 往返布拉格和布達佩斯交通比較表
 
 | 交通方式 | 價格                 | 行程時間          | 起迄站（布拉格）                                             | 起迄站（布達佩斯）                                           |
@@ -117,3 +123,7 @@ city: "布拉格"
 > ✔️ [維也納和布達佩斯交通方式](/posts/vienna-budapest-transport/)
 >
 > ✔️ [維也納和布拉格交通方式](/posts/vienna-prague-transport/)
+>
+> ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)
+
+[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
