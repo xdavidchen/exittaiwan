@@ -105,9 +105,9 @@ weight = 8
 
 [[main]]
 parent = "文章"
-name = "義大利"
-url = "country/義大利"
-weight = 10
+name = "梵蒂岡"
+url = "country/梵蒂岡"
+weight = 10.5
 
 [[main]]
 parent = "文章"
