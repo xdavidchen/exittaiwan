@@ -18,7 +18,7 @@ country: "歐洲多國"
 {{< notice "懶人包" >}}
 - 食：NeoTaste（[**使用優惠碼**](/posts/neotaste/)）｜TheFork（[**使用優惠碼**](/posts/thefork/)）｜TooGoodToGo（[下載連結](https://tgtg.onelink.me/OGjG/iflv8wfh)）
 - 衣：下載免費行李打包清單
-- 住：提早訂房 <!-- CTA to membership site -->
+- 住：提早訂房｜[加入會員，查看歐洲飯店獨家優惠](https://membership.exittaiwan.com/)
 - 行：廉航｜[Eurail 歐鐵全境火車通行證](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043907&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9868-eurail-global-rail-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc840137fb8)｜[找免費廁所全攻略](/posts/歐洲找免費廁所攻略/)
 - 樂：善用學生、敬老身份｜[Klook 找城市卡 City Pass](https://www.klook.com/?aid=41451&aff_adid=1007703&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=41451&utm_term=&utm_content=&aff_klick_id=93102626107-41451-1007703-c178e75)
 {{< /notice >}}
@@ -37,8 +37,8 @@ country: "歐洲多國"
 
 要在吃的方便省錢，最簡單粗暴的方式就是使用下面這幾個 App：
 
-- NeoTaste
-- TheFork
+- [NeoTaste](/posts/neotaste/)
+- [TheFork](/posts/thefork/)
 - TooGoodToGo（前往店家時記得備用零錢購買袋子）
 
 這些 App 都會讓你輕鬆找到預算內的當地餐廳，並且提供最高打兩折的優惠，而決大部分餐廳都有五折至七折的優惠！
