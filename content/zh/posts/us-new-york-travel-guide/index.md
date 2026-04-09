@@ -481,6 +481,9 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 價格：166 美金｜孩童（17歲以下）138 美金，約台幣 5300 元。
 
+更詳細的介紹可以看這篇文章：[紐約自由行｜紐約景點套票值不值得買？New York CityPASS 景點含哪些？怎麼使用？
+](/posts/new-york-citypass/)
+
 <!-- 2025：146 美金｜孩童（17歲以下）124 美金 -->
 
 <!-- 2024: 138 美金｜孩童（17歲以下）118 美金-->
@@ -493,21 +496,14 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 **景點包含：**
 - 帝國大廈
 - 美國自然歷史博物館
-- 峭石之巔觀景台（Top of the Rock）**或**古根海姆博物館
-- 自由女神像和埃利斯島**或**環線觀光遊輪
-- 911 紀念館和博物館**或**「無畏」號海洋航空航天博物館
 
-**如何使用：**
-1. 透過[**紐約旅遊套票**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)連結購買後，票卷會寄到訂購時提供的電子郵件信箱。
-2. 截圖 QR Code 或 下載票卷至手機。
-3. 於景點出示 QR Code 即可兌換門票。
-
-![紐約旅遊套票手機版](citypass-ticket-mobile.webp)
-
-**使用須知：**
-- 須於購買後一年內開始使用
-- 開始使用後，須於九天內使用完畢
-- 大部分景點需預約入場時段以減少等候時間
+再加上以下景點任選三個：
+- 峭石之巔觀景台（Top of the Rock）
+- 古根海姆博物館
+- 自由女神像和埃利斯島
+- 環線觀光遊輪
+- 911 紀念館和博物館
+- 「無畏」號海洋航空航天博物館
 
 > **購買紐約旅遊套票**\
 購買連結：[**紐約旅遊套票**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=838394&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
