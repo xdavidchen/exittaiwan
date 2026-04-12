@@ -139,3 +139,16 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 <!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 把維也納機場和市區交通的方式都看懂了嗎？那你可能也會想知道[**維也納交通核心區的交通和購票方式**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E6%94%BB%E7%95%A5/)！
+
+
+> **推薦文章：**
+>
+> ✔️ [維也納和布拉提斯拉瓦交通方式](/posts/vienna-bratislava-transport-guide/)
+>
+> ✔️ [維也納和布達佩斯交通方式](/posts/vienna-budapest-transport/)
+>
+> ✔️ [維也納和布拉格交通方式](/posts/vienna-prague-transport/)
+>
+> ✔️ [在歐洲搭火車必看！打票、劃位眉角、省錢訂票方式、各國火車公司官網清單](/posts/歐洲搭火車注意事項)
+>
+> ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)

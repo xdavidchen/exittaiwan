@@ -88,11 +88,12 @@ city: "布達佩斯"
 
 > **推薦文章：**
 >
-> ✔️ [維也納和布拉提斯拉瓦交通方式](/posts/vienna-bratislava-transport-guide/)
 >
 > ✔️ [維也納和布拉格交通方式](/posts/vienna-prague-transport/)
 >
 > ✔️ [布拉格和布達佩斯交通方式](/posts/prague-budapest-transportation/)
+>
+> ✔️ [在歐洲搭火車必看！打票、劃位眉角、省錢訂票方式、各國火車公司官網清單](/posts/歐洲搭火車注意事項)
 >
 > ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)
 
