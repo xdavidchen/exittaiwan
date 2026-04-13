@@ -57,7 +57,7 @@ country: "歐洲多國"
 
 票價強制含訂位費：有些國家或路線（例如法國高鐵 TGV）是一定要有劃位才能上車，訂位費已經包含在票價裡，或是購票時系統會自動加上。
 
-注意！如果你用的是 Interrail 或 [Eurail 通行證](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043907&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9868-eurail-global-rail-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc840137fb8)，**通行證本身不等於劃位**，在很多高鐵或熱門路線上還是需要另外付訂位費，不是買了通行證就能隨便上任何一班車。
+注意！如果你用的是 Interrail 或 [Eurail 通行證](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043907&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9868-eurail-global-rail-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc840137fb8)，[通行證本身不等於劃位](/posts/歐洲火車通行證訂位/)，在很多高鐵或熱門路線上還是需要另外付訂位費，不是買了通行證就能隨便上任何一班車。
 
 <!-- link to article [[歐洲火車通行證｜Eurail Global Pass 哪些國家要另外訂位？]] -->
 
