@@ -91,8 +91,8 @@ country: "奧地利"
 
 [![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
 
-最後更新：2026 年 4 月
-有勘誤嗎？歡迎聯絡 ExitTaiwan
+最後更新：2026 年 4 月\
+有勘誤嗎？歡迎[聯絡我們](/contact/)。
 
 > **推薦文章：**
 >
