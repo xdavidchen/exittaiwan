@@ -16,7 +16,9 @@ country: 波蘭
 city: 卡托維治
 ---
 
-<!--![](katowice-christmas-market.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 [卡托維治](/city/卡托維治/)曾是波蘭的煤礦之都，這座城市的背景充滿了濃厚的工業氣息。
 

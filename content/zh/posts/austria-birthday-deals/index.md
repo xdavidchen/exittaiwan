@@ -42,8 +42,6 @@ country: "奧地利"
 - 杜莎夫人蠟像館：免費入場：[活動頁面](https://www.madametussauds.com/wien/en/plan-your-visit/before-your-visit/visitor-information/)
 - PicArt 博物館：免費入場：[活動頁面](https://www.3dpicart-museum.at/happy-birthday/)
 
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
-
 ## 維也納近郊生日優惠
 
 - 布根蘭州家庭樂園：（適用於14歲以下兒童）免費入場：[活動頁面](https://www.familypark.at/en/prices/)
@@ -62,8 +60,6 @@ country: "奧地利"
 - Lindberg Asia 溫泉：（需事先寄信預約）門票五折優惠 + 贈一杯飲料：[活動頁面](https://www.linsbergasia.at/therme/preise/angebote-therme-spa.html)
 - Hopfeld Dreikönigshof（Stockerau）餐廳：生日當天與至少 1 位同伴用餐可獲 50 歐元美食優惠券及免費開胃酒，需使用代碼 GEBURTSTAGS.AKTION 預訂座位（優惠適用於生日前後各5天）：[活動頁面](https://www.hopfeld.at/geburtstagsessen)
 
-[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
-
 ## 上奧地利邦（Oberösterreich）生日優惠
 
 - Geinberg 溫泉：入場五折或住宿兩晚以上享一晚免費：[活動頁面](https://www.sparesortgeinberg.at/de/therme/angebote-day-spa)
@@ -76,8 +72,6 @@ country: "奧地利"
 - Felsentherme Bad Gastein 溫泉：免費入場：[活動頁面](https://www.felsentherme.com/en/specials/specials/geburtagsspecial)
 - Vigaun 溫泉：免費入場：[活動頁面](https://www.badvigaun.com/heiltherme/eintrittspreise/)
 
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
-
 ## 施泰爾馬克邦（Steiermark）生日優惠
 
 - Bad Radkersburg 溫泉：免費入場：[活動頁面](https://www.parktherme.at/pakete/gratis-eintritt-am-geburtstag/#pll_switcher)
@@ -88,8 +82,6 @@ country: "奧地利"
 
 ## 蒂羅爾邦（Tirol）生日優惠
 - Ehrenberg 溫泉：免費入場：[活動頁面](https://www.alpentherme-ehrenberg.at/infos/preise/)
-
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
 
 最後更新：2026 年 4 月\
 有勘誤嗎？歡迎[聯絡我們](/contact/)。

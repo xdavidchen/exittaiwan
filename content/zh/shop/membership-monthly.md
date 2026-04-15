@@ -6,4 +6,5 @@ cover: 'https://public-files.gumroad.com/xpeosvakj2gs38e153y8nupnzov6'
 external_url: 'https://l.exittaiwan.com/membership-shop-monthly'
 layout: 'shop'
 featured: false
+draft: true
 ---

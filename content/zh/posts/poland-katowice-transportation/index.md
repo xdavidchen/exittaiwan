@@ -16,7 +16,9 @@ country: 波蘭
 city: 卡托維治
 ---
 
-<!--![](image-1.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 本篇介紹從波蘭卡托維治國際機場（波蘭語：Międzynarodowy Port Lotniczy Katowice）到市區的交通方式。
 

@@ -16,7 +16,9 @@ country: 波蘭
 city: 克拉克夫
 ---
 
-<!--![](wieliczka.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 ## 鹽巴與維奇利亞鹽礦的故事
 

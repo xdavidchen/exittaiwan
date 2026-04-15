@@ -18,6 +18,10 @@ city: 羊角村
 
 <!--![](giethoorn-1.webp)-->
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 ## 羊角村為什麼叫羊角村？
 
 羊角村位於[荷蘭](https://exittaiwan.com/tags/%E8%8D%B7%E8%98%AD/)東邊的上艾瑟爾省（荷蘭文：Overijssel），是 800 年前工人開挖泥炭而知名，後來這些開挖泥炭的痕跡經過規劃後形成運河系統，再慢慢演變成現在由 176 座人行 / 自行車橋連接起來，島上也建造了現在的茅草屋。

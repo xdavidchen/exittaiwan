@@ -2,14 +2,14 @@
 # Banner
 banner:
   title: "把出國旅遊，玩得像在當地生活"
-  content: "加入中文世界唯一全球優惠社團！旅居在外、或是準備出國旅遊，想要解鎖只有當地人才知道的秘密優惠？成為會員，每月只要台幣 99 元起！"
+  content: "免費加入「ExitTaiwan 出台灣」電子報，不定時接收國外自由行最新消息和獨家優惠，讓你輕鬆在外走跳。"
   image: "/images/hero.png"
   form:
-    enable: false
+    enable: true
     button: "加入名單"
     placeholder: "輸入電子信箱"
   button:
-    enable: true
+    enable: false
     label: "探索方案"
     link: "https://l.exittaiwan.com/hero-landing"
     newtab: true

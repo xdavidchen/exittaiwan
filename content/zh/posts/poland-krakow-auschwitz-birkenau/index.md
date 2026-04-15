@@ -15,7 +15,9 @@ country: 波蘭
 city: 克拉克夫
 ---
 
-<!--![](thumbnail.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 ## 前言：波蘭與它的歷史印記
 

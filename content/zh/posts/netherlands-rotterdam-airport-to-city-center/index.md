@@ -3,7 +3,7 @@ title: 鹿特丹自由行｜機場市區來回交通全攻略：三種阿姆斯�
 description: 這篇文章詳細介紹從阿姆斯特丹的機場到鹿特丹市中心的各種交通方式、通車時間、價格比較、優缺點等實用資訊。
 draft: false
 slug: 鹿特丹機場到市區交通全攻略
-folder-name: rotterdam-airtport-to-city-center
+folder-name: rotterdam-airport-to-city-center
 author: Jason Yi
 date: 2024-11-27T09:48:00.000Z
 cover: thumbnail.webp
@@ -17,7 +17,9 @@ country: 荷蘭
 city: 鹿特丹
 ---
 
-<!--![](thumbnail.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 鹿特丹（Rotterdam）是荷蘭的第二大城，同時有著歐洲最大的海港，給人的感覺很像高雄。
 

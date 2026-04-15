@@ -10,6 +10,10 @@ country: "匈牙利"
 city: "布達佩斯"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 來到[布達佩斯](/tags/布達佩斯/)，泡溫泉幾乎是必做清單的第一項。而說到布達佩斯的溫泉，最多人知道、也最多人去的，就是位在城市公園裡的塞切尼溫泉浴場（匈牙利文：Széchenyi Gyógyfürdő）。
 
 這座新巴洛克風格的黃色宮殿是歐洲最大的溫泉浴場。走進戶外庭院，眼前是大片湧著熱氣的藍綠色溫泉水，在冬天更是有種超現實的美感。當地人在水裡下棋，遊客在旁邊泡著發呆，大家都相當悠閒。
@@ -48,8 +52,6 @@ city: "布達佩斯"
 
 以上這些東西雖然在入場前的販賣部都有賣，但當然價格就不斐。如果旅程中要買，可以到市區的迪卡儂（Decathlon）先行採購。
 
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
-
 ### 最佳造訪時間
 
 造訪塞切尼溫泉浴場的最佳時間是早上 7–9 點，既能避開人群，也能在清晨的霧氣中享受戶外溫泉池的悠閒氛圍，甚至在平日時票價還比較便宜（文章稍後介紹）。尖峰時段為早上 10 點至下午 2 點，這段時間售票窗口最擁擠、人潮最多，行程安排上可以的話盡量避開。
@@ -67,8 +69,6 @@ city: "布達佩斯"
 ### 不需要特別加購「快速通關」
 
 如果你在早上 9 點前抵達，排隊買票的時間本來就不長，一般的門票完全夠用，不需要額外花錢買快速通道票。快速通關比較適合預計在上午 10 點到下午 2 點尖峰時段抵達的旅客。
-
-[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
 
 ### 不一定需要加購更衣室（Cabin）
 
@@ -95,8 +95,6 @@ city: "布達佩斯"
 | 一般票（附置物櫃） | 13,200 Ft（約 35 歐元、1300 新台幣） | 14,800 Ft（約 39 歐元、1500 新台幣）          | 15,800 Ft（約 42 歐元、1600 新台幣） | [點我前往](https://tickets.szechenyibath.hu/) | [點我前往](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1251981&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110663-szechenyi-full-day-spa-with-optional-palinka-tour-in-budapest)，約有台幣 300 手續費 |
 
 *早鳥票只能現場購買，購票處在一般票的入口（Állatkerti 這條路上的入口，72 號公車站牌）。
-
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ---
 
@@ -129,5 +127,3 @@ city: "布達佩斯"
 > ✔️ [布拉格和布達佩斯交通方式](/posts/prague-budapest-transportation/)
 >
 > ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)
-
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)

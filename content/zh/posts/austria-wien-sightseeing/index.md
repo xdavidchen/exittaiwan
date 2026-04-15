@@ -15,6 +15,10 @@ country: "奧地利"
 city: "維也納"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 ## 維也納景點地圖
 
 ![wien](wien.webp)
@@ -70,8 +74,6 @@ city: "維也納"
   - 建議停留時間 15 分鐘 至 1 小時。
 - 門票：免費，付費區根據[參觀行程及年齡](https://www.stephanskirche.at/info.php)，€6 ~ €25
 
-[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
-
 ### 維也納必訪景點｜格拉本大街 Graben
 
 ![格拉本大街](graben.webp)
@@ -104,8 +106,6 @@ city: "維也納"
   - 推薦給所有來到維也納的旅客。
   - 建議停留時間約半小時。
 - 門票：戶外免費，入內參觀 €9.50
-
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ### 維也納必訪景點｜納許市場 Naschmarkt
 
@@ -341,8 +341,6 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
   - 建議停留時間約 2 小時。
 - 門票：搭乘各個遊樂設施前購買
 
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
-
 ## 維也納四季節慶及活動
 
 ![](IMG_4585.webp)
@@ -425,5 +423,3 @@ Albertina 二樓的戶外也是 1995 年的電影《[愛在黎明破曉時（Bef
 - 科學博物館（德文：Technisches Museum Wien）
 
 > 更詳盡的介紹可以看看這篇文章：[維也納博物館通票｜藝術愛好者的一大福音，一張票讓你有逛不完的展覽](/posts/維也納博物館通票/)
-
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)

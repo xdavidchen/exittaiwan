@@ -17,6 +17,10 @@ country: 葡萄牙
 city: 里斯本
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 貝倫區（Belém）是里斯本最具歷史氛圍的區域，讓人看見葡萄牙15-16世紀時大航海時代的海上霸權輝煌時代。擁有壯觀的地標，如貝倫塔（Torre de Belém）、熱羅尼莫斯修道院（Mosteiro dos Jerónimos）和發現者紀念碑（Padrão dos Descobrimentos），這些都是世界遺產，吸引來自世界各地的遊客。
 
 ![](image-1.webp)

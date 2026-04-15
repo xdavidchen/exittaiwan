@@ -17,13 +17,17 @@ country: "歐洲多國"
 
 {{< notice "懶人包" >}}
 - 食：NeoTaste（[**使用優惠碼**](/posts/neotaste/)）｜TheFork（[**使用優惠碼**](/posts/thefork/)）｜TooGoodToGo（[下載連結](https://tgtg.onelink.me/OGjG/iflv8wfh)）
-- 衣：下載免費行李打包清單
-- 住：提早訂房｜[加入會員，查看歐洲飯店獨家優惠](https://membership.exittaiwan.com/)
+- 衣：[下載免費行李打包清單](https://exittaiwan.gumroad.com/l/packing-list)
+- 住：提早訂房
 - 行：廉航｜[Eurail 歐鐵全境火車通行證](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043907&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9868-eurail-global-rail-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc840137fb8)｜[找免費廁所全攻略](/posts/歐洲找免費廁所攻略/)
 - 樂：善用學生、敬老身份｜[Klook 找城市卡 City Pass](https://www.klook.com/?aid=41451&aff_adid=1007703&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=41451&utm_term=&utm_content=&aff_klick_id=93102626107-41451-1007703-c178e75)
 {{< /notice >}}
 
 ---
+
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 ## 食｜歐洲自由行省錢吃法：便宜又美味的飲食策略
 
@@ -51,8 +55,6 @@ country: "歐洲多國"
 ### 中午餓肚子？找商業午餐！
 
 好像很多人出國就忘記了商業午餐的存在？在歐洲一樣有商業午餐 / 午間套餐的概念，套餐常有兩道或三道菜的選擇，一套吃下來不用五百台幣，有時候比台灣吃飯還便宜！
-
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ### 有廚房可以使用？去超市吧！
 
@@ -103,8 +105,6 @@ country: "歐洲多國"
 - 一般來說，長住（一個禮拜以上）比短住便宜。
 - 一般來說，在官方網站訂房價格比各大訂房平台便宜（訂房平台抽成約 20%）。[加入 ExitTaiwan 優惠社團](https://exittaiwan.com/shop/)，歐洲飯店有提供特別優惠的方案，都幫你整理好，一目了然！
 - 探索各個 App 有不同的方式，例如在 Airbnb 的 App 上可以盡量放大，縮小尋找的區域，有些一開始被隱藏的住宿要一直放大才會顯示出來。
-
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
 
 ---
 
@@ -181,10 +181,10 @@ country: "歐洲多國"
 
 最後，你到歐洲一定要購物嗎？那別忘了購物超過一定金額，可以在**歐盟內最後出境國家退稅**。在最划算的狀況下，和台灣相比，你在歐洲購買的商品可能可以折到 6 折！
 
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
-
 最後來自經驗豐富旅人們的建議，出國了盡量少用電子產品、少滑手機！要拍照可以，要修圖、發文可以晚上回到住宿的地方、甚至旅程結束回台灣再做。在國外的時間很寶貴，人已經到歐洲了，就把握當下，用雙眼見識、雙腳體驗歐洲的美景吧！
 
 > **推薦文章：**
+>
+> ✔️ [出國自由行行李清單，行前不再手忙腳亂（免費下載）](/posts/出國行李打包/)
 >
 > ✔️ [在歐洲也能享受生日優惠｜奧地利維也納生日優惠都在這](/posts/奧地利生日優惠/)

@@ -41,8 +41,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "成為會員"
-link = "https://l.exittaiwan.com/nav-button"
+label = "下載打包清單"
+link = "https://exittaiwan.gumroad.com/l/packing-list"
 
 # Page Header
 [page_header]
@@ -66,9 +66,9 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = false
+enable = true
 expire_days = 7
-content = "[**🎉 「ExitTaiwan 出台灣 x DJB 全球網卡」成為合作夥伴！點選我前往 DJB 官網選購 🏚**](https://djbcard.com/?aid=84830)"
+content = "[✅ **點我免費下載「出國自由行行李清單」**](https://exittaiwan.gumroad.com/l/packing-list)"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo

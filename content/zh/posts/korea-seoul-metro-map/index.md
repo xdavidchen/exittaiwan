@@ -16,6 +16,10 @@ country: "韓國"
 city: "首爾"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 ## 為什麼需要下載首爾地鐵圖？
 
 ![](seoul-metro.webp)

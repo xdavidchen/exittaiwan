@@ -6,14 +6,15 @@ description: "這篇文章詳細介紹從維也納市中心的各種交通及購
 draft: false
 author: "David Chen"
 cover: "IMG_3414.webp"
-image: "IMG_3414.webp"
 tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行]
 theme: "light"
 country: "奧地利"
 city: "維也納"
 ---
 
-<!--![](IMG_3414.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 [**維也納**](/posts/維也納自由行)作為奧地利的首都，是台灣人最適合入門自由行旅遊的歐洲城市之一。
 
@@ -36,8 +37,6 @@ city: "維也納"
 **從聖史蒂芬大教堂為中心，往各個方位延伸不同的距離，就成為了維也納交通意義上的核心區**（英文：Core Zone；德文：Kernzone，以前叫做 Zone 100）。
 
 Core zone 包括了維也納市區的所有大眾交通工具，街道電車、地鐵、公車、輕軌火車等。
-
-<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ### 維也納交通核心區有多大？
 
@@ -92,8 +91,6 @@ Core zone 包括了維也納市區的所有大眾交通工具，街道電車、�
 2. 在各地鐵站自動售票機購買的**實體票卷，需要在入口處進行打票**的動作才算是有效票；沒打過票的車票，在公車上也需要使用打票機進行打票。
 3. 查票員穿著便服，會不定時在各種交通工具中出現，他們會出示他們的證件並進行查票，如果被查到無票或持無效票搭乘，須繳納罰金 100 歐元。
 
-<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
-
 ## 維也納市區其他交通方式
 
 ![](IMG_3417.webp)
@@ -112,5 +109,3 @@ Core zone 包括了維也納市區的所有大眾交通工具，街道電車、�
 1. 下載 nextbike App：[Google Play Store](https://play.google.com/store/apps/details?id=de.nextbike&gl=AT)｜[Apple App Store](https://apps.apple.com/at/app/nextbike/id504288371)
 2. 使用應用程式掃描腳踏車上的 QR Code
 3. 開始騎乘，騎乘時請注意安全和當地交通規則。
-
-<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->

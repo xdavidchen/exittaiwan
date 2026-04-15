@@ -11,14 +11,15 @@ draft: false
 featured: true
 author: "David Chen"
 cover: "schoenbrunn.webp"
-image: "schoenbrunn.webp"
 tags: [奧地利, 奧地利旅遊, 奧地利自由行 維也納, 維也納旅遊, 維也納自由行]
 theme: "light"
 country: "奧地利"
 city: "維也納"
 ---
 
-<!--![|wide](schoenbrunn.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 >  **使用說明書**\
 這篇文章分成了五大章節，從對維也納的基本了解、交通、自由行旅遊景點、和優惠都幫你整理好了！文章比較長，建議配合目錄更快速找到資訊。\

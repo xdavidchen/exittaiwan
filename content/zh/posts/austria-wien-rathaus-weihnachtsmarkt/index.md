@@ -6,20 +6,19 @@ description: "維也納市政廳聖誕市集吸引全球遊客歡慶聖誕，攤
 draft: false
 author: "David Chen"
 cover: "feature.webp"
-image: "feature.webp"
 tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行, 歐洲聖誕市集]
 theme: "light"
 country: "奧地利"
 city: "維也納"
 ---
 
-<!--![|inline](feature.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 [**維也納**](/posts/維也納自由行)市政廳的聖誕市集是歐洲最有名的聖誕市集之一，每年冬天 11 月到 12 月聖誕節都吸引維也納當地和世界各地的遊客前來歡慶聖誕節。市政廳的聖誕市集不只攤位數量多，甚至還有提供各項老少咸宜的娛樂設施，讓每個來到這裡的人有得吃、有得喝、也有得玩！
 
 市政廳聖誕市集交通很方便，地鐵和電車都在下車後步行距離可以抵達，它也和位在[**史蒂芬廣場的聖誕市集**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%8F%B2%E8%92%82%E8%8A%AC%E5%BB%A3%E5%A0%B4%E8%81%96%E8%AA%95%E5%B8%82%E9%9B%86/)不遠，如果是到維也納自由行、行程安排在一起的話，一天逛三到四個市集都沒問題喔！
-
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
 
 ## 市政廳前廣場聖誕市集基本資訊
 
@@ -51,8 +50,6 @@ city: "維也納"
 ![|inline](IMG_4805.webp)
 
 也許你在走過來的路上已經看到了，面對市集的左手邊，一整片區域都是溜冰場喔！想要溜冰的話，可以在現場租借溜冰鞋，直接購票入場溜冰。心動了嗎？現在就看看要[怎麼在維也納最大的室外溜冰場——維也納市政廳溜冰](/posts/維也納市政廳溜冰)！
-
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ![|inline](IMG_4790.webp)
 
@@ -86,8 +83,6 @@ city: "維也納"
 
 也有攤位販賣木製裝飾品。
 
-[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
-
 ![|inline](IMG_4775.webp)
 
 熱紅酒是不會缺席聖誕市集的！
@@ -107,5 +102,3 @@ city: "維也納"
 ![|inline](IMG_4808.webp)
 
 看到這裡你是不是也心動了呢？趁著冬天聖誕季節，來一場歐洲的聖誕市集之旅吧！
-
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)

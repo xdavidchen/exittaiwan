@@ -17,7 +17,9 @@ country: 荷蘭
 city: 鹿特丹
 ---
 
-<!--![](thumbnail.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 其中一個會讓人愛上[鹿特丹](https://exittaiwan.com/tags/%E9%B9%BF%E7%89%B9%E4%B8%B9/)的原因就是這裡的建築。
 
@@ -77,4 +79,4 @@ city: 鹿特丹
 
 只要抵達 Blaak 站 (Station Blaak)，出來後就可以看到方塊屋跟拱廊市場了。地鐵 A、B、C 線、路面電車 21、24 線、公車 32、47 路，以及火車都可以抵達 Blaak 站。
 
-> 推薦閱讀：[**鹿特丹自由行｜機場市區來回交通全攻略**](/posts/%E9%B9%BF%E7%89%B9%E4%B8%B9%E6%A9%9F%E5%A0%B4%E5%88%B0%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)
+> 推薦閱讀：[**鹿特丹自由行｜機場市區來回交通全攻略**](/posts/鹿特丹機場到市區交通全攻略)

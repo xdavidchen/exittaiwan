@@ -20,6 +20,10 @@ city: 阿姆斯特丹
 
 <!--![史基浦機場地標：I amsterdam](image6.webp "史基浦機場地標：I amsterdam")-->
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 阿姆斯特丹（Amsterdam）作為荷蘭的首都，是許多遊客抵達荷蘭的首選目的地。史基浦機場（Amsterdam Schiphol Airport）則是歐洲重要的中轉站，使得阿姆斯特丹成為觀光熱點。
 
 其中，阿姆斯特丹舊城區的運河風光是遊客最愛的獨特荷蘭景色。從史基浦機場到阿姆斯特丹市中心有多種交通方式可選，本篇將為您整理三種主要選擇，幫助您快速抵達市中心。

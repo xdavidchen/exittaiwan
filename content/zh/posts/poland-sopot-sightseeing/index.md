@@ -17,6 +17,10 @@ country: 波蘭
 city: 索伯特
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 索伯特（波蘭語：Sopot）是個位於[波蘭](/country/波蘭/)北部的濱海城市，與[格但斯克（波蘭語：Gdańsk）](/city/格但斯克/)、格丁尼亞（波蘭語：Gdynia）組成三聯市都會區（波蘭語：Trójmiasto），許多旅人會這三個地方一起玩。
 
 一戰後凡爾賽條約（英文：Treaty of Versailles）將索伯特納入格但斯克自由市（波蘭語：Wolne Miasto Gdańsk）。1920 年，索伯特開了第一間賭場，七年後索菲特酒店（英語：Sofitel Grand Hotel）正式營運，並於 1990 年開始經營賭場生意，成為波蘭暨華沙和克拉克夫後的第三座賭場。

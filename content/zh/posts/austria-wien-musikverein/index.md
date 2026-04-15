@@ -13,7 +13,9 @@ country: "奧地利"
 city: "維也納"
 ---
 
-<!--![|inline](feature.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 來自蘇格蘭格拉斯哥的衛報（The Guardian）作家湯姆（Tom Service），曾評論這個[演奏廳的聲音是「純金的」](https://www.theguardian.com/music/tomserviceblog/2008/sep/29/classical.music.musikverein)（pure gold）。
 
@@ -42,8 +44,6 @@ city: "維也納"
 - 金色大廳（Goldener Saal）= 金色（golden）+ 廳（Saal）
 
 完全就是要 hashtag #德文邏輯。
-
-<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 維也納金色大廳（音樂協會）基本資訊
 
@@ -90,10 +90,6 @@ city: "維也納"
 布拉姆斯廳的規模相比於金色大廳小了許多，不過內部的裝潢毫不遜色。這個廳雖然大部分用於室內樂演出，但是當表演活動太多，無法安排於金色大廳演出時，就有可能用到這個場地。
 
 舉例來說，最知名的莫札特音樂會，有不少場次就是在布拉姆斯廳演出。如果你的目的明確，就是要朝聖金色大廳，那麼選擇演出的時候一定要特別注意演出場地喔！
-
-
-
-<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 ## 金色大廳座位分佈
 
@@ -176,8 +172,6 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 但是要取得這幾場音樂會的門票不僅荷包要夠、也要加點一些幸運值，因為新年音樂會的售票方式是用抽選的，而只有每年年初（通常是二月）才可以[到維也納愛樂的官方網站登記報名](https://www.wienerphilharmoniker.at/en/newyearsconcert/ticket-information)，成功被抽選到之後才能參加隔年的新年音樂會喔！
 
 三場音樂會的票價範圍都不同。十二月三十日的「新年音樂會預演」票價約在 €20 到 €495；三十一日的「新年夜音樂會」票價約在 €25 到 €860；而一月一日的「新年音樂會」票價則是在 €35 到 €1,200 之間。
-
-<!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
 資料來源：
 - [10 of the world’s best concert halls](https://www.theguardian.com/travel/2015/mar/05/10-worlds-best-concert-halls-berlin-boston-tokyo)

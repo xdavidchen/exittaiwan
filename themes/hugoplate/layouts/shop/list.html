@@ -14,7 +14,7 @@
                             {{partial "image" (dict "Src" .Params.cover "Alt" .Title "Class" "w-full md:h-full! h-[200px]! object-cover rounded")}}
                         </div>
                         <div class="md:col-6">
-                            <div class="px-6 py-10">
+                            <div class="px-6 py-10 flex flex-col h-full">
                                 <!--<span class="mb-3">{{ T "travel_brochure" }}</span>-->
                                 <h2 class="h2 mb-5">
                                     {{ .Title }}
@@ -22,10 +22,12 @@
                                 <p class="mb-5">
                                     {{ .Description | markdownify }}
                                 </p>
-                                <a href="{{ .Params.external_url }}" target="_blank" class="btn btn-primary ">
-                                    <span>{{T "purchase"}}</span>
-                                    <span class="ml-3">→</span>
-                                </a>
+                                <div class="mt-auto">
+                                    <a href="{{ .Params.external_url }}" target="_blank" class="btn btn-primary ">
+                                        <span>{{T "purchase"}}</span>
+                                        <span class="ml-3">→</span>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>

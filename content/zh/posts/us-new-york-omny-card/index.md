@@ -11,6 +11,10 @@ country: "美國"
 city: "紐約"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 ## OMNY Card 是什麼？
 
 OMNY（One Metro New York）是[紐約市區大眾交通](/posts/紐約市區交通全攻略/)的非接觸式付費系統，用來取代大家熟悉的 MetroCard。

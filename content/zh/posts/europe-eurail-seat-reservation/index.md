@@ -12,6 +12,10 @@ tags:
 country: "歐洲多國"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 ## 「車票」和「訂位」要分開買
 
 ![](ticket.webp)

@@ -6,13 +6,13 @@ description: "Google Maps 到了韓國區域幾乎不能使用，原因是什麼
 draft: false
 author: "David Chen"
 cover: "featured.webp"
-image: "featured.webp"
 tags: [韓國, 韓國旅遊, 韓國自由行]
-theme: "light"
 country: "韓國"
 ---
 
-<!--![|inline](featured.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 ## 韓國 Google Maps...
 

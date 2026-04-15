@@ -13,6 +13,10 @@ country: "奧地利"
 city: "哈修塔特"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 如果要說歐洲哪些旅遊景點「風景如畫」，答案肯定少不了哈修塔特了！
 
 哈修塔特（Hallstatt）是一個位在奧地利中部的小鎮。它在 1997 年被聯合國列入世界文化遺產，其中達克斯坦山（德文：Dachstein）和鹽礦區（德文：Salzkammergut）更是[在 UNESCO 的介紹中](https://whc.unesco.org/en/list/806)被特別點名。

@@ -27,8 +27,6 @@ country: "奧地利"
 
 以下來了解各個不同的屋型 / 房型、還有奧地利租屋網站、平台的整理比較。
 
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
-
 ## 奧地利租屋類型
 
 同位於德語區，[**奧地利**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)和德國有很相似的租屋類型和用語，九成以上的時間你租到的房屋會是以下類型其中之一：
@@ -95,8 +93,6 @@ WG 是很多留學生、交換學生的第一選擇，因為價格最便宜，�
 - Willhaben
 
 > 此文中的內容僅供參考，房源詳細的身份要求、可否入籍、費用等⋯依各官方網站、各房源為準。
-
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ### Akademikerhilfe
 
@@ -195,8 +191,6 @@ HousingAnywhere 是一個提供全球租屋房源的平台，可以根據租期�
 
 #### 缺點
 - 有平台服務費、部分房源需仲介費
-
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
 
 ### Immobilien Der Standard
 
@@ -390,9 +384,6 @@ wilhast 是在一次世界大戰後，於 1923 年成立的租屋組織，來幫
 #### 缺點
 - 僅有維也納周遭房源
 - 搬出清潔費 69 歐元
-
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
-
 
 ### Willhaben
 

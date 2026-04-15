@@ -11,6 +11,10 @@ country: "義大利"
 city: "羅馬"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 羅馬有兩個國際機場：[菲烏米奇諾李奧納多達文西機場](https://www.adr.it/web/aeroporti-di-roma-en/)（義大利文：Aeroporto di
 Roma Fiumicino，機場代號 FCO）和[錢皮諾機場](https://www.adr.it/web/aeroporti-di-roma-en/pax-cia-ciampino)（義大利文：Aeroporto di Roma - Ciampino，機場代號 CIA）。
 

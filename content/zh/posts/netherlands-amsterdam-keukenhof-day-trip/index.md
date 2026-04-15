@@ -16,7 +16,9 @@ country: 荷蘭
 city: 阿姆斯特丹
 ---
 
-<!--![](image2.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 荷蘭有三寶：**風車、木屐、鬱金香**！
 

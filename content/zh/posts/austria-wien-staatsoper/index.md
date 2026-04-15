@@ -6,14 +6,15 @@ description: "想要到維也納國家歌劇院欣賞一場芭雷或是歌劇演
 draft: false
 author: "David Chen"
 cover: "oper.webp"
-image: "oper.webp"
 tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行]
 theme: "light"
 country: "奧地利"
 city: "維也納"
 ---
 
-<!--![](oper.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 到了[**維也納**](/posts/維也納自由行/)，你一定不會錯過的建築就是維也納國家（立）歌劇院了！19 世紀中建成的維也納國立歌劇院（德文：Wiener Staatsoper）是文藝復興風格的建築，有超過一千七百個座位，並座落在主要道路環城大道（德文：Ring）上。
 

@@ -12,6 +12,10 @@ tags:
 country: "歐洲多國"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 終於要出發去歐洲了！自由行最大的魅力就是自己掌握節奏，但也因為沒有導遊帶路，很多細節得自己搞定。以下是我們整理的實用小撇步，從行前準備到當地規範，幫助你的旅程順順利利、玩的盡興。
 
 ## 歐洲自由行前準備
@@ -23,8 +27,6 @@ country: "歐洲多國"
 歐洲自由行通常需要自己拖行李搭地鐵、爬樓梯、換旅館，**行李越輕，越自由**。電器用品非必要就別帶了，歐洲的插座規格（Type C 圓腳）和台灣不同，電壓也是 220V，帶太多電器反而是負擔。
 
 至於到底哪些東西要帶、哪些東西不帶？可以閱讀另外一篇文章「[出國自由行行李清單，行前不再手忙腳亂](/posts/%E5%87%BA%E5%9C%8B%E8%A1%8C%E6%9D%8E%E6%89%93%E5%8C%85/)」，裡面還有超實用的[免費行李清單](https://exittaiwan.gumroad.com/l/packing-list)供你下載列印，一邊打包的時候做使用喔！
-
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ### 關於錢的事，出發前先搞定
 
@@ -72,8 +74,6 @@ country: "歐洲多國"
 
 訂旅館或 Airbnb 前，建議查一下附近的評價和街區狀況。通常火車站周邊是相對複雜的地帶，不一定安全，如果一個人自己行動，晚上回飯店要多留意身邊狀況。
 
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
-
 ### 關於防偷
 
 在台灣生活久了，自然而然會覺得到處都很安全。
@@ -106,12 +106,8 @@ country: "歐洲多國"
 
 以火車為例，城市之間移動建議提早到各國鐵路官網訂票（義大利 Trenitalia、西班牙 Renfe、德國 DB 等），早鳥票有時比現場購買便宜一半以上，熱門路線也容易售罄。如果想要更隨興一點旅遊，可以考慮買[歐洲鐵路通票 EU Rail Pass](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043907&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9868-eurail-global-rail-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc840137fb8)。這樣就比較不用怕到時候買不到火車票（需要訂位的除外）。
 
-其實不只是火車、巴士、或是飛機交通類的花費，飯店住宿也是提前訂比較划算，甚至很多[餐廳提前預約也可以享受最高 5 折的折扣](/posts/thefork/)！你也可以[加入 ExitTaiwan 會員](https://membership.exittaiwan.com/)，我們整理了歐洲多國當地人才知道的優惠，讓你旅行時花費和當地人沒兩樣！
-
-[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
+其實不只是火車、巴士、或是飛機交通類的花費，飯店住宿也是提前訂比較划算，甚至很多[餐廳提前預約也可以享受最高 5 折的折扣](/posts/thefork/)！
 
 ### 調時差攻略
 
 台灣與歐洲通常相差 6～7 小時（夏令時間）。去程建議第一天盡量撐到當地晚上再睡，白天曬太陽有助於調整，這樣大概三四天就可以完全變成正常作息；回程時差方向相反，反而比較容易適應，但頭幾天可能會很早就醒來，睡前避免大量飲食會有幫助。
-
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)

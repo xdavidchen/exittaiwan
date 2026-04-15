@@ -16,7 +16,9 @@ country: 波蘭
 city: 卡托維治
 ---
 
-<!--![](katowice-cover-image.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 卡托維治（波蘭文：Katowice）是位在[波蘭](/country/波蘭/)南部西里西亞省（波蘭文：Województwo śląskie）的大城市，也是西里西亞省的行政首府和政府所在地。早期以煤礦產業最為著名，並有現存礦坑供旅客參觀，近年來因環保意識提高，科技公司逐漸進駐，在市中心隨處可見老式與新式辦公大樓座落，同時保有美麗的公園及中央廣場供民眾休憩。
 

@@ -13,6 +13,10 @@ country: "奧地利"
 city: "維也納"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 ## 維也納機場快線 CAT 是什麼？
 
 ![](inner.webp)
@@ -23,8 +27,6 @@ city: "維也納"
 
 *注意：[**Wien Mitte（維也納中央車站）和 Wien Hbf（維也納主火車站）是不同的車站**](/posts/維也納市區交通攻略/)！
 
-[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)
-
 ## 維也納機場快線 CAT 方便嗎？
 
 ![](cat2.webp)
@@ -32,8 +34,6 @@ city: "維也納"
 只要不是選在半夜的時間，在[所有往返維也納機場和市區的方式](/posts/維也納機場到市區交通全攻略/)裡面，維也納機場快線 CAT 可以說是最方便的選擇。
 
 在維也納機場，維也納機場快線 CAT 的淺綠色標示非常顯眼，想要錯過都很難。從機場上 CAT 火車，搭一站 16 分鐘就抵達中央車站（Wien Mitte）下車，完全不怕下錯車。
-
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
 
 ![](cat1.webp)
 
@@ -53,8 +53,6 @@ city: "維也納"
 - 來回票比單程票划算一點。
 - 14 歲以下孩童免費搭乘。
 - 16 分鐘直達市中心，無腦搭乘不怕下錯站。
-
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 維也納機場快線 CAT 非常適合⋯
 
@@ -120,4 +118,4 @@ CAT 發車時間重點整理：
 ![](wien.webp)
 {{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
 
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
+<!-- archive [![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4) -->

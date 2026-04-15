@@ -14,6 +14,10 @@ country: "捷克"
 city: "布拉格"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 來到中歐旅遊，最多人玩的就是奧地利、匈牙利、捷克（奧匈捷）三個國家的首都[維也納]((/posts/維也納自由行/))、布達佩斯、和布拉格。你是不是在煩惱布拉格和布達佩斯之間距離這麼遠，要怎麼安排？你可能沒想過，在歐洲申根區內，搭飛機也是一種常見的交通方式吧？
 
 沒錯，除了自駕以外，往返布拉格和布達佩斯有三種方法：**搭火車、搭巴士、和搭飛機**。
@@ -29,8 +33,6 @@ city: "布拉格"
 這段路程的票可以在以下三間鐵路公司的售票系統進行比較：MAV 匈牙利國鐵、České dráhy 捷克國鐵、和 RegioJet。
 
 一般來說，主打學生市場（非學生也可以搭乘）的 RegioJet 會有最優惠的票價。
-
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
 
 ### MAV 匈牙利國鐵
 
@@ -58,8 +60,6 @@ city: "布拉格"
   - 布拉格：布拉格火車總站（[Praha hl.n.](https://maps.app.goo.gl/jEZ1VqJxamDfucQm9), Prague MS）
   - 布達佩斯：Budapest Kelenföld
 - 行程時間：約 6 小時 45 分鐘
-
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
 
 ## 搭巴士往返布拉格和布達佩斯
 
@@ -106,8 +106,6 @@ city: "布拉格"
   - 布達佩斯：布達佩斯國際機場（BUD）
 - 行程時間：約  1 個小時 15 分鐘
 
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)
-
 ## 往返布拉格和布達佩斯交通比較表
 
 | 交通方式 | 價格                 | 行程時間          | 起迄站（布拉格）                                             | 起迄站（布達佩斯）                                           |
@@ -118,8 +116,8 @@ city: "布拉格"
 
 > **推薦文章：**
 >
+> ✔️ [出國自由行行李清單，行前不再手忙腳亂（免費下載）](/posts/出國行李打包/)
+>
 > ✔️ [在歐洲搭火車必看！打票、劃位眉角、省錢訂票方式、各國火車公司官網清單](/posts/歐洲搭火車注意事項)
 >
 > ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)
-
-[![](/images/banner-3.jpg)](https://l.exittaiwan.com/cta-in-text-banner-3)

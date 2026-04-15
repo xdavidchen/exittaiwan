@@ -6,14 +6,15 @@ description: "這篇文章包含維也納史蒂芬廣場聖誕市集的開放時
 draft: false
 author: "David Chen"
 cover: "feature.webp"
-image: "feature.webp"
 tags: [奧地利, 維也納, 維也納旅遊, 維也納自由行, 歐洲聖誕市集]
 theme: "light"
 country: "奧地利"
 city: "維也納"
 ---
 
-<!--![|inline](feature.webp)-->
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
 
 沈浸在世界文化遺產的薰陶中，在聖誕時節來浪漫的史蒂芬廣場（德文：Stephansplatz）聖誕市集一遊吧！
 

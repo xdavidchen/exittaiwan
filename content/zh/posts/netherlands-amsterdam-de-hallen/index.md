@@ -14,6 +14,10 @@ country: 荷蘭
 city: 阿姆斯特丹
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 到[阿姆斯特丹](/city/%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9/)自由行，想要探索當地的藝文展覽嗎？De Hallen Amsterdam 不只有電影院，整個場地就是一個藝文中心無誤！要是有天住在阿姆斯特丹的話，應該可以常常在這邊待一整天，有吃有喝有得看，完全是文青的天堂。
 
 ## De Hallen Amsterdam 基本資訊

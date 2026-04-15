@@ -31,8 +31,6 @@ NeoTaste 是一款歐洲許多國家通用的**在地餐廳優惠 App**，讓你
 - 歐洲自由行的背包客
 - 想吃當地餐廳又不想破產的旅客
 
-[![](/images/banner-2.jpg)](https://l.exittaiwan.com/cta-in-text-banner-2)
-
 ### 哪些國家可以用 NeoTaste？
 
 目前 NeoTaste 合作的餐廳散佈在四個歐洲國家，超過 51 個城市、4,500 間餐廳。
@@ -61,8 +59,6 @@ NeoTaste 合作的每間餐廳都會提供稍微不同的優惠。不過其中�
 
 要是你平常喜歡到城市中的咖啡廳悠閒的坐著，那你肯定恨不得不馬上下載 NeoTaste 了！NeoTaste 上也有無數的咖啡廳，提供「點熱飲送可頌」、「熱飲買一送一」等等多樣的優惠，最適合喜歡在咖啡廳久坐的旅人。
 
-[![](/images/banner-1.jpg)](https://l.exittaiwan.com/cta-in-text-banner-1)
-
 ---
 
 ## NeoTaste 怎麼用？
@@ -78,5 +74,3 @@ NeoTaste 合作的每間餐廳都會提供稍微不同的優惠。不過其中�
 *下載 NeoTaste 需要更換 [App Store](https://applealmond.com/posts/231122) 或 Google Play 所在國家（可更換為德國、奧地利、英國、荷蘭其一）。
 
 **註冊 NeoTaste 需要有可以接收手機簡訊驗證碼的歐洲號碼。
-
-[![](/images/banner-4.jpg)](https://l.exittaiwan.com/cta-in-text-banner-4)

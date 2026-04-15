@@ -15,6 +15,10 @@ city: "維也納"
 
 <!--![|inline](feature.webp)-->
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 [**奧地利的首都維也納**](/posts/維也納自由行)位於歐洲大陸的中心點，對於從亞洲飛過來的台灣自由行旅客來說，不管是要在奧地利深度旅遊、或是短暫停留後前往下一個旅遊地點，維也納都是一個很棒的中繼點。
 
 維也納只有一個國際機場，也就是[維也納機場](https://www.viennaairport.com/en/passengers)（Vienna Airport，VIE）。不論你是搭乘直飛的中華航空、長榮航空，或是轉機的班機來到維也納，你都會降落在這裡。
@@ -101,7 +105,7 @@ S-Bahn 市區快車就是在維也納市區內營運的快速火車，而區域�
 
 ![|inline](uber.webp)
 
-根據時段、當下有叫車需求的用戶數量、以及實際前往的確切地點，**[Uber](https://referrals.uber.com/refer?id=uf3rqv9dyawj)** 系統顯示的車資大約會落在 €25 ~ €40。
+根據時段、當下有叫車需求的用戶數量、以及實際前往的確切地點，[**Uber**](https://referrals.uber.com/refer?id=uf3rqv9dyawj) 系統顯示的車資大約會落在 €25 ~ €40。
 
 - **價格**：€25 ~ €40
 - **時間**：20 ~ 30 分鐘

@@ -18,6 +18,10 @@ city: 海牙
 
 <!--![](image2.webp)-->
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 海牙（Den Haag）是[荷蘭](https://exittaiwan.com/tags/%E8%8D%B7%E8%98%AD/)的第三大城市，擁有豐富的歷史與文化背景。
 
 除了是荷蘭議會及國際法庭的所在地，海牙也是藝術愛好者的天堂，尤其是莫瑞泰斯皇家美術館（Mauritshuis），其中以荷蘭畫家梅維爾（Johannes Vermeer）的《戴珍珠耳環的少女》吸引了大量遊客。

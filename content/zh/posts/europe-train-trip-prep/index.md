@@ -12,6 +12,10 @@ tags:
 country: "歐洲多國"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 在歐洲，火車幾乎是最常見的旅行交通工具。歐洲的鐵路網絡發達，從城市到城市、跨越國境都能靠火車搞定。不過，在歐洲搭火車和在台灣搭火車還是有很多的不同之處。這篇文章整理了最重要的幾個注意事項，來幫助即將計畫到歐洲搭火車的你。
 
 ---
@@ -58,8 +62,6 @@ country: "歐洲多國"
 票價強制含訂位費：有些國家或路線（例如法國高鐵 TGV）是一定要有劃位才能上車，訂位費已經包含在票價裡，或是購票時系統會自動加上。
 
 注意！如果你用的是 Interrail 或 [Eurail 通行證](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1043907&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9868-eurail-global-rail-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc840137fb8)，[通行證本身不等於劃位](/posts/歐洲火車通行證訂位/)，在很多高鐵或熱門路線上還是需要另外付訂位費，不是買了通行證就能隨便上任何一班車。
-
-<!-- link to article [[歐洲火車通行證｜Eurail Global Pass 哪些國家要另外訂位？]] -->
 
 ---
 

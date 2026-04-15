@@ -11,6 +11,10 @@ country: "梵蒂岡"
 city: "梵蒂岡"
 ---
 
+{{< notice "tip" 好用工具 >}}
+🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
+{{< /notice >}}
+
 早上九點剛從飯店出發，你步行穿過[羅馬](/city/羅馬/)的石板路，滿心期待終於要親眼看到西斯汀禮拜堂（Sistine Chapel）天花板，有[《創世紀》](https://zh.wikipedia.org/zh-tw/%E5%88%9B%E4%B8%96%E7%BA%AA_(%E5%A3%81%E7%94%BB))（義大利語：Volta della Cappella Sistina）的天頂畫。
 
 ![](ceiling.jpg)
