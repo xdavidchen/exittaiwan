@@ -10,7 +10,7 @@ featured: true
 author: "David Chen"
 cover: "cover.webp"
 image: "cover.webp"
-tags: [奧地利, 奧地利旅遊, 奧地利自由行 維也納, 維也納旅遊, 維也納自由行]
+tags: [奧地利, 奧地利旅遊, 奧地利自由行, 維也納, 維也納旅遊, 維也納自由行]
 country: "奧地利"
 city: "維也納"
 ---
