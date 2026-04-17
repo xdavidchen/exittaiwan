@@ -17,13 +17,13 @@ city: "維也納"
 🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
 {{< /notice >}}
 
-來自蘇格蘭格拉斯哥的衛報（The Guardian）作家湯姆（Tom Service），曾評論這個[演奏廳的聲音是「純金的」](https://www.theguardian.com/music/tomserviceblog/2008/sep/29/classical.music.musikverein)（pure gold）。
+來自蘇格蘭格拉斯哥的衛報（The Guardian）作者湯姆（Tom Service），曾評論這個[演奏廳的聲音是「純金的」](https://www.theguardian.com/music/tomserviceblog/2008/sep/29/classical.music.musikverein)（pure gold）。
 
-和德國柏林愛樂廳（德文：Konzerthaus）、荷蘭阿姆斯特丹大會堂（荷蘭文：Concertgebouw）、美國波士頓交響樂大廳（英文：Symphony Hall）齊名，這是世界上最佳的音樂廳之一，晚上常常有「**一群莫札特演奏著莫札特的音樂**」——它是**維也納的「金色大廳」**（德文：Goldener Saal）。
+和德國柏林愛樂廳（德文：Konzerthaus）、荷蘭阿姆斯特丹大會堂（荷蘭文：Concertgebouw）、美國波士頓交響樂大廳（英文：Symphony Hall）齊名，這是世界上最佳的音樂廳之一，晚上常常有「[一群莫札特演奏著莫札特的音樂](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1258660&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120397-mozart-concert-at-the-golden-hall-in-vienna%2F)」——它是**維也納的「金色大廳」**（德文：Goldener Saal）。
 
 維也納的金色大廳已有超過百年歷史，它最為人知曉的特色莫過於每年新年一月一日，都會透過全球電視直播的「**[維也納新年音樂會](https://www.wienerphilharmoniker.at/en/newyearsconcert)**」了。
 
-來到金色大廳的觀光客，可以選擇[參加 45 分鐘的英語導覽](https://www.musikverein.at/en/guided-tours/)，深入了解這裡的歷史、建築設計等，除了星期日和奧地利國定假日外，每天有兩場付費導覽（一場英文、一場德文）。
+來到金色大廳的觀光客，可以選擇[參加 45 分鐘的英語導覽](https://www.musikverein.at/en/fuehrungen/)，深入了解這裡的歷史、建築設計等，除了星期日和奧地利國定假日外，每天有兩場付費導覽（一場英文、一場德文）。
 
 有幸停留在[**維也納**](/posts/維也納自由行/)幾天，夜晚有閒暇的遊客更應該直該直接找一天購買音樂會門票入場，感受古典音樂的薰陶。不是古典音樂咖，挑選演出需要指路人？「莫札特音樂會」準沒錯。
 
@@ -79,7 +79,7 @@ city: "維也納"
 
 維也納愛樂（德文：Wiener Philharmoniker）是金色大廳的常駐樂團<!-- link to fun facts about 維也納愛樂）-->，頻繁的在這裡和世界知名音樂家合作演出，
 
-對於古典音樂不太熟悉、或是只是好奇想感受氣氛的人，推薦你去一場由「維也納莫札特樂團」（英文：Vienna Mozart Orchestra）演出的音樂會。對，就是前面提到「**一群莫札特演奏著莫札特的音樂**」的那個音樂會。
+對於古典音樂不太熟悉、或是只是好奇想感受氣氛的人，推薦你去一場由「維也納莫札特樂團」（英文：Vienna Mozart Orchestra）演出的音樂會。對，就是前面提到「[一群莫札特演奏著莫札特的音樂](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1258660&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120397-mozart-concert-at-the-golden-hall-in-vienna%2F)」的那個音樂會。
 
 <!-- 音響回音共鳴效果：鞋盒形狀廳室透過精緻鑲嵌天花板與塗上金箔的女神像柱，讓樂聲能延長殘響的時間可達兩秒之久，木製舞台下方的空間也增加了共振的效果 — > 來源：[維基百科](https://zh.wikipedia.org/zh-tw/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E9%9F%B3%E6%A8%82%E5%8D%94%E6%9C%83%E5%A4%A7%E6%A8%93#cite_note-6) 原始來源呢？
 
@@ -149,6 +149,8 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 2. 根據自身喜好和預算選擇座位。
 3. **最慢於演出開始一小時前**，至金色大廳（也就是音樂協會的大樓）櫃檯出示購票證明，兌換實體門票即可。
 
+如果只想要體驗一下莫札特音樂會，也可以在 Klook 購票：[點我前往](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1258660&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120397-mozart-concert-at-the-golden-hall-in-vienna%2F)
+
 ## 觀賞金色大廳演出注意事項
 
 ![金色大廳音樂會門票範本|inline](IMG_4878.webp)
@@ -175,4 +177,3 @@ Orgel 是管風琴的德文，Orgelbalkon 就是在二樓管風琴旁，**面對
 
 資料來源：
 - [10 of the world’s best concert halls](https://www.theguardian.com/travel/2015/mar/05/10-worlds-best-concert-halls-berlin-boston-tokyo)
-- [The Golden Sound of the Musikverein Wien](https://www.wienersymphoniker.at/en/orchestra/residencies/musikverein-wien-tickets-schedule)
