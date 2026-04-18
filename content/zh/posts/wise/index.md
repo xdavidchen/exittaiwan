@@ -1,6 +1,8 @@
 ---
 title: "Wise 好用嗎？專門寫給台灣人的 Wise 網銀全攻略（開戶、入金、出金、換匯）"
-slug: "給台灣人的-wise-網銀全攻略"
+slug: "wise-introduction"
+alias:
+- 給台灣人的-wise-網銀全攻略
 date: 2023-09-08
 description: "台灣人適合用 Wise 嗎？Wise 要怎麼開戶？ 它是網銀嗎？這篇專門寫給台灣人的 Wise 全攻略，解答你所有對於 Wise 的問題！"
 draft: false

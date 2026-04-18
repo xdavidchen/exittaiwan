@@ -18,7 +18,7 @@ city: "布拉格"
 🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
 {{< /notice >}}
 
-布拉格（英文：Prague，捷克文：Praha）是捷克共合國（英文：Czech Republic）的首都，位在[奧地利維也納](/posts/維也納自由行/)的東邊車程大概三小時的位置、距離匈牙利布達佩斯車程約八小時。
+布拉格（英文：Prague，捷克文：Praha）是捷克共合國（英文：Czech Republic）的首都，位在[奧地利維也納](/posts/vienna-travel-guide/)的東邊車程大概三小時的位置、距離匈牙利布達佩斯車程約八小時。
 
 如果你在安排中歐奧匈捷自由行，你一定已經在計畫維也納和布拉格、或是布達佩斯和布拉格之間的交通方式，這篇文章就要來告訴你怎麼在維也納和布拉格兩地之間通行。
 
@@ -59,7 +59,7 @@ city: "布拉格"
   - 布拉格：布拉格火車總站（[Praha hl.n.](https://maps.app.goo.gl/jEZ1VqJxamDfucQm9)）
 - 行程時間：約 4 個小時
 
-> 推薦閱讀：[維也納主火車站（德文：Wien Hbf）在哪裡？](/posts/維也納市區交通攻略/)
+> 推薦閱讀：[維也納主火車站（德文：Wien Hbf）在哪裡？](/posts/vienna-public-transportation-guide/)
 
 ## 搭巴士往返維也納和布拉格
 
@@ -102,7 +102,7 @@ RegioJet 除了有火車以外，也有巴士喔！
 
 > **推薦文章：**
 >
-> ✔️ [出國自由行行李清單，行前不再手忙腳亂（免費下載）](/posts/出國行李打包/)
+> ✔️ [出國自由行行李清單，行前不再手忙腳亂（免費下載）](/posts/travel-abroad-packing-list/)
 >
 > ✔️ [維也納和布拉提斯拉瓦交通方式](/posts/vienna-bratislava-transport-guide/)
 >
@@ -110,4 +110,4 @@ RegioJet 除了有火車以外，也有巴士喔！
 >
 > ✔️ [布拉格和布達佩斯交通方式](/posts/prague-budapest-transportation/)
 >
-> ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)
+> ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/europe-travel-on-budget-tutorial/)

@@ -21,7 +21,7 @@ city: "維也納"
 
 ![](bundes-museen-card.webp)
 
-在我們的文章「[**維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包**](/posts/維也納自由行)」裡面的最後，我們曾經提到過當你來到維也納旅遊可以購買的兩種優惠票卷：「[**維也納通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)」和「[**維也納博物館 / 美術館通票**](https://www.bundesmuseencard.at/)」。
+在我們的文章「[**維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包**](/posts/vienna-travel-guide)」裡面的最後，我們曾經提到過當你來到維也納旅遊可以購買的兩種優惠票卷：「[**維也納通行證 Vienna Pass**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1004215&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F105133-vienna-attractions-pass%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b93d25d1e)」和「[**維也納博物館 / 美術館通票**](https://www.bundesmuseencard.at/)」。
 
 對於大部分旅客來說，「維也納通行證 Vienna Pass」可能更吸引人也更符合自由行旅客的需求，畢竟包含了知名的茜茜公主博物館和熱門景點美泉宮（德文：Schönbrunn）的入場門票。
 
@@ -73,9 +73,9 @@ city: "維也納"
 
 > 推薦閱讀：
 >
-> ✔️ [**維也納市區自由行交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](/posts/維也納市區交通攻略/)
+> ✔️ [**維也納市區自由行交通攻略｜維也納交通核心區在哪裡？這篇文章告訴你**](/posts/vienna-public-transportation-guide/)
 >
-> ✔️ [**維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包**](/posts/維也納自由行/)
+> ✔️ [**維也納自由行旅遊全攻略｜維也納旅遊景點、交通、住宿懶人包**](/posts/vienna-travel-guide/)
 
 ![](wien.webp)
 

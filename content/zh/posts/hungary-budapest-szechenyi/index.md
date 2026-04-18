@@ -64,7 +64,7 @@ city: "布達佩斯"
 
 ![](bath-3.webp)
 
-來到歐洲自由行，所費不貲，當然要在[能省的地方盡量省](/posts/歐洲自由行花費省錢攻略/)囉！
+來到歐洲自由行，所費不貲，當然要在[能省的地方盡量省](/posts/europe-travel-on-budget-tutorial/)囉！
 
 ### 不需要特別加購「快速通關」
 
@@ -126,4 +126,4 @@ city: "布達佩斯"
 >
 > ✔️ [布拉格和布達佩斯交通方式](/posts/prague-budapest-transportation/)
 >
-> ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/歐洲自由行花費省錢攻略/)
+> ✔️ [保證省下 300 歐｜歐洲食衣住行樂全方位教學，馬上壓低歐洲自由行花費！](/posts/europe-travel-on-budget-tutorial/)

@@ -1,6 +1,8 @@
 ---
 title: "紐約交通卡 OMNY Card 完整介紹：是什麼？怎麼買？實體卡還是信用卡？怎麼用最划算？"
-slug: "紐約交通卡-omny"
+slug: "new-york-city-omny-card"
+alias:
+- 紐約交通卡-omny
 date: 2026-04-12
 description: "紐約交通卡 OMNY Card 完整介紹：怎麼買、怎麼用、票價怎麼算？取代 MetroCard 的非接觸式系統，支援信用卡、Apple Pay 直接感應，七天 35 美元封頂優惠懶人包。"
 draft: false
@@ -17,7 +19,7 @@ city: "紐約"
 
 ## OMNY Card 是什麼？
 
-OMNY（One Metro New York）是[紐約市區大眾交通](/posts/紐約市區交通全攻略/)的非接觸式付費系統，用來取代大家熟悉的 MetroCard。
+OMNY（One Metro New York）是[紐約市區大眾交通](/posts/new-york-city-public-transportation/)的非接觸式付費系統，用來取代大家熟悉的 MetroCard。
 
 MTA 已於 2025 年 12 月 31 日停止販售 MetroCard，也已經不能夠儲值了。
 

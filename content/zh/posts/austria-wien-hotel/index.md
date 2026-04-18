@@ -15,7 +15,7 @@ city: "維也納"
 
 ## 維也納住宿區域
 
-來到[維也納自由行](/posts/維也納自由行/)，選擇住宿時很多人考量的第一優先不是價格，而是安全性。
+來到[維也納自由行](/posts/vienna-travel-guide/)，選擇住宿時很多人考量的第一優先不是價格，而是安全性。
 
 維也納相比其他歐洲大城市可說是最安全的城市之一，不過旅行時基本該有的警覺當然還是不能少。在維也納，除了維也納主火車站（Wien Hbf）以南的第十區 Favoriten 因為種族複雜所以偶有危險，其他區域都算非常安全。
 
@@ -23,7 +23,7 @@ city: "維也納"
 
 而比較可能稍有危險的區域 Favoriten 則是 1100，位在維也納的第 10 區。
 
-此外，[維也納的市區交通](/posts/維也納市區交通攻略/)極度方便，市區的範圍又不是太大，所以只要是住在地鐵站附近都算非常方便。
+此外，[維也納的市區交通](/posts/vienna-public-transportation-guide/)極度方便，市區的範圍又不是太大，所以只要是住在地鐵站附近都算非常方便。
 
 ![](wien.webp)
 {{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
@@ -92,7 +92,7 @@ city: "維也納"
 
 擁有大房間的 [**Rioca Vienna Posto 1**](https://www.booking.com/hotel/at/rioca.xt.html?aid=7956794)、工作人員親切、整體衛生清潔乾淨，同時又提供相對平價的住宿價格。
 
-雖然位置離市區有一小段距離，但是走路五分鐘就可以到 Trisengasse 火車站，搭乘市區火車十分鐘就可以到有[機場火車 CAT 直達](/posts/維也納機場快線-cat/)的維也納中央車站（德文：Wien Mitte），也就是城市公園旁邊的火車站。對於稍微有預算考量的人來說，這是一個很不錯的維也納住宿選擇！
+雖然位置離市區有一小段距離，但是走路五分鐘就可以到 Trisengasse 火車站，搭乘市區火車十分鐘就可以到有[機場火車 CAT 直達](/posts/vienna-airport-city-airport-train/)的維也納中央車站（德文：Wien Mitte），也就是城市公園旁邊的火車站。對於稍微有預算考量的人來說，這是一個很不錯的維也納住宿選擇！
 
 - 地址：Dresdner Str. 109, 1200 Wien ([Google Maps](https://maps.app.goo.gl/etTvq4AYL7bgpemD8))
 - 是否含早餐：有
@@ -105,7 +105,7 @@ city: "維也納"
 
 欸？是不是有點似曾相似？沒錯，[**Rioca Vienna Posto 2**](https://www.booking.com/hotel/at/rioca-vienna-posto-2.xt.html?aid=7956794) 就是上面 Rioca Vienna Posto 1 的 二館，命名就是這麼簡單粗暴。
 
-Rioca Vienna Posto 2 最近幾年剛開幕，比起一館，二館位在地鐵 U3 線步行十分鐘的位置，距離火車站 St. Marx 更是只要 5 分鐘，同樣可以從這裡搭乘市區火車前往維也納中央車站（德文：Wien Mitte），也就是[維也納機場直達列車 CAT](/posts/維也納機場快線-cat/) 的車站。
+Rioca Vienna Posto 2 最近幾年剛開幕，比起一館，二館位在地鐵 U3 線步行十分鐘的位置，距離火車站 St. Marx 更是只要 5 分鐘，同樣可以從這裡搭乘市區火車前往維也納中央車站（德文：Wien Mitte），也就是[維也納機場直達列車 CAT](/posts/vienna-airport-city-airport-train/) 的車站。
 
 當然，更新的裝潢和更方便的地理位置，也意味著稍微高一點的價格，但是和一館相比也沒有貴太多。如果有空房的話，推薦你入住二館！
 

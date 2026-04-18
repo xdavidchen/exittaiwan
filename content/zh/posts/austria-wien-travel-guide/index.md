@@ -1,10 +1,8 @@
 ---
 title: "維也納自由行旅遊攻略｜維也納自由行旅遊景點、交通、住宿懶人包"
-slug: "維也納自由行"
+slug: "vienna-travel-guide"
 aliases:
-  - wien
-  - vienna
-  - 維也納自由行旅遊全攻略
+  - 維也納自由行
 date: 2025-02-23
 description: "即將到維也納自助旅行嗎？維也納自由行旅遊須知、交通、景點、住宿、優惠票卷，所有你前往維也納旅遊前需要的資訊都在這！"
 draft: false
@@ -80,7 +78,7 @@ city: "維也納"
 
 此外，你有各種不同的交通選擇往返機場和維也納市區，包括了私人租車、計程車（還有 Uber 和 Lyft）、機場巴士、一般火車、[**快速直達火車**](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1011857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F8895-vienna-city-airport-train-ticket-vienna%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D160621ce0b)等，你可以根據自身的預算和時間做出適當的選擇，大多數旅客的需求，使用火車和計程車就可以滿足。
 
-想要了解更多各種交通方式的差別和細節，你可以參考這篇[**維也納機場到市區交通全攻略**](/posts/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E6%A9%9F%E5%A0%B4%E5%88%B0%E5%B8%82%E5%8D%80%E4%BA%A4%E9%80%9A%E5%85%A8%E6%94%BB%E7%95%A5/)。
+想要了解更多各種交通方式的差別和細節，你可以參考這篇[**維也納機場到市區交通全攻略**](/posts/vienna-airport-to-city-center-transportation/)。
 
 ![](wien.webp)
 {{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}
@@ -542,8 +540,8 @@ insert image
 
 ![](e-book-1-austria.webp)
 
-如果時間夠多，推薦你到東邊的斯洛伐克首都[**布拉提斯拉瓦（Bratislava）半日遊或一日遊**](/posts/%E5%B8%83%E6%8B%89%E6%8F%90%E6%96%AF%E6%8B%89%E7%93%A6%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A%E5%85%A8%E6%94%BB%E7%95%A5/)。
+如果時間夠多，推薦你到東邊的斯洛伐克首都[**布拉提斯拉瓦（Bratislava）半日遊或一日遊**](/posts/bratislava-travel-guide/)。
 
 > 推薦閱讀：[中歐自由行｜維也納到斯洛伐克布拉提斯拉瓦來回交通指南](/posts/vienna-bratislava-transport-guide/)
 
-而遊完維也納後，也可以很輕鬆的搭火車前往位在西邊的[哈修塔特（德文：Hallstatt）](/posts/哈修塔特自由行/)、或是要[前往匈牙利布達佩斯](/posts/vienna-budapest-transport)或捷克布拉格都從維也納主火車站（德文：Hbf Wien）有直達火車。甚至你想要直接從維也納飛到其他歐洲國家大城市、又或是飛回台灣都有直達班機喔！
+而遊完維也納後，也可以很輕鬆的搭火車前往位在西邊的[哈修塔特（德文：Hallstatt）](/posts/hallstatt-travel-guide/)、或是要[前往匈牙利布達佩斯](/posts/vienna-budapest-transport)或捷克布拉格都從維也納主火車站（德文：Hbf Wien）有直達火車。甚至你想要直接從維也納飛到其他歐洲國家大城市、又或是飛回台灣都有直達班機喔！

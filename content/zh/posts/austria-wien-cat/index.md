@@ -1,6 +1,8 @@
 ---
 title: "維也納機場快線 CAT 教學｜票價、時刻表、購票連結、是否值得搭全解析"
-slug: "維也納機場快線-cat"
+slug: "vienna-airport-city-airport-train"
+alias:
+- 維也納機場快線-cat
 date: 2025-04-20
 description: "前往維也納市區最方便的交通方式！機場快線 CAT 直達 Wien Mitte 只需 16 分鐘，附票價表、時刻表、搭乘攻略與優惠購票連結，適合自由行新手、親子旅客與行動不便者。"
 draft: false
@@ -25,13 +27,13 @@ city: "維也納"
 
 機場快線是維也納機場站和 Wien Mitte（英文：Vienna Center；暫譯：維也納中央車站）兩站的直達車，只要 16 分鐘就可以抵達到站。
 
-*注意：[**Wien Mitte（維也納中央車站）和 Wien Hbf（維也納主火車站）是不同的車站**](/posts/維也納市區交通攻略/)！
+*注意：[**Wien Mitte（維也納中央車站）和 Wien Hbf（維也納主火車站）是不同的車站**](/posts/vienna-public-transportation-guide/)！
 
 ## 維也納機場快線 CAT 方便嗎？
 
 ![](cat2.webp)
 
-只要不是選在半夜的時間，在[所有往返維也納機場和市區的方式](/posts/維也納機場到市區交通全攻略/)裡面，維也納機場快線 CAT 可以說是最方便的選擇。
+只要不是選在半夜的時間，在[所有往返維也納機場和市區的方式](/posts/vienna-airport-to-city-center-transportation/)裡面，維也納機場快線 CAT 可以說是最方便的選擇。
 
 在維也納機場，維也納機場快線 CAT 的淺綠色標示非常顯眼，想要錯過都很難。從機場上 CAT 火車，搭一站 16 分鐘就抵達中央車站（Wien Mitte）下車，完全不怕下錯車。
 
@@ -56,7 +58,7 @@ city: "維也納"
 
 維也納機場快線 CAT 非常適合⋯
 
-- [第一次來到維也納，準備從維也納機場到市中心的自由行旅客](/posts/維也納自由行/)。
+- [第一次來到維也納，準備從維也納機場到市中心的自由行旅客](/posts/vienna-travel-guide/)。
 - 趕時間的旅客。
 - 住宿地點就位在中央車站（Wien Mitte）、或是地鐵線 U3 和 U4 的旅客。
 - 有 14 歲以下孩童同行的旅客。
@@ -113,7 +115,7 @@ CAT 發車時間重點整理：
 | 22 點  | 07 分 / 37 分                  | 07 分 / 37 分    |
 | 23 點  | 07 分                          | 07 分 / 37 分    |
 
-決定好搭程維也納機場快線 CAT 前往維也納市區了嗎？那你可能也會想知道[**維也納交通核心區的交通和購票方式**](/posts/維也納市區交通攻略/)！
+決定好搭程維也納機場快線 CAT 前往維也納市區了嗎？那你可能也會想知道[**維也納交通核心區的交通和購票方式**](/posts/vienna-public-transportation-guide/)！
 
 ![](wien.webp)
 {{< button label="下載地圖" link="https://exittaiwan.gumroad.com/l/wien" style="solid" >}}

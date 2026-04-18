@@ -18,7 +18,7 @@ city: 布拉提斯拉瓦
 🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
 {{< /notice >}}
 
-布拉提斯拉瓦（英文：Bratislava）是斯洛伐克（英文：Slovakia）的首都，位在[奧地利維也納](/posts/維也納自由行/)的東邊車程大概一小時的位置。
+布拉提斯拉瓦（英文：Bratislava）是斯洛伐克（英文：Slovakia）的首都，位在[奧地利維也納](/posts/vienna-travel-guide/)的東邊車程大概一小時的位置。
 
 要是你預計在維也納待比較多天，那麽天氣好的時候，很適合花個半天到一天的時間，從維也納出發到布拉提斯拉瓦走一走看一看。
 
@@ -36,7 +36,7 @@ city: 布拉提斯拉瓦
 
 奧地利國鐵（德文：ÖBB）的火車每個小時都會從維也納主火車站（英文：Vienna Central Station，德文：Wien Hbf）有一班火車前往布拉提斯拉瓦，行程時間約為一個小時。
 
-> 推薦閱讀：[維也納主火車站 Wien Hbf在哪裡？｜維也納市區交通攻略](/posts/維也納市區交通攻略/)
+> 推薦閱讀：[維也納主火車站 Wien Hbf在哪裡？｜維也納市區交通攻略](/posts/vienna-public-transportation-guide/)
 
 到布拉提斯拉瓦的火車站 Železničná stanica Bratislava-Petržalka（暫譯：佩特爾日爾卡火車站），到了車站後直接出大門搭乘 80 號公車，或是走過地下道搭 93 號公車，約車程十分鐘就可以到達布拉提斯拉瓦市中心。
 
@@ -72,7 +72,7 @@ city: 布拉提斯拉瓦
 
 **上車時建議選擇 Most SNP 或 Mlynské Nivy 巴士站
 
-> 推薦閱讀：[Most SNP 是哪裡？布拉提斯拉瓦景點懶人包](/posts/布拉提斯拉瓦自由行旅遊全攻略/)
+> 推薦閱讀：[Most SNP 是哪裡？布拉提斯拉瓦景點懶人包](/posts/bratislava-travel-guide/)
 
 ## 搭船往返維也納和布拉提斯拉瓦
 
