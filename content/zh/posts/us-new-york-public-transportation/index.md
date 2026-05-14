@@ -1,7 +1,7 @@
 ---
 title: "紐約自由行市區交通全攻略｜五種紐約交通方式一次看懂"
 slug: "new-york-city-public-transportation"
-alias:
+aliases:
 - 紐約市區交通全攻略
 date: 2023-12-11
 description: "紐約市區交通方式的實用資訊，包含價格、購票方式、和優缺點比較，讓你在紐約自由行輕鬆走跳！"

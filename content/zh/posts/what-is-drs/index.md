@@ -1,7 +1,7 @@
 ---
 title: "在國外超市買飲料，發現結帳金額不對？帶你認識多國實施的環保押金制度"
 slug: "what-is-deposit-return-scheme"
-alias:
+aliases:
 - 環保押金制度是什麼
 date: 2026-04-05
 description: "環保押金回收制度是什麼、各國的押金金額一覽，以及如何透過超市自動回收機退回押金。"

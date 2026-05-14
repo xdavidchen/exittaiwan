@@ -1,7 +1,7 @@
 ---
 title: "紐約交通卡 OMNY Card 完整介紹：是什麼？怎麼買？實體卡還是信用卡？怎麼用最划算？"
 slug: "new-york-city-omny-card"
-alias:
+aliases:
 - 紐約交通卡-omny
 date: 2026-04-12
 description: "紐約交通卡 OMNY Card 完整介紹：怎麼買、怎麼用、票價怎麼算？取代 MetroCard 的非接觸式系統，支援信用卡、Apple Pay 直接感應，七天 35 美元封頂優惠懶人包。"

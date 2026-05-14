@@ -1,7 +1,7 @@
 ---
 title: "紐約機場怎麼到曼哈頓？甘迺迪機場到市區交通全攻略"
 slug: "new-york-airports-to-city-center-transportation"
-alias:
+aliases:
 - 紐約機場到市區交通全攻略
 date: 2023-08-31
 description: "這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。"

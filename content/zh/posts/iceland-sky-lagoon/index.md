@@ -1,7 +1,7 @@
 ---
 title: "冰島天空溫泉 Sky Lagoon 完整攻略｜無邊際海景、七步水療儀式，冰島自駕行中最值得的體驗"
 slug: "iceland-sky-lagoon"
-alias:
+aliases:
 - 冰島天空溫泉
 date: 2026-04-18
 description: "冰島天空溫泉完整攻略！地址、營業時間、票價比較、怎麼去、要買哪個方案一次看懂。"

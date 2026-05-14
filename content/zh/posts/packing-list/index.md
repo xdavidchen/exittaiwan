@@ -1,7 +1,7 @@
 ---
 title: 【旅行清單】出國要帶什麼？出國自由行行李清單，行前不再手忙腳亂（免費下載）
 slug: "travel-abroad-packing-list"
-alias:
+aliases:
 - 出國行李打包
 description: "旅行清單供你檢查！距離出國自由行還有一個月，已經開始慌張不知道要怎麼打包行李了嗎？出國時行李要帶什麼？哪些東西可以帶、哪些不行？ "
 draft: false

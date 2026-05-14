@@ -1,7 +1,7 @@
 ---
 title: "維也納機場快線 CAT 教學｜票價、時刻表、購票連結、是否值得搭全解析"
 slug: "vienna-airport-city-airport-train"
-alias:
+aliases:
 - 維也納機場快線-cat
 date: 2025-04-20
 description: "前往維也納市區最方便的交通方式！機場快線 CAT 直達 Wien Mitte 只需 16 分鐘，附票價表、時刻表、搭乘攻略與優惠購票連結，適合自由行新手、親子旅客與行動不便者。"

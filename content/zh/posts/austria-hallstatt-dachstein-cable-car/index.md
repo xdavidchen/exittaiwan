@@ -1,7 +1,7 @@
 ---
 title: "【哈修塔特】達克斯坦山纜車乘坐教學｜來到哈修塔特旅遊前就摸熟纜車路線！"
 slug: "hallstatt-dachstein-cable-cars"
-alias:
+aliases:
 - 達克斯坦山纜車乘坐教學
 date: 2024-08-03
 description: "哈修塔特到底有幾條纜車路線？這篇文章告訴你所有關於達克斯坦山纜車的資訊！"

@@ -1,7 +1,7 @@
 ---
 title: 歐洲行前準備｜歐洲自由行前你必須知道的事【歐洲自由行旅行指南】 
 slug: "europe-trip-prep"
-alias:
+aliases:
 - 歐洲自由行前準備
 description: "歐洲由行最大的魅力就是自己掌握節奏，但也因為沒有導遊帶路，很多細節得自己搞定，快看看出發前要做哪些準備吧！"
 draft: false

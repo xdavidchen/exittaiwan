@@ -1,7 +1,7 @@
 ---
 title: "維也納自由行市區交通攻略｜維也納交通核心區範圍到哪裡？這篇文章告訴你"
 slug: "vienna-public-transportation-guide"
-alias:
+aliases:
 - 維也納市區交通攻略
 date: 2024-08-04
 description: "這篇文章詳細介紹從維也納市中心的各種交通及購票方式，讓你輕鬆在世界遺產中探索走跳！"

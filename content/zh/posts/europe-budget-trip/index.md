@@ -1,7 +1,7 @@
 ---
 title: 【歐洲自由行花費】保證省下 300 歐｜歐洲食衣住行樂全方位，馬上壓低歐洲生活花費！
 slug: "europe-travel-on-budget-tutorial"
-alias:
+aliases:
 - 歐洲自由行花費省錢攻略
 description: "想壓低歐洲自由行花費？本篇文章從食衣住行樂五大面向教你聰明省錢，自助旅遊也能高品質又不爆預算，歐洲自由行輕鬆上手！"
 draft: false

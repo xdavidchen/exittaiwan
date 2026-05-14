@@ -1,7 +1,7 @@
 ---
 title: "斯洛伐克首都｜布拉提斯拉瓦自由行全攻略：景點、交通懶人包"
 slug: "bratislava-travel-guide"
-alias:
+aliases:
 - 布拉提斯拉瓦自由行旅遊全攻略
 date: 2025-03-08
 description: "布拉提斯拉瓦旅遊須知、交通、景點，所有你前往布拉提斯拉瓦旅遊前需要的資訊都在這！"

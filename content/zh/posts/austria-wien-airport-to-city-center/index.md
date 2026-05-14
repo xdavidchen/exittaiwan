@@ -1,7 +1,7 @@
 ---
 title: "維也納機場市區來回自由行交通全攻略｜四種從維也納機場到市中心的方法"
 slug: "vienna-airport-to-city-center-transportation"
-alias:
+aliases:
 - 維也納機場到市區交通全攻略
 date: 2023-11-25
 description: "這篇文章詳細介紹從維也納機場到維也納市中心的各種交通方式、通車時間、價格比較、優缺點等實用資訊。"

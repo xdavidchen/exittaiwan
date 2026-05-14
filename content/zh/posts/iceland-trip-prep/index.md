@@ -1,7 +1,7 @@
 ---
 title: "冰島自駕遊行前｜冰島自駕出發前要準備什麼？追極光用哪些 App？"
 slug: "iceland-self-driving-trip-prep"
-alias:
+aliases:
 - 冰島自駕遊行前準備
 date: 2025-04-14
 description: "準備前往冰島來一趟充滿冒險的自駕行了嗎？這篇文章將幫助你在冰島自駕行前最好萬全準備，讓你享受一場一生難忘的旅程！"
