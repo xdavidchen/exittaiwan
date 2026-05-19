@@ -52,7 +52,7 @@ country: "德國"
 
 ## 新天鵝堡怎麼買票？
 
-在[天鵝堡官網]([https://www.hohenschwangau.de/en](https://www.hohenschwangau.de/en))購票是最便宜的選擇。但如果想要參加一日團，建議直接[購買一日團還有門票的選項](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1258416&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F3588-neuschwanstein-linderhof-royal-castle-oberammergau-tour-munich%2F)。
+在[天鵝堡官網](https://www.hohenschwangau.de/en)購票是最便宜的選擇。但如果想要參加一日團，建議直接[購買一日團還有門票的選項](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1258416&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F3588-neuschwanstein-linderhof-royal-castle-oberammergau-tour-munich%2F)。
 
 - 官方網站訂票連結：[https://shop.ticket-center-hohenschwangau.de/Shop/Index/en/39901](https://shop.ticket-center-hohenschwangau.de/Shop/Index/en/39901)
 - Klook 一日團預訂連結：[https://www.klook.com/zh-TW/activity/3588-neuschwanstein-linderhof-royal-castle-oberammergau-tour-munich/](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1258416&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F3588-neuschwanstein-linderhof-royal-castle-oberammergau-tour-munich%2F)
