@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ═══════════════════════════════════════════
+     SEO & META — edit this section
+     ═══════════════════════════════════════════ -->
+<title>冰島加油站油價即時資訊 | ExitTaiwan 出台灣</title>
+<meta name="description" content="查看冰島各加油站即時油價，包含 N1、Orkan、Atlantsolía 等主要加油站，支援中文、英文、冰島文介面。">
+<meta name="author" content="ExitTaiwan">
+<link rel="canonical" href="https://exittaiwan.com/tools/gas-prices/">
+
+<!-- Open Graph (Facebook / Line preview) -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://exittaiwan.com/tools/gas-prices/">
+<meta property="og:title" content="冰島加油站油價即時資訊 | ExitTaiwan 出台灣">
+<meta property="og:description" content="查看冰島各加油站即時油價，包含 N1、Orkan、Atlantsolía 等主要加油站。">
+<meta property="og:image" content="https://exittaiwan.com/images/og-gas-prices.jpg"><!-- 替換成實際圖片路徑 -->
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="冰島加油站油價即時資訊 | ExitTaiwan 出台灣">
+<meta name="twitter:description" content="查看冰島各加油站即時油價，包含 N1、Orkan、Atlantsolía 等主要加油站。">
+<meta name="twitter:image" content="https://exittaiwan.com/images/og-gas-prices.jpg"><!-- 替換成實際圖片路徑 -->
+
+<!-- Favicon — 替換成實際路徑 -->
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<!-- ═══════════════════════════════════════════ -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
+
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg:       #ffffff;
+    --surface:  #f7f7f7;
+    --surface2: #eeeeee;
+    --border:   rgba(0,0,0,0.08);
+    --border2:  rgba(0,0,0,0.18);
+    --text:     #1a1a1a;
+    --text2:    #444444;
+    --text3:    #888888;
+    --green:    #5B7E3C;
+    --green-dim:rgba(91,126,60,0.10);
+    --yellow:   #FFD65A;
+    --orange:   #FF9D23;
+    --red:      #EA5252;
+    --red-dim:  rgba(234,82,82,0.08);
+    --blue:     #4a90c4;
+    --font-display: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang TC', 'Noto Sans TC', 'Helvetica Neue', Arial, sans-serif;
+    --font-body:    -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    --font-mono:    ui-monospace, 'SF Mono', 'Cascadia Mono', monospace;
+  }
+
+  body { background:var(--bg); color:var(--text); font-family:var(--font-body); min-height:100vh; }
+
+  /* ── Hero ── */
+  .hero {
+    background: var(--green);
+    background-image:
+      repeating-linear-gradient(0deg, transparent, transparent 28px, rgba(0,0,0,0.04) 28px, rgba(0,0,0,0.04) 29px),
+      repeating-linear-gradient(90deg, transparent, transparent 28px, rgba(0,0,0,0.04) 28px, rgba(0,0,0,0.04) 29px);
+    border-bottom: 3px solid #3a5426;
+    padding: 2.5rem 0 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content:'';
+    position:absolute; top:0; right:0; bottom:0; left:0;
+    background: radial-gradient(ellipse at top left, rgba(255,214,90,0.18) 0%, transparent 60%);
+    pointer-events:none;
+  }
+  .hero-inner { max-width:1100px; margin:0 auto; padding:0 2rem; }
+  .hero-top { display:flex; align-items:flex-start; justify-content:space-between; flex-wrap:wrap; gap:1rem; }
+  .hero-title {
+    font-family: var(--font-display);
+    font-size: clamp(1.8rem,4.5vw,2.8rem);
+    font-weight: 900;
+    letter-spacing: -0.01em;
+    line-height: 1.05;
+    color: #fff;
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.2);
+  }
+  .hero-title span { color: var(--yellow); }
+  .hero-sub { margin-top:0.5rem; font-size:0.8rem; color:rgba(255,255,255,0.65); font-family:var(--font-body); }
+  .hero-right { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+
+  .live-badge {
+    display:flex; align-items:center; gap:6px;
+    background: var(--yellow);
+    border: 2px solid #c9a700;
+    border-radius: 4px;
+    padding: 4px 10px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: #1E1A10;
+    font-family: var(--font-body);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .live-dot { width:7px; height:7px; border-radius:50%; background:#3a5426; animation:pulse 2s ease-in-out infinite; }
+  @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.4;transform:scale(0.8)} }
+
+  /* Lang dropdown */
+  .lang-select {
+    background: var(--bg);
+    border: 1.5px solid var(--border2);
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    color: var(--text);
+    font-family: var(--font-body);
+    cursor: pointer;
+    outline: none;
+  }
+  .lang-select:hover { border-color: var(--green); }
+  .lang-select option { background: var(--bg); color: var(--text); }
+
+  /* Stats */
+  .stats-row { max-width:1100px; margin:1.5rem auto 0; padding:0 2rem; display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:10px; }
+  .stat {
+    background: var(--surface);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    padding: 14px 16px;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    box-shadow: 3px 3px 0 rgba(60,45,20,0.12);
+  }
+  .stat-label { font-size:0.65rem; color:var(--text3); font-family:var(--font-body); text-transform:uppercase; letter-spacing:0.06em; margin-bottom:6px; }
+  .stat-value { font-family:var(--font-body); font-size:1.7rem; font-weight:700; letter-spacing:-0.01em; }
+  .stat-sub { font-size:0.7rem; color:var(--text2); margin-top:4px; font-family:var(--font-body); }
+  .stat-value.green { color:var(--green); }
+  .stat-value.amber { color:#b06d00; }
+  .stat-value.red   { color:var(--red); }
+
+  /* Controls */
+  .controls-wrap { max-width:1100px; margin:1.5rem auto 0; padding:0 2rem; }
+  .fuel-tabs { display:flex; gap:6px; margin-bottom:1rem; }
+  .fuel-tab {
+    font-family: var(--font-body);
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 6px 18px;
+    border-radius: 4px;
+    border: 2px solid var(--border2);
+    background: transparent;
+    color: var(--text2);
+    cursor: pointer;
+    transition: all 0.12s;
+    letter-spacing: 0.02em;
+  }
+  .fuel-tab.active { background:var(--green); border-color:var(--green); color:#fff; box-shadow:2px 2px 0 #3a5426; }
+  .fuel-tab:hover:not(.active) { border-color:var(--green); color:var(--green); }
+
+  .controls { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  .search-box { position:relative; flex:1; min-width:180px; }
+  .search-box svg { position:absolute; left:10px; top:50%; transform:translateY(-50%); color:var(--text3); width:15px; height:15px; pointer-events:none; }
+  .search-box input {
+    width:100%;
+    background: var(--surface);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    padding: 7px 10px 7px 32px;
+    font-size: 0.82rem;
+    color: var(--text);
+    font-family: var(--font-body);
+    outline: none;
+    transition: border-color 0.12s;
+  }
+  .search-box input::placeholder { color:var(--text3); }
+  .search-box input:focus { border-color:var(--green); }
+  select {
+    background: var(--surface);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    padding: 7px 10px;
+    font-size: 0.82rem;
+    color: var(--text);
+    font-family: var(--font-body);
+    outline: none;
+    cursor: pointer;
+  }
+  select:hover { border-color:var(--green); }
+  .refresh-btn {
+    display:flex; align-items:center; gap:6px;
+    background: var(--yellow);
+    border: 2px solid #c9a700;
+    border-radius: 4px;
+    padding: 7px 14px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #1E1A10;
+    font-family: var(--font-body);
+    cursor: pointer;
+    transition: all 0.12s;
+    margin-left: auto;
+    box-shadow: 2px 2px 0 #c9a700;
+  }
+  .refresh-btn:hover { background:#ffe07a; transform:translate(-1px,-1px); box-shadow:3px 3px 0 #c9a700; }
+  .refresh-btn:active { transform:translate(1px,1px); box-shadow:1px 1px 0 #c9a700; }
+  .refresh-btn svg { width:14px; height:14px; }
+
+  /* Table */
+  .table-wrap { max-width:1100px; margin:1rem auto 3rem; padding:0 2rem; }
+  .table-inner {
+    background: var(--surface);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    box-shadow: 4px 4px 0 rgba(60,45,20,0.12);
+  }
+  table { width:100%; border-collapse:collapse; min-width:520px; }
+  thead th {
+    background: var(--surface2);
+    padding: 11px 14px;
+    text-align: left;
+    font-size: 0.68rem;
+    font-family: var(--font-body);
+    font-weight: 600;
+    color: var(--text3);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-bottom: 2px solid var(--border2);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color:var(--text); }
+  thead th.sort-active { color:var(--green); }
+  .sort-arrow { margin-left:4px; opacity:0.4; }
+  .sort-active .sort-arrow { opacity:1; }
+  tbody tr { border-bottom:1px solid var(--border); transition:background 0.1s; }
+  tbody tr:last-child { border-bottom:none; }
+  tbody tr:hover { background:var(--surface2); }
+  td { padding:11px 14px; font-size:0.83rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .station-name { color:var(--text); font-weight:600; font-family:var(--font-body); }
+  .company-pill { display:inline-flex; align-items:center; font-size:0.7rem; font-family:var(--font-body); font-weight:600; padding:2px 8px; border-radius:3px; border:1.5px solid; }
+  .price-val { font-family:var(--font-body); font-size:1rem; font-weight:700; }
+  .price-val.best  { color:var(--green); }
+  .price-val.worst { color:var(--red); }
+  .disc-badge {
+    font-family: var(--font-body);
+    font-size: 0.66rem;
+    font-weight: 700;
+    color: #7a4e00;
+    background: var(--yellow);
+    border: 1.5px solid #c9a700;
+    border-radius: 3px;
+    padding: 1px 5px;
+    margin-left: 5px;
+    vertical-align: middle;
+  }
+  .bar-cell { display:flex; align-items:center; gap:8px; }
+  .bar-track { flex:1; height:5px; background:var(--surface2); border:1px solid var(--border); border-radius:0; overflow:hidden; }
+  .bar-fill { height:100%; }
+  .bar-pct { font-size:0.68rem; font-family:var(--font-body); color:var(--text3); min-width:28px; text-align:right; }
+  .state-row td { text-align:center; padding:3rem; color:var(--text2); font-size:0.85rem; font-family:var(--font-body); }
+  .spinner { display:inline-block; width:20px; height:20px; border:2px solid var(--border2); border-top-color:var(--green); border-radius:50%; animation:spin 0.7s linear infinite; margin-right:8px; vertical-align:middle; }
+  @keyframes spin { to{transform:rotate(360deg)} }
+  .discount-note { display:flex; align-items:flex-start; gap:7px; margin-top:0.75rem; font-size:0.75rem; color:var(--text3); font-family:var(--font-body); line-height:1.5; }
+  .error-box { background:#fff5f5; border:2px solid var(--red); border-radius:4px; padding:14px 16px; font-size:0.82rem; color:#8a1a1a; font-family:var(--font-body); display:flex; gap:10px; align-items:flex-start; margin:1rem 2rem; max-width:1100px; box-shadow:3px 3px 0 rgba(234,82,82,0.2); }
+
+
+  /* ── Navbar ── */
+  .navbar {
+    position: sticky; top: 0; z-index: 100;
+    height: 48px;
+    background: #fff;
+    border-bottom: 1.5px solid var(--border2);
+    display: flex; align-items: center;
+  }
+  .navbar-inner {
+    max-width: 1100px; margin: 0 auto; padding: 0 2rem;
+    width: 100%;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .navbar-logo {
+    font-family: 'Gasoek One', var(--font-body);
+    font-size: 1.1rem;
+    color: var(--text);
+    text-decoration: none;
+    letter-spacing: -0.01em;
+  }
+
+  .navbar-right { display: flex; align-items: center; gap: 12px; }
+  .navbar-link {
+    font-size: 0.8rem;
+    color: var(--text2);
+    text-decoration: none;
+    font-family: var(--font-body);
+  }
+  .navbar-link:hover { color: var(--green); }
+
+  /* ── Site footer ── */
+  .site-footer {
+    border-top: 1.5px solid var(--border2);
+    padding: 1.25rem 0;
+    margin-top: 1rem;
+  }
+  .site-footer-inner {
+    max-width: 1100px; margin: 0 auto; padding: 0 2rem;
+    display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 8px;
+    font-size: 0.75rem; color: var(--text3); font-family: var(--font-body);
+  }
+  .site-footer a { color: var(--text3); text-decoration: none; }
+
+  .site-footer-left { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
+  .site-footer-logo {
+    font-family: 'Gasoek One', var(--font-body);
+    font-size: 0.9rem;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  @media(max-width:600px){
+    .navbar-inner,.site-footer-inner{padding-left:1rem;padding-right:1rem}
+    .navbar-link{display:none}
+  }
+  @media(max-width:600px){
+    .hero{padding:1.5rem 0 1rem}
+    .hero-inner,.stats-row,.controls-wrap,.table-wrap,.footer{padding-left:1rem;padding-right:1rem}
+  }
+</style>
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="navbar-inner">
+    <a href="https://exittaiwan.com" class="navbar-logo">ExitTaiwan</a>
+    <div class="navbar-right">
+      <a href="https://exittaiwan.com" class="navbar-link" id="nav-back">← 回主網站</a>
+      <select class="lang-select" id="lang-picker" onchange="setLang(this.value)">
+        <option value="zh">🇹🇼 中文</option>
+        <option value="en">🇬🇧 English</option>
+        <option value="is">🇮🇸 Íslenska</option>
+      </select>
+    </div>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-top">
+      <div>
+        <h1 class="hero-title" id="hero-title-line1">Bensínverð<br><span id="hero-title-line2">á Íslandi</span></h1>
+        <p class="hero-sub">Uppfært frá Gasvaktin · <span id="updated-time"></span><span id="updated-status">tengist…</span></p>
+      </div>
+      <div class="hero-right">
+        <div class="live-badge"><div class="live-dot"></div><span id="live-label">LIVE</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="stats-row" id="stats-row"></div>
+</div>
+
+<div class="controls-wrap" style="padding-top:1.5rem">
+  <div class="fuel-tabs">
+    <button class="fuel-tab active" id="tab-bensin95" onclick="setFuel('bensin95')">⬡ <span id="fuel-label-bensin95">Bensín 95</span></button>
+    <button class="fuel-tab" id="tab-diesel" onclick="setFuel('diesel')">⬡ <span id="fuel-label-diesel">Dísel</span></button>
+  </div>
+  <div class="controls">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="search" oninput="render()">
+    </div>
+    <select id="company-filter" onchange="render()"></select>
+    <button class="refresh-btn" onclick="loadData()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></svg>
+      <span id="refresh-label">Uppfæra</span>
+    </button>
+  </div>
+  <p class="discount-note">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="flex-shrink:0;margin-top:1px"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+    <span id="discount-note-text">Verð með <strong style="color:var(--amber)">↓</strong> tákni sýnir afsláttarverð fyrir félagskortshafa (t.d. N1 Lykilkort, Ólís lykill).</span>
+  </p>
+</div>
+
+<div id="error-area" style="max-width:1100px;margin:0 auto"></div>
+
+<div class="table-wrap">
+  <div class="table-inner">
+    <table>
+      <thead>
+        <tr>
+          <th style="width:35%" onclick="sortBy('name')" id="th-name">
+            <span id="col-station">Stöð</span> <span class="sort-arrow" id="arr-name">↕</span>
+          </th>
+          <th style="width:18%" onclick="sortBy('company')" id="th-company">
+            <span id="col-company">Félag</span> <span class="sort-arrow" id="arr-company">↕</span>
+          </th>
+          <th style="width:17%" onclick="sortBy('price')" id="th-price" class="sort-active">
+            <span id="col-price">Verð/L</span> <span class="sort-arrow" id="arr-price">↑</span>
+          </th>
+          <th style="width:30%"><span id="col-compare">Samanburður</span></th>
+        </tr>
+      </thead>
+      <tbody id="tbody">
+        <tr class="state-row"><td colspan="4"><span class="spinner"></span><span id="loading-msg">Sæki gögn frá Gasvaktin…</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <div class="site-footer-left">
+      <a href="https://exittaiwan.com" class="site-footer-logo">ExitTaiwan</a>
+      <span id="footer-unit">價格單位：冰島克朗（ISK）/ 公升</span>
+      <span id="footer-refresh">每次載入頁面時更新</span>
+      <span><span id="footer-source">資料來源</span>: <a href="https://github.com/gasvaktin/gasvaktin" target="_blank">Gasvaktin</a></span>
+    </div>
+    <span>© <a href="https://exittaiwan.com">ExitTaiwan</a></span>
+  </div>
+</footer>
+
+<script>
+/* ── i18n strings ── */
+const LANG = {
+  is: {
+    title1: 'Bensínverð', title2: 'á Íslandi',
+    heroSub: 'Uppfært frá Gasvaktin · ',
+    connecting: 'tengist…',
+    live: 'LIVE',
+    statLowest: 'Lægsta verð', statLowestSub: 'Stöð', statAvg: 'Meðalverð', statAvgSub: 'allra stöðva',
+    statHighest: 'Hæsta verð', statHighestSub: 'munur', statCount: 'Stöðvar', statCountSub: 'með verðupplýsingar',
+    fuel95: 'Bensín 95', fuelDiesel: 'Dísel',
+    searchPlaceholder: 'Leita að stöð…',
+    allCompanies: 'Öll félög',
+    refresh: 'Uppfæra',
+    colStation: 'Stöð', colCompany: 'Félag', colPrice: 'Verð/L', colCompare: 'Samanburður',
+    loading: 'Sæki gögn frá Gasvaktin…',
+    noResults: 'Engar niðurstöður fundust.',
+    liveData: 'rauntímagögn',
+    sampleData: 'sýnigögn (CORS villa á localhost)',
+    errMsg: 'Gat ekki sótt gögn beint ({e}). Þetta gerist oft við localhost / sandkassi – á Hugo + Netlify virkar þetta fínt. Sýni sýnigögn að neðan.',
+    footerSource: 'Gögn', footerRefresh: 'Uppfærist við hvert síðuhleðslu', footerUnit: 'Verð í ISK á lítra',
+    discountNote: 'Verð með ↓ tákni sýnir afsláttarverð fyrir félagskortshafa (t.d. N1 Lykilkort, Ólís lykill).',
+    navBack: '← Til baka',
+  },
+  en: {
+    title1: 'Gas Prices', title2: 'in Iceland',
+    heroSub: 'Updated from Gasvaktin · ',
+    connecting: 'connecting…',
+    live: 'LIVE',
+    statLowest: 'Lowest price', statLowestSub: 'Station', statAvg: 'Average price', statAvgSub: 'across all stations',
+    statHighest: 'Highest price', statHighestSub: 'spread', statCount: 'Stations', statCountSub: 'with price data',
+    fuel95: 'Petrol 95', fuelDiesel: 'Diesel',
+    searchPlaceholder: 'Search station…',
+    allCompanies: 'All companies',
+    refresh: 'Refresh',
+    colStation: 'Station', colCompany: 'Company', colPrice: 'Price/L', colCompare: 'Comparison',
+    loading: 'Fetching data from Gasvaktin…',
+    noResults: 'No results found.',
+    liveData: 'live data',
+    sampleData: 'sample data (CORS error on localhost)',
+    errMsg: 'Could not fetch data directly ({e}). This often happens on localhost / sandbox — on Hugo + Netlify this works fine. Showing sample data below.',
+    footerSource: 'Data', footerRefresh: 'Updated on every page load', footerUnit: 'Prices in ISK per litre',
+    discountNote: 'Prices marked with ↓ show discounted rates for loyalty card holders (e.g. N1 Lykilkort, Ólís lykill).',
+    navBack: '← Back',
+  },
+  zh: {
+    title1: '冰島加油站', title2: '油價即時資訊',
+    heroSub: '資料來源：Gasvaktin · ',
+    connecting: '連接中…',
+    live: '即時',
+    statLowest: '最低油價', statLowestSub: '加油站', statAvg: '平均油價', statAvgSub: '所有加油站平均',
+    statHighest: '最高油價', statHighestSub: '價差', statCount: '加油站數量', statCountSub: '有價格資料',
+    fuel95: '汽油 95', fuelDiesel: '柴油',
+    searchPlaceholder: '搜尋加油站…',
+    allCompanies: '所有公司',
+    refresh: '更新',
+    colStation: '加油站', colCompany: '公司', colPrice: '每公升', colCompare: '比較',
+    loading: '正在抓取 Gasvaktin 資料…',
+    noResults: '找不到結果。',
+    liveData: '即時資料',
+    sampleData: '示範資料（localhost CORS 限制）',
+    errMsg: '無法直接抓取資料（{e}）。這通常發生在本地端 / 沙盒環境 — 部署到 Hugo + Netlify 後可正常運作。顯示示範資料如下。',
+    footerSource: '資料來源', footerRefresh: '每次載入頁面時更新', footerUnit: '價格單位：冰島克朗（ISK）/ 公升',
+    discountNote: '標有 ↓ 的價格為會員卡折扣價（如 N1 Lykilkort、Ólís lykill 等會員卡）。',
+    navBack: '← 回主網站',
+  },
+};
+
+const CO_STYLE = {
+  'N1':          {bg:'rgba(77,168,255,0.12)',  border:'rgba(77,168,255,0.3)',  color:'#7ec8ff'},
+  'Orkan':       {bg:'rgba(45,219,122,0.10)',  border:'rgba(45,219,122,0.3)',  color:'#2ddb7a'},
+  'Atlantsolía': {bg:'rgba(245,166,35,0.10)',  border:'rgba(245,166,35,0.3)',  color:'#f5c55a'},
+  'Ker':         {bg:'rgba(255,92,92,0.10)',   border:'rgba(255,92,92,0.25)',  color:'#ff8a8a'},
+  'ÓB':          {bg:'rgba(160,120,255,0.10)', border:'rgba(160,120,255,0.3)', color:'#c4a8ff'},
+  'Dælan':       {bg:'rgba(255,160,50,0.10)',  border:'rgba(255,160,50,0.3)',  color:'#ffb84d'},
+  'Costco Iceland':       {bg:'rgba(0,83,159,0.08)',    border:'rgba(0,83,159,0.25)',    color:'#4a90c4'},
+  'Olís':         {bg:'rgba(234,82,82,0.08)',   border:'rgba(234,82,82,0.25)',   color:'#ea5252'},
+};
+
+const SAMPLE = [
+  {name:'N1 Hlemmur',               company:'N1',          bensin95:259.9,diesel:239.9,bensin95_discount:255.9},
+  {name:'N1 Mjódd',                 company:'N1',          bensin95:259.9,diesel:239.9},
+  {name:'N1 Álftanes',              company:'N1',          bensin95:260.5,diesel:240.5},
+  {name:'Orkan Austurvegur',        company:'Orkan',       bensin95:257.4,diesel:237.9,bensin95_discount:253.9},
+  {name:'Orkan Suðurlandsbraut',    company:'Orkan',       bensin95:257.4,diesel:237.9},
+  {name:'Orkan Grindavík',          company:'Orkan',       bensin95:261.0,diesel:241.0},
+  {name:'Atlantsolía Hafnarfjörður',company:'Atlantsolía', bensin95:258.9,diesel:240.9},
+  {name:'Atlantsolía Selfoss',      company:'Atlantsolía', bensin95:262.9,diesel:244.9},
+  {name:'Ker Kópavogur',            company:'Ker',         bensin95:256.9,diesel:236.9},
+  {name:'Ker Garðabær',             company:'Ker',         bensin95:257.9,diesel:237.9},
+  {name:'ÓB Reykjavík',             company:'ÓB',          bensin95:255.5,diesel:235.5,bensin95_discount:252.0},
+  {name:'ÓB Breiðholt',             company:'ÓB',          bensin95:255.5,diesel:235.5},
+  {name:'Dælan Akureyri',           company:'Dælan',       bensin95:265.9,diesel:245.9},
+  {name:'Dælan Egilsstaðir',        company:'Dælan',       bensin95:268.9,diesel:248.9},
+  {name:'N1 Akureyri',              company:'N1',          bensin95:264.9,diesel:244.9},
+  {name:'Orkan Akranes',            company:'Orkan',       bensin95:259.9,diesel:240.9},
+];
+
+let stations = [], fuel = 'bensin95', sortCol = 'price', sortDir = 1;
+let currentLang = 'zh', dataLoaded = false, usingSample = false;
+
+function detectLang() {
+  const langs = (navigator.languages || [navigator.language || 'zh'])
+    .map(l => l.toLowerCase());
+  for (const l of langs) {
+    if (l.startsWith('zh')) return 'zh';
+    if (l.startsWith('is'))  return 'is';
+    if (l.startsWith('en'))  return 'en';
+  }
+  return 'zh'; // default fallback
+}
+
+/* ── Language ── */
+function setLang(lang) {
+  currentLang = lang;
+  const t = LANG[lang];
+  document.getElementById('hero-title-line1').childNodes[0].textContent = t.title1;
+  document.getElementById('hero-title-line2').textContent = t.title2;
+  document.querySelector('.hero-sub').firstChild.textContent = t.heroSub;
+  document.getElementById('live-label').textContent = t.live;
+  document.getElementById('fuel-label-bensin95').textContent = t.fuel95;
+  document.getElementById('fuel-label-diesel').textContent = t.fuelDiesel;
+  document.getElementById('search').placeholder = t.searchPlaceholder;
+  document.getElementById('refresh-label').textContent = t.refresh;
+  document.getElementById('col-station').textContent = t.colStation;
+  document.getElementById('col-company').textContent = t.colCompany;
+  document.getElementById('col-price').textContent = t.colPrice;
+  document.getElementById('col-compare').textContent = t.colCompare;
+  document.getElementById('footer-source').textContent = t.footerSource;
+  document.getElementById('footer-refresh').textContent = t.footerRefresh;
+  document.getElementById('footer-unit').textContent = t.footerUnit;
+  document.getElementById('discount-note-text').textContent = t.discountNote;
+  document.getElementById('nav-back').textContent = t.navBack;
+  // update the status label part of the timestamp (time stays unchanged)
+  const statusEl = document.getElementById('updated-status');
+  if (statusEl) statusEl.textContent = dataLoaded ? t.liveData : (usingSample ? t.sampleData : t.connecting);
+  populateCompanyFilter();
+  updateStats();
+  render();
+}
+
+/* ── Data loading ── */
+async function loadData() {
+  const t = LANG[currentLang];
+  document.getElementById('tbody').innerHTML =
+    `<tr class="state-row"><td colspan="4"><span class="spinner"></span>${t.loading}</td></tr>`;
+  document.getElementById('error-area').innerHTML = '';
+  try {
+    const res = await fetch('https://raw.githubusercontent.com/gasvaktin/gasvaktin/master/vaktin/gas.min.json',{cache:'no-cache'});
+    if (!res.ok) throw new Error('HTTP '+res.status);
+    const data = await res.json();
+    stations = Object.values(data.stations).filter(s=>s&&s.name).map(s=>({
+      name:s.name, company:s.company||guessCompany(s.name),
+      bensin95:s.bensin95||null, diesel:s.diesel||null,
+      bensin95_discount:s.bensin95_discount||null, diesel_discount:s.diesel_discount||null,
+    }));
+    const ts = new Date().toLocaleTimeString('is-IS',{hour:'2-digit',minute:'2-digit'});
+    document.getElementById('updated-time').textContent = ts + ' – ';
+    document.getElementById('updated-status').textContent = t.liveData;
+    dataLoaded = true; usingSample = false;
+  } catch(e) {
+    stations = SAMPLE;
+    dataLoaded = true; usingSample = true;
+    document.getElementById('updated-time').textContent = '';
+    document.getElementById('updated-status').textContent = t.sampleData;
+    document.getElementById('error-area').innerHTML = `
+      <div class="error-box" style="padding-left:2rem;padding-right:2rem">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="flex-shrink:0;margin-top:1px"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        <span>${t.errMsg.replace('{e}',e.message)}</span>
+      </div>`;
+  }
+  populateCompanyFilter();
+  updateStats();
+  render();
+}
+
+function guessCompany(name) {
+  for (const c of Object.keys(CO_STYLE)) if (name.includes(c)) return c;
+  return name.split(' ')[0];
+}
+
+function populateCompanyFilter() {
+  const t = LANG[currentLang];
+  const cos = [...new Set(stations.map(s=>s.company))].sort();
+  const prev = document.getElementById('company-filter').value;
+  document.getElementById('company-filter').innerHTML =
+    `<option value="">${t.allCompanies}</option>` +
+    cos.map(c=>`<option value="${c}"${c===prev?' selected':''}>${c}</option>`).join('');
+}
+
+function updateStats() {
+  const t = LANG[currentLang];
+  const prices = stations.map(s=>s[fuel]).filter(p=>p>0);
+  if (!prices.length){document.getElementById('stats-row').innerHTML='';return;}
+  const min=Math.min(...prices), max=Math.max(...prices);
+  const avg=prices.reduce((a,b)=>a+b,0)/prices.length;
+  const best=stations.find(s=>s[fuel]===min);
+  document.getElementById('stats-row').innerHTML = `
+    <div class="stat"><div class="stat-label">${t.statLowest}</div><div class="stat-value green">${min.toFixed(1)}<small style="font-size:.9rem"> kr</small></div><div class="stat-sub">${t.statLowestSub}: ${best?.name??'—'}</div></div>
+    <div class="stat"><div class="stat-label">${t.statAvg}</div><div class="stat-value amber">${avg.toFixed(1)}<small style="font-size:.9rem"> kr</small></div><div class="stat-sub">${t.statAvgSub}</div></div>
+    <div class="stat"><div class="stat-label">${t.statHighest}</div><div class="stat-value red">${max.toFixed(1)}<small style="font-size:.9rem"> kr</small></div><div class="stat-sub">${t.statHighestSub} ${(max-min).toFixed(1)} kr</div></div>
+    <div class="stat"><div class="stat-label">${t.statCount}</div><div class="stat-value" style="color:var(--blue)">${prices.length}</div><div class="stat-sub">${t.statCountSub}</div></div>
+  `;
+}
+
+function setFuel(f) {
+  fuel = f;
+  document.querySelectorAll('.fuel-tab').forEach(tab=>tab.classList.remove('active'));
+  document.getElementById('tab-'+f).classList.add('active');
+  updateStats(); render();
+}
+
+function sortBy(col) {
+  if (sortCol===col) sortDir*=-1; else{sortCol=col;sortDir=1;}
+  render();
+}
+
+function updateSortUI() {
+  ['name','company','price'].forEach(c=>{
+    const th=document.getElementById('th-'+c), arr=document.getElementById('arr-'+c);
+    if(!th||!arr) return;
+    if(sortCol===c){th.classList.add('sort-active');arr.textContent=sortDir===1?'↑':'↓';}
+    else{th.classList.remove('sort-active');arr.textContent='↕';}
+  });
+}
+
+function render() {
+  updateSortUI();
+  const t = LANG[currentLang];
+  const q = document.getElementById('search').value.toLowerCase();
+  const co = document.getElementById('company-filter').value;
+  const discKey = fuel+'_discount';
+
+  let rows = stations.filter(s=>{
+    if(!s[fuel]||s[fuel]<=0) return false;
+    if(q&&!s.name.toLowerCase().includes(q)&&!s.company.toLowerCase().includes(q)) return false;
+    if(co&&s.company!==co) return false;
+    return true;
+  });
+
+  rows.sort((a,b)=>{
+    const av=sortCol==='price'?a[fuel]:sortCol==='name'?a.name:a.company;
+    const bv=sortCol==='price'?b[fuel]:sortCol==='name'?b.name:b.company;
+    return av<bv?-sortDir:av>bv?sortDir:0;
+  });
+
+  if(!rows.length){
+    document.getElementById('tbody').innerHTML=`<tr class="state-row"><td colspan="4">${t.noResults}</td></tr>`;
+    return;
+  }
+
+  const prices=rows.map(s=>s[fuel]);
+  const minP=Math.min(...prices), maxP=Math.max(...prices), span=maxP-minP||1;
+
+  document.getElementById('tbody').innerHTML = rows.map(s=>{
+    const p=s[fuel], disc=s[discKey];
+    const pct=(p-minP)/span;
+    const barW=Math.max(4,Math.round(pct*100));
+    const isBest=p===minP, isWorst=p===maxP;
+    const barColor=isBest?'var(--green)':isWorst?'var(--red)':'var(--blue)';
+    const cs=CO_STYLE[s.company]||{bg:'rgba(255,255,255,0.05)',border:'rgba(255,255,255,0.15)',color:'var(--text2)'};
+    const discTag=disc&&disc>0&&disc<p?`<span class="disc-badge">↓${disc.toFixed(1)}</span>`:'';
+    return `<tr>
+      <td><div class="station-name">${s.name}</div></td>
+      <td><span class="company-pill" style="background:${cs.bg};border-color:${cs.border};color:${cs.color}">${s.company}</span></td>
+      <td><span class="price-val${isBest?' best':isWorst?' worst':''}">${p.toFixed(1)}</span><small style="font-size:.7rem;color:var(--text3);font-family:var(--font-body)"> kr</small>${discTag}</td>
+      <td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:${barW}%;background:${barColor}"></div></div><span class="bar-pct">${(pct*100).toFixed(0)}%</span></div></td>
+    </tr>`;
+  }).join('');
+}
+
+const detectedLang = detectLang();
+document.getElementById('lang-picker').value = detectedLang;
+setLang(detectedLang); // translates all static HTML elements first
+loadData();            // then fetches data (uses currentLang set by setLang)
+</script>
+</body>
+</html>
