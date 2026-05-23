@@ -1,16 +1,17 @@
 {{ define "main" }}
-<section class="section-sm mt-10">
+  {{ partial "page-header" . }}
+
+<section class="section-sm">
   <div class="container">
     <div class="row justify-center">
       <div class="md:col-10 lg:col-7">
-        <h2 class="h2 mb-6">{{ .Title }}</h2>
-        {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded-md shadow-md object-cover"
-        "Size" "800x300") }}
+        {{ if .Params.image }}{{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded-md shadow-md object-cover"
+        "Size" "800x300") }}{{ end }}
 
         <div class="content mt-5">{{ .Content }}</div>
       </div>
     </div>
   </div>
 </section>
-{{ partial "call-to-action" }}
+{{ partial "call-to-action" . }}
 {{ end }}

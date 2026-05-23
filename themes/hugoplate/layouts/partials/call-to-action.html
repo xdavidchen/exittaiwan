@@ -1,14 +1,15 @@
 <!-- Call to actions -->
+{{ $caller := . }}
 {{ with site.GetPage "sections/call-to-action" }}
 {{ if .Params.enable }}
-<section class="mb-28">
+<section class="{{ if $caller.IsHome }}pb-28 bg-linear-to-b from-white to-body dark:from-darkmode-body dark:to-darkmode-light{{ else }}mb-28 bg-body dark:bg-darkmode-body{{ end }}">
   <div class="container">
-    <div class="bg-light dark:bg-darkmode-light rounded-xl px-4 py-16 xl:p-20">
-      <div class="flex items-center justify-center text-center flex-col">
-        <h2 class="mb-2">
+    <div class="bg-primary dark:bg-darkmode-light rounded-xl px-4 py-16 xl:p-20">
+      <div class="flex items-center justify-center text-center flex-col text-white">
+        <h2 class="mb-2 text-white [text-shadow:2px_2px_0_rgba(0,0,0,0.2)]">
           {{ .Title | markdownify }}
         </h2>
-        <p class="mb-6">
+        <p class="mb-6 text-white/80">
           {{ .Params.description | markdownify }}
         </p>
         {{ with .Params.form }}
@@ -16,9 +17,9 @@
         <form action="{{ site.Params.subscription.mailchimp_form_action | safeURL }}" method="post"
           id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="w-full sm:w-6/12!" target="_blank"
           novalidate>
-          <div class="flex border border-dark dark:border-white rounded-md overflow-hidden sm:mr-4 md:mr-8">
+          <div class="flex border border-white/40 dark:border-white rounded-md overflow-hidden sm:mr-4 md:mr-8">
             <!-- Email input -->
-            <input type="email" name="EMAIL" id="mce-EMAIL" class="form-input rounded-none w-8/12 "
+            <input type="email" name="EMAIL" id="mce-EMAIL" class="form-input rounded-none! border-r-0! w-8/12 "
               placeholder="{{ .placeholder }}" required />
 
             <!-- Honeypot for bots -->
@@ -28,7 +29,7 @@
 
             <!-- Submit button -->
             <button type="submit" name="subscribe" id="mc-embedded-subscribe"
-              class="btn btn-primary rounded-none cursor-pointer w-4/12 ">
+              class="btn rounded-none cursor-pointer w-4/12 bg-accent border-accent text-ink font-bold hover:bg-accent-dark hover:border-accent-dark">
               {{ .button }}
             </button>
           </div>

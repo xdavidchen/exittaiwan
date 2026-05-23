@@ -3,8 +3,8 @@
 <section class="mt-5">
   <div class="container text-center">
     <div
-      class="bg-[{{ $page_header.bg_color_lightmode }}] dark:bg-[{{ $page_header.bg_color_darkmode }}] rounded-2xl  px-8 py-14">
-      <h1 class="text-[{{ $page_header.text_color_lightmode }}] dark:text-[{{ $page_header.text_color_darkmode }}]">{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
+      class="bg-primary dark:bg-darkmode-light rounded-2xl px-8 py-14">
+      <h1 class="text-white dark:text-white [text-shadow:2px_2px_0_rgba(0,0,0,0.2)]">{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
       {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
     </div>
   </div>

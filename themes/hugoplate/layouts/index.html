@@ -1,188 +1,182 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section-sm">
-      <div class="container">
-        <div class="row items-center justify-between gap-y-10">
-          <div class="lg:col-7 ">
-            <h2 class="mb-4">
-              {{ .title | markdownify }}
-            </h2>
-            <p class="mb-8 text-lg">
-              {{ .content | markdownify }}
+    <section class="relative overflow-hidden" style="min-height: 92vh;">
+      <!-- Background gallery slides -->
+      {{ $slides := .gallery | default (slice .image) }}
+      {{ range $i, $src := $slides }}
+        {{ $img := resources.Get $src }}
+        <div class="hero-slide absolute inset-0 z-0"
+             style="background-image: url('{{ if $img }}{{ ($img.Fit "1920x1080").RelPermalink }}{{ else }}{{ $src | relURL }}{{ end }}'); background-size: cover; background-position: center; opacity: {{ if eq $i 0 }}1{{ else }}0{{ end }}; transition: opacity 1.5s ease-in-out;"></div>
+      {{ end }}
+      <!-- Dark overlay -->
+      <div class="absolute inset-0 z-1 bg-black/55"></div>
+
+      <script>
+        (function () {
+          var slides, current;
+          function init() {
+            slides = document.querySelectorAll('.hero-slide');
+            if (slides.length <= 1) return;
+            current = 0;
+            setInterval(function () {
+              slides[current].style.opacity = '0';
+              current = (current + 1) % slides.length;
+              slides[current].style.opacity = '1';
+            }, 5000);
+          }
+          document.readyState === 'loading'
+            ? document.addEventListener('DOMContentLoaded', init)
+            : init();
+        })();
+      </script>
+
+      <!-- Hero layout -->
+      <div class="container relative z-10 flex flex-col justify-between py-20 md:py-28" style="min-height: 92vh;">
+
+        <!-- Top group: mobile = stacked col; desktop = side-by-side row -->
+        <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-4 md:gap-8">
+          <h1 class="font-gasoek text-white font-black leading-none shrink-0 [text-shadow:2px_2px_0_rgba(0,0,0,0.2)]"
+              style="font-size: clamp(2.8rem, 8vw, 8rem);">
+            {{ .title_top | markdownify }}
+          </h1>
+          {{ with .description }}
+            <p class="text-white/85 text-sm md:text-base leading-relaxed md:text-right md:max-w-sm md:pt-2">
+              {{ . | markdownify }}
             </p>
-            <div class="flex flex-col sm:flex-row items-start mt-15">
-              {{ with .form }}
-                {{ if .enable }}
-                  {{ if site.Params.subscription.enable }}
-                    <form
-                      action="{{ site.Params.subscription.mailchimp_form_action | safeURL }}"
-                      method="post"
-                      id="mc-embedded-subscribe-form"
-                      name="mc-embedded-subscribe-form"
-                      class="w-full sm:w-8/12"
-                      target="_blank"
-                      novalidate>
-                      <div
-                        class="flex border border-dark dark:border-white rounded-md overflow-hidden sm:mr-4 md:mr-8 mb-4">
-                        <!-- Email input -->
-                        <input
-                          type="email"
-                          name="EMAIL"
-                          id="mce-EMAIL"
-                          class="form-input rounded-none w-8/12 "
-                          placeholder="{{ .placeholder }}"
-                          required />
+          {{ end }}
+        </div>
 
-                        <!-- Honeypot for bots -->
-                        <div
-                          style="position: absolute; left: -5000px;"
-                          aria-hidden="true">
-                          <input
-                            type="text"
-                            name="{{ site.Params.subscription.mailchimp_form_name }}"
-                            tabindex="-1"
-                            value="" />
-                        </div>
-
-                        <!-- Submit button -->
-                        <button
-                          type="submit"
-                          name="subscribe"
-                          id="mc-embedded-subscribe"
-                          class="btn btn-primary rounded-none cursor-pointer w-4/12 ">
-                          {{ .button }}
-                        </button>
-                      </div>
-
-                      <!-- Validation message -->
-                      <div
-                        id="email-validation-message"
-                        class="text-sm text-red-600 hidden">
-                        請輸入有效的電子郵件。
-                      </div>
-
-                      <!-- Success and error response messages -->
-                      <div id="mce-responses" class="mt-4 text-sm">
-                        <div
-                          class="text-red-600 hidden"
-                          id="mce-error-response"></div>
-                        <div
-                          class="text-green-600 hidden"
-                          id="mce-success-response"></div>
-                      </div>
-                    </form>
-
-                    <!-- Mailchimp script -->
-                    <script
-                      type="text/javascript"
-                      src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-                    <script>
-                      (function ($) {
-                        window.fnames = new Array();
-                        window.ftypes = new Array();
-                        fnames[0] = "EMAIL";
-                        ftypes[0] = "email";
-                      })(jQuery);
-                      var $mcj = jQuery.noConflict(true);
-                    </script>
-
-                    <!-- Custom JS for validation and button feedback -->
-                    <script>
-                      document.addEventListener(
-                        "DOMContentLoaded",
-                        function () {
-                          const form = document.getElementById(
-                            "mc-embedded-subscribe-form",
-                          );
-                          const emailInput =
-                            document.getElementById("mce-EMAIL");
-                          const submitButton = document.getElementById(
-                            "mc-embedded-subscribe",
-                          );
-                          const validationMessage = document.getElementById(
-                            "email-validation-message",
-                          );
-                          const successMsg = document.getElementById(
-                            "mce-success-response",
-                          );
-
-                          const originalButtonText = submitButton.innerText;
-
-                          form.addEventListener("submit", function (e) {
-                            const email = emailInput.value.trim();
-                            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-
-                            if (!emailRegex.test(email)) {
-                              e.preventDefault(); // Stop the form from submitting
-                              validationMessage.classList.remove("hidden");
-                              emailInput.classList.add("border-red-500");
-                              return;
-                            }
-
-                            // Valid email: hide validation message
-                            validationMessage.classList.add("hidden");
-                            emailInput.classList.remove("border-red-500");
-
-                            // Show "Sending..." and disable button
-                            submitButton.disabled = true;
-                            submitButton.innerText = "提交中...";
-                            submitButton.classList.add("cursor-not-allowed!");
-                            submitButton.classList.add("opacity-50");
-
-                            // Re-enable button after 3 seconds
-                            setTimeout(() => {
-                              submitButton.disabled = false;
-                              submitButton.innerText = originalButtonText;
-                              submitButton.classList.remove(
-                                "cursor-not-allowed!",
-                              );
-                              submitButton.classList.remove("opacity-50");
-                            }, 3000);
-                          });
-
-                          // Watch for success message and hide after 5 seconds
-                          const observer = new MutationObserver(() => {
-                            if (successMsg.innerText.trim() !== "") {
-                              successMsg.classList.remove("hidden");
-
-                              setTimeout(() => {
-                                successMsg.classList.add("hidden");
-                                successMsg.innerText = "";
-                              }, 5000);
-                            }
-                          });
-
-                          observer.observe(successMsg, { childList: true });
-                        },
-                      );
-                    </script>
-                  {{ end }}
-                {{ end }}
-              {{ end }}
-
-              {{ with .button }}
-                {{ if .enable }}
-                  <a
-                    class="btn btn-primary md:py-3 mt-8 sm:mt-0 mb-4"
-                    href="{{ .link | absURL }}"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    {{ .label }}
-                    <i class="fa fa-arrow-right pl-2"></i>
-                  </a>
-                {{ end }}
+        <!-- Bottom group: mobile = stacked col; desktop = side-by-side row -->
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-4">
+          {{ with .round_buttons }}
+            {{ $colors := dict "primary" "#5B7E3C" "accent" "#FFD65A" "accent-dark" "#FF9D23" }}
+            <div class="flex gap-3">
+              {{ range . }}
+                {{ $bg := index $colors .color | default "#5B7E3C" }}
+                <a href="{{ .url | absURL }}"
+                   class="w-14 h-14 rounded-full flex items-center justify-center text-white text-lg transition hover:scale-110"
+                   style="background-color: {{ $bg }};">
+                  <i class="{{ .icon }}"></i>
+                </a>
               {{ end }}
             </div>
-          </div>
-          <div class="lg:col-5 mb-6">
-            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD"
-              "360x")
-            }}
-          </div>
+          {{ else }}
+            <div></div>
+          {{ end }}
+          <h1 class="font-gasoek text-white font-black leading-none text-left md:text-right [text-shadow:2px_2px_0_rgba(0,0,0,0.2)]"
+              style="font-size: clamp(2.8rem, 8vw, 8rem);">
+            {{ .title_bottom | markdownify }}
+          </h1>
         </div>
+
       </div>
     </section>
+
+    <!-- Email subscription section -->
+    {{ with .form }}
+      {{ if .enable }}
+        {{ if site.Params.subscription.enable }}
+          <section class="section-sm bg-linear-to-b from-body to-[rgba(249,249,249,1)] dark:from-darkmode-body dark:to-darkmode-light">
+            <div class="container">
+              <div class="max-w-xl mx-auto text-center">
+                <p class="mb-6 text-lg">
+                  {{ $.Params.banner.description | markdownify }}
+                </p>
+                <form
+                  action="{{ site.Params.subscription.mailchimp_form_action | safeURL }}"
+                  method="post"
+                  id="mc-embedded-subscribe-form"
+                  name="mc-embedded-subscribe-form"
+                  class="w-full"
+                  target="_blank"
+                  novalidate>
+                  <div class="flex border border-dark dark:border-white rounded-md overflow-hidden mb-2">
+                    <input
+                      type="email"
+                      name="EMAIL"
+                      id="mce-EMAIL"
+                      class="form-input rounded-none! border-r-0! w-full"
+                      placeholder="{{ .placeholder }}"
+                      required />
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                      <input type="text" name="{{ site.Params.subscription.mailchimp_form_name }}" tabindex="-1" value="" />
+                    </div>
+                    <button
+                      type="submit"
+                      name="subscribe"
+                      id="mc-embedded-subscribe"
+                      class="btn btn-primary rounded-none! cursor-pointer whitespace-nowrap">
+                      {{ .button }}
+                    </button>
+                  </div>
+                  <div id="email-validation-message" class="text-sm text-red-600 hidden">
+                    請輸入有效的電子郵件。
+                  </div>
+                  <div id="mce-responses" class="mt-4 text-sm">
+                    <div class="text-red-600 hidden" id="mce-error-response"></div>
+                    <div class="text-green-600 hidden" id="mce-success-response"></div>
+                  </div>
+                </form>
+
+                <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+                <script>
+                  (function ($) {
+                    window.fnames = new Array();
+                    window.ftypes = new Array();
+                    fnames[0] = "EMAIL";
+                    ftypes[0] = "email";
+                  })(jQuery);
+                  var $mcj = jQuery.noConflict(true);
+                </script>
+                <script>
+                  document.addEventListener("DOMContentLoaded", function () {
+                    const form = document.getElementById("mc-embedded-subscribe-form");
+                    const emailInput = document.getElementById("mce-EMAIL");
+                    const submitButton = document.getElementById("mc-embedded-subscribe");
+                    const validationMessage = document.getElementById("email-validation-message");
+                    const successMsg = document.getElementById("mce-success-response");
+                    const originalButtonText = submitButton.innerText;
+
+                    form.addEventListener("submit", function (e) {
+                      const email = emailInput.value.trim();
+                      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                      if (!emailRegex.test(email)) {
+                        e.preventDefault();
+                        validationMessage.classList.remove("hidden");
+                        emailInput.classList.add("border-red-500");
+                        return;
+                      }
+                      validationMessage.classList.add("hidden");
+                      emailInput.classList.remove("border-red-500");
+                      submitButton.disabled = true;
+                      submitButton.innerText = "提交中...";
+                      submitButton.classList.add("cursor-not-allowed!", "opacity-50");
+                      setTimeout(() => {
+                        submitButton.disabled = false;
+                        submitButton.innerText = originalButtonText;
+                        submitButton.classList.remove("cursor-not-allowed!", "opacity-50");
+                      }, 3000);
+                    });
+
+                    const observer = new MutationObserver(() => {
+                      if (successMsg.innerText.trim() !== "") {
+                        successMsg.classList.remove("hidden");
+                        setTimeout(() => {
+                          successMsg.classList.add("hidden");
+                          successMsg.innerText = "";
+                        }, 5000);
+                      }
+                    });
+                    observer.observe(successMsg, { childList: true });
+                  });
+                </script>
+              </div>
+            </div>
+          </section>
+        {{ end }}
+      {{ end }}
+    {{ end }}
   {{ end }}
 
 
@@ -301,5 +295,5 @@
   <!-- /Testimonials -->
 
   <!-- Call to Action -->
-   {{ partial "call-to-action" }}
+   {{ partial "call-to-action" . }}
 {{ end }}

@@ -8,12 +8,6 @@ name = "關於"
 url = "/about"
 weight = 3
 
-#[[main]]
-#parent = "關於"
-#name = "作者"
-#url = "/authors"
-#weight = 1
-
 [[main]]
 parent = "關於"
 name = "作者"
@@ -188,32 +182,37 @@ weight = 3
 #weight = 1
 
 [[footer_resources]]
-name = "Klook"
-url = "https://www.klook.com/?aid=41451&aff_adid=1007703&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=41451&utm_term=&utm_content=&aff_klick_id=93102626107-41451-1007703-c178e75"
-weight = 2
-
-[[footer_resources]]
-name = "ExitTaiwan Docs"
-url = "https://docs.exittaiwan.com/"
-weight = 3
-
-
-[[footer_links]]
 name = "製作旅遊手冊"
 url = "/posts/如何製作旅遊手冊"
 weight = 1
 
+[[footer_resources]]
+name = " 出國行李清單"
+url = "https://exittaiwan.gumroad.com/l/packing-list"
+weight = 2
+
+[[footer_resources]]
+name = "冰島油價追蹤"
+url = "/tools/iceland-gas-prices/"
+weight = 3
+
+
+[[footer_links]]
+name = "Klook"
+url = "https://www.klook.com/?aid=41451&aff_adid=1007703&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=41451&utm_term=&utm_content=&aff_klick_id=93102626107-41451-1007703-c178e75"
+weight = 1
+
+[[footer_links]]
+name = "ExitTaiwan Docs"
+url = "https://docs.exittaiwan.com/"
+weight = 2
+
 #[[footer_links]]
 #name = "邊旅遊，邊賺稿費"
 #url = "https://writer.exittaiwan.com/"
-#weight = 2
+#weight = 3
 
 #[[footer_links]]
 #name = "聯盟夥伴申請"
 #url = "https://l.exittaiwan.com/affiliate-footer"
-#weight = 3
-
-[[footer_links]]
-name = " 出國行李清單"
-url = "https://exittaiwan.gumroad.com/l/packing-list"
-weight = 4
+#weight = 4

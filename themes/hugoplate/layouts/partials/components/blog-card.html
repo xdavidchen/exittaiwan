@@ -1,17 +1,22 @@
-<div class="bg-body dark:bg-darkmode-body">
+<div class="bg-body dark:bg-darkmode-body h-full flex flex-col">
   {{ $image:= .Params.image }}
   {{ $cover:= .Params.cover }}
-  {{ if $image }}
-  {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mb-6 w-full rounded") }}
-  {{else}}
-  {{ partial "image" (dict "Src" $cover "Context" .Page "Alt" .Title "Class" "mb-6 w-full rounded") }}
-  {{ end }}
-  <div>
-    {{ if .Params.city }}
-      <a href="{{ `city/` | relLangURL }}{{ .Params.city | urlize }}/">{{ .Params.city }}{{ if .Params.country }}, {{ end }}</a>
+  {{ $thumb := $image | default $cover }}
+  <div class="relative mb-6 overflow-hidden rounded aspect-[3/2]">
+    {{ if $thumb }}
+      {{ partial "image" (dict "Src" $thumb "Context" .Page "Alt" .Title "Class" "w-full h-full object-cover" "Command" "Fill" "Size" "800x533 Center") }}
     {{ end }}
+    {{- $cardFrame := resources.Get "images/card-frame.png" -}}
+    {{- if $cardFrame -}}
+      <img src="{{ $cardFrame.RelPermalink }}" alt="" class="absolute inset-0 w-full h-full pointer-events-none select-none" aria-hidden="true">
+    {{- end -}}
+  </div>
+  <div>
     {{ if .Params.country }}
-     <a href="{{ `country/` | relLangURL }}{{ .Params.country | urlize }}/">{{ .Params.country }}</a>
+      <a href="{{ `country/` | relLangURL }}{{ .Params.country | urlize }}/">{{ .Params.country }}</a>{{ if .Params.city }}・{{ end }}
+    {{ end }}
+    {{ if .Params.city }}
+      <a href="{{ `city/` | relLangURL }}{{ .Params.city | urlize }}/">{{ .Params.city }}</a>
     {{ end }}
   </div>
   <h4 class="mb-3">
@@ -39,8 +44,8 @@
     </li>
   </ul>
   {{ end }}
-  <p class="mb-6">{{ .Description | plainify }}</p>
-  <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
+  <p class="mb-6 flex-grow">{{ .Description | plainify }}</p>
+  <a class="btn btn-outline-primary btn-sm self-start" href="{{ .RelPermalink }}">
     {{ T "read_more" }}
   </a>
 </div>

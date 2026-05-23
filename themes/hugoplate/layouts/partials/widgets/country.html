@@ -3,14 +3,14 @@
   {{ if not (eq (len site.Taxonomies.country) 0) }}
     <div class="mb-8">
       <h5 class="mb-6">{{ T "country" }}</h5>
-      <div class="bg-light dark:bg-darkmode-light rounded p-6">
+      <div class="bg-primary dark:bg-darkmode-light rounded p-6">
         <ul>
           {{ range $name, $items := site.Taxonomies.country }}
             <li class="inline-block">
               <a
-                class="hover:bg-primary dark:bg-darkmode-body dark:hover:bg-darkmode-primary dark:hover:text-text-dark {{ if (and (eq $.Page.Kind `term`) (eq $.Page.Type `country`) (eq $.Page.Title .Page.Title)) }}
+                class="hover:bg-accent-dark dark:bg-white dark:text-ink dark:hover:bg-accent-dark dark:hover:text-ink {{ if (and (eq $.Page.Kind `term`) (eq $.Page.Type `country`) (eq $.Page.Title .Page.Title)) }}
                   active
-                {{ end }} m-1 block rounded bg-white px-3 py-1 hover:text-white"
+                {{ end }} m-1 block rounded bg-accent px-3 py-1 text-ink hover:text-ink"
                 href="{{ .Page.RelPermalink }}">
                 {{ .Page.Title }}
               </a>

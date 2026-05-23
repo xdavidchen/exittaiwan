@@ -35,11 +35,11 @@
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   :root {
-    --bg:       #ffffff;
-    --surface:  #f7f7f7;
-    --surface2: #eeeeee;
-    --border:   rgba(0,0,0,0.08);
-    --border2:  rgba(0,0,0,0.18);
+    --bg:       #FFFBF0;
+    --surface:  #FFF8E0;
+    --surface2: #FFF0C4;
+    --border:   rgba(60,45,20,0.08);
+    --border2:  rgba(60,45,20,0.20);
     --text:     #1a1a1a;
     --text2:    #444444;
     --text3:    #888888;
@@ -217,21 +217,21 @@
   }
   table { width:100%; border-collapse:collapse; min-width:520px; }
   thead th {
-    background: var(--surface2);
+    background: #FFD65A;
     padding: 11px 14px;
     text-align: left;
     font-size: 0.68rem;
     font-family: var(--font-body);
     font-weight: 600;
-    color: var(--text3);
+    color: #1C1608;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    border-bottom: 2px solid var(--border2);
+    border-bottom: 2px solid #c9a700;
     cursor: pointer;
     user-select: none;
     white-space: nowrap;
   }
-  thead th:hover { color:var(--text); }
+  thead th:hover { color:var(--green); }
   thead th.sort-active { color:var(--green); }
   .sort-arrow { margin-left:4px; opacity:0.4; }
   .sort-active .sort-arrow { opacity:1; }

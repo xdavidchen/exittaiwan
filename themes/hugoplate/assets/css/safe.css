@@ -1,19 +1,11 @@
 /* navbar toggler */
-input#nav-toggle:checked + label #show-button {
-  @apply hidden;
-}
-
-input#nav-toggle:checked + label #hide-button {
-  @apply block;
-}
-
 input#nav-toggle:checked ~ #nav-menu {
   @apply block;
 }
 
 /* form style */
 .form-input {
-  @apply w-full rounded border-transparent bg-light px-6 py-3 text-text-dark placeholder:text-text-light focus:border-primary dark:focus:border-darkmode-primary focus:ring-transparent dark:border-darkmode-border dark:bg-darkmode-light dark:text-darkmode-text-light;
+  @apply w-full rounded border-transparent bg-light px-6 py-3 text-text-dark placeholder:text-text-light focus:border-primary dark:focus:border-darkmode-primary focus:ring-transparent dark:border-transparent dark:bg-darkmode-light dark:text-darkmode-text-light;
 }
 
 .form-label {

@@ -2,7 +2,6 @@
 title: '關於我們'
 meta_title: ""
 description: ""
-image: "/images/banner.svg"
 draft: false
 ---
 

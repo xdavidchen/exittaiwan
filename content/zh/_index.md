@@ -1,9 +1,23 @@
 ---
 # Banner
 banner:
-  title: "把出國旅遊，玩得像在當地生活"
-  content: "免費加入「ExitTaiwan 出台灣」電子報，不定時接收國外自由行最新消息和獨家優惠，讓你輕鬆在外走跳。"
-  image: "/images/hero.png"
+  title_top: "next:"
+  title_bottom: "ExitTaiwan"
+  description: "走出台灣，探索世界。和「ExitTaiwan 出台灣」一起享受慢遊美學。把出國旅遊，玩得像在當地生活。"
+  image: "images/hero.jpg"
+  gallery:
+    - "images/hero.jpg"
+    #- "images/hero-2.jpg"
+  round_buttons:
+    - url: "/posts"
+      icon: "fa-solid fa-newspaper"
+      color: "primary"
+    - url: "/shop"
+      icon: "fa-solid fa-store"
+      color: "accent"
+    - url: "/about"
+      icon: "fa-solid fa-circle-info"
+      color: "accent-dark"
   form:
     enable: true
     button: "加入名單"

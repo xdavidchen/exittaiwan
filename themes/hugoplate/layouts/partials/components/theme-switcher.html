@@ -50,21 +50,21 @@
     // Show theme switcher after applying theme
     document.addEventListener("DOMContentLoaded", () => {
       var themeSwitch = document.querySelectorAll("[data-theme-switcher]");
-      var themeSwitcherContainer = document.querySelector('.theme-switcher');
 
       [].forEach.call(themeSwitch, function (ts) {
         ts.checked = darkMode;
         ts.addEventListener("click", () => {
           document.documentElement.classList.toggle("dark");
-          localStorage.setItem(
-            "theme",
-            document.documentElement.classList.contains("dark") ? "dark" : "light"
-          );
+          var isDark = document.documentElement.classList.contains("dark");
+          localStorage.setItem("theme", isDark ? "dark" : "light");
+          [].forEach.call(themeSwitch, function (other) { other.checked = isDark; });
         });
       });
 
-      // Now make the switcher visible
-      themeSwitcherContainer.classList.remove('hidden');
+      // Now make all switcher containers visible
+      document.querySelectorAll('.theme-switcher').forEach(function (el) {
+        el.classList.remove('hidden');
+      });
     });
   </script>
 {{ end }}

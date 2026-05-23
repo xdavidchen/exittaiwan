@@ -44,8 +44,14 @@
             {{ end }}
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
-              {{ time.Format ":date_long" .PublishDate }}
+              發佈於 {{ .PublishDate.Format "2006年01月02日" }}
             </li>
+            {{ if .Params.updated }}
+              <li class="mr-4 inline-block">
+                <i class="fa-regular fa-pen-to-square mr-2"></i>
+                更新於 {{ (time.AsTime .Params.updated).Format "2006年01月02日" }}
+              </li>
+            {{ end }}
           </ul>
           <div class="content mb-10">
             {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
@@ -60,7 +66,7 @@
                   {{ range $i,$p:= $tags }}
                     <li class="inline-block">
                       <a
-                        class="bg-light hover:bg-primary dark:bg-darkmode-light dark:hover:bg-darkmode-primary dark:hover:text-text-dark m-1 block rounded px-3 py-1 hover:text-white"
+                        class="hover:bg-accent-dark dark:bg-white dark:text-ink dark:hover:bg-accent-dark dark:hover:text-ink m-1 block rounded bg-accent px-3 py-1 text-ink hover:text-ink"
                         href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/">
                         {{ . | humanize }}
                       </a>
@@ -90,7 +96,7 @@
           <h2 class="h3 mb-12">{{ T "related_posts" }}</h2>
           <div class="row">
             {{ range . }}
-              <div class="lg:col-4 md:col-6 mb-14">
+              <div class="lg:col-4 md:col-6 mb-14 flex">
                 {{ partial "components/blog-card" . }}
               </div>
             {{ end }}
@@ -100,5 +106,5 @@
     </div>
   </section>
 
-  {{ partial "call-to-action" }}
+  {{ partial "call-to-action" . }}
 {{ end }}

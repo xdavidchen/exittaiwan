@@ -1,18 +1,18 @@
-<div class="bg-light dark:bg-darkmode-light rounded-lg shadow-lg overflow-hidden">
-    <div class="flex flex-col">
+<div class="bg-primary dark:bg-darkmode-light rounded-lg shadow-lg overflow-hidden h-full">
+    <div class="flex flex-col h-full">
         <div>
             {{partial "image" (dict "Src" .Params.cover "Alt" .Title "Class" "w-full lg:h-full! h-[200px]! object-cover rounded")}}
         </div>
-        <div>
-            <div class="px-6 py-10">
-                <span class="mb-3">{{ T "travel_brochure" }}</span>
-                <h2 class="h3 mb-5">
+        <div class="flex flex-col flex-grow">
+            <div class="px-6 py-10 flex flex-col flex-grow">
+                <span class="mb-3 text-white/60">{{ T "travel_brochure" }}</span>
+                <h2 class="h3 mb-5 text-white [text-shadow:2px_2px_0_rgba(0,0,0,0.2)]">
                     {{ .Title }}
                 </h2>
-                <p class="mb-5">
+                <p class="mb-5 text-white/80 flex-grow">
                     {{ .Description | markdownify }}
                 </p>
-                    <a href="{{ .Params.external_url }}" target="_blank" class="btn btn-primary ">
+                    <a href="{{ .Params.external_url }}" target="_blank" class="btn self-start bg-accent border-accent text-ink font-bold hover:bg-accent-dark hover:border-accent-dark">
                         <span>{{T "purchase"}}</span>
                         <span class="ml-3">→</span>
                     </a>

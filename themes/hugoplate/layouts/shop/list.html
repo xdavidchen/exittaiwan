@@ -8,7 +8,7 @@
                 <!-- Featured post -->
                 {{ range .RegularPages }}
                 {{ if eq .Params.featured true }}
-                <div class="bg-light dark:bg-darkmode-light rounded-lg shadow-lg overflow-hidden">
+                <div class="bg-primary dark:bg-darkmode-light rounded-lg shadow-lg overflow-hidden">
                     <div class="row gap-y-5">
                         <div class="md:col-6">
                             {{partial "image" (dict "Src" .Params.cover "Alt" .Title "Class" "w-full md:h-full! h-[200px]! object-cover rounded")}}
@@ -16,14 +16,14 @@
                         <div class="md:col-6">
                             <div class="px-6 py-10 flex flex-col h-full">
                                 <!--<span class="mb-3">{{ T "travel_brochure" }}</span>-->
-                                <h2 class="h2 mb-5">
+                                <h2 class="h2 mb-5 text-white [text-shadow:2px_2px_0_rgba(0,0,0,0.2)]">
                                     {{ .Title }}
                                 </h2>
-                                <p class="mb-5">
+                                <p class="mb-5 text-white/80">
                                     {{ .Description | markdownify }}
                                 </p>
                                 <div class="mt-auto">
-                                    <a href="{{ .Params.external_url }}" target="_blank" class="btn btn-primary ">
+                                    <a href="{{ .Params.external_url }}" target="_blank" class="btn bg-accent border-accent text-ink font-bold hover:bg-accent-dark hover:border-accent-dark">
                                         <span>{{T "purchase"}}</span>
                                         <span class="ml-3">→</span>
                                     </a>
@@ -42,7 +42,7 @@
                     {{ range $paginator.Pages }}
                     {{if not .Params.featured}}
 
-                    <div class="md:col-6 mb-14">
+                    <div class="md:col-6 mb-14 flex">
                         {{ partial "components/shop-card" . }}
                     </div>
                     {{end}}
@@ -55,5 +55,5 @@
     </div>
 </section>
 
-{{ partial "call-to-action" }}
+{{ partial "call-to-action" . }}
 {{ end }}

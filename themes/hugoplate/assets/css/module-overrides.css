@@ -1,6 +1,56 @@
 /* table of contents */
 .table-of-content {
-  @apply overflow-hidden rounded;
+  @apply overflow-hidden rounded mb-6 md:mb-10;
+}
+
+.table-of-content summary {
+  @apply !bg-primary !text-white font-secondary font-bold dark:!bg-darkmode-light;
+}
+
+#TableOfContents {
+  @apply bg-body border border-text dark:bg-darkmode-body dark:border-darkmode-border;
+}
+
+#TableOfContents li,
+#TableOfContents a {
+  @apply !text-text dark:!text-darkmode-text;
+}
+
+#TableOfContents li::marker {
+  color: var(--color-text);
+}
+
+.dark #TableOfContents li::marker {
+  color: var(--color-darkmode-text);
+}
+
+#TableOfContents a:hover {
+  @apply !text-primary dark:!text-darkmode-primary;
+}
+
+/* blockquote / callout */
+.content blockquote {
+  background-color: var(--color-body) !important;
+  border-color: var(--color-primary) !important;
+  color: var(--color-text-dark) !important;
+}
+
+.content blockquote p,
+.content blockquote p::before,
+.content blockquote p::after {
+  color: var(--color-text-dark) !important;
+}
+
+.dark .content blockquote {
+  background-color: var(--color-darkmode-body) !important;
+  border-color: #5B7E3C !important;
+  color: var(--color-darkmode-text) !important;
+}
+
+.dark .content blockquote p,
+.dark .content blockquote p::before,
+.dark .content blockquote p::after {
+  color: var(--color-darkmode-text) !important;
 }
 
 /* share icons */
@@ -16,6 +66,34 @@
 .notice {
   @apply rounded-lg;
 }
+
+/* ─── Notice colors ────────────────────────────────────────────────────────
+   Each line sets the border, icon stroke, title text (via currentColor),
+   and background tint for one notice type. Edit only the hex values.
+   Brand palette reference:
+     green  #5B7E3C  |  orange  #FF9D23  |  gold   #B89600
+     brown  #7A6E55  |  dark    #3B3017
+   ────────────────────────────────────────────────────────────────────────── */
+.notice .notice-head p { color: currentColor; }
+
+.notice.note     { color: #5B7E3C; background-color: rgba(91,  126, 60,  0.12); }
+.notice.tip      { color: #5B7E3C; background-color: rgba(91,  126, 60,  0.12); }
+.notice.success  { color: #5B7E3C; background-color: rgba(91,  126, 60,  0.12); }
+.notice.abstract { color: #5B7E3C; background-color: rgba(91,  126, 60,  0.12); }
+.notice.info     { color: #7A6E55; background-color: rgba(122, 110, 85,  0.12); }
+.notice.quote    { color: #7A6E55; background-color: rgba(122, 110, 85,  0.12); }
+.notice.warning  { color: #FF9D23; background-color: rgba(255, 157, 35,  0.12); }
+.notice.question { color: #FF9D23; background-color: rgba(255, 157, 35,  0.12); }
+.notice.todo     { color: #FF9D23; background-color: rgba(255, 157, 35,  0.12); }
+.notice.example  { color: #B89600; background-color: rgba(184, 150, 0,   0.10); }
+.notice.failure  { color: #3B3017; background-color: rgba(59,  48,  23,  0.10); }
+.notice.danger   { color: #3B3017; background-color: rgba(59,  48,  23,  0.10); }
+.notice.bug      { color: #3B3017; background-color: rgba(59,  48,  23,  0.10); }
+
+/* Dark mode: lighten the low-luminance colors for legibility */
+.dark .notice.failure,
+.dark .notice.danger,
+.dark .notice.bug  { color: #C49A6C; background-color: rgba(196, 154, 108, 0.12); }
 
 /* tab */
 .tab {

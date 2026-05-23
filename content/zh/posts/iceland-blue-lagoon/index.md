@@ -91,7 +91,7 @@ city: "格林達維克"
 
 ## 藍湖溫泉怎麼買票？
 
-![](ticket.webp)
+![](ticket.png)
 
 要去藍湖溫泉一定要提前線上購票，因為每天各個時段的入場名額有限制。最划算的購票管道是藍湖溫泉的官方網站：[https://www.bluelagoon.com/](https://www.bluelagoon.com/)
 

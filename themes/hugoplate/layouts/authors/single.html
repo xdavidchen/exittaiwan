@@ -38,7 +38,7 @@
       <div class="row pb-16 pt-14">
         {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
         {{ range $filterByAuthor }}
-          <div class="md:col-6 lg:col-4 mb-12">
+          <div class="md:col-6 lg:col-4 mb-12 flex">
             {{ partial "components/blog-card" . }}
           </div>
         {{ end }}
