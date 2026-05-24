@@ -4,6 +4,7 @@ slug: "new-york-airports-to-city-center-transportation"
 aliases:
 - 紐約機場到市區交通全攻略
 date: 2023-08-31
+updated: 2026-05-24
 description: "這篇文章詳細介紹從甘迺迪機場到紐約曼哈頓市區的各種交通方式、通車時間、價格比較、優缺點等等，並也簡單提供紐瓦克國際機場和拉瓜迪亞機場的資訊，讓有需要的人可以到相關網站做深入查詢了解。"
 author: "David Chen"
 cover: "feature.webp"
@@ -13,8 +14,6 @@ draft: false
 country: "美國"
 city: "紐約"
 ---
-
-<!--![|inline](nyc-airport-transportation.webp)-->
 
 {{< notice "tip" 好用工具 >}}
 🔥 實用工具：[出國自由行行李清單，行前不再手忙腳亂（免費下載）](https://exittaiwan.gumroad.com/l/packing-list)
@@ -90,7 +89,7 @@ city: "紐約"
 
 ### 飯店機場接送服務
 
-對於願意花大錢、喜歡奢華旅行、舒服旅行的人來說，直接到訂有機場接送服務的飯店或是最佳選擇，你可以透過飯店的官方網站找尋有沒有提供這項服務。
+對於願意花大錢、喜歡奢華旅行、舒服旅行的人來說，直接訂有提供機場接送服務的飯店會是最佳選擇，你可以透過飯店的官方網站來查尋有沒有提供這項服務。
 
 <!--[![|inline](hotel-banner.webp)](https://l.exittaiwan.com/book-a-hotel)-->
 
