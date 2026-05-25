@@ -14,3 +14,14 @@ blockquote {
   font-family: "Gasoek One", "Noto Sans TC", sans-serif;
   font-weight: 400;
 }
+
+.btn-primary:hover {
+  background-color: #FF9D23;
+  border-color: #FF9D23;
+  color: #1C1608;
+}
+
+footer a:not(.navbar-brand):hover {
+  color: #FF9D23;
+  transition: color 150ms;
+}
