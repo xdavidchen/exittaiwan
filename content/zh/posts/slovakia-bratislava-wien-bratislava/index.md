@@ -4,6 +4,7 @@ slug: "vienna-bratislava-transport-guide"
 aliases:
   - 維也納布拉提斯拉瓦交通一日遊
 date: 2025-04-21
+updated: 2026-06-13
 description: "維也納出發，只需一小時就能抵達布拉提斯拉瓦！本篇整理最實用的交通攻略，包含火車、巴士、觀光船三種往返方式，適合自由行旅客輕鬆安排維也納布拉提斯拉瓦一日遊。"
 draft: false
 author: "David Chen"
@@ -40,11 +41,11 @@ city: 布拉提斯拉瓦
 
 到布拉提斯拉瓦的火車站 Železničná stanica Bratislava-Petržalka（暫譯：佩特爾日爾卡火車站），到了車站後直接出大門搭乘 80 號公車，或是走過地下道搭 93 號公車，約車程十分鐘就可以到達布拉提斯拉瓦市中心。
 
-[搭火車](/posts/歐洲搭火車注意事項)是從維也納前往布拉提斯拉瓦最划算的方式！因為奧地利國鐵 ÖBB 有提供優惠的「[**布拉提斯拉瓦火車一日交通通票**](https://www.oebb.at/en/regionale-angebote/ueberregionale-angebote/bratislava-ticket)」，只要 18 歐元包含單日的來回車票，並包含布拉提斯拉瓦市區交通的單日票。
+[搭火車](/posts/歐洲搭火車注意事項)是從維也納前往布拉提斯拉瓦最划算的方式！因為奧地利國鐵 ÖBB 有提供優惠的「[**布拉提斯拉瓦火車一日交通通票**](https://www.oebb.at/en/regionale-angebote/ueberregionale-angebote/bratislava-ticket)」，只要 19 歐元包含單日的來回車票，並包含布拉提斯拉瓦市區交通的單日票。
 
 如果是當天來回，千萬不要傻傻的分開購買兩張單程票來回維也納和布拉提斯拉瓦！
 
-- 價格：來回 €18，6 ~ 14 歲孩童 €9（單日，含布拉提斯拉瓦單日交通票）
+- 價格：來回 €19，6 ~ 14 歲孩童 €9.5（單日，含布拉提斯拉瓦單日交通票）
 - 搭乘地點：
   - 維也納：維也納主火車站（Wien Hbf）
   - 布拉提斯拉瓦：布拉提斯拉瓦主火車站或 Železničná stanica Bratislava-Petržalka（暫譯：佩特爾日爾卡火車站）
