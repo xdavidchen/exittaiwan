@@ -31,6 +31,8 @@
 <!-- ═══════════════════════════════════════════ -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -205,6 +207,55 @@
   .refresh-btn:active { transform:translate(1px,1px); box-shadow:1px 1px 0 #c9a700; }
   .refresh-btn svg { width:14px; height:14px; }
 
+  .locate-btn {
+    display:flex; align-items:center; gap:6px;
+    background: var(--blue);
+    border: 2px solid #3a7aab;
+    border-radius: 4px;
+    padding: 7px 14px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #fff;
+    font-family: var(--font-body);
+    cursor: pointer;
+    transition: all 0.12s;
+    box-shadow: 2px 2px 0 #3a7aab;
+    white-space: nowrap;
+  }
+  .locate-btn svg { width:14px; height:14px; }
+  .locate-btn:hover { transform:translate(-1px,-1px); box-shadow:3px 3px 0 #3a7aab; }
+  .locate-btn:active { transform:translate(1px,1px); box-shadow:1px 1px 0 #3a7aab; }
+  .locate-btn:disabled { opacity:0.6; cursor:default; transform:none; box-shadow:2px 2px 0 #3a7aab; }
+
+  /* Nearby section */
+  .nearby-section { max-width:1100px; margin:1.5rem auto 0; padding:0 2rem; }
+  .nearby-card {
+    background: var(--surface);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 4px 4px 0 rgba(60,45,20,0.12);
+  }
+  .nearby-head {
+    display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap;
+    padding: 12px 16px;
+    border-bottom: 2px solid var(--border2);
+    background: var(--surface2);
+  }
+  .nearby-title { font-family:var(--font-body); font-size:1rem; font-weight:700; color:var(--text); display:flex; align-items:center; gap:8px; }
+  #nearby-map { height:340px; width:100%; background:var(--surface2); }
+  .nearby-status { padding:2rem; text-align:center; color:var(--text2); font-size:0.85rem; font-family:var(--font-body); }
+  .nearby-list { max-height:320px; overflow-y:auto; }
+  .nearby-item { display:flex; align-items:center; gap:10px; padding:10px 14px; border-bottom:1px solid var(--border); cursor:pointer; transition:background 0.1s; }
+  .nearby-item:last-child { border-bottom:none; }
+  .nearby-item:hover { background:var(--surface2); }
+  .nearby-rank { font-family:var(--font-body); font-weight:700; font-size:0.8rem; color:var(--text3); min-width:18px; }
+  .nearby-name-wrap { flex:1; min-width:0; }
+  .nearby-name { font-weight:600; font-size:0.85rem; color:var(--text); }
+  .nearby-dist { font-size:0.72rem; color:var(--text3); font-family:var(--font-body); }
+  .nearby-price { font-family:var(--font-body); font-weight:700; font-size:0.95rem; white-space:nowrap; }
+  @media(max-width:600px){ #nearby-map{ height:260px; } }
+
   /* Table */
   .table-wrap { max-width:1100px; margin:1rem auto 3rem; padding:0 2rem; }
   .table-inner {
@@ -360,6 +411,22 @@
   <div class="stats-row" id="stats-row"></div>
 </div>
 
+<div id="error-area" style="max-width:1100px;margin:0 auto"></div>
+
+<div class="nearby-section">
+  <div class="nearby-card">
+    <div class="nearby-head">
+      <h2 class="nearby-title"><span aria-hidden="true">📍</span> <span id="nearby-heading">附近加油站</span></h2>
+      <button class="locate-btn" id="locate-btn" onclick="locateUser()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+        <span id="locate-label">定位我的位置</span>
+      </button>
+    </div>
+    <div id="nearby-map"></div>
+    <div id="nearby-body" class="nearby-list"></div>
+  </div>
+</div>
+
 <div class="controls-wrap" style="padding-top:1.5rem">
   <div class="fuel-tabs">
     <button class="fuel-tab active" id="tab-bensin95" onclick="setFuel('bensin95')">⬡ <span id="fuel-label-bensin95">Bensín 95</span></button>
@@ -381,8 +448,6 @@
     <span id="discount-note-text">Verð með <strong style="color:var(--amber)">↓</strong> tákni sýnir afsláttarverð fyrir félagskortshafa (t.d. N1 Lykilkort, Ólís lykill).</span>
   </p>
 </div>
-
-<div id="error-area" style="max-width:1100px;margin:0 auto"></div>
 
 <div class="table-wrap">
   <div class="table-inner">
@@ -443,6 +508,16 @@ const LANG = {
     footerSource: 'Gögn', footerRefresh: 'Uppfærist við hvert síðuhleðslu', footerUnit: 'Verð í ISK á lítra',
     discountNote: 'Verð með ↓ tákni sýnir afsláttarverð fyrir félagskortshafa (t.d. N1 Lykilkort, Ólís lykill).',
     navBack: '← Til baka',
+    nearby: 'Næstu stöðvar', nearbyClose: 'Loka',
+    locateLabel: 'Staðsettu mig',
+    nearbyPrompt: 'Smelltu á „Staðsettu mig" til að finna bensínstöðvar nálægt þér á kortinu.',
+    locating: 'Leita að staðsetningu þinni…',
+    locationDenied: 'Aðgangur að staðsetningu var hafnað. Virkjaðu staðsetningu í stillingum vafrans.',
+    locationUnavailable: 'Ekki tókst að finna staðsetningu þína.',
+    locationUnsupported: 'Vafrinn þinn styður ekki staðsetningu.',
+    nearbyEmpty: 'Engar stöðvar með verð fyrir þennan eldsneytistegund.',
+    you: 'Þú ert hér',
+    km: 'km', m: 'm',
   },
   en: {
     title1: 'Gas Prices', title2: 'in Iceland',
@@ -464,6 +539,16 @@ const LANG = {
     footerSource: 'Data', footerRefresh: 'Updated on every page load', footerUnit: 'Prices in ISK per litre',
     discountNote: 'Prices marked with ↓ show discounted rates for loyalty card holders (e.g. N1 Lykilkort, Ólís lykill).',
     navBack: '← Back',
+    nearby: 'Nearest stations', nearbyClose: 'Close',
+    locateLabel: 'Locate me',
+    nearbyPrompt: 'Click "Locate me" to find gas stations near you on the map.',
+    locating: 'Locating you…',
+    locationDenied: 'Location access denied. Enable location in your browser settings.',
+    locationUnavailable: 'Could not determine your location.',
+    locationUnsupported: 'Your browser does not support geolocation.',
+    nearbyEmpty: 'No stations have prices for this fuel type.',
+    you: 'You are here',
+    km: 'km', m: 'm',
   },
   zh: {
     title1: '冰島加油站', title2: '油價即時資訊',
@@ -485,6 +570,16 @@ const LANG = {
     footerSource: '資料來源', footerRefresh: '每次載入頁面時更新', footerUnit: '價格單位：冰島克朗（ISK）/ 公升',
     discountNote: '標有 ↓ 的價格為會員卡折扣價（如 N1 Lykilkort、Ólís lykill 等會員卡）。',
     navBack: '← 回主網站',
+    nearby: '附近加油站', nearbyClose: '關閉',
+    locateLabel: '定位我的位置',
+    nearbyPrompt: '點擊「定位我的位置」，查看離你最近的加油站與即時比價地圖。',
+    locating: '正在定位您的位置…',
+    locationDenied: '定位權限被拒絕，請至瀏覽器設定開啟定位功能。',
+    locationUnavailable: '無法取得您的位置。',
+    locationUnsupported: '您的瀏覽器不支援定位功能。',
+    nearbyEmpty: '此油品類型沒有價格資料的加油站。',
+    you: '你在這裡',
+    km: '公里', m: '公尺',
   },
 };
 
@@ -500,26 +595,27 @@ const CO_STYLE = {
 };
 
 const SAMPLE = [
-  {name:'N1 Hlemmur',               company:'N1',          bensin95:259.9,diesel:239.9,bensin95_discount:255.9},
-  {name:'N1 Mjódd',                 company:'N1',          bensin95:259.9,diesel:239.9},
-  {name:'N1 Álftanes',              company:'N1',          bensin95:260.5,diesel:240.5},
-  {name:'Orkan Austurvegur',        company:'Orkan',       bensin95:257.4,diesel:237.9,bensin95_discount:253.9},
-  {name:'Orkan Suðurlandsbraut',    company:'Orkan',       bensin95:257.4,diesel:237.9},
-  {name:'Orkan Grindavík',          company:'Orkan',       bensin95:261.0,diesel:241.0},
-  {name:'Atlantsolía Hafnarfjörður',company:'Atlantsolía', bensin95:258.9,diesel:240.9},
-  {name:'Atlantsolía Selfoss',      company:'Atlantsolía', bensin95:262.9,diesel:244.9},
-  {name:'Ker Kópavogur',            company:'Ker',         bensin95:256.9,diesel:236.9},
-  {name:'Ker Garðabær',             company:'Ker',         bensin95:257.9,diesel:237.9},
-  {name:'ÓB Reykjavík',             company:'ÓB',          bensin95:255.5,diesel:235.5,bensin95_discount:252.0},
-  {name:'ÓB Breiðholt',             company:'ÓB',          bensin95:255.5,diesel:235.5},
-  {name:'Dælan Akureyri',           company:'Dælan',       bensin95:265.9,diesel:245.9},
-  {name:'Dælan Egilsstaðir',        company:'Dælan',       bensin95:268.9,diesel:248.9},
-  {name:'N1 Akureyri',              company:'N1',          bensin95:264.9,diesel:244.9},
-  {name:'Orkan Akranes',            company:'Orkan',       bensin95:259.9,diesel:240.9},
+  {name:'N1 Hlemmur',               company:'N1',          bensin95:259.9,diesel:239.9,bensin95_discount:255.9, geo:{lat:64.14471,lon:-21.91991}},
+  {name:'N1 Mjódd',                 company:'N1',          bensin95:259.9,diesel:239.9, geo:{lat:64.10131,lon:-21.79251}},
+  {name:'N1 Álftanes',              company:'N1',          bensin95:260.5,diesel:240.5, geo:{lat:64.09371,lon:-21.99991}},
+  {name:'Orkan Austurvegur',        company:'Orkan',       bensin95:257.4,diesel:237.9,bensin95_discount:253.9, geo:{lat:63.94001,lon:-21.00891}},
+  {name:'Orkan Suðurlandsbraut',    company:'Orkan',       bensin95:257.4,diesel:237.9, geo:{lat:64.13501,lon:-21.87491}},
+  {name:'Orkan Grindavík',          company:'Orkan',       bensin95:261.0,diesel:241.0, geo:{lat:63.84271,lon:-22.43391}},
+  {name:'Atlantsolía Hafnarfjörður',company:'Atlantsolía', bensin95:258.9,diesel:240.9, geo:{lat:64.06481,lon:-21.95491}},
+  {name:'Atlantsolía Selfoss',      company:'Atlantsolía', bensin95:262.9,diesel:244.9, geo:{lat:63.93301,lon:-21.00191}},
+  {name:'Ker Kópavogur',            company:'Ker',         bensin95:256.9,diesel:236.9, geo:{lat:64.11121,lon:-21.90991}},
+  {name:'Ker Garðabær',             company:'Ker',         bensin95:257.9,diesel:237.9, geo:{lat:64.08681,lon:-21.92591}},
+  {name:'ÓB Reykjavík',             company:'ÓB',          bensin95:255.5,diesel:235.5,bensin95_discount:252.0, geo:{lat:64.14681,lon:-21.94251}},
+  {name:'ÓB Breiðholt',             company:'ÓB',          bensin95:255.5,diesel:235.5, geo:{lat:64.09271,lon:-21.81791}},
+  {name:'Dælan Akureyri',           company:'Dælan',       bensin95:265.9,diesel:245.9, geo:{lat:65.68411,lon:-18.09591}},
+  {name:'Dælan Egilsstaðir',        company:'Dælan',       bensin95:268.9,diesel:248.9, geo:{lat:65.26401,lon:-14.39491}},
+  {name:'N1 Akureyri',              company:'N1',          bensin95:264.9,diesel:244.9, geo:{lat:65.68781,lon:-18.10011}},
+  {name:'Orkan Akranes',            company:'Orkan',       bensin95:259.9,diesel:240.9, geo:{lat:64.31871,lon:-22.07091}},
 ];
 
 let stations = [], fuel = 'bensin95', sortCol = 'price', sortDir = 1;
 let currentLang = 'zh', dataLoaded = false, usingSample = false;
+let nearbyState = 'idle', userLoc = null, nearbyMap = null, nearbyMarkers = [], userMarker = null;
 
 function detectLang() {
   const langs = (navigator.languages || [navigator.language || 'zh'])
@@ -553,12 +649,15 @@ function setLang(lang) {
   document.getElementById('footer-unit').textContent = t.footerUnit;
   document.getElementById('discount-note-text').textContent = t.discountNote;
   document.getElementById('nav-back').textContent = t.navBack;
+  document.getElementById('nearby-heading').textContent = t.nearby;
+  document.getElementById('locate-label').textContent = t.locateLabel;
   // update the status label part of the timestamp (time stays unchanged)
   const statusEl = document.getElementById('updated-status');
   if (statusEl) statusEl.textContent = dataLoaded ? t.liveData : (usingSample ? t.sampleData : t.connecting);
   populateCompanyFilter();
   updateStats();
   render();
+  setNearbyState(nearbyState);
 }
 
 /* ── Data loading ── */
@@ -575,6 +674,7 @@ async function loadData() {
       name:s.name, company:s.company||guessCompany(s.name),
       bensin95:s.bensin95||null, diesel:s.diesel||null,
       bensin95_discount:s.bensin95_discount||null, diesel_discount:s.diesel_discount||null,
+      geo:s.geo||null,
     }));
     const ts = new Date().toLocaleTimeString('is-IS',{hour:'2-digit',minute:'2-digit'});
     document.getElementById('updated-time').textContent = ts + ' – ';
@@ -594,6 +694,7 @@ async function loadData() {
   populateCompanyFilter();
   updateStats();
   render();
+  if (nearbyState === 'ready') renderNearby();
 }
 
 function guessCompany(name) {
@@ -630,6 +731,7 @@ function setFuel(f) {
   document.querySelectorAll('.fuel-tab').forEach(tab=>tab.classList.remove('active'));
   document.getElementById('tab-'+f).classList.add('active');
   updateStats(); render();
+  if (nearbyState === 'ready') renderNearby();
 }
 
 function sortBy(col) {
@@ -689,6 +791,131 @@ function render() {
       <td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:${barW}%;background:${barColor}"></div></div><span class="bar-pct">${(pct*100).toFixed(0)}%</span></div></td>
     </tr>`;
   }).join('');
+}
+
+/* ── Nearby stations (geolocation + map) ── */
+function haversineKm(lat1, lon1, lat2, lon2) {
+  const R = 6371;
+  const dLat = (lat2-lat1)*Math.PI/180, dLon = (lon2-lon1)*Math.PI/180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLon/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+
+function formatDistance(km) {
+  const t = LANG[currentLang];
+  return km < 1 ? `${Math.round(km*1000)} ${t.m}` : `${km.toFixed(1)} ${t.km}`;
+}
+
+function setNearbyState(state) {
+  nearbyState = state;
+  const t = LANG[currentLang];
+  const body = document.getElementById('nearby-body');
+  const mapEl = document.getElementById('nearby-map');
+  const btn = document.getElementById('locate-btn');
+  btn.disabled = state === 'locating';
+
+  if (state === 'ready') {
+    mapEl.style.display = '';
+    renderNearby();
+    return;
+  }
+  mapEl.style.display = 'none';
+  const msg = {
+    idle: t.nearbyPrompt,
+    locating: `<span class="spinner"></span>${t.locating}`,
+    denied: t.locationDenied,
+    unavailable: t.locationUnavailable,
+    unsupported: t.locationUnsupported,
+  }[state];
+  body.innerHTML = `<div class="nearby-status">${msg}</div>`;
+}
+
+function locateUser() {
+  if (!('geolocation' in navigator)) { setNearbyState('unsupported'); return; }
+  setNearbyState('locating');
+  navigator.geolocation.getCurrentPosition(
+    pos => {
+      userLoc = { lat: pos.coords.latitude, lon: pos.coords.longitude, accuracy: pos.coords.accuracy };
+      setNearbyState('ready');
+    },
+    err => setNearbyState(err.code === err.PERMISSION_DENIED ? 'denied' : 'unavailable'),
+    { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
+  );
+}
+
+function renderNearby() {
+  if (!userLoc) return;
+  const t = LANG[currentLang];
+  const withGeo = stations.filter(s => s.geo && s[fuel] > 0);
+  const ranked = withGeo
+    .map(s => ({ ...s, dist: haversineKm(userLoc.lat, userLoc.lon, s.geo.lat, s.geo.lon) }))
+    .sort((a, b) => a.dist - b.dist);
+
+  const body = document.getElementById('nearby-body');
+  if (!ranked.length) {
+    body.innerHTML = `<div class="nearby-status">${t.nearbyEmpty}</div>`;
+  } else {
+    const prices = ranked.map(s => s[fuel]);
+    const minP = Math.min(...prices), maxP = Math.max(...prices);
+    body.innerHTML = ranked.slice(0, 20).map((s, i) => {
+      const cs = CO_STYLE[s.company] || { color: 'var(--text2)' };
+      const priceColor = s[fuel] === minP ? 'var(--green)' : s[fuel] === maxP ? 'var(--red)' : 'var(--blue)';
+      return `<div class="nearby-item" onclick="focusStation(${i})">
+        <div class="nearby-rank">${i + 1}</div>
+        <div class="nearby-name-wrap">
+          <div class="nearby-name">${s.name} <span style="color:${cs.color};font-weight:400;font-size:0.75rem">· ${s.company}</span></div>
+          <div class="nearby-dist">${formatDistance(s.dist)}</div>
+        </div>
+        <div class="nearby-price" style="color:${priceColor}">${s[fuel].toFixed(1)} kr</div>
+      </div>`;
+    }).join('');
+  }
+
+  renderNearbyMap(ranked);
+}
+
+let nearbyRanked = [];
+function focusStation(i) {
+  const s = nearbyRanked[i];
+  if (!s || !nearbyMap) return;
+  nearbyMap.setView([s.geo.lat, s.geo.lon], 13);
+  nearbyMarkers[i] && nearbyMarkers[i].openPopup();
+}
+
+function renderNearbyMap(ranked) {
+  nearbyRanked = ranked;
+  const t = LANG[currentLang];
+  if (!nearbyMap) {
+    document.getElementById('nearby-map').innerHTML = '';
+    nearbyMap = L.map('nearby-map');
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors',
+      maxZoom: 18,
+    }).addTo(nearbyMap);
+  }
+  nearbyMarkers.forEach(m => nearbyMap.removeLayer(m));
+  nearbyMarkers = [];
+  if (userMarker) { nearbyMap.removeLayer(userMarker); userMarker = null; }
+
+  userMarker = L.circleMarker([userLoc.lat, userLoc.lon], {
+    radius: 8, color: '#4a90c4', weight: 3, fillColor: '#4a90c4', fillOpacity: 0.9,
+  }).addTo(nearbyMap).bindPopup(t.you);
+
+  const prices = ranked.map(s => s[fuel]);
+  const minP = Math.min(...prices), maxP = Math.max(...prices);
+  ranked.slice(0, 20).forEach(s => {
+    const color = s[fuel] === minP ? '#5B7E3C' : s[fuel] === maxP ? '#EA5252' : '#4a90c4';
+    const marker = L.circleMarker([s.geo.lat, s.geo.lon], {
+      radius: 7, color, weight: 2, fillColor: color, fillOpacity: 0.75,
+    }).addTo(nearbyMap).bindPopup(`<strong>${s.name}</strong><br>${s.company}<br>${s[fuel].toFixed(1)} kr · ${formatDistance(s.dist)}`);
+    nearbyMarkers.push(marker);
+  });
+
+  const boundsPoints = [[userLoc.lat, userLoc.lon], ...ranked.slice(0, 20).map(s => [s.geo.lat, s.geo.lon])];
+  if (boundsPoints.length > 1) nearbyMap.fitBounds(boundsPoints, { padding: [30, 30], maxZoom: 13 });
+  else nearbyMap.setView([userLoc.lat, userLoc.lon], 12);
+
+  setTimeout(() => nearbyMap.invalidateSize(), 50);
 }
 
 const detectedLang = detectLang();
