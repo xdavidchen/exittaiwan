@@ -19,9 +19,11 @@
   <!-- announcement style -->
   <style>
     .announcement {
+      position: sticky;
+      top: 0;
       z-index: 999;
       padding: 0.75rem 0;
-      background-color: #EA5252;
+      background-color: var(--color-primary);
       color: #fff;
       box-shadow: 1px 0px 10px 7px rgba(154, 154, 154, 0.11);
       font-size: 1.1rem;
@@ -52,7 +54,7 @@
       display: none;
     }
     .dark .announcement {
-      background-color: #EA5252;
+      background-color: var(--color-primary);
     }
   </style>
 {{ end }}

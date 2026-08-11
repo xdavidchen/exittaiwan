@@ -52,12 +52,16 @@
     {{ end }}
 
 
-    <!-- announcement -->
+    <!-- announcement + header (wrapped together so the sticky nav bar sits below the sticky announcement instead of overlapping it) -->
+    {{ if site.Params.navbar_fixed }}
+    <div class="sticky top-0 z-30">
+      {{ partialCached "announcement.html" . }}
+      {{ partial "essentials/header.html" . }}
+    </div>
+    {{ else }}
     {{ partialCached "announcement.html" . }}
-
-
-    <!-- header (don't cache it) -->
     {{ partial "essentials/header.html" . }}
+    {{ end }}
     {{ partial "search-modal.html" (dict "Context" . ) }}
 
 

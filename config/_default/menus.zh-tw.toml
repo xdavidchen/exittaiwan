@@ -5,26 +5,33 @@
 
 [[main]]
 name = "關於"
-url = "/about"
+url = "#"
 weight = 3
+
+[[main]]
+identifier = "about-sub"
+parent = "關於"
+name = "關於"
+url = "/about"
+weight = 1
 
 [[main]]
 parent = "關於"
 name = "作者"
 url = "/authors"
-weight = 1
+weight = 2
 
 [[main]]
 parent = "關於"
 name = "聯絡"
 url = "/contact"
-weight = 2
+weight = 3
 
 [[main]]
 parent = "關於"
 name = "贊助"
 url = "https://l.exittaiwan.com/dropdown-donate"
-weight = 3
+weight = 4
 
 #[[main]]
 #parent = "關於"
@@ -40,6 +47,12 @@ weight = 3
 # Post with country dropdwon
 [[main]]
 name = "文章"
+url = "#"
+weight = 1
+
+[[main]]
+parent = "文章"
+name = "全球"
 url = "posts"
 weight = 1
 
@@ -84,6 +97,12 @@ parent = "文章"
 name = "冰島"
 url = "country/冰島"
 weight = 60
+
+[[main]]
+parent = "文章"
+name = "丹麥"
+url = "country/丹麥"
+weight = 65
 
 [[main]]
 parent = "文章"
