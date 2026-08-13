@@ -140,6 +140,15 @@
   .stat-value.amber { color:#b06d00; }
   .stat-value.red   { color:var(--red); }
 
+  .stats-filter {
+    display:flex; align-items:center; gap:6px;
+    max-width:1100px; margin:10px auto 0; padding:0 2rem;
+    font-size:0.75rem; color:rgba(255,255,255,0.75); font-family:var(--font-body);
+    cursor:pointer; user-select:none;
+  }
+  .stats-filter input { width:14px; height:14px; cursor:pointer; accent-color:var(--yellow); }
+  .stats-filter:hover { color:#fff; }
+
   /* Controls */
   .controls-wrap { max-width:1100px; margin:1.5rem auto 0; padding:0 2rem; }
   .fuel-tabs { display:flex; gap:6px; margin-bottom:1rem; }
@@ -255,6 +264,29 @@
   .nearby-dist { font-size:0.72rem; color:var(--text3); font-family:var(--font-body); }
   .nearby-price { font-family:var(--font-body); font-weight:700; font-size:0.95rem; white-space:nowrap; }
   @media(max-width:600px){ #nearby-map{ height:260px; } }
+
+  .me-marker { background:transparent; border:none; }
+  .me-marker-wrap { position:relative; width:34px; height:34px; }
+  .me-marker-pulse {
+    position:absolute; inset:0; border-radius:50%;
+    background:rgba(74,144,196,0.45);
+    animation:me-pulse 2s ease-out infinite;
+  }
+  .me-marker-inner {
+    position:absolute; inset:3px; border-radius:50%;
+    background:var(--blue); border:3px solid #fff;
+    box-shadow:0 2px 6px rgba(0,0,0,0.4);
+    display:flex; align-items:center; justify-content:center;
+    font-size:14px; line-height:1;
+  }
+  @keyframes me-pulse { 0%{transform:scale(0.6);opacity:0.8} 100%{transform:scale(1.9);opacity:0} }
+
+  .popup-nav-link {
+    display:inline-block; margin-top:6px;
+    font-family:var(--font-body); font-size:0.78rem; font-weight:700;
+    color:var(--blue); text-decoration:none;
+  }
+  .popup-nav-link:hover { text-decoration:underline; }
 
   /* Table */
   .table-wrap { max-width:1100px; margin:1rem auto 3rem; padding:0 2rem; }
@@ -409,6 +441,10 @@
     </div>
   </div>
   <div class="stats-row" id="stats-row"></div>
+  <label class="stats-filter">
+    <input type="checkbox" id="exclude-costco" onchange="updateStats()">
+    <span id="exclude-costco-label">排除好市多 Kauptún（需會員卡）</span>
+  </label>
 </div>
 
 <div id="error-area" style="max-width:1100px;margin:0 auto"></div>
@@ -518,6 +554,8 @@ const LANG = {
     nearbyEmpty: 'Engar stöðvar með verð fyrir þennan eldsneytistegund.',
     you: 'Þú ert hér',
     km: 'km', m: 'm',
+    excludeCostco: 'Undanskilja Kauptún (Costco) — krefst félagsskírteinis',
+    openInMaps: 'Opna í kortum',
   },
   en: {
     title1: 'Gas Prices', title2: 'in Iceland',
@@ -549,6 +587,8 @@ const LANG = {
     nearbyEmpty: 'No stations have prices for this fuel type.',
     you: 'You are here',
     km: 'km', m: 'm',
+    excludeCostco: 'Exclude Kauptún (Costco) — membership required',
+    openInMaps: 'Open in Maps',
   },
   zh: {
     title1: '冰島加油站', title2: '油價即時資訊',
@@ -580,8 +620,12 @@ const LANG = {
     nearbyEmpty: '此油品類型沒有價格資料的加油站。',
     you: '你在這裡',
     km: '公里', m: '公尺',
+    excludeCostco: '排除好市多 Kauptún（需會員卡）',
+    openInMaps: '在地圖中開啟',
   },
 };
+
+const NEARBY_LIMIT = 5;
 
 const CO_STYLE = {
   'N1':          {bg:'rgba(77,168,255,0.12)',  border:'rgba(77,168,255,0.3)',  color:'#7ec8ff'},
@@ -651,6 +695,7 @@ function setLang(lang) {
   document.getElementById('nav-back').textContent = t.navBack;
   document.getElementById('nearby-heading').textContent = t.nearby;
   document.getElementById('locate-label').textContent = t.locateLabel;
+  document.getElementById('exclude-costco-label').textContent = t.excludeCostco;
   // update the status label part of the timestamp (time stays unchanged)
   const statusEl = document.getElementById('updated-status');
   if (statusEl) statusEl.textContent = dataLoaded ? t.liveData : (usingSample ? t.sampleData : t.connecting);
@@ -713,11 +758,13 @@ function populateCompanyFilter() {
 
 function updateStats() {
   const t = LANG[currentLang];
-  const prices = stations.map(s=>s[fuel]).filter(p=>p>0);
+  const excludeCostco = document.getElementById('exclude-costco')?.checked;
+  const pool = excludeCostco ? stations.filter(s => s.company !== 'Costco Iceland') : stations;
+  const prices = pool.map(s=>s[fuel]).filter(p=>p>0);
   if (!prices.length){document.getElementById('stats-row').innerHTML='';return;}
   const min=Math.min(...prices), max=Math.max(...prices);
   const avg=prices.reduce((a,b)=>a+b,0)/prices.length;
-  const best=stations.find(s=>s[fuel]===min);
+  const best=pool.find(s=>s[fuel]===min);
   document.getElementById('stats-row').innerHTML = `
     <div class="stat"><div class="stat-label">${t.statLowest}</div><div class="stat-value green">${min.toFixed(1)}<small style="font-size:.9rem"> kr</small></div><div class="stat-sub">${t.statLowestSub}: ${best?.name??'—'}</div></div>
     <div class="stat"><div class="stat-label">${t.statAvg}</div><div class="stat-value amber">${avg.toFixed(1)}<small style="font-size:.9rem"> kr</small></div><div class="stat-sub">${t.statAvgSub}</div></div>
@@ -806,6 +853,21 @@ function formatDistance(km) {
   return km < 1 ? `${Math.round(km*1000)} ${t.m}` : `${km.toFixed(1)} ${t.km}`;
 }
 
+// Opens the platform's preferred navigation app: Apple Maps on iOS, the
+// system map-app chooser on Android (geo: lets the OS decide), Google Maps elsewhere.
+function directionsUrl(lat, lon) {
+  const ua = navigator.userAgent || '';
+  if (/iPad|iPhone|iPod/.test(ua)) return `https://maps.apple.com/?daddr=${lat},${lon}&dirflg=d`;
+  if (/Android/.test(ua)) return `geo:${lat},${lon}?q=${lat},${lon}`;
+  return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lon}`;
+}
+
+function stationPopupHtml(s) {
+  const t = LANG[currentLang];
+  return `<strong>${s.name}</strong><br>${s.company}<br>${s[fuel].toFixed(1)} kr · ${formatDistance(s.dist)}
+    <br><a href="${directionsUrl(s.geo.lat, s.geo.lon)}" target="_blank" rel="noopener" class="popup-nav-link">🧭 ${t.openInMaps}</a>`;
+}
+
 function setNearbyState(state) {
   nearbyState = state;
   const t = LANG[currentLang];
@@ -855,9 +917,10 @@ function renderNearby() {
   if (!ranked.length) {
     body.innerHTML = `<div class="nearby-status">${t.nearbyEmpty}</div>`;
   } else {
-    const prices = ranked.map(s => s[fuel]);
+    const nearest = ranked.slice(0, NEARBY_LIMIT);
+    const prices = nearest.map(s => s[fuel]);
     const minP = Math.min(...prices), maxP = Math.max(...prices);
-    body.innerHTML = ranked.slice(0, 20).map((s, i) => {
+    body.innerHTML = nearest.map((s, i) => {
       const cs = CO_STYLE[s.company] || { color: 'var(--text2)' };
       const priceColor = s[fuel] === minP ? 'var(--green)' : s[fuel] === maxP ? 'var(--red)' : 'var(--blue)';
       return `<div class="nearby-item" onclick="focusStation(${i})">
@@ -883,7 +946,7 @@ function focusStation(i) {
 }
 
 function renderNearbyMap(ranked) {
-  nearbyRanked = ranked;
+  nearbyRanked = ranked.slice(0, NEARBY_LIMIT);
   const t = LANG[currentLang];
   if (!nearbyMap) {
     document.getElementById('nearby-map').innerHTML = '';
@@ -897,22 +960,36 @@ function renderNearbyMap(ranked) {
   nearbyMarkers = [];
   if (userMarker) { nearbyMap.removeLayer(userMarker); userMarker = null; }
 
-  userMarker = L.circleMarker([userLoc.lat, userLoc.lon], {
-    radius: 8, color: '#4a90c4', weight: 3, fillColor: '#4a90c4', fillOpacity: 0.9,
-  }).addTo(nearbyMap).bindPopup(t.you);
+  const meIcon = L.divIcon({
+    className: 'me-marker',
+    html: '<div class="me-marker-wrap"><div class="me-marker-pulse"></div><div class="me-marker-inner">🚗</div></div>',
+    iconSize: [34, 34], iconAnchor: [17, 17],
+  });
+  userMarker = L.marker([userLoc.lat, userLoc.lon], { icon: meIcon, zIndexOffset: 1000 })
+    .addTo(nearbyMap).bindPopup(t.you);
 
-  const prices = ranked.map(s => s[fuel]);
+  const nearest = ranked.slice(0, NEARBY_LIMIT);
+  const nearestSet = new Set(nearest);
+  const prices = nearest.map(s => s[fuel]);
   const minP = Math.min(...prices), maxP = Math.max(...prices);
-  ranked.slice(0, 20).forEach(s => {
-    const color = s[fuel] === minP ? '#5B7E3C' : s[fuel] === maxP ? '#EA5252' : '#4a90c4';
+
+  // Plot every station with geo data, not just the nearest 5 — so panning/zooming
+  // the map out reveals more options. The nearest 5 are drawn larger and colored;
+  // the rest are muted so the nearby picks still stand out.
+  ranked.forEach(s => {
+    const isNearest = nearestSet.has(s);
+    const color = isNearest
+      ? (s[fuel] === minP ? '#5B7E3C' : s[fuel] === maxP ? '#EA5252' : '#4a90c4')
+      : '#a89968';
     const marker = L.circleMarker([s.geo.lat, s.geo.lon], {
-      radius: 7, color, weight: 2, fillColor: color, fillOpacity: 0.75,
-    }).addTo(nearbyMap).bindPopup(`<strong>${s.name}</strong><br>${s.company}<br>${s[fuel].toFixed(1)} kr · ${formatDistance(s.dist)}`);
+      radius: isNearest ? 7 : 5, color, weight: isNearest ? 2 : 1.5,
+      fillColor: color, fillOpacity: isNearest ? 0.75 : 0.4,
+    }).addTo(nearbyMap).bindPopup(stationPopupHtml(s));
     nearbyMarkers.push(marker);
   });
 
-  const boundsPoints = [[userLoc.lat, userLoc.lon], ...ranked.slice(0, 20).map(s => [s.geo.lat, s.geo.lon])];
-  if (boundsPoints.length > 1) nearbyMap.fitBounds(boundsPoints, { padding: [30, 30], maxZoom: 13 });
+  const boundsPoints = [[userLoc.lat, userLoc.lon], ...nearest.map(s => [s.geo.lat, s.geo.lon])];
+  if (boundsPoints.length > 1) nearbyMap.fitBounds(boundsPoints, { padding: [30, 30], maxZoom: 14 });
   else nearbyMap.setView([userLoc.lat, userLoc.lon], 12);
 
   setTimeout(() => nearbyMap.invalidateSize(), 50);

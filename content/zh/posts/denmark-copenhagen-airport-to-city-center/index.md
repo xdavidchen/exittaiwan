@@ -37,7 +37,7 @@ city: "哥本哈根"
 
 *以上票價為一般公訂參考價，實際金額會隨時間微幅調整，出發前建議用 Rejsebillet App 或叫車 App 再次確認。
 
-> 匯率換算參考：1 DKK ≈ 5 NTD（匯率每日浮動，出發前請以當日匯率為準）
+> 匯率換算參考：{{< currency from="DKK" >}}（即時匯率，出發前請以當日匯率為準）
 
 另外，你也可以購買時效性、包含景點入場和哥本哈根大都會交通的[哥本哈根卡](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1039786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15577-city-card-copenhagen%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D6c5cabc818)。所有機場和市區間往返的大眾交通工具有這張卡都可以搭。如果是打算採很多點的旅客，哥本哈根卡是評價非常高、方便又可以幫你在[歐洲旅遊省錢](https://exittaiwan.com/posts/europe-travel-on-budget-tutorial/)的好選擇。
 

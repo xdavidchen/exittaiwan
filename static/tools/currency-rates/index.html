@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ═══════════════════════════════════════════
+     SEO & META — edit this section
+     ═══════════════════════════════════════════ -->
+<title>即時匯率換算工具 | ExitTaiwan 出台灣</title>
+<meta name="description" content="新台幣即時匯率換算，支援歐元、美元、日圓、韓元等25種常見旅遊貨幣，附匯率速查表與24小時漲跌幅，資料每日更新。">
+<meta name="author" content="ExitTaiwan">
+<link rel="canonical" href="https://exittaiwan.com/tools/currency-rates/">
+
+<!-- Open Graph (Facebook / Line preview) -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://exittaiwan.com/tools/currency-rates/">
+<meta property="og:title" content="即時匯率換算工具 | ExitTaiwan 出台灣">
+<meta property="og:description" content="新台幣即時匯率換算，支援歐元、美元、日圓、韓元等25種常見旅遊貨幣，附匯率速查表與24小時漲跌幅。">
+<meta property="og:image" content="https://exittaiwan.com/images/og-currency-rates.jpg"><!-- 替換成實際圖片路徑 -->
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="即時匯率換算工具 | ExitTaiwan 出台灣">
+<meta name="twitter:description" content="新台幣即時匯率換算，支援歐元、美元、日圓、韓元等25種常見旅遊貨幣，附匯率速查表與24小時漲跌幅。">
+<meta name="twitter:image" content="https://exittaiwan.com/images/og-currency-rates.jpg"><!-- 替換成實際圖片路徑 -->
+
+<!-- Favicon — 替換成實際路徑 -->
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<!-- ═══════════════════════════════════════════ -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
+
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg:       #FFFBF0;
+    --surface:  #FFF8E0;
+    --surface2: #FFF0C4;
+    --border:   rgba(60,45,20,0.08);
+    --border2:  rgba(60,45,20,0.20);
+    --text:     #1a1a1a;
+    --text2:    #444444;
+    --text3:    #888888;
+    --green:    #5B7E3C;
+    --green-dim:rgba(91,126,60,0.10);
+    --yellow:   #FFD65A;
+    --orange:   #FF9D23;
+    --red:      #EA5252;
+    --red-dim:  rgba(234,82,82,0.08);
+    --blue:     #4a90c4;
+    --font-display: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', 'Segoe UI', 'PingFang TC', 'Noto Sans TC', 'Helvetica Neue', Arial, sans-serif;
+    --font-body:    -apple-system, BlinkMacSystemFont, 'Noto Sans TC', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    --font-mono:    ui-monospace, 'SF Mono', 'Cascadia Mono', monospace;
+  }
+
+  body { background:var(--bg); color:var(--text); font-family:var(--font-body); min-height:100vh; }
+
+  /* ── Hero ── */
+  .hero {
+    background: var(--green);
+    background-image:
+      repeating-linear-gradient(0deg, transparent, transparent 28px, rgba(0,0,0,0.04) 28px, rgba(0,0,0,0.04) 29px),
+      repeating-linear-gradient(90deg, transparent, transparent 28px, rgba(0,0,0,0.04) 28px, rgba(0,0,0,0.04) 29px);
+    border-bottom: 3px solid #3a5426;
+    padding: 2.5rem 0 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content:'';
+    position:absolute; top:0; right:0; bottom:0; left:0;
+    background: radial-gradient(ellipse at top left, rgba(255,214,90,0.18) 0%, transparent 60%);
+    pointer-events:none;
+  }
+  .hero-inner { max-width:1100px; margin:0 auto; padding:0 2rem; }
+  .hero-top { display:flex; align-items:flex-start; justify-content:space-between; flex-wrap:wrap; gap:1rem; }
+  .hero-title {
+    font-family: var(--font-display);
+    font-size: clamp(1.8rem,4.5vw,2.8rem);
+    font-weight: 900;
+    letter-spacing: -0.01em;
+    line-height: 1.05;
+    color: #fff;
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.2);
+  }
+  .hero-title span { color: var(--yellow); }
+  .hero-sub { margin-top:0.5rem; font-size:0.8rem; color:rgba(255,255,255,0.65); font-family:var(--font-body); }
+  .hero-right { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+
+  .live-badge {
+    display:flex; align-items:center; gap:6px;
+    background: var(--yellow);
+    border: 2px solid #c9a700;
+    border-radius: 4px;
+    padding: 4px 10px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: #1E1A10;
+    font-family: var(--font-body);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .live-dot { width:7px; height:7px; border-radius:50%; background:#3a5426; animation:pulse 2s ease-in-out infinite; }
+  @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.4;transform:scale(0.8)} }
+
+  /* Lang dropdown */
+  .lang-select {
+    background: var(--bg);
+    border: 1.5px solid var(--border2);
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    color: var(--text);
+    font-family: var(--font-body);
+    cursor: pointer;
+    outline: none;
+  }
+  .lang-select:hover { border-color: var(--green); }
+  .lang-select option { background: var(--bg); color: var(--text); }
+
+  /* Change indicator (used in the rate table) */
+  .chg { font-weight:700; }
+  .chg.up { color:var(--red); }
+  .chg.down { color:var(--green); }
+  .chg.flat { color:var(--text3); }
+
+  /* Converter */
+  .converter-wrap { max-width:1100px; margin:1.5rem auto 0; padding:0 2rem; }
+  .converter-card {
+    background: var(--surface);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    padding: 18px 20px;
+    box-shadow: 4px 4px 0 rgba(60,45,20,0.12);
+  }
+  .converter-title { font-size:0.95rem; font-weight:700; color:var(--text); margin-bottom:12px; display:flex; align-items:center; gap:8px; }
+  .converter-row { display:flex; align-items:flex-end; gap:10px; flex-wrap:wrap; }
+  .conv-field { display:flex; flex-direction:column; gap:5px; flex:1; min-width:130px; }
+  .conv-field label { font-size:0.66rem; color:var(--text3); text-transform:uppercase; letter-spacing:0.06em; }
+  .conv-field input, .conv-field select {
+    background: var(--bg);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    padding: 9px 10px;
+    font-size: 0.95rem;
+    font-family: var(--font-body);
+    color: var(--text);
+    outline: none;
+    width: 100%;
+  }
+  .conv-field input:focus, .conv-field select:focus { border-color:var(--green); }
+  .conv-swap {
+    display:flex; align-items:center; justify-content:center;
+    width:38px; height:38px; flex-shrink:0;
+    background: var(--yellow);
+    border: 2px solid #c9a700;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 2px 2px 0 #c9a700;
+    transition: all 0.12s;
+  }
+  .conv-swap:hover { transform:rotate(180deg); }
+  .conv-swap svg { width:16px; height:16px; }
+  .conv-result {
+    margin-top:14px;
+    padding:14px 16px;
+    background: var(--green-dim);
+    border: 2px solid var(--green);
+    border-radius: 4px;
+    font-family: var(--font-body);
+  }
+  .conv-result-sub { font-size:1.1rem; font-weight:700; color:var(--green); }
+
+  /* Controls */
+  .controls-wrap { max-width:1100px; margin:1.5rem auto 0; padding:0 2rem; }
+  .controls { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  .search-box { position:relative; flex:1; min-width:180px; }
+  .search-box svg { position:absolute; left:10px; top:50%; transform:translateY(-50%); color:var(--text3); width:15px; height:15px; pointer-events:none; }
+  .search-box input {
+    width:100%;
+    background: var(--surface);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    padding: 7px 10px 7px 32px;
+    font-size: 0.82rem;
+    color: var(--text);
+    font-family: var(--font-body);
+    outline: none;
+    transition: border-color 0.12s;
+  }
+  .search-box input::placeholder { color:var(--text3); }
+  .search-box input:focus { border-color:var(--green); }
+  .refresh-btn {
+    display:flex; align-items:center; gap:6px;
+    background: var(--yellow);
+    border: 2px solid #c9a700;
+    border-radius: 4px;
+    padding: 7px 14px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #1E1A10;
+    font-family: var(--font-body);
+    cursor: pointer;
+    transition: all 0.12s;
+    margin-left: auto;
+    box-shadow: 2px 2px 0 #c9a700;
+  }
+  .refresh-btn:hover { background:#ffe07a; transform:translate(-1px,-1px); box-shadow:3px 3px 0 #c9a700; }
+  .refresh-btn:active { transform:translate(1px,1px); box-shadow:1px 1px 0 #c9a700; }
+  .refresh-btn svg { width:14px; height:14px; }
+
+  /* Table */
+  .table-wrap { max-width:1100px; margin:1rem auto 3rem; padding:0 2rem; }
+  .table-inner {
+    background: var(--surface);
+    border: 2px solid var(--border2);
+    border-radius: 4px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    box-shadow: 4px 4px 0 rgba(60,45,20,0.12);
+  }
+  table { width:100%; border-collapse:collapse; min-width:560px; }
+  thead th {
+    background: #FFD65A;
+    padding: 11px 14px;
+    text-align: left;
+    font-size: 0.68rem;
+    font-family: var(--font-body);
+    font-weight: 600;
+    color: #1C1608;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-bottom: 2px solid #c9a700;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color:var(--green); }
+  thead th.sort-active { color:var(--green); }
+  .sort-arrow { margin-left:4px; opacity:0.4; }
+  .sort-active .sort-arrow { opacity:1; }
+  tbody tr { border-bottom:1px solid var(--border); transition:background 0.1s; cursor:pointer; }
+  tbody tr:last-child { border-bottom:none; }
+  tbody tr:hover { background:var(--surface2); }
+  td { padding:11px 14px; font-size:0.83rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .cur-name { color:var(--text); font-weight:600; font-family:var(--font-body); display:flex; align-items:center; gap:8px; }
+  .cur-code { font-size:0.7rem; color:var(--text3); font-weight:500; }
+  .price-val { font-family:var(--font-body); font-size:1rem; font-weight:700; }
+  .state-row td { text-align:center; padding:3rem; color:var(--text2); font-size:0.85rem; font-family:var(--font-body); }
+  .spinner { display:inline-block; width:20px; height:20px; border:2px solid var(--border2); border-top-color:var(--green); border-radius:50%; animation:spin 0.7s linear infinite; margin-right:8px; vertical-align:middle; }
+  @keyframes spin { to{transform:rotate(360deg)} }
+  .discount-note { display:flex; align-items:flex-start; gap:7px; margin-top:0.75rem; font-size:0.75rem; color:var(--text3); font-family:var(--font-body); line-height:1.5; }
+  .error-box { background:#fff5f5; border:2px solid var(--red); border-radius:4px; padding:14px 16px; font-size:0.82rem; color:#8a1a1a; font-family:var(--font-body); display:flex; gap:10px; align-items:flex-start; margin:1rem 2rem; max-width:1100px; box-shadow:3px 3px 0 rgba(234,82,82,0.2); }
+
+  /* ── Navbar ── */
+  .navbar {
+    position: sticky; top: 0; z-index: 100;
+    height: 48px;
+    background: #fff;
+    border-bottom: 1.5px solid var(--border2);
+    display: flex; align-items: center;
+  }
+  .navbar-inner {
+    max-width: 1100px; margin: 0 auto; padding: 0 2rem;
+    width: 100%;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .navbar-logo {
+    font-family: 'Gasoek One', var(--font-body);
+    font-size: 1.1rem;
+    color: var(--text);
+    text-decoration: none;
+    letter-spacing: -0.01em;
+  }
+
+  .navbar-right { display: flex; align-items: center; gap: 12px; }
+  .navbar-link {
+    font-size: 0.8rem;
+    color: var(--text2);
+    text-decoration: none;
+    font-family: var(--font-body);
+  }
+  .navbar-link:hover { color: var(--green); }
+
+  /* ── Site footer ── */
+  .site-footer {
+    border-top: 1.5px solid var(--border2);
+    padding: 1.25rem 0;
+    margin-top: 1rem;
+  }
+  .site-footer-inner {
+    max-width: 1100px; margin: 0 auto; padding: 0 2rem;
+    display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 8px;
+    font-size: 0.75rem; color: var(--text3); font-family: var(--font-body);
+  }
+  .site-footer a { color: var(--text3); text-decoration: none; }
+
+  .site-footer-left { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
+  .site-footer-logo {
+    font-family: 'Gasoek One', var(--font-body);
+    font-size: 0.9rem;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  @media(max-width:600px){
+    .navbar-inner,.site-footer-inner{padding-left:1rem;padding-right:1rem}
+  }
+  @media(max-width:600px){
+    .hero{padding:1.5rem 0 1rem}
+    .hero-inner,.converter-wrap,.controls-wrap,.table-wrap,.footer{padding-left:1rem;padding-right:1rem}
+    .converter-row { flex-direction:column; align-items:stretch; }
+    .conv-swap { align-self:center; }
+  }
+</style>
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="navbar-inner">
+    <a href="https://exittaiwan.com" class="navbar-logo">ExitTaiwan</a>
+    <div class="navbar-right">
+      <a href="https://exittaiwan.com" class="navbar-link" id="nav-back">← 回主網站</a>
+      <select class="lang-select" id="lang-picker" onchange="setLang(this.value)">
+        <option value="zh">🇹🇼 中文</option>
+        <option value="en">🇬🇧 English</option>
+      </select>
+    </div>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-top">
+      <div>
+        <h1 class="hero-title" id="hero-title-line1">即時匯率<br><span id="hero-title-line2">換算工具</span></h1>
+        <p class="hero-sub" id="hero-sub">資料來源：fawazahmed0 Currency API · <span id="updated-time"></span><span id="updated-status">連接中…</span></p>
+      </div>
+      <div class="hero-right">
+        <div class="live-badge"><div class="live-dot"></div><span id="live-label">即時</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="error-area" style="max-width:1100px;margin:0 auto"></div>
+
+<div class="converter-wrap">
+  <div class="converter-card">
+    <div class="converter-title"><span aria-hidden="true">💱</span> <span id="converter-title-text">貨幣換算</span></div>
+    <div class="converter-row">
+      <div class="conv-field">
+        <label id="label-from">從</label>
+        <input type="number" id="conv-amount" value="1" min="0" step="any" oninput="renderConverter('from')">
+        <select id="conv-from" onchange="renderConverter('from')"></select>
+      </div>
+      <div class="conv-swap" id="conv-swap-btn" onclick="swapCurrencies()" title="交換">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 3l4 4-4 4"/><path d="M3 7h18"/><path d="M7 21l-4-4 4-4"/><path d="M21 17H3"/></svg>
+      </div>
+      <div class="conv-field">
+        <label id="label-to">到</label>
+        <input type="number" id="conv-amount-to" value="" min="0" step="any" oninput="renderConverter('to')">
+        <select id="conv-to" onchange="renderConverter('from')"></select>
+      </div>
+    </div>
+    <div class="conv-result" id="conv-result">
+      <div class="conv-result-sub" id="conv-result-sub"></div>
+    </div>
+  </div>
+</div>
+
+<div class="controls-wrap">
+  <div class="controls">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="search" oninput="render()">
+    </div>
+    <button class="refresh-btn" onclick="loadData()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></svg>
+      <span id="refresh-label">更新</span>
+    </button>
+  </div>
+  <p class="discount-note">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="flex-shrink:0;margin-top:1px"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+    <span id="discount-note-text">漲跌幅代表兌換 1 單位該貨幣所需的新台幣，較昨日增加以紅色▲顯示（該貨幣變貴），減少以綠色▼顯示（該貨幣變便宜）。</span>
+  </p>
+</div>
+
+<div class="table-wrap">
+  <div class="table-inner">
+    <table>
+      <thead>
+        <tr>
+          <th style="width:34%" onclick="sortBy('name')" id="th-name">
+            <span id="col-currency">貨幣</span> <span class="sort-arrow" id="arr-name">↕</span>
+          </th>
+          <th style="width:22%" onclick="sortBy('rate')" id="th-rate" class="sort-active">
+            <span id="col-rate">1 單位 = ? TWD</span> <span class="sort-arrow" id="arr-rate">↑</span>
+          </th>
+          <th style="width:22%" onclick="sortBy('change')" id="th-change">
+            <span id="col-change">24小時漲跌</span> <span class="sort-arrow" id="arr-change">↕</span>
+          </th>
+          <th style="width:22%"><span id="col-action">快速換算</span></th>
+        </tr>
+      </thead>
+      <tbody id="tbody">
+        <tr class="state-row"><td colspan="4"><span class="spinner"></span><span id="loading-msg">正在抓取即時匯率…</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <div class="site-footer-left">
+      <a href="https://exittaiwan.com" class="site-footer-logo">ExitTaiwan</a>
+      <span id="footer-unit">基準貨幣：新台幣（TWD）</span>
+      <span id="footer-refresh">資料每日更新一次</span>
+      <span><span id="footer-source">資料來源</span>: <a href="https://github.com/fawazahmed0/exchange-api" target="_blank">fawazahmed0/exchange-api</a></span>
+    </div>
+    <span>© <a href="https://exittaiwan.com">ExitTaiwan</a></span>
+  </div>
+</footer>
+
+<script>
+/* ── Currency list (code, zh, en, flag) ── */
+const CURRENCIES = [
+  {code:'USD', zh:'美元',       en:'US Dollar',            flag:'🇺🇸'},
+  {code:'EUR', zh:'歐元',       en:'Euro',                 flag:'🇪🇺'},
+  {code:'JPY', zh:'日圓',       en:'Japanese Yen',         flag:'🇯🇵'},
+  {code:'KRW', zh:'韓元',       en:'South Korean Won',     flag:'🇰🇷'},
+  {code:'GBP', zh:'英鎊',       en:'British Pound',        flag:'🇬🇧'},
+  {code:'CHF', zh:'瑞士法郎',    en:'Swiss Franc',          flag:'🇨🇭'},
+  {code:'ISK', zh:'冰島克朗',    en:'Icelandic Króna',      flag:'🇮🇸'},
+  {code:'CZK', zh:'捷克克朗',    en:'Czech Koruna',         flag:'🇨🇿'},
+  {code:'HUF', zh:'匈牙利福林',  en:'Hungarian Forint',     flag:'🇭🇺'},
+  {code:'PLN', zh:'波蘭茲羅提',  en:'Polish Złoty',         flag:'🇵🇱'},
+  {code:'DKK', zh:'丹麥克朗',    en:'Danish Krone',         flag:'🇩🇰'},
+  {code:'SEK', zh:'瑞典克朗',    en:'Swedish Krona',        flag:'🇸🇪'},
+  {code:'NOK', zh:'挪威克朗',    en:'Norwegian Krone',      flag:'🇳🇴'},
+  {code:'HKD', zh:'港幣',       en:'Hong Kong Dollar',     flag:'🇭🇰'},
+  {code:'CNY', zh:'人民幣',     en:'Chinese Yuan',         flag:'🇨🇳'},
+  {code:'THB', zh:'泰銖',       en:'Thai Baht',            flag:'🇹🇭'},
+  {code:'SGD', zh:'新加坡幣',    en:'Singapore Dollar',     flag:'🇸🇬'},
+  {code:'MYR', zh:'馬來西亞令吉', en:'Malaysian Ringgit',    flag:'🇲🇾'},
+  {code:'VND', zh:'越南盾',     en:'Vietnamese Dong',      flag:'🇻🇳'},
+  {code:'PHP', zh:'菲律賓披索',  en:'Philippine Peso',      flag:'🇵🇭'},
+  {code:'INR', zh:'印度盧比',    en:'Indian Rupee',         flag:'🇮🇳'},
+  {code:'IDR', zh:'印尼盾',     en:'Indonesian Rupiah',    flag:'🇮🇩'},
+  {code:'AUD', zh:'澳幣',       en:'Australian Dollar',    flag:'🇦🇺'},
+  {code:'CAD', zh:'加拿大幣',    en:'Canadian Dollar',      flag:'🇨🇦'},
+  {code:'NZD', zh:'紐西蘭幣',    en:'New Zealand Dollar',   flag:'🇳🇿'},
+  {code:'AED', zh:'阿聯酋迪拉姆', en:'UAE Dirham',           flag:'🇦🇪'},
+  {code:'TRY', zh:'土耳其里拉',  en:'Turkish Lira',         flag:'🇹🇷'},
+];
+const BASE = 'TWD';
+
+const SAMPLE_RATES = { twd:1, usd:0.0310, eur:0.0269, jpy:4.95, krw:43.96, gbp:0.0231, chf:0.0247,
+  isk:3.82, czk:0.653, huf:9.83, pln:0.1158, dkk:0.2012, sek:0.298, nok:0.315, hkd:0.242,
+  cny:0.222, thb:1.07, sgd:0.0400, myr:0.1315, vnd:81.4, php:1.77, inr:2.965, idr:555.9,
+  aud:0.0470, cad:0.0428, nzd:0.0518, aed:0.1140, try:1.32 };
+
+/* ── i18n ── */
+const LANG = {
+  en: {
+    title1: 'Live Currency', title2: 'Converter',
+    heroSub: 'Data from fawazahmed0 Currency API · ',
+    connecting: 'connecting…', live: 'LIVE',
+    navBack: '← Back',
+    converterTitle: 'Convert', labelFrom: 'From', labelTo: 'To',
+    searchPlaceholder: 'Search currency…', refresh: 'Refresh',
+    colCurrency: 'Currency', colRate: '1 unit = ? TWD', colChange: '24h Change', colAction: 'Quick convert',
+    loading: 'Fetching live rates…', noResults: 'No results found.',
+    liveData: 'live data', sampleData: 'sample data (fetch failed)',
+    errMsg: 'Could not fetch live rates directly ({e}). Showing sample data below — this is common on localhost due to network restrictions; it will work fine once deployed.',
+    discountNote: 'Change shows the TWD cost to buy 1 unit of that currency vs. yesterday — red ▲ means it got more expensive, green ▼ means cheaper.',
+    footerUnit: 'Base currency: New Taiwan Dollar (TWD)', footerRefresh: 'Updated daily', footerSource: 'Data source',
+    resultSub: '{amountFrom} {from} = {amountTo} {to}',
+    clickHint: 'Click a row to load into the converter',
+  },
+  zh: {
+    title1: '即時匯率', title2: '換算工具',
+    heroSub: '資料來源：fawazahmed0 Currency API · ',
+    connecting: '連接中…', live: '即時',
+    navBack: '← 回主網站',
+    converterTitle: '貨幣換算', labelFrom: '從', labelTo: '到',
+    searchPlaceholder: '搜尋貨幣…', refresh: '更新',
+    colCurrency: '貨幣', colRate: '1 單位 = ? TWD', colChange: '24小時漲跌', colAction: '快速換算',
+    loading: '正在抓取即時匯率…', noResults: '找不到結果。',
+    liveData: '即時資料', sampleData: '示範資料（抓取失敗）',
+    errMsg: '無法直接抓取即時匯率（{e}）。這通常發生在本地端網路限制環境，部署後即可正常運作，以下顯示示範資料。',
+    discountNote: '漲跌幅代表兌換 1 單位該貨幣所需的新台幣，較昨日增加以紅色▲顯示（該貨幣變貴），減少以綠色▼顯示（該貨幣變便宜）。',
+    footerUnit: '基準貨幣：新台幣（TWD）', footerRefresh: '資料每日更新一次', footerSource: '資料來源',
+    resultSub: '{amountFrom} {from} = {amountTo} {to}',
+    clickHint: '點擊表格列可載入至換算器',
+  },
+};
+
+let rates = {}, prevRates = null, currentLang = 'zh', dataLoaded = false, usingSample = false;
+let sortCol = 'rate', sortDir = 1, lastUpdated = null;
+
+function detectLang() {
+  const langs = (navigator.languages || [navigator.language || 'zh']).map(l => l.toLowerCase());
+  for (const l of langs) {
+    if (l.startsWith('zh')) return 'zh';
+    if (l.startsWith('en')) return 'en';
+  }
+  return 'zh';
+}
+
+function isoDaysBefore(dateStr, n) {
+  const d = new Date(dateStr + 'T00:00:00Z');
+  d.setUTCDate(d.getUTCDate() - n);
+  return d.toISOString().slice(0, 10);
+}
+
+async function fetchRatesFor(tag) {
+  const urls = [
+    `https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@${tag}/v1/currencies/twd.json`,
+    `https://${tag}.currency-api.pages.dev/v1/currencies/twd.json`,
+  ];
+  let lastErr;
+  for (const url of urls) {
+    try {
+      const res = await fetch(url, { cache: 'no-cache' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      return { rates: data.twd, date: data.date };
+    } catch (e) { lastErr = e; }
+  }
+  throw lastErr;
+}
+
+/* ── Data loading ── */
+async function loadData() {
+  const t = LANG[currentLang];
+  document.getElementById('tbody').innerHTML =
+    `<tr class="state-row"><td colspan="4"><span class="spinner"></span>${t.loading}</td></tr>`;
+  document.getElementById('error-area').innerHTML = '';
+  try {
+    const today = await fetchRatesFor('latest');
+    rates = today.rates;
+    lastUpdated = today.date;
+    dataLoaded = true; usingSample = false;
+    document.getElementById('updated-status').textContent = t.liveData;
+
+    try {
+      const yest = await fetchRatesFor(isoDaysBefore(today.date, 1));
+      prevRates = yest.rates;
+    } catch (e) { prevRates = null; }
+  } catch (e) {
+    rates = SAMPLE_RATES;
+    prevRates = null;
+    dataLoaded = true; usingSample = true;
+    lastUpdated = null;
+    document.getElementById('updated-status').textContent = t.sampleData;
+    document.getElementById('error-area').innerHTML = `
+      <div class="error-box" style="padding-left:2rem;padding-right:2rem">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="flex-shrink:0;margin-top:1px"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        <span>${t.errMsg.replace('{e}', e.message)}</span>
+      </div>`;
+  }
+  document.getElementById('updated-time').textContent = lastUpdated ? lastUpdated + ' – ' : '';
+  populateSelects();
+  render();
+  renderConverter('from');
+}
+
+function fmt(n) {
+  if (n === null || n === undefined || isNaN(n)) return '—';
+  if (n >= 1000) return n.toLocaleString('zh-TW', { maximumFractionDigits: 1 });
+  if (n >= 1) return n.toLocaleString('zh-TW', { maximumFractionDigits: 3 });
+  if (n >= 0.01) return n.toLocaleString('zh-TW', { maximumFractionDigits: 5 });
+  return n.toPrecision(4);
+}
+
+/* twdPerUnit: how many TWD to buy 1 unit of currency `code` */
+function twdPerUnit(code, ratesObj) {
+  const r = ratesObj[code.toLowerCase()];
+  if (!r) return null;
+  return 1 / r;
+}
+
+function changePct(code) {
+  if (!prevRates) return null;
+  const today = twdPerUnit(code, rates);
+  const yest = twdPerUnit(code, prevRates);
+  if (today === null || yest === null || yest === 0) return null;
+  return ((today - yest) / yest) * 100;
+}
+
+/* ── Converter ── */
+function populateSelects() {
+  const all = [{ code: BASE, zh: '新台幣', en: 'Taiwan Dollar', flag: '🇹🇼' }, ...CURRENCIES];
+  const fromSel = document.getElementById('conv-from');
+  const toSel = document.getElementById('conv-to');
+  const prevFrom = fromSel.value || BASE;
+  const prevTo = toSel.value || 'EUR';
+  const opts = all.map(c => `<option value="${c.code}">${c.flag} ${c.code} — ${currentLang === 'zh' ? c.zh : c.en}</option>`).join('');
+  fromSel.innerHTML = opts;
+  toSel.innerHTML = opts;
+  fromSel.value = all.some(c => c.code === prevFrom) ? prevFrom : BASE;
+  toSel.value = all.some(c => c.code === prevTo) ? prevTo : 'EUR';
+}
+
+function convert(amount, from, to) {
+  if (!rates || !Object.keys(rates).length) return null;
+  const rFrom = from === BASE ? 1 : rates[from.toLowerCase()];
+  const rTo = to === BASE ? 1 : rates[to.toLowerCase()];
+  if (!rFrom || !rTo) return null;
+  return (amount / rFrom) * rTo;
+}
+
+function roundForInput(n) {
+  if (n === null || n === undefined || isNaN(n)) return '';
+  const digits = Math.abs(n) >= 100 ? 2 : Math.abs(n) >= 1 ? 4 : 6;
+  return String(parseFloat(n.toFixed(digits)));
+}
+
+/* source: 'from' (amount box just edited) or 'to' — decides which box drives the calc */
+function renderConverter(source) {
+  const t = LANG[currentLang];
+  const from = document.getElementById('conv-from').value;
+  const to = document.getElementById('conv-to').value;
+  const amountFromEl = document.getElementById('conv-amount');
+  const amountToEl = document.getElementById('conv-amount-to');
+
+  let amountFrom, amountTo;
+  if (source === 'to') {
+    amountTo = parseFloat(amountToEl.value) || 0;
+    amountFrom = convert(amountTo, to, from);
+    amountFromEl.value = amountFrom === null ? '' : roundForInput(amountFrom);
+  } else {
+    amountFrom = parseFloat(amountFromEl.value) || 0;
+    amountTo = convert(amountFrom, from, to);
+    amountToEl.value = amountTo === null ? '' : roundForInput(amountTo);
+  }
+
+  document.getElementById('conv-result-sub').textContent = (amountFrom === null || amountTo === null) ? '' :
+    t.resultSub.replace('{amountFrom}', fmt(amountFrom)).replace('{from}', from).replace('{amountTo}', fmt(amountTo)).replace('{to}', to);
+}
+
+function swapCurrencies() {
+  const fromSel = document.getElementById('conv-from');
+  const toSel = document.getElementById('conv-to');
+  const tmp = fromSel.value;
+  fromSel.value = toSel.value;
+  toSel.value = tmp;
+  renderConverter('from');
+}
+
+function setConverterPair(from, to) {
+  document.getElementById('conv-from').value = from;
+  document.getElementById('conv-to').value = to;
+  renderConverter('from');
+  document.querySelector('.converter-card').scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+/* ── Table ── */
+function sortBy(col) {
+  if (sortCol === col) sortDir *= -1; else { sortCol = col; sortDir = 1; }
+  render();
+}
+
+function updateSortUI() {
+  ['name', 'rate', 'change'].forEach(c => {
+    const th = document.getElementById('th-' + c), arr = document.getElementById('arr-' + c);
+    if (!th || !arr) return;
+    if (sortCol === c) { th.classList.add('sort-active'); arr.textContent = sortDir === 1 ? '↑' : '↓'; }
+    else { th.classList.remove('sort-active'); arr.textContent = '↕'; }
+  });
+}
+
+function render() {
+  updateSortUI();
+  const t = LANG[currentLang];
+  const q = document.getElementById('search').value.toLowerCase();
+
+  let rows = CURRENCIES.filter(c => {
+    if (!q) return true;
+    return c.code.toLowerCase().includes(q) || c.zh.includes(q) || c.en.toLowerCase().includes(q);
+  }).map(c => ({ ...c, rate: twdPerUnit(c.code, rates), change: changePct(c.code) }));
+
+  rows.sort((a, b) => {
+    let av, bv;
+    if (sortCol === 'name') { av = a.code; bv = b.code; }
+    else if (sortCol === 'change') { av = a.change ?? -Infinity; bv = b.change ?? -Infinity; }
+    else { av = a.rate ?? 0; bv = b.rate ?? 0; }
+    return av < bv ? -sortDir : av > bv ? sortDir : 0;
+  });
+
+  if (!rows.length) {
+    document.getElementById('tbody').innerHTML = `<tr class="state-row"><td colspan="4">${t.noResults}</td></tr>`;
+    return;
+  }
+
+  document.getElementById('tbody').innerHTML = rows.map(c => {
+    const chg = c.change;
+    const chgHtml = chg === null ? '<span class="chg flat">—</span>' :
+      `<span class="chg ${chg > 0.005 ? 'up' : chg < -0.005 ? 'down' : 'flat'}">${chg > 0.005 ? '▲' : chg < -0.005 ? '▼' : '–'} ${Math.abs(chg).toFixed(2)}%</span>`;
+    return `<tr onclick="setConverterPair('${c.code}','${BASE}')">
+      <td><div class="cur-name">${c.flag} ${currentLang === 'zh' ? c.zh : c.en} <span class="cur-code">${c.code}</span></div></td>
+      <td><span class="price-val">${fmt(c.rate)}</span> <small style="font-size:.7rem;color:var(--text3)">TWD</small></td>
+      <td>${chgHtml}</td>
+      <td><span style="color:var(--blue);font-weight:600;font-size:0.78rem">→ ${t.clickHint.split(' ')[0]}</span></td>
+    </tr>`;
+  }).join('');
+}
+
+/* ── Language ── */
+function setLang(lang) {
+  currentLang = lang;
+  const t = LANG[lang];
+  document.getElementById('hero-title-line1').childNodes[0].textContent = t.title1;
+  document.getElementById('hero-title-line2').textContent = t.title2;
+  document.getElementById('hero-sub').firstChild.textContent = t.heroSub;
+  document.getElementById('live-label').textContent = t.live;
+  document.getElementById('nav-back').textContent = t.navBack;
+  document.getElementById('converter-title-text').textContent = t.converterTitle;
+  document.getElementById('label-from').textContent = t.labelFrom;
+  document.getElementById('label-to').textContent = t.labelTo;
+  document.getElementById('search').placeholder = t.searchPlaceholder;
+  document.getElementById('refresh-label').textContent = t.refresh;
+  document.getElementById('col-currency').textContent = t.colCurrency;
+  document.getElementById('col-rate').textContent = t.colRate;
+  document.getElementById('col-change').textContent = t.colChange;
+  document.getElementById('col-action').textContent = t.colAction;
+  document.getElementById('discount-note-text').textContent = t.discountNote;
+  document.getElementById('footer-unit').textContent = t.footerUnit;
+  document.getElementById('footer-refresh').textContent = t.footerRefresh;
+  document.getElementById('footer-source').textContent = t.footerSource;
+  const statusEl = document.getElementById('updated-status');
+  if (statusEl) statusEl.textContent = dataLoaded ? (usingSample ? t.sampleData : t.liveData) : t.connecting;
+  populateSelects();
+  render();
+  renderConverter('from');
+}
+
+const detectedLang = detectLang();
+document.getElementById('lang-picker').value = detectedLang;
+setLang(detectedLang);
+loadData();
+</script>
+</body>
+</html>

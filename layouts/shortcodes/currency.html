@@ -1,0 +1,121 @@
+{{/*
+USAGE
+─────────────────────────────────────────────────────────────────────────────
+  {{< currency from="EUR" >}}
+  {{< currency from="EUR" to="USD" >}}
+  {{< currency from="EUR" amount="100" >}}
+
+Renders a small live exchange-rate badge, e.g. "1 EUR ≈ 38.2 TWD". Clicking
+the arrows swaps from/to in place; clicking the rate text links to the full
+converter + rate table at /tools/currency-rates/.
+`to` defaults to TWD. `amount` defaults to 1.
+
+Data: fawazahmed0/exchange-api (https://github.com/fawazahmed0/exchange-api),
+fetched client-side and cached in sessionStorage for the day. All widgets on
+a page share a single fetch, so adding more instances costs nothing extra.
+─────────────────────────────────────────────────────────────────────────────
+*/}}
+
+{{ $from := upper (.Get "from") }}
+{{ $to := upper (.Get "to" | default "TWD") }}
+{{ $amount := .Get "amount" | default "1" }}
+{{ if not $from }}
+  {{ errorf "currency shortcode: 'from' parameter is required, e.g. {{< currency from=\"EUR\" >}} — %s" .Position }}
+{{ end }}
+
+<span
+  class="ct-widget inline-flex items-center gap-1.5 rounded-md border border-border dark:border-darkmode-border bg-light dark:bg-darkmode-light px-2.5 py-1 text-sm font-medium text-text-dark dark:text-darkmode-text-dark align-middle"
+  data-from="{{ $from }}" data-to="{{ $to }}" data-amount="{{ $amount }}"
+>
+  <button type="button" class="ct-widget-swap flex shrink-0 items-center border-0 bg-transparent p-0 text-primary dark:text-darkmode-primary hover:opacity-70 cursor-pointer" aria-label="交換幣別" title="交換幣別">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M17 3l4 4-4 4"/><path d="M3 7h18"/><path d="M7 21l-4-4 4-4"/><path d="M21 17H3"/></svg>
+  </button>
+  <a href="/tools/currency-rates/" class="ct-widget-text text-inherit no-underline hover:underline decoration-dotted underline-offset-2" title="前往即時匯率換算工具">{{ $amount }} {{ $from }} ≈ … {{ $to }}</a>
+</span>
+
+{{ if not (.Page.Scratch.Get "ctScriptLoaded") }}
+  {{ .Page.Scratch.Set "ctScriptLoaded" true }}
+<script>
+(function () {
+  if (window.__ctInit) return;
+  window.__ctInit = true;
+
+  var lastRates = null;
+
+  function isoToday() { return new Date().toISOString().slice(0, 10); }
+
+  function fmt(n) {
+    if (n === null || n === undefined || isNaN(n)) return '?';
+    if (n >= 1000) return n.toLocaleString('zh-TW', { maximumFractionDigits: 1 });
+    if (n >= 1) return n.toLocaleString('zh-TW', { maximumFractionDigits: 3 });
+    if (n >= 0.01) return n.toLocaleString('zh-TW', { maximumFractionDigits: 5 });
+    return n.toPrecision(4);
+  }
+
+  async function fetchRates() {
+    var cacheKey = 'ct-rates-' + isoToday();
+    try {
+      var cached = sessionStorage.getItem(cacheKey);
+      if (cached) return JSON.parse(cached);
+    } catch (e) {}
+
+    var urls = [
+      'https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/twd.json',
+      'https://latest.currency-api.pages.dev/v1/currencies/twd.json',
+    ];
+    var lastErr;
+    for (var i = 0; i < urls.length; i++) {
+      try {
+        var res = await fetch(urls[i]);
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        var data = await res.json();
+        try { sessionStorage.setItem(cacheKey, JSON.stringify(data.twd)); } catch (e) {}
+        return data.twd;
+      } catch (e) { lastErr = e; }
+    }
+    throw lastErr;
+  }
+
+  function convert(rates, amount, from, to) {
+    var rFrom = from === 'TWD' ? 1 : rates[from.toLowerCase()];
+    var rTo = to === 'TWD' ? 1 : rates[to.toLowerCase()];
+    if (!rFrom || !rTo) return null;
+    return (amount / rFrom) * rTo;
+  }
+
+  function renderWidget(el, rates) {
+    var from = el.dataset.from, to = el.dataset.to, amount = parseFloat(el.dataset.amount) || 1;
+    var result = convert(rates, amount, from, to);
+    var textEl = el.querySelector('.ct-widget-text');
+    textEl.textContent = result === null
+      ? (amount + ' ' + from + ' · ' + to + ' ?')
+      : (amount + ' ' + from + ' ≈ ' + fmt(result) + ' ' + to);
+  }
+
+  function renderAll(rates) {
+    lastRates = rates;
+    document.querySelectorAll('.ct-widget').forEach(function (el) { renderWidget(el, rates); });
+  }
+
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest('.ct-widget-swap');
+    if (!btn) return;
+    e.preventDefault();
+    var widget = btn.closest('.ct-widget');
+    if (!widget) return;
+    var from = widget.dataset.from;
+    widget.dataset.from = widget.dataset.to;
+    widget.dataset.to = from;
+    if (lastRates) renderWidget(widget, lastRates);
+  });
+
+  document.addEventListener('DOMContentLoaded', function () {
+    fetchRates().then(renderAll).catch(function () {
+      document.querySelectorAll('.ct-widget-text').forEach(function (el) {
+        el.textContent = el.textContent.replace('…', '(offline)');
+      });
+    });
+  });
+})();
+</script>
+{{ end }}

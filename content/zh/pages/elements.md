@@ -116,6 +116,16 @@ This is a simple warning.
 
 <hr>
 
+### Currency rate
+
+{{< currency from="EUR" >}}
+{{< currency from="USD" to="JPY" >}}
+{{< currency from="ISK" amount="1000" >}}
+
+Full standalone converter + rate table lives at `/tools/currency-rates/`.
+
+<hr>
+
 ### Tab
 
 {{< tabs >}}

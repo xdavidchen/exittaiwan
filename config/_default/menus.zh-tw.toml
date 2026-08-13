@@ -215,6 +215,11 @@ name = "冰島油價追蹤"
 url = "/tools/iceland-gas-prices/"
 weight = 3
 
+[[footer_resources]]
+name = "即時匯率換算"
+url = "/tools/currency-rates/"
+weight = 4
+
 
 [[footer_links]]
 name = "Klook"

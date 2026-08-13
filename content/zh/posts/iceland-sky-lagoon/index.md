@@ -50,7 +50,7 @@ city: "科帕沃于爾"
 | Saman Pass（經典方案）  | 約 13,990 ISK | 約 NT$3,600 | [訂票連結](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1258953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98215-sky-lagoon-pass-optional-transfer%2F)。請選擇「天空之湖：純粹通行證含7步水療儀式」       | [訂票連結](https://www.skylagoon.com/booking/RVK-SKL-ADM/select-date)    |
 | Sér Pass（私人更衣升級版） | 約 16,990 ISK | 約 NT$4,400 | [訂票連結](https://affiliate.klook.com/redirect?aid=41451&aff_adid=1258953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98215-sky-lagoon-pass-optional-transfer%2F)（**最推薦！**）請選擇「天空之湖：含七步水療儀式的天空通票」 | [訂票連結](https://www.skylagoon.com/booking/RVK-SKL-ADM-PR/select-date) |
 
-> 匯率換算參考：1 ISK ≈ 0.2596 NTD（匯率每日浮動，出發前請以當日匯率為準）
+> 匯率換算參考：{{< currency from="ISK" >}}（即時匯率，出發前請以當日匯率為準）
 
 兩種票價皆包含溫泉入場、毛巾、以及完整的七步 Skjól 水療儀式（The Ritual）。
 
