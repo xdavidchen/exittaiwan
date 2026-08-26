@@ -503,6 +503,13 @@ const LANG = {
 let rates = {}, prevRates = null, currentLang = 'zh', dataLoaded = false, usingSample = false;
 let sortCol = 'rate', sortDir = 1, lastUpdated = null;
 
+/* Pick up ?from=XXX&to=YYY from an incoming link (e.g. the article embed's badge) —
+   consumed once on first populateSelects() call, then cleared so later re-renders
+   (language switch, refresh) don't stomp on whatever the visitor has since chosen. */
+const urlParams = new URLSearchParams(location.search);
+let urlFrom = (urlParams.get('from') || '').toUpperCase() || null;
+let urlTo = (urlParams.get('to') || '').toUpperCase() || null;
+
 function detectLang() {
   const langs = (navigator.languages || [navigator.language || 'zh']).map(l => l.toLowerCase());
   for (const l of langs) {
@@ -596,15 +603,20 @@ function changePct(code) {
 /* ── Converter ── */
 function populateSelects() {
   const all = [{ code: BASE, zh: '新台幣', en: 'Taiwan Dollar', flag: '🇹🇼' }, ...CURRENCIES];
+  const validCodes = all.map(c => c.code);
   const fromSel = document.getElementById('conv-from');
   const toSel = document.getElementById('conv-to');
-  const prevFrom = fromSel.value || BASE;
-  const prevTo = toSel.value || 'EUR';
+  const defaultFrom = (urlFrom && validCodes.includes(urlFrom)) ? urlFrom : BASE;
+  const defaultTo = (urlTo && validCodes.includes(urlTo)) ? urlTo : 'EUR';
+  const prevFrom = fromSel.value || defaultFrom;
+  const prevTo = toSel.value || defaultTo;
   const opts = all.map(c => `<option value="${c.code}">${c.flag} ${c.code} — ${currentLang === 'zh' ? c.zh : c.en}</option>`).join('');
   fromSel.innerHTML = opts;
   toSel.innerHTML = opts;
-  fromSel.value = all.some(c => c.code === prevFrom) ? prevFrom : BASE;
-  toSel.value = all.some(c => c.code === prevTo) ? prevTo : 'EUR';
+  fromSel.value = validCodes.includes(prevFrom) ? prevFrom : BASE;
+  toSel.value = validCodes.includes(prevTo) ? prevTo : 'EUR';
+  urlFrom = null;
+  urlTo = null;
 }
 
 function convert(amount, from, to) {

@@ -30,7 +30,7 @@ a page share a single fetch, so adding more instances costs nothing extra.
   <button type="button" class="ct-widget-swap flex shrink-0 items-center border-0 bg-transparent p-0 text-primary dark:text-darkmode-primary hover:opacity-70 cursor-pointer" aria-label="交換幣別" title="交換幣別">
     <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M17 3l4 4-4 4"/><path d="M3 7h18"/><path d="M7 21l-4-4 4-4"/><path d="M21 17H3"/></svg>
   </button>
-  <a href="/tools/currency-rates/" class="ct-widget-text text-inherit no-underline hover:underline decoration-dotted underline-offset-2" title="前往即時匯率換算工具">{{ $amount }} {{ $from }} ≈ … {{ $to }}</a>
+  <a href="/tools/currency-rates/?from={{ $from }}&amp;to={{ $to }}" class="ct-widget-text text-inherit no-underline hover:underline decoration-dotted underline-offset-2" title="前往即時匯率換算工具">{{ $amount }} {{ $from }} ≈ … {{ $to }}</a>
 </span>
 
 {{ if not (.Page.Scratch.Get "ctScriptLoaded") }}
@@ -90,6 +90,7 @@ a page share a single fetch, so adding more instances costs nothing extra.
     textEl.textContent = result === null
       ? (amount + ' ' + from + ' · ' + to + ' ?')
       : (amount + ' ' + from + ' ≈ ' + fmt(result) + ' ' + to);
+    textEl.href = '/tools/currency-rates/?from=' + encodeURIComponent(from) + '&to=' + encodeURIComponent(to);
   }
 
   function renderAll(rates) {
