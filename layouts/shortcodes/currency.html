@@ -6,8 +6,9 @@ USAGE
   {{< currency from="EUR" amount="100" >}}
 
 Renders a small live exchange-rate badge, e.g. "1 EUR ≈ 38.2 TWD". Clicking
-the arrows swaps from/to in place; clicking the rate text links to the full
-converter + rate table at /tools/currency-rates/.
+the arrows swaps from/to in place; clicking the rate text opens the full
+converter + rate table at /tools/currency-rates/ in a new tab, pre-set to
+the same currency pair.
 `to` defaults to TWD. `amount` defaults to 1.
 
 Data: fawazahmed0/exchange-api (https://github.com/fawazahmed0/exchange-api),
@@ -30,7 +31,7 @@ a page share a single fetch, so adding more instances costs nothing extra.
   <button type="button" class="ct-widget-swap flex shrink-0 items-center border-0 bg-transparent p-0 text-primary dark:text-darkmode-primary hover:opacity-70 cursor-pointer" aria-label="交換幣別" title="交換幣別">
     <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M17 3l4 4-4 4"/><path d="M3 7h18"/><path d="M7 21l-4-4 4-4"/><path d="M21 17H3"/></svg>
   </button>
-  <a href="/tools/currency-rates/?from={{ $from }}&amp;to={{ $to }}" class="ct-widget-text text-inherit no-underline hover:underline decoration-dotted underline-offset-2" title="前往即時匯率換算工具">{{ $amount }} {{ $from }} ≈ … {{ $to }}</a>
+  <a href="/tools/currency-rates/?from={{ $from }}&amp;to={{ $to }}" target="_blank" rel="noopener" class="ct-widget-text text-inherit no-underline hover:underline decoration-dotted underline-offset-2" title="前往即時匯率換算工具（於新視窗開啟）">{{ $amount }} {{ $from }} ≈ … {{ $to }}</a>
 </span>
 
 {{ if not (.Page.Scratch.Get "ctScriptLoaded") }}

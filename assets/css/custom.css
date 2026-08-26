@@ -25,3 +25,11 @@ footer a:not(.navbar-brand):hover {
   color: #FF9D23;
   transition: color 150ms;
 }
+
+/* Currency shortcode badge opens in a new tab, but shouldn't get the
+   theme's default external-link icon (safe.css) — it reads as a normal
+   in-content link. !important because this is deliberately overriding a
+   vendored theme rule, not a design choice we control from this side. */
+.content a.ct-widget-text[target="_blank"]::after {
+  content: none !important;
+}
