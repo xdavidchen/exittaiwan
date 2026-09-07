@@ -76,6 +76,7 @@ country: "奧地利"
 
 ## 施泰爾馬克邦（Steiermark）生日優惠
 
+- Zotter Chocolate 巧克力工廠體驗：壽星入場小禮物：[活動頁面](https://www.zotter.at/en/zotter-experience-world/prices-choco-tour)
 - Bad Radkersburg 溫泉：免費入場：[活動頁面](https://www.parktherme.at/pakete/gratis-eintritt-am-geburtstag/#pll_switcher)
 - Loipersdorf 溫泉：免費入場：[活動頁面](https://www.therme.at/en/discounts/)
 - Aqualux 溫泉：免費入場：[活動頁面](https://www.therme-aqualux.at/de/therme/Preise.asp)
